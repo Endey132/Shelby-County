@@ -1,0 +1,15 @@
+"Metadata"
+{
+	"GUID" "39c5304dac154a8884f7fb2a4287fc92"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{	
+	"ID" 69"
+    "NoteToSelf" "Nice"
+	"Crafting_Blacklists"
+	[
+		{"GUID" "aeb20f4ca8ab41c8bb0058e324030c65"}
+	]
+}
+

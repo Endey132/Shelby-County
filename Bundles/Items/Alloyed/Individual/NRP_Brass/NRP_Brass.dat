@@ -1,0 +1,22 @@
+GUID 462546ae020f43acb9fab190057ec4b7
+Type Supply
+Rarity Rare
+ID 25909
+
+Size_X 1
+Size_Y 1
+Size_Z 0.47
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+// Copper
+Blueprint_0_Supply_0_ID 25901
+Blueprint_0_Supply_0_Amount 8
+// Zinc
+Blueprint_0_Supply_1_ID 25906
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Products 10
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27

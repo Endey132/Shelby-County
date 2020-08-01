@@ -1,0 +1,759 @@
+"Metadata"
+{
+	"GUID" "aeb20f4ca8ab41c8bb0058e324030c65"
+	"Type" "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Input_Items"
+	[
+		{
+        "NoteToSelf" "Fertilizer"
+		"GUID" "54ebe428a6e34922b8764ca40a95d165"
+		}
+	]
+	"Output_Items"
+	[
+		{
+        "NoteToSelf" "Fertilizer"
+		"GUID" "54ebe428a6e34922b8764ca40a95d165"
+		}
+		{
+        "NoteToSelf" "Crushed_Vermillion"
+		"GUID" "edd40a1bb42a431cafc50d0743bd374b"
+		}
+		{
+        "NoteToSelf" "Crushed_Teal"
+		"GUID" "afd10e1eed1249b587395873597f3c3b"
+		}
+		{
+        "NoteToSelf" "Crushed_Russet"
+		"GUID" "4670f8cfc41c4fff9bc61f2a98db59fe"
+		}
+		{
+        "NoteToSelf" "Crushed_Mauve"
+		"GUID" "b7248144b8684177a3a6e7ed1eeb42de"
+		}
+		{
+        "NoteToSelf" "Crushed_Jade"
+		"GUID" "bb7bc364734544299f4e67ae8049ffd8"
+		}
+		{
+        "NoteToSelf" "Crushed_Indigo"
+		"GUID" "a5d9efc7acf5486489804d87eea37a19"
+		}
+		{
+        "NoteToSelf" "Crushed_Amber"
+		"GUID" "c60fc61f64c24bb388b879dd819fea96"
+		}
+		{
+        "NoteToSelf" "Makeshift_Vest"
+		"GUID" "fa0ce6a84d5147518f6ee2c44e43b1b0"
+		}
+		{
+        "NoteToSelf" "C4"
+		"GUID" "57d8bb26e4d8424bb5679651c9582cca"
+		}
+		{
+        "NoteToSelf" "Grenade_Makeshift"
+		"GUID" "e028fce70a3343c8be7837421318b847"
+		}
+		{
+        "NoteToSelf" "Makeshift_Scope"
+		"GUID" "806bc882292247b78bd730ba073eb45a"
+		}
+		{
+        "NoteToSelf" "Leather_Top"
+		"GUID" "381013b43ecd4ab58f34c312b70209fa"
+		}
+		{
+        "NoteToSelf" "Bottle_Pine"
+		"GUID" "ce5ee551b908435a9dc632617b9b8e4c"
+		}
+		{
+        "NoteToSelf" "Bottle_Maple"
+		"GUID" "6526d3e0324945618b2eea4ad433cafd"
+		}
+		{
+        "NoteToSelf" "Bottle_Birch"
+		"GUID" "619c2420ac19420caf2a260eb3f9e9aa"
+		}
+		{
+        "NoteToSelf" "Leather_Bottom"
+		"GUID" "9c99cb4e7efd4ae084fba0f82e6f481e"
+		}
+		{
+        "NoteToSelf" "Splint"
+		"GUID" "b2ad25fcad7a4f109e6dcc76a4d285de"
+		}
+		{
+        "NoteToSelf" "Dressing"
+		"GUID" "ae46254cfa3b437e9d74a5963e161da4"
+		}
+		{
+        "NoteToSelf" "Bandage"
+		"GUID" "e0503457d87b4230bfa78350c79d16ec"
+		}
+		{
+        "NoteToSelf" "Jerrycan_Pine"
+		"GUID" "52e635dbf3b641069759247cdf8336ad"
+		}
+		{
+        "NoteToSelf" "Jerrycan_Maple"
+		"GUID" "7d11aa2b07e641cb8362e207327937ec"
+		}
+		{
+        "NoteToSelf" "Jerrycan_Birch"
+		"GUID" "0078ced43dc1454b98c4d0246a4c18ab"
+		}
+		{
+        "NoteToSelf" "Rod_Pine"
+		"GUID" "a957cbd0eba24236957f49d9ba707352"
+		}
+		{
+        "NoteToSelf" "Rod_Maple"
+		"GUID" "f145006e7a704b77a4c54b2e121ee209"
+		}
+		{
+        "NoteToSelf" "Rod_Birch"
+		"GUID" "b8c982588f744fe890de959934616de8"
+		}
+		{
+        "NoteToSelf" "Leather_Pack"
+		"GUID" "3fd609dda32d4325b92c3050af762e7c"
+		}
+		{
+        "NoteToSelf" "Siding_Pine"
+		"GUID" "270ce934caf94332aed1dcb68cdea6c9"
+		}
+		{
+        "NoteToSelf" "Siding_Metal"
+		"GUID" "a9049ac8d18e42f7b4db0ddcd580516e"
+		}
+		{
+        "NoteToSelf" "Siding_Maple"
+		"GUID" "fa10a6f6cb914f8980dfd808d58755e3"
+		}
+		{
+        "NoteToSelf" "Siding_Birch"
+		"GUID" "6f2735b9483b455c83aa893ec049ca91"
+		}
+		{
+        "NoteToSelf" "Sentry_Hostile"
+		"GUID" "8f7670d2dabc449d8f38c8cb656c6acf"
+		}
+		{
+        "NoteToSelf" "Sentry_Friendly"
+		"GUID" "5a7281e9af4c435b8cb7f9f5acf05aa9"
+		}
+		{
+        "NoteToSelf" "Sentry"
+		"GUID" "0c005ae5e4c74575af53ffe2144fad0b"
+		}
+		{
+        "NoteToSelf" "Seed_Wheat"
+		"GUID" "4c35676eb54a4b4f90c949e549f0f1cd"
+		}
+		{
+        "NoteToSelf" "Seed_Vermillion"
+		"GUID" "6582d36942ac40b88f0081fea872d2d2"
+		}
+		{
+        "NoteToSelf" "Seed_Tomato"
+		"GUID" "098e0640f9c24fb592ee50ac2cb89f42"
+		}
+		{
+        "NoteToSelf" "Seed_Teal"
+		"GUID" "9f73863de18643f8ac15e393cb6bd935"
+		}
+		{
+        "NoteToSelf" "Seed_Russet"
+		"GUID" "ecd403dc06ea4e5bbf3d3416c9bba045"
+		}
+		{
+        "NoteToSelf" "Seed_Pumpkin"
+		"GUID" "544aedb190e8444994910d5ee348eaf2"
+		}
+		{
+        "NoteToSelf" "Seed_Potato"
+		"GUID" "f3efa31bdc204a48b84ac2474598c40c"
+		}
+		{
+        "NoteToSelf" "Seed_Mauve"
+		"GUID" "b31e1cb715ed45a5acb6416a84294023"
+		}
+		{
+        "NoteToSelf" "Seed_Lettuce"
+		"GUID" "f2bab103e4034be8aaa368702ae2cbb7"
+		}
+		{
+        "NoteToSelf" "Seed_Jade"
+		"GUID" "4c612a12cbd64226b6408681fda329f4"
+		}
+		{
+        "NoteToSelf" "Seed_Indigo"
+		"GUID" "ad5693d9169f4188a59135f10131d995"
+		}
+		{
+        "NoteToSelf" "Seed_Amber"
+		"GUID" "e7aaae16bf904786bf4c050a3576f1dd"
+		}
+		{
+        "NoteToSelf" "Seed_Corn"
+		"GUID" "83a149230e9c4a77b1538b3b276abcc7"
+		}
+		{
+        "NoteToSelf" "Seed_Carrot"
+		"GUID" "06310d34702c45a7859bde65e4181c9c"
+		}
+		{
+        "NoteToSelf" "Safezone"
+		"GUID" "1f8856edf5964774aa2457b37e45603b"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Pine_Right"
+		"GUID" "2a805f4d90f54199ba362cadb92c53de"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Pine_Equilateral"
+		"GUID" "20119b006ec64fdd81ea75e4bdc93a57"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Pine"
+		"GUID" "a8c7f87176d547d8ba34167836f16054"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Metal"
+		"GUID" "35e5ad20a45443e99553593a4b166c7b"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Maple_Right"
+		"GUID" "4292d32dac5441368c50e6e3cb1f17d2"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Maple_Equilateral"
+		"GUID" "6965c846196c470c88caa0c0d23538d3"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Maple"
+		"GUID" "83c11e40e8944d41bc00e484f1114c59"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Glass_Weak"
+		"GUID" "676b8bdaaab74fd4aa3d3c36265c6ea2"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Glass_Oneway"
+		"GUID" "f61fe21902ed45149eafbc3b0f51232b"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Glass_Bulletproof"
+		"GUID" "cf5f376948bb46cc9ee2eb8b91c4642e"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Birch_Right"
+		"GUID" "f403ba69a17d49fab9af0e9cff8453c5"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Birch_Equilateral"
+		"GUID" "052d38e4e0454caeb74f5a1b1b1ec4ea"
+		}
+		{
+        "NoteToSelf" "Plate_Small_Birch"
+		"GUID" "50e69b086da94f6aa8dd26ed5d092f65"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Slip"
+		"GUID" "4eb2f8a5af6a44b1940bf56ce5b97b26"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Pine_Right"
+		"GUID" "6f87cb5e96814aa983d85a25f6e74801"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Pine_Equilateral"
+		"GUID" "b899422abf1f4991b362d645f56af304"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Pine"
+		"GUID" "e70ea1b01f0d465a9634291df14e7649"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Metal"
+		"GUID" "d9299b3aead64101aab30c7665ad1b6a"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Maple_Right"
+		"GUID" "a856416391584e05a16c17c32a6e77ac"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Maple_Equilateral"
+		"GUID" "02e6e878a8fe4df8b4f46b1bbc3e4fa4"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Maple"
+		"GUID" "f6b894e4800c4f4dab74317d59223721"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Birch_Right"
+		"GUID" "4d13241e9fbb493ab8318c0073817aa2"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Birch_Equilateral"
+		"GUID" "e5d5716beec14a58af4bbcb2ead73bd3"
+		}
+		{
+        "NoteToSelf" "Plate_Large_Birch"
+		"GUID" "f949f798ae334e649c563fe205adce13"
+		}
+		{
+        "NoteToSelf" "Pipe_Pine"
+		"GUID" "5046df3b12024c30a770146006caaa35"
+		}
+		{
+        "NoteToSelf" "Pipe_Metal"
+		"GUID" "4aaec8684ea24c54ad7e6d371f06b897"
+		}
+		{
+        "NoteToSelf" "Pipe_Maple"
+		"GUID" "323752b7e32b47388016bcf16f81cfb5"
+		}
+		{
+        "NoteToSelf" "Pipe_Birch"
+		"GUID" "a62e03f3ae01467fa2c3bdadb163f85f"
+		}
+		{
+        "NoteToSelf" "Oxygenator"
+		"GUID" "ea56c734f3614983a5381bbce91ba79a"
+		}
+		{
+        "NoteToSelf" "Makeshift_Vehicle_6_Seats"
+		"GUID" "93726a585cda40a0ae4cc1f42f481caf"
+		}
+		{
+        "NoteToSelf" "Makeshift_Vehicle_4_Seats"
+		"GUID" "b461b85c01294e8ab4619b3b06313499"
+		}
+		{
+        "NoteToSelf" "Makeshift_Vehicle_1_Seat"
+		"GUID" "49e23cd99a1c4100bd0b78d9211ea3c0"
+		}
+		{
+        "NoteToSelf" "Glass_Weak"
+		"GUID" "6314c13082c24bdcbc9872d492df4926"
+		}
+		{
+        "NoteToSelf" "Glass_Bulletproof"
+		"GUID" "306adf871cff47b48d09a3a5414def59"
+		}
+		{
+        "NoteToSelf" "Glass_Oneway"
+		"GUID" "412697181591400983dafa441bd45b7b"
+		}
+		{
+        "NoteToSelf" "Garageframe_Pine"
+		"GUID" "a193dcb2621b44da8c0b5199105aeb91"
+		}
+		{
+        "NoteToSelf" "Garageframe_Metal"
+		"GUID" "239f32267ca444eea4833b0345274509"
+		}
+		{
+        "NoteToSelf" "Garageframe_Maple"
+		"GUID" "e495ecdf442e475ba65b3779d6b38a7c"
+		}
+		{
+        "NoteToSelf" "Garageframe_Brick"
+		"GUID" "71075c3c29884a478a8d1abb73c0e130"
+		}
+		{
+        "NoteToSelf" "Garageframe_Birch"
+		"GUID" "67d48fa9a5c2408fa00043b1db0ff3ab"
+		}
+		{
+        "NoteToSelf" "Frame_Small_Pine"
+		"GUID" "a03bb3f607b948678c6b6f3142da86b1"
+		}
+		{
+        "NoteToSelf" "Frame_Small_Maple"
+		"GUID" "40332ca9b2314eb0aa8e917221917fb7"
+		}
+		{
+        "NoteToSelf" "Frame_Small_Birch"
+		"GUID" "d0cc43553ac7438b9949e516078ae7fe"
+		}
+		{
+        "NoteToSelf" "Frame_Large_Pine"
+		"GUID" "22b50b3e3bfb45bc9fe26802873a25da"
+		}
+		{
+        "NoteToSelf" "Frame_Large_Maple"
+		"GUID" "38b2cc2782fc498183e8815a249d709c"
+		}
+		{
+        "NoteToSelf" "Frame_Large_Birch"
+		"GUID" "4fc0a291e3cb4ffdbbf9669b7733f67d"
+		}
+		{
+        "NoteToSelf" "Fence_Barbedwire_Ornamental"
+		"GUID" "6e996babda8a4e7bb922dfc44b6925cd"
+		}
+		{
+        "NoteToSelf" "Doorframe_Pine"
+		"GUID" "df9be6c70bae459db8d00ca7a2c5ad5a"
+		}
+		{
+        "NoteToSelf" "Doorframe_Metal"
+		"GUID" "db560a92c67c44f488acb3ce2db10f8f"
+		}
+		{
+        "NoteToSelf" "Doorframe_Maple"
+		"GUID" "77c93d6f2efa47c7a2d401453464b7c5"
+		}
+		{
+        "NoteToSelf" "Doorframe_Brick"
+		"GUID" "5cca1331343f446a86b09705cf987f77"
+		}
+		{
+        "NoteToSelf" "Doorframe_Birch"
+		"GUID" "6576f99daa8e4d629a09f3787050deab"
+		}
+		{
+        "NoteToSelf" "Claim"
+		"GUID" "cba173169b314a16be5a1ab44f25fcf2"
+		}
+		{
+        "NoteToSelf" "Charge_Precision"
+		"GUID" "182e94a79d4b4d3bab9baac0d1d76b23"
+		}
+		{
+        "NoteToSelf" "Charge"
+		"GUID" "2e15a98da9e34774b961d636c0e88cc9"
+		}
+		{
+        "NoteToSelf" "Campfire"
+		"GUID" "fdac7ad3db9c46109fa6a4e137969ad6"
+		}
+		{
+        "NoteToSelf" "Cagelight"
+		"GUID" "9908a43237364f22a62242cd1fb14fc9"
+		}
+		{
+        "NoteToSelf" "Bedroll_Yellow"
+		"GUID" "11cb9fadebdc4303a3646c49bde5af2b"
+		}
+		{
+        "NoteToSelf" "Bedroll_White"
+		"GUID" "cbc5d88aa8524d37b4bde233fa21f030"
+		}
+		{
+        "NoteToSelf" "Bedroll_Red"
+		"GUID" "a98e46523c704a24bea832801d059ca3"
+		}
+		{
+        "NoteToSelf" "Bedroll_Purple"
+		"GUID" "0d5f91c9f5d340fc86931e7679494ec4"
+		}
+		{
+        "NoteToSelf" "Bedroll_Orange"
+		"GUID" "db6eb5d15adf43b1a576898a99b77e54"
+		}
+		{
+        "NoteToSelf" "Bedroll_Green"
+		"GUID" "266602d956ad423d85183715f6bcc594"
+		}
+		{
+        "NoteToSelf" "Bedroll_Blue"
+		"GUID" "51ff6bb8b63743c9be5fd4042d55060b"
+		}
+		{
+        "NoteToSelf" "Bedroll_Black"
+		"GUID" "343b36df35c94338a2f1e4a4a1b75440"
+		}
+		{
+        "NoteToSelf" "Beacon"
+		"GUID" "632632fea2f94952938100c6cb62c544"
+		}
+		{
+        "NoteToSelf" "Barbedwire_Ornamental"
+		"GUID" "03511813fd964ea9a176b6c6ed191f56"
+		}
+		{
+        "NoteToSelf" "Window_Pine"
+		"GUID" "a921ecb08b6740e397d467e66acf104b"
+		}
+		{
+        "NoteToSelf" "Window_Metal"
+		"GUID" "9862d7ada9fa4988b5612b061207e1ef"
+		}
+		{
+        "NoteToSelf" "Window_Maple"
+		"GUID" "409ab586b17043149c8d5998c72edf3b"
+		}
+		{
+        "NoteToSelf" "Window_Brick"
+		"GUID" "a5c26ffe91cd40a6af592e226fce4063"
+		}
+		{
+        "NoteToSelf" "Window_Birch"
+		"GUID" "9ec8daefe5f840dbb70d105f21921e7e"
+		}
+		{
+        "NoteToSelf" "Wall_Ramp_Pine"
+		"GUID" "c679722bbfc349cd840ce0ad2abc8305"
+		}
+		{
+        "NoteToSelf" "Wall_Ramp_Metal"
+		"GUID" "e3b7d35c1b8346fb9c51d33460e05b6e"
+		}
+		{
+        "NoteToSelf" "Wall_Ramp_Maple"
+		"GUID" "e945786f6d04407db620db422ef660e8"
+		}
+		{
+        "NoteToSelf" "Wall_Ramp_Brick"
+		"GUID" "c3782fe9676b49a5b6ec814096c1ae48"
+		}
+		{
+        "NoteToSelf" "Wall_Ramp_Birch"
+		"GUID" "3c837630fb1c46778d32ab83201446c1"
+		}
+		{
+        "NoteToSelf" "Wall_Pine"
+		"GUID" "dec7d69e836f4d7f9c890a9828784772"
+		}
+		{
+        "NoteToSelf" "Wall_Metal"
+		"GUID" "d2e352cf157440e6821b4d11fc627af7"
+		}
+		{
+        "NoteToSelf" "Wall_Maple"
+		"GUID" "beffddf4ffd442c4a6cc9b938d14b1ca"
+		}
+		{
+        "NoteToSelf" "Wall_Brick"
+		"GUID" "75574d0812d34897a7153421c24c0496"
+		}
+		{
+        "NoteToSelf" "Wall_Birch"
+		"GUID" "e017b27d30044087a580e042c2897088"
+		}
+		{
+        "NoteToSelf" "Stairs_Pine"
+		"GUID" "ef690c42aae1466c9caf07d5980b8dad"
+		}
+		{
+        "NoteToSelf" "Stairs_Metal"
+		"GUID" "7384ac31f76941798bb2eae6c78e71b5"
+		}
+		{
+        "NoteToSelf" "Stairs_Maple"
+		"GUID" "0daa312d29414e86828170bc287d4772"
+		}
+		{
+        "NoteToSelf" "Stairs_Birch"
+		"GUID" "414c6990de38450b857a28c56fcbb69e"
+		}
+		{
+        "NoteToSelf" "Roof_Pine_Triangle"
+		"GUID" "e56bb0231db34929bcd2a4ba2aa925e3"
+		}
+		{
+        "NoteToSelf" "Roof_Pine"
+		"GUID" "3a0f7c7ceb314cab9b52eea4e3e1ff23"
+		}
+		{
+        "NoteToSelf" "Roof_Metal_Triangle"
+		"GUID" "8d684713a6da469eb23815d68afacf10"
+		}
+		{
+        "NoteToSelf" "Roof_Metal"
+		"GUID" "5c68fd35ed1c4d19b651211a648f938c"
+		}
+		{
+        "NoteToSelf" "Roof_Maple_Triangle"
+		"GUID" "3ea67e3ad2ca415f9feb81bbc1508fd2"
+		}
+		{
+        "NoteToSelf" "Roof_Maple"
+		"GUID" "078bdb0eeed74af2b081c960d00257f0"
+		}
+		{
+        "NoteToSelf" "Roof_Birch_Triangle"
+		"GUID" "f39e6df8a5dd41f0af874dc7a6cb89a5"
+		}
+		{
+        "NoteToSelf" "Roof_Birch"
+		"GUID" "dc9d4192b838403c8a44941ddf597093"
+		}
+		{
+        "NoteToSelf" "Rampart_Pine"
+		"GUID" "3a8efbc56b044e98be7634453f6f4be1"
+		}
+		{
+        "NoteToSelf" "Rampart_Metal"
+		"GUID" "f2896720ad924d26a35c7883a67dffbf"
+		}
+		{
+        "NoteToSelf" "Rampart_Maple"
+		"GUID" "b711b8b1a4e6461aa01352b37a094b54"
+		}
+		{
+        "NoteToSelf" "Rampart_Brick"
+		"GUID" "238b79cd6a9047cb832f58dd294009ae"
+		}
+		{
+        "NoteToSelf" "Rampart_Birch"
+		"GUID" "43f6fa0ddb874d9fabc284daa3ae59f6"
+		}
+		{
+        "NoteToSelf" "Rampart_Pine"
+		"GUID" "858c2137aada4312a7cffcb918766c86"
+		}
+		{
+        "NoteToSelf" "Ramp_Metal"
+		"GUID" "f02100ce42c4445a94bd60468d92a9ba"
+		}
+		{
+        "NoteToSelf" "Ramp_Maple"
+		"GUID" "42d45c5732a844dbbe23a2f91a0f6ef0"
+		}
+		{
+        "NoteToSelf" "Ramp_Birch"
+		"GUID" "ac2debec9e8641af98a05b83ef429dea"
+		}
+		{
+        "NoteToSelf" "Post_Pine"
+		"GUID" "20c09459d02945e9b1dd65c5beba2763"
+		}
+		{
+        "NoteToSelf" "Post_Metal"
+		"GUID" "620c99d34efb491caa7435bcf154b7f5"
+		}
+		{
+        "NoteToSelf" "Post_Maple"
+		"GUID" "5295a6a527ea400588a5f3e51c2d51a6"
+		}
+		{
+        "NoteToSelf" "Post_Brick"
+		"GUID" "da597788e5cf48cc8a7cb28ad9d46475"
+		}
+		{
+        "NoteToSelf" "Post_Birch"
+		"GUID" "8d27f9251bd14e38ba0cc741935fec89"
+		}
+		{
+        "NoteToSelf" "Pillar_Pine"
+		"GUID" "26523c2cb43f429ea27e8db284e459de"
+		}
+		{
+        "NoteToSelf" "Pillar_Metal"
+		"GUID" "ed7e8310ad754a8d9ebe152a0ef6f437"
+		}
+		{
+        "NoteToSelf" "Pillar_Maple"
+		"GUID" "19a1848d69b9428d8f9332a4d3a29101"
+		}
+		{
+        "NoteToSelf" "Pillar_Brick"
+		"GUID" "69719b90b1144577abf85bd24129164b"
+		}
+		{
+        "NoteToSelf" "Pillar_Birch"
+		"GUID" "db2e01aaf099465d97c0e6dc4c8c749d"
+		}
+		{
+        "NoteToSelf" "Hole_Pine"
+		"GUID" "394fef6fe98a459185aa533edf2c2b38"
+		}
+		{
+        "NoteToSelf" "Hole_Metal"
+		"GUID" "7637ad4789f642329d24647ab0312733"
+		}
+		{
+        "NoteToSelf" "Hole_Maple"
+		"GUID" "0623996682be4f0ea09ae976a3ba1c6a"
+		}
+		{
+        "NoteToSelf" "Hole_Birch"
+		"GUID" "5d9fd9b13a37409dadfe7e04df4d999b"
+		}
+		{
+        "NoteToSelf" "Garage_Pine"
+		"GUID" "057e0861b33f49848c1639193a9b8083"
+		}
+		{
+        "NoteToSelf" "Garage_Metal"
+		"GUID" "6d4baaba98de40708ae0df09ad7f1653"
+		}
+		{
+        "NoteToSelf" "Garage_Maple"
+		"GUID" "fb62b3bdc01f4dd08390aaa1e72fc325"
+		}
+		{
+        "NoteToSelf" "Garage_Brick"
+		"GUID" "cb9eee3ef71a4abd955dbc721c3a8022"
+		}
+		{
+        "NoteToSelf" "Garage_Birch"
+		"GUID" "076335bd07224f97a0bce47b0eb5538d"
+		}
+		{
+        "NoteToSelf" "Floor_Pine_Triangle"
+		"GUID" "ff7e1755f5114fc99f20cd4df88a760b"
+		}
+		{
+        "NoteToSelf" "Floor_Pine"
+		"GUID" "b4ac981d976b4b12b67f55fde662b70c"
+		}
+		{
+        "NoteToSelf" "Floor_Metal_Triangle"
+		"GUID" "e19ae9c345a241a08c9ff545c8c4cecd"
+		}
+		{
+        "NoteToSelf" "Floor_Metal"
+		"GUID" "82c4f915fc384563848d30673c78ebd4"
+		}
+		{
+        "NoteToSelf" "Floor_Maple_Triangle"
+		"GUID" "9ab65fa82f104382859bbd8f9516dc39"
+		}
+		{
+        "NoteToSelf" "Floor_Maple"
+		"GUID" "fcf75f89e11d4982ad5aaa98e8b5a758"
+		}
+		{
+        "NoteToSelf" "Floor_Birch_Triangle"
+		"GUID" "372da92bbe9d49fb88e2146d9202ac8b"
+		}
+		{
+        "NoteToSelf" "Floor_Birch"
+		"GUID" "a764008fa6c24f35a69977b1709907f1"
+		}
+		{
+        "NoteToSelf" "Doorway_Pine"
+		"GUID" "2718e79756684574a8223f055c70470f"
+		}
+		{
+        "NoteToSelf" "Doorway_Metal"
+		"GUID" "c1db19365f03442088c67a20226b272d"
+		}
+		{
+        "NoteToSelf" "Doorway_Maple"
+		"GUID" "769bada7cc81419098ed33c13aa4e0c9"
+		}
+		{
+        "NoteToSelf" "Doorway_Brick"
+		"GUID" "0d6a60af523844a9b5d39a1a8f93bf63"
+		}
+		{
+        "NoteToSelf" "Doorway_Birch"
+		"GUID" "9b4665ab214048bba6cd359e23b50b07"
+		}
+		{
+        "NoteToSelf" "Metro_DB_SG"
+		"GUID" "cc6c2597551e4df59069410b1f3de6a4"
+		}
+	]
+}
+

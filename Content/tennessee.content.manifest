@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 735345636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 752431e57807188d0bdef2dfe2259def
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_3.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_0.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Farm_00_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_3_foliage.mat
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Stone_00_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_1_foliage.mat
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Gravel_00_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_2.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_5.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Grass_00_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_2_foliage.mat
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_0_foliage.mat
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Dirt_00_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Grass_01_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_5_foliage.mat
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_4_foliage.mat
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_1.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Foliage/tennessee_grass_4.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Grass_02_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Road_00_Material.png
+- Assets/Nova/Tennessee/Bundles/Assets/Landscapes/Materials/Tennessee_Sand_00_Material.png
+Dependencies: []

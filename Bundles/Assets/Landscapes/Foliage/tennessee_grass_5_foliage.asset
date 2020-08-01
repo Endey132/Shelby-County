@@ -1,0 +1,55 @@
+"Metadata"
+{
+	"GUID" "817e8aa406354fa6bb27394eff9f66df"
+	"Type" "SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Density" "2"
+	"Min_Angle" "0"
+	"Max_Angle" "60"
+	"Mesh"
+	{
+		"Name" "core.content"
+		"Path" "assets/resources/bundles/landscapes/foliage/grass/grass_00_mesh.fbx"
+	}
+	"Material"
+	{
+		"Name" "tennessee.content"
+		"Path" "assets/nova/tennesseecontent/bundles/assets/landscapes/foliage/foliage/tennessee_grass_5_foliage.mat"
+	}
+	"Normal_Position_Offset" "0"
+	"Normal_Rotation_Offset"
+	{
+		"X" "0"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Min_Weight" "0.5"
+	"Max_Weight" "1"
+	"Min_Rotation"
+	{
+		"X" "0"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Max_Rotation"
+	{
+		"X" "0"
+		"Y" "360"
+		"Z" "0"
+	}
+	"Min_Scale"
+	{
+		"X" "0.8"
+		"Y" "0.8"
+		"Z" "0.8"
+	}
+	"Max_Scale"
+	{
+		"X" "1.2"
+		"Y" "1.2"
+		"Z" "1.2"
+	}
+}

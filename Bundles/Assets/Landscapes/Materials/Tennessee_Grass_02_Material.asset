@@ -1,0 +1,33 @@
+"Metadata"
+{
+	"GUID" "0f37ff321b374b0da306563be05b6563"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "tennessee.content"
+		"Path" "assets/nova/tennesseecontent/bundles/assets/landscapes/foliage/materials/Tennessee_Grass_02_Material.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "96e9f81e2bff497f982999cbf71dbaea"
+	}
+	"Use_Auto_Slope" "false"
+	"Auto_Min_Angle_Begin" "0"
+	"Auto_Min_Angle_End" "0"
+	"Auto_Max_Angle_Begin" "0"
+	"Auto_Max_Angle_End" "0"
+	"Use_Auto_Foundation" "false"
+	"Auto_Ray_Radius" "0"
+	"Auto_Ray_Length" "0"
+	"Auto_Ray_Mask" "0"
+}

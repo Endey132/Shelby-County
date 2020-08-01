@@ -1,0 +1,19 @@
+GUID 4d9c9851aec94bcbacd04fd0cc32aadd
+
+
+Type Resource
+ID 21333
+
+Health 1200
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 21342
+Reward_Min 5
+Reward_Max 5
+
+BladeID 2
+
+No_Debris
+Reset 900

@@ -1,0 +1,22 @@
+GUID 7a8776bf1545410d8f4ec8c4984ac513
+Type Supply
+Rarity Rare
+ID 25910
+
+Size_X 1
+Size_Y 1
+Size_Z 0.47
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+// Iron
+Blueprint_0_Supply_0_ID 25902
+Blueprint_0_Supply_0_Amount 8
+// Carbon
+Blueprint_0_Supply_1_ID 25900
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Products 10
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
