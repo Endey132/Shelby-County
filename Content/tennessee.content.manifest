@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3090111725
+CRC: 495338303
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: acb139aed0313957629fd3b78734cd4b
+    Hash: 1813b5c51a7a8dfec0a54c272d9f1c2e
   TypeTreeHash:
     serializedVersion: 2
     Hash: fe397485c3cec1106b49e9ff95e8f8a2
@@ -27,6 +27,7 @@ Assets:
 - Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Foliage/tennessee_grass_5.png
 - Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Materials/Tennessee_Grass_00_Material.png
 - Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Foliage/tennessee_grass_2_foliage.mat
+- Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Materials/Tennessee_Airport_00_Material.png
 - Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Foliage/tennessee_grass_0_foliage.mat
 - Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Materials/Tennessee_Dirt_00_Material.png
 - Assets/Nova/TennesseeContent/Bundles/Assets/Landscapes/Materials/Tennessee_Grass_01_Material.png
