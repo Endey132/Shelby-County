@@ -1,0 +1,23 @@
+GUID 4407879663dd4e94aa8d2906725120e1
+Type Grip
+Rarity Rare
+ID 67136
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 56203
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.9
+Sway 0.9
+Shake 0.75
+
+Bipod
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Bipods/SVD S-1 Bipod

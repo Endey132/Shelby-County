@@ -1,0 +1,19 @@
+GUID 9a7aea0a44f446b181e56a2417080ffd
+Type Sight
+Rarity Rare
+ID 67041
+
+Size_X 4
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56200
+
+Spread 0.8
+Zoom 4
+
+Vision Military
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Russian Sights/NSPU-M Night Scope

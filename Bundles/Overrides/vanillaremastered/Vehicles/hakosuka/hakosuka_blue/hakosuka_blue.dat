@@ -1,0 +1,32 @@
+GUID a5e9b8966acb40ea9f51f4c33610e198
+Type Vehicle
+Rarity Epic
+ID 65021
+
+Speed_Min -6
+Speed_Max 21
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 500
+
+Cam_Passenger_Offset -0.05
+
+Traction
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/hakosuka/hakosuka_blue

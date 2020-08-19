@@ -1,0 +1,26 @@
+GUID 3fe1734bea104f39a3384ff088ca01e8
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 67024
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 175
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 1000
+Object_Damage 500
+
+Range 10
+Explosion 55109
+
+Explosive
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Throwable/M67 Fragmentation Hand Grenade

@@ -1,0 +1,13 @@
+GUID 6d8d238d7f1e4e72ab2c8178ab68fd10
+Type Sight
+ID 67020
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Iron Sights/Colt MK.18 Sight

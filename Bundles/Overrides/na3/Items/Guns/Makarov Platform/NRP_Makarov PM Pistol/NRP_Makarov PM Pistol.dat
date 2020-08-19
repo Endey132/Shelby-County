@@ -1,0 +1,86 @@
+GUID 2ed7e31c70674b0cb2dc630bac9c0ca5
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 67070
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+Size2_Z 0.4
+
+Safety
+Semi
+
+Caliber 56012
+
+Range 75
+Firerate 6
+Action Trigger
+
+Player_Damage 37
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.3
+
+Zombie_Damage 37
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.3
+
+Animal_Damage 37
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.3
+
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 30
+Resource_Damage 40
+Object_Damage 20
+
+Durability 0.2
+
+Spread_Aim 0.1
+Spread_Hip 0.08
+
+Recoil_Min_X -3.5
+Recoil_Min_Y 10
+Recoil_Max_X 3.5
+Recoil_Max_Y 12	
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.0075
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.0125
+
+Muzzle 55000
+
+Shell 55106
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67070
+Blueprint_1_Product 67
+Blueprint_1_Products 2
+Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Guns/Makarov Platform/Makarov PM Pistol

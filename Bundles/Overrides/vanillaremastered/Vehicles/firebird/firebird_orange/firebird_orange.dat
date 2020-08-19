@@ -1,0 +1,30 @@
+GUID 3402e9f6060d4a58afc4d818f737c797
+Type Vehicle
+Rarity Rare
+ID 65213
+
+Speed_Min -6
+Speed_Max 21
+
+Steer_Min 14
+Steer_Max 24
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 975
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/firebird/firebird_orange

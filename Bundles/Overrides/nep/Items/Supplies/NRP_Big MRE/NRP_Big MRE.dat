@@ -1,0 +1,35 @@
+GUID 4faa778590b54b73a8005e805d87057d
+Type Supply
+ID 66003
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66003
+Blueprint_0_Outputs 9
+Blueprint_0_Output_0_ID 83
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 86
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 467
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 14
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 89
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Output_5_ID 87
+Blueprint_0_Output_5_Amount 2
+Blueprint_0_Output_6_ID 88
+Blueprint_0_Output_6_Amount 1
+Blueprint_0_Output_7_ID 14
+Blueprint_0_Output_7_Amount 1
+Blueprint_0_Output_8_ID 80
+Blueprint_0_Output_8_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override nep.masterbundle
+Bundle_Override_Path /Bundles/Items/Supplies/Big MRE

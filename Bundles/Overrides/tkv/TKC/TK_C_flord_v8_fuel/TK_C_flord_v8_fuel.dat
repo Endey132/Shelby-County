@@ -1,0 +1,27 @@
+GUID 
+Type Vehicle
+ID 9932
+
+Speed_Min -5
+Speed_Max 17
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 24
+
+Fuel_Min 400
+Fuel_Max 700
+Fuel 2500
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 3
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Explosion 20
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKC/TK_C_Flord_v8_fuel

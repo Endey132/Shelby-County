@@ -1,0 +1,25 @@
+GUID 2cf0820c435c4ea4b2fe1a65f1d0b486
+Type Grip
+Rarity Rare
+ID 67066
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 56010
+
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Spread 0.5
+Sway 0.5
+Shake 0.4
+
+Bipod
+
+Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Bipods/FN M240 Bipod

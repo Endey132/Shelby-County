@@ -1,0 +1,13 @@
+GUID 8a2a1fd77db84950898122d2c73d15cb
+Type Sight
+ID 67002
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Iron Sights/Colt M4A1 Carry Handle

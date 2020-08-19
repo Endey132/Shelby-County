@@ -1,0 +1,17 @@
+GUID eac4d97b9fb0475ba9862ec12716151a
+Type Sight
+Rarity Rare
+ID 67154
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56100
+
+Spread 0.8
+Zoom 4
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Mid-Range Optics/C79 Optical 3x Scope

@@ -1,0 +1,101 @@
+GUID 6a3de3fcad024a5fa3f4bfb7c2893d2f
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 67021
+
+Size_X 4
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.6
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Safety
+Semi
+Auto
+
+Attachment_Calibers 3
+Attachment_Caliber_0 56200
+Attachment_Caliber_1 56201
+Attachment_Caliber_2 56702
+
+Magazine_Calibers 1
+Magazine_Caliber_0 56002
+
+Unplace 0.125
+Replace 0.75
+
+Range 275
+Firerate 4
+Action Trigger
+
+Player_Damage 53
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 53
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 0.7
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 53
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 0.7
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 30
+Resource_Damage 40
+Object_Damage 20
+
+Durability 0.2
+
+Spread_Aim 0.1
+Spread_Hip 0.12
+
+Recoil_Min_X -1
+Recoil_Min_Y 3.5
+Recoil_Max_X 1
+Recoil_Max_Y 4
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.0032
+Shake_Min_Y 0.0032
+Shake_Min_Z -0.009
+Shake_Max_X 0.0032
+Shake_Max_Y -0.0032
+Shake_Max_Z -0.015
+
+Muzzle 55000
+
+Shell 55101
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67021
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Guns/AK Platform/Kalashnikov AKS-74N Rifle

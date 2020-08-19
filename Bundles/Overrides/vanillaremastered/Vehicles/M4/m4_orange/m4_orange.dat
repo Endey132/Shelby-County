@@ -1,0 +1,30 @@
+GUID 16564593553742ae8dcfb91a3dd21c53
+Type Vehicle
+Rarity Rare
+ID 65143
+
+Speed_Min -6
+Speed_Max 23
+
+Steer_Min 14
+Steer_Max 27
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1150
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/m4/m4_orange

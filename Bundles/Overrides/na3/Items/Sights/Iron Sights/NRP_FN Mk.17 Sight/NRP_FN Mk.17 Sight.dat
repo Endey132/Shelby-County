@@ -1,0 +1,13 @@
+GUID c091b25073fc4f4a8033b9572ffc2432
+Type Sight
+ID 67109
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56001
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Iron Sights/FN Mk.17 Sight

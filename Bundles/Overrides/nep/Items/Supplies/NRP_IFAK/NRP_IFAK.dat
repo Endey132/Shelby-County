@@ -1,0 +1,25 @@
+GUID e023c397b2994c19ac76833e98dd87c5
+Type Supply
+ID 66006
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66006
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 394
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Output_1_ID 66005
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 66010
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Output_3_ID 390
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override nep.masterbundle
+Bundle_Override_Path /Bundles/Items/Supplies/IFAK

@@ -1,0 +1,32 @@
+GUID 1375813c11d244c9a914fd79d8071b88
+Type Vehicle
+Rarity Epic
+ID 65271
+
+Physics Profile 4f4f7d6e1649488da42a3a71840b155f
+
+Speed_Min -6
+Speed_Max 22
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 27
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1050
+
+Health_Min 350
+Health_Max 450
+Health 550
+
+Cam_Passenger_Offset -0.2
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/m1/m1_blue

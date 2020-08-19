@@ -1,0 +1,27 @@
+GUID 
+Type Vehicle
+ID 9927
+
+Speed_Min -5
+Speed_Max 17
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 3
+
+Health_Min 320
+Health_Max 420
+Health 620
+
+Explosion 20
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKC/TK_C_flord_mustang_wblu

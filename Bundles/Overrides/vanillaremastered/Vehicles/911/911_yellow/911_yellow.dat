@@ -1,0 +1,30 @@
+GUID a80c697200c343bb8ebcb545f711f948
+Type Vehicle
+ID 65057
+Rarity Rare
+
+Speed_Min -6
+Speed_Max 23
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1400
+
+Health_Min 350
+Health_Max 450
+Health 400
+
+Cam_Passenger_Offset -0.1
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/911/911_yellow

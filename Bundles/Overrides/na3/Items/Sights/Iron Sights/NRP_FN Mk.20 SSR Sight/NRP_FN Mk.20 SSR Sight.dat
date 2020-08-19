@@ -1,0 +1,13 @@
+GUID 5bdcd8b55e04436f9312471fa31e74eb
+Type Sight
+ID 67055
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Iron Sights/FN Mk.20 SSR Sight

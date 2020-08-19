@@ -1,0 +1,21 @@
+GUID 475cda57fd52454cb7feca67b50803fe
+Type Supply
+Rarity Rare
+ID 67007
+
+Size_X 3
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67007
+Blueprint_0_Tool 1032
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67008
+Blueprint_0_Output_0_Amount 36
+Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Supplies/Ammunition Boxes/5.45 7N6 Ball Ammunition Crate

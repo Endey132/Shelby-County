@@ -1,0 +1,13 @@
+GUID e2230034b0164d52b3b0bcfaae7851c9
+Type Sight
+ID 67117
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Attachment_Calibers 1
+Attachment_Caliber_0 58025
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Iron Sights/H&K MP5 Rear Sight

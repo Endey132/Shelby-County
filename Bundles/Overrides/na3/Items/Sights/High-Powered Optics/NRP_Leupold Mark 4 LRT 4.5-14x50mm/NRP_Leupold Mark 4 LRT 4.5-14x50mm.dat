@@ -1,0 +1,19 @@
+GUID fe1bc91b6cf7436493b4c82ce5d848d5
+Type Sight
+Rarity Epic
+ID 67102
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 56100
+
+Spread 0.8
+Zoom 4
+
+Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/High-Powered Optics/Leupold Mark 4 LRT 4.5-14x50mm

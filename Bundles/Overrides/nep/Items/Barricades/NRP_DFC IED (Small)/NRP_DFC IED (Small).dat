@@ -1,0 +1,51 @@
+GUID a43ad72c58074d82b3bcd69135e736e9
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Spike
+ID 66001
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 1
+Range 4
+Radius 0.2
+Offset 0.225
+
+Player_Damage 100
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 1500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range2 8
+Explosion2 34
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 73
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 1242
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+
+Master_Bundle_Override nep.masterbundle
+Bundle_Override_Path /Bundles/Items/Barricades/DFC IED (Small)

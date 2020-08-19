@@ -1,0 +1,30 @@
+GUID 2686c9fb3a694f7c83e5da8f6abafd61
+Type Vehicle
+ID 65080
+Rarity Rare
+
+Speed_Min -7
+Speed_Max 23
+
+Steer_Min 18
+Steer_Max 27
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1200
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Cam_Passenger_Offset -0.07
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/supra/supra_black

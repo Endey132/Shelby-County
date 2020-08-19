@@ -1,0 +1,19 @@
+GUID 30b14c2377714290a9c1c8872fb94d63
+Type Tool
+Rarity Rare
+Useable Walkie_Talkie
+ID 66004
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 66004
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+
+Master_Bundle_Override nep.masterbundle
+Bundle_Override_Path /Bundles/Items/Tools/AN PRC-152

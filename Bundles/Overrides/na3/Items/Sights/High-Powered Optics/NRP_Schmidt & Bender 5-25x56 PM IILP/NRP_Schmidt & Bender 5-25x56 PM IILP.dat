@@ -1,0 +1,19 @@
+GUID 8e0045d65a2f408d9115956eb03dd6f4
+Type Sight
+Rarity Epic
+ID 67080
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 56100
+
+Spread 0.8
+Zoom 16
+
+Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/High-Powered Optics/Schmidt & Bender 5-25x56 PM IILP

@@ -1,0 +1,17 @@
+GUID 90a3eea587fd4a2aa55bdd94d9d56bc2
+Type Sight
+Rarity Rare
+ID 67148
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Attachment_Calibers 1
+Attachment_Caliber_0 56027
+
+Spread 0.8
+Zoom 4
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Russian Sights/PU 3.5x Scope

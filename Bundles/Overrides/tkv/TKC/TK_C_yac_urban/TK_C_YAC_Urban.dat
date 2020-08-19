@@ -1,0 +1,31 @@
+GUID 
+Type Vehicle
+ID 10019
+
+Speed_Min -6
+Speed_Max 12
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 40
+
+Fuel_Min 920
+Fuel_Max 1250
+Fuel 2500
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 10
+
+Health_Min 790
+Health_Max 850
+Health 1100
+
+Cam_Follow_Distance 10
+
+Traction
+
+Explosion 20
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKC/TK_C_YAC_Urban

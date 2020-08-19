@@ -1,0 +1,32 @@
+GUID 
+Type Vehicle
+ID 8808
+
+Speed_Min -4
+Speed_Max 24
+
+Steer_Min 16
+Steer_Max 32
+
+Brake 32
+Lift 5
+
+Fuel_Min 50
+Fuel_Max 100
+Fuel 1750
+
+Health_Min 400
+Health_Max 500
+Health 600
+
+Cam_Follow_Distance 19
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Explosion 20
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKA/TK_A_cessna172_2

@@ -1,0 +1,13 @@
+GUID 0685b087a1b3447e8e752fd449a89c6d
+Type Sight
+ID 67075
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56613
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Sights/Iron Sights/Mk.153 Sight

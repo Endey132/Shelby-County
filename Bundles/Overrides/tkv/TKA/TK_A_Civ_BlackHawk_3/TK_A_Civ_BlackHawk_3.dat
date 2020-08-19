@@ -1,0 +1,30 @@
+GUID 
+Type Vehicle
+ID 8803
+
+Speed_Min -2
+Speed_Max 16
+
+Steer_Min 18
+Steer_Max 9
+
+Fuel_Min 50
+Fuel_Max 100
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+Cam_Follow_Distance 19
+
+LockMouse
+Engine Helicopter
+
+Explosion 20
+Invulnerable
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKA/TK_A_Civ_BlackHawk_3

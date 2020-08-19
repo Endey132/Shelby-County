@@ -1,0 +1,27 @@
+GUID 
+Type Vehicle
+ID 9918
+
+Speed_Min -6
+Speed_Max 24
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 900
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 3
+
+Health_Min 300
+Health_Max 400
+Health 550
+
+Explosion 20
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKC/TK_C_flord_gt

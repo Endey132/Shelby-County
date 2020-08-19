@@ -1,0 +1,21 @@
+GUID 9e9bb3778251468a947f94874ea76cbb
+Type Magazine
+Rarity Epic
+ID 67135
+
+Size_X 5
+Size_Y 1
+Size_Z 0.35
+
+Amount 1
+
+Calibers 1
+Caliber_0 56014
+
+Projectile_Launch_Force_Multiplier 1
+
+Explosive
+Explosion 55108
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Magazines/Launcher Ammunition/PG-7VR Tandem AT

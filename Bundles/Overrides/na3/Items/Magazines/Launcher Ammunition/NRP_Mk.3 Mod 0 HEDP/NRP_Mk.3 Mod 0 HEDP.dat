@@ -1,0 +1,24 @@
+GUID 77cd99dc4f39453596d8584f9ef6caf2
+Type Magazine
+Rarity Epic
+ID 67131
+
+Size_X 4
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 56013
+
+Projectile_Blast_Radius_Multiplier 1.7
+Projectile_Launch_Force_Multiplier 1.25
+
+Explosive
+Explosion 55107
+
+Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Magazines/Launcher Ammunition/Mk.3 Mod 0 HEDP

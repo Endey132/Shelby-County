@@ -1,0 +1,14 @@
+GUID feef1560e0234e519a7e28f28616ad36
+Type Tactical
+Rarity Epic
+ID 67096
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Rangefinder
+Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Tacticals/LaserWorks LE-032 Rangefinder

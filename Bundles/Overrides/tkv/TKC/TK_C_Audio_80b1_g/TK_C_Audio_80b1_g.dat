@@ -1,0 +1,28 @@
+GUID 
+Type Vehicle
+ID 9874
+
+Speed_Min -6
+Speed_Max 14
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1500
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 4
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Explosion 20
+
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKC/TK_C_Audio_80b1_g

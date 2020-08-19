@@ -1,0 +1,20 @@
+GUID f4f0e394cfdb491f8f28760493b773e5
+Type Supply
+Rarity Rare
+ID 67003
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67003
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67004
+Blueprint_0_Output_0_Amount 6
+Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Supplies/Ammunition Boxes/5.56 M855 Ball Ammunition Crate

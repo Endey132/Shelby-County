@@ -1,0 +1,28 @@
+GUID 
+Type Vehicle
+ID 9798
+
+Speed_Min -4
+Speed_Max 12
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 1500
+
+Health_Min 1000
+Health_Max 1800
+Health 1800
+
+Exit 3
+
+Cam_Follow_Distance 25
+
+Engine Boat
+
+Explosion 20
+
+Master_Bundle_Override tkv.masterbundle
+Bundle_Override_Path /TKB/TK_B_Fisher_0

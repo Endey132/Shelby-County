@@ -1,0 +1,16 @@
+GUID 3d6e4eb82eb04070a4749a1d2b298253
+Type Tactical
+Rarity Rare
+ID 67036
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Spread 0.8
+
+Laser
+Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Bundles/Items/Tacticals/AN PEQ-15 Laser Sight

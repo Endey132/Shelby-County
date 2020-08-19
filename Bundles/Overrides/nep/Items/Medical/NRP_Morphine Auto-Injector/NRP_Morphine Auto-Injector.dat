@@ -1,0 +1,17 @@
+GUID f430e6fd486e4040b5eee4e56608f15c
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 66005
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Aid
+Broken
+Virus 5
+Health 10
+
+Master_Bundle_Override nep.masterbundle
+Bundle_Override_Path /Bundles/Items/Medical/Morphine Auto-Injector

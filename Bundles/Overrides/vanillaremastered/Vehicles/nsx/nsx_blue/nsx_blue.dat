@@ -1,0 +1,30 @@
+GUID c6034c3de66c480ab2e8a2b64c534636
+Type Vehicle
+Rarity Epic
+ID 65151
+
+Speed_Min -6
+Speed_Max 24
+
+Steer_Min 14
+Steer_Max 27
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 550
+
+Cam_Passenger_Offset -0.15
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Master_Bundle_Override vanillaremastered.masterbundle
+Bundle_Override_Path /Vehicles/nsx/nsx_blue
