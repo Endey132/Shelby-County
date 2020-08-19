@@ -1,5 +1,4 @@
 {
-	"Has_Discord_Rich_Presence": true,
 	"Asset": { "GUID": "2d39a3ae4e464d4a97854c47fbc20bc9" },
 	"Trains":
 	[
@@ -23,5 +22,10 @@
 	"PlayerUI_StaminaVisible": true,
 	"PlayerUI_OxygenVisible": true,
 	"PlayerUI_GunVisible": true,
+	"Snow_Affects_Temperature": false;
+	"Has_Global_Electricity": true;
+	"Prevent_Building_Near_Spawnpoint_Radius": 0;
+	"Allow_Holiday_Redirects": false;
+	"Allow_Skills": true;
 	"Tips": 5
 }
