@@ -3,8 +3,8 @@
 	"Trains":
 	[
 		{
-			"VehicleID": 186,
-			"RoadIndex": 168
+			"VehicleID": 45500,
+			"RoadIndex": 165
 		}
 	],
 	"Use_Legacy_Clip_Borders": false,
