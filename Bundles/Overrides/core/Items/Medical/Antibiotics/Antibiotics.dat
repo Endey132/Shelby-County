@@ -11,3 +11,6 @@ Size_Z 0.2
 Aid
 Health 35
 Disinfectant 35
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Antibiotics

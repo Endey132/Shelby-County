@@ -21,3 +21,6 @@ Blueprint_0_Supply_1_Amount 2
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Fishers/Rod_Pine

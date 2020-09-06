@@ -22,3 +22,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Hats/Toque_Yellow

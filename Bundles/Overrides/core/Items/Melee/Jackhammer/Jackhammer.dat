@@ -53,3 +53,6 @@ Blueprint_1_Products 4
 Blueprint_1_Build 27
 
 Repeated
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Melee/Jackhammer

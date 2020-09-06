@@ -8,3 +8,6 @@ Size_Y 1
 Size_Z 0.3
 
 Food 15
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bar_Candy

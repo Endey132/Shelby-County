@@ -10,3 +10,6 @@ Size_Z 0.45
 Health 10
 Food 25
 Virus 35
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Pork_Raw

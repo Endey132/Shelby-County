@@ -10,3 +10,6 @@ Size_Z 0.25
 Aid
 Health 10
 Disinfectant 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical_Vitamins

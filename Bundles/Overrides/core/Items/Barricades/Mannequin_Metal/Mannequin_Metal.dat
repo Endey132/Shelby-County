@@ -34,3 +34,7 @@ Blueprint_0_Build 27
 
 // References human read/writeable texture.
 Ignore_TexRW
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Mannequin_Metal

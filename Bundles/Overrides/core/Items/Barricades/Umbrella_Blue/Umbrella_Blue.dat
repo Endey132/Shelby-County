@@ -27,3 +27,6 @@ Blueprint_0_Supply_2_ID 255
 Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Supply_2_Critical
 Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barriades/Umbrella_Blue

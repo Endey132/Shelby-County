@@ -21,3 +21,6 @@ Blueprint_1_Type Tool
 Blueprint_1_Supply_0_ID 1197
 Blueprint_1_Product 65
 Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Arrest_Starts/Cable_Tie

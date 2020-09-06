@@ -24,3 +24,6 @@ Blueprint_0_Supply_1_ID 258
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Supply_1_Critical
 Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Couch_Purple

@@ -9,3 +9,6 @@ Size_Y 1
 Size_Z 0.375
 
 Flash
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Throwables/Flashbang

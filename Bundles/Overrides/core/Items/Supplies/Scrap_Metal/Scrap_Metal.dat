@@ -24,3 +24,6 @@ Blueprint_3_Type Gear
 Blueprint_3_Supply_0_ID 1057
 Blueprint_3_Supply_0_Amount 3
 Blueprint_3_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Scrap_Metal

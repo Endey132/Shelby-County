@@ -19,3 +19,7 @@ SpeedTree
 SpeedTree_Default_LOD_Weights
 
 Christmas_Redirect ba311a4ddbe34121acd6899fd424813b
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Pine_1

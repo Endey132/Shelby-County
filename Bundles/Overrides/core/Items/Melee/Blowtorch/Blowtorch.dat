@@ -52,3 +52,6 @@ Blueprint_1_Build 27
 
 Repair
 Repeated
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Melee/Blowtorch

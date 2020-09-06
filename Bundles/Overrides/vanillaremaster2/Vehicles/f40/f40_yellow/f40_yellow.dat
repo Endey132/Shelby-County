@@ -1,0 +1,32 @@
+GUID 215c81ca57a14f49ae0e08eb6e3bb0b2
+Type Vehicle
+Rarity Mythical
+ID 65307
+
+Physics_Profile d0b9e24038f8430cbe3a35469844690e
+
+Speed_Min -6
+Speed_Max 24
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1150
+
+Health_Min 350
+Health_Max 450
+Health 550
+
+Cam_Passenger_Offset -0.2
+
+Trunk_Storage_X 1
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /Vehicles/f40/f40_yellow

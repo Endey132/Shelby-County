@@ -1,0 +1,29 @@
+GUID d10a51ceba5d4f18a1234811aae60d09
+Type Vehicle
+Rarity Rare
+ID 65313
+
+Speed_Min -6
+Speed_Max 19
+
+Steer_Min 15
+Steer_Max 24
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 550
+
+Health_Min 350
+Health_Max 450
+Health 950
+
+Trunk_Storage_X 7
+Trunk_Storage_Y 6
+
+Explosion 20
+
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /Vehicles/SUV/gclass_orange

@@ -46,3 +46,6 @@ Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
 Blueprint_0_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Landmine

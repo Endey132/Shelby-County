@@ -1,0 +1,29 @@
+GUID 8d6965ce4f9e4845a1161555da31b6b9
+Type Vehicle
+ID 65401
+Rarity Uncommon
+
+Speed_Min -7
+Speed_Max 20
+
+Steer_Min 20
+Steer_Max 28
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 700
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Explosion 20
+
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /Vehicles/SEDAN/w124_blue

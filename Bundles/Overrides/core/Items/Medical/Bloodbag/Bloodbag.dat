@@ -10,3 +10,6 @@ Size_Z 0.5
 
 Aid
 Health 70
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Bloodbag

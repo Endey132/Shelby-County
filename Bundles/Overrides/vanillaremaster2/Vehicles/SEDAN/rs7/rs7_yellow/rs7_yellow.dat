@@ -1,0 +1,30 @@
+GUID 56caa1e5571a4eed9fdc93fca879bd22
+Type Vehicle
+ID 65367
+Rarity Rare
+
+Speed_Min -7
+Speed_Max 24
+
+Steer_Min 18
+Steer_Max 28
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1300
+
+Health_Min 350
+Health_Max 450
+Health 750
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /Vehicles/SEDAN/rs7_yellow

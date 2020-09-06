@@ -55,3 +55,6 @@ Blueprint_2_Supply_0_ID 141
 Blueprint_2_Product 67
 Blueprint_2_Products 2
 Blueprint_2_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Melee/Saw

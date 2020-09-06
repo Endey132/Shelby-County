@@ -25,3 +25,7 @@ Blueprint_0_Build 27
 Blueprint_0_Conditions 1
 Blueprint_0_Condition_0_Type Holiday
 Blueprint_0_Condition_0_Value Halloween
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Pumpkin

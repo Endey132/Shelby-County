@@ -30,3 +30,6 @@ Blueprint_0_Supply_1_Amount 2
 Blueprint_0_Build 27
 
 Should_Close_When_Outside_Range true
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Plaque_Metal

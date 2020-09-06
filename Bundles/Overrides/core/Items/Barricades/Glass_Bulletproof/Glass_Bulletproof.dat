@@ -24,3 +24,7 @@ Blueprint_0_Skill Cook
 Blueprint_0_Build 27
 
 Use_Water_Height_Transparent_Sort
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Glass_Bulletproof

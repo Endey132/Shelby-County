@@ -10,3 +10,6 @@ Size2_Z 0.35
 
 Health 10
 Food 55
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Canned_Beans

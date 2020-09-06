@@ -9,3 +9,6 @@ Size_Z 0.3
 
 Food 40
 Water 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Canned_Tuna

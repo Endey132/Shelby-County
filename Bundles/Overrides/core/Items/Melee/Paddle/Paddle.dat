@@ -50,3 +50,6 @@ Blueprint_1_Supply_0_ID 1033
 Blueprint_1_Product 40
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Melee/Paddle

@@ -10,3 +10,6 @@ Size_Z 0.375
 Food 5
 Water 5
 Vision 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Glue

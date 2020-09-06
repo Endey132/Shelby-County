@@ -33,3 +33,7 @@ Blueprint_0_Skill Craft
 Blueprint_0_Build 27
 
 Fuel_Capacity 2500
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Oil

@@ -10,3 +10,6 @@ Size_Z 0.225
 
 Food 30
 Virus 30
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bass_Raw

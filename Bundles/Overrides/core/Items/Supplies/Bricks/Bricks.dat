@@ -5,3 +5,6 @@ ID 74
 Size_X 1
 Size_Y 1
 Size_Z 0.55
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Bricks

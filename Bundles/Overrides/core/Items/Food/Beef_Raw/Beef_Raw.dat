@@ -10,3 +10,6 @@ Size_Z 0.45
 Health 5
 Food 30
 Virus 35
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Beef_Raw

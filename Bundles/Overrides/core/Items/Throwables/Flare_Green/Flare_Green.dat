@@ -6,3 +6,6 @@ ID 256
 Size_X 1
 Size_Y 1
 Size_Z 0.45
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Throwables/Flare_Green

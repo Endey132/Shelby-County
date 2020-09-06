@@ -6,3 +6,6 @@ ID 73
 Size_X 2
 Size_Y 1
 Size_Z 0.2
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Explosives

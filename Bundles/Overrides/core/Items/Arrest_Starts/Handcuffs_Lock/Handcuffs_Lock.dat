@@ -15,3 +15,6 @@ Blueprint_0_Type Tool
 Blueprint_0_Supply_0_ID 1195
 Blueprint_0_Product 67
 Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Arrest_Starts/Handcuffs_Lock

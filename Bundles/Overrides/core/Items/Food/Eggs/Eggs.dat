@@ -11,3 +11,6 @@ Quality_Max 50
 
 Food 20
 Water 20
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Eggs

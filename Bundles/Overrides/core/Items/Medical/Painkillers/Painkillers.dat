@@ -10,3 +10,6 @@ Size_Z 0.2
 
 Aid
 Health 25
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Painkillers

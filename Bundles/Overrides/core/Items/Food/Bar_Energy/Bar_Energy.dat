@@ -9,3 +9,6 @@ Size_Z 0.35
 
 Food 15
 Energy 50
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bar_Energy

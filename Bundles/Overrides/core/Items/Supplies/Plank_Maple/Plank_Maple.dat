@@ -17,3 +17,6 @@ Blueprint_1_Type Gear
 Blueprint_1_Supply_0_ID 40
 Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Plank_Maple

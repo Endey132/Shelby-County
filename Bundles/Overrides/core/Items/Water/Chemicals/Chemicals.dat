@@ -8,3 +8,6 @@ Size_Y 1
 Size_Z 0.4
 
 Virus 100
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Chemicals

@@ -1,0 +1,28 @@
+GUID 343063d3847b41f9ab8de3f87e98652b
+Type Vehicle
+ID 65390
+Rarity Legendary
+
+Speed_Min -7
+Speed_Max 24
+
+Steer_Min 22
+Steer_Max 22
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1150
+
+Health_Min 350
+Health_Max 450
+Health 850
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /Vehicles/SEDAN/phantom_black

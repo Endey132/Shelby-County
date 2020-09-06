@@ -24,3 +24,6 @@ Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Supply_3_ID 72
 Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Vaccine

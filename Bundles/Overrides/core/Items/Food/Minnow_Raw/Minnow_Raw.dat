@@ -9,3 +9,6 @@ Size_Z 0.25
 
 Food 15
 Virus 15
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Minnow_Raw

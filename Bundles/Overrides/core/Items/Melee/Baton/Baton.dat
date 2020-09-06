@@ -51,3 +51,6 @@ Blueprint_1_Supply_0_ID 1023
 Blueprint_1_Product 67
 Blueprint_1_Products 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Melee/Baton

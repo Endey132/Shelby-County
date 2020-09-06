@@ -11,3 +11,6 @@ Size_Z 0.5
 Aid
 Virus 5
 Energy 100
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Adrenaline

@@ -21,3 +21,6 @@ Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Supply_1_ID 70
 Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Tape

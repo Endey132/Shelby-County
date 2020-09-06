@@ -9,3 +9,7 @@ Size_Z 0.25
 
 Food 10
 Virus 5
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Dough

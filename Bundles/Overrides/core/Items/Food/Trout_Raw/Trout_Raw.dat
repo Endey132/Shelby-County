@@ -9,3 +9,6 @@ Size_Z 0.2
 
 Food 20
 Virus 20
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Trout_Raw

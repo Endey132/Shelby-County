@@ -12,3 +12,6 @@ Blueprints 1
 Blueprint_0_Type Barricade
 Blueprint_0_Supply_0_ID 64
 Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Growers/Fertilizer

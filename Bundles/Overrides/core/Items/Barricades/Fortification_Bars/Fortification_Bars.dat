@@ -25,3 +25,7 @@ Blueprint_0_Skill Craft
 Blueprint_0_Build 27
 
 Armor_Tier High
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Fortification_Bars

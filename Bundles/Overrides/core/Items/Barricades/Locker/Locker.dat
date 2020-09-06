@@ -35,3 +35,6 @@ Blueprint_0_Build 27
 
 Armor_Tier High
 Should_Close_When_Outside_Range true
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Locker

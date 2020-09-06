@@ -17,3 +17,6 @@ Reset 750
 Auto_Skybox
 SpeedTree
 SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Pine_8
