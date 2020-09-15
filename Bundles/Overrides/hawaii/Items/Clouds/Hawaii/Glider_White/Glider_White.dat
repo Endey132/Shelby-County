@@ -1,0 +1,19 @@
+GUID 2ccb0a17a9e84e638f4b1d5f1ddb3570
+Type Cloud
+Rarity Uncommon
+Useable Cloud
+ID 1804
+
+Size_X 5
+Size_Y 2
+Size_Z 1.8
+
+Gravity 0.10
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 1804
+Blueprint_0_Product 66
+Blueprint_0_Build 32
+
+Bypass_ID_Limit

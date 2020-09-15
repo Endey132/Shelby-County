@@ -1,0 +1,19 @@
+GUID b96fe7842b7941048c23e042ae3a183f
+Type Cloud
+Rarity Uncommon
+Useable Cloud
+ID 1800
+
+Size_X 5
+Size_Y 2
+Size_Z 1.8
+
+Gravity 0.10
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 1800
+Blueprint_0_Product 66
+Blueprint_0_Build 32
+
+Bypass_ID_Limit

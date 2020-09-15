@@ -1,0 +1,19 @@
+GUID aa94809452ab4872a504db28a4baff6c
+
+Type Resource
+ID 57008
+
+Health 2000
+
+Explosion 52
+Reward_ID 57000
+Reward_XP 20
+Reward_Min 5
+Reward_Max 7
+
+BladeID 2
+
+No_Debris
+Reset 600
+
+Asset_Bundle_Version 2

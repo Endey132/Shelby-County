@@ -1,0 +1,21 @@
+GUID f4803b2d60b4486fb10daf9580a996f5
+Type Supply
+ID 48130
+
+Size_X 2
+Size_Y 2
+Size_Z 0.39
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 259
+Blueprint_0_Supply_1_ID 257
+Blueprint_0_Supply_2_ID 260
+Blueprint_0_Supply_3_ID 256
+Blueprint_0_Supply_4_ID 255
+Blueprint_0_Supply_5_ID 258
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48130
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

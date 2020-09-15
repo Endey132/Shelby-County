@@ -1,0 +1,19 @@
+GUID c0319c2ee3894718b09c3e19a25a93e6
+Type Supply
+ID 47206
+
+Size_X 1
+Size_Y 1
+Size_Z 0.18
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47206
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 47211
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47208
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27

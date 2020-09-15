@@ -1,0 +1,26 @@
+GUID 6bd661cac29c4645a7aac9ae2ee00bdb
+Type Magazine
+ID 48115
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Amount 100
+Count_Min 100
+Count_Max 100
+
+Calibers 1
+Caliber_0 48102
+
+Tracer 48115
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 48115
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 49130
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48115
+Blueprint_0_Build 27

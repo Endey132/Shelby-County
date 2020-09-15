@@ -1,0 +1,13 @@
+GUID 32609216f5c447d981b2bba5be22d681
+Type Food
+Useable Consumeable
+ID 2013
+
+Size_X 1
+Size_Y 1
+Size_Z 0.17
+
+Food 10
+Disinfectant 15
+
+Asset_Bundle_Version 2

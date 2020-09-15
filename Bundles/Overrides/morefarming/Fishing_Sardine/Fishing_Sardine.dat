@@ -1,0 +1,11 @@
+GUID 1274dfcb709e49d7812a3775e25003b5
+Type Food
+Useable Consumeable
+ID 43109
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Food 15
+Virus 15

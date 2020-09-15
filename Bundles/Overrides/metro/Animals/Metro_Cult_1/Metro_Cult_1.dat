@@ -1,0 +1,20 @@
+GUID eb4549d2833b45ad987643f0910e09a9
+
+Type Animal
+ID 57006
+
+Speed_Run 5
+Speed_Walk 2
+
+Behaviour Offense
+
+Health 110
+Regen 0.2
+Damage 15
+
+Reward_ID 57151
+Reward_XP 8
+Reward_Min 1
+Reward_Max 1
+
+Roars 1

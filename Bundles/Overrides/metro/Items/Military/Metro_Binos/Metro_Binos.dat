@@ -1,0 +1,29 @@
+GUID 482e7e59a9634fd9bbf9e92e2f879f96
+
+Type Optic
+Rarity Epic
+Useable Optic
+ID 57307
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Zoom 13
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 57307
+Blueprint_0_Product 67
+Blueprint_0_Products 4
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 57027
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 57307 
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+
+Asset_Bundle_Version 2

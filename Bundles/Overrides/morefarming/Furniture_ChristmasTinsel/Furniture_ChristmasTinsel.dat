@@ -1,0 +1,28 @@
+GUID 08f5be1debe34ec18c8e222e3e6c7c20
+Type Storage
+Useable Barricade
+Build Storage_Wall
+ID 47243
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Health 1
+Range 4
+Offset 0.3
+
+Storage_X 1
+Storage_Y 1
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 48130
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27

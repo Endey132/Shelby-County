@@ -1,0 +1,29 @@
+GUID 2e308c19d62046469d5a82a75a5f40a3
+
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 57664
+
+Size_X 2
+Size_Y 2
+Size_Z 0.425
+
+Health 100
+Range 4
+Radius 0.2
+Offset 0.25
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 57580 
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+Blueprint_0_Map Elver

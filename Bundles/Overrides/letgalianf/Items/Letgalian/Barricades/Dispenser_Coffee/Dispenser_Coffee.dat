@@ -1,0 +1,36 @@
+GUID 41f09b1724c145b7bbc51d7771069ddf
+Type Tank
+Rarity Rare
+Useable Barricade
+Build Tank
+ID 17679
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 235
+Range 4
+Radius 0.3
+Offset 0.4
+
+Source Water
+Resource 1
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 72
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

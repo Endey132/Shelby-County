@@ -1,0 +1,41 @@
+GUID d9a52ccc669441ab9c5033d7c0bc52de
+
+Type Cloud
+Rarity Rare
+Useable Cloud
+ID 57313
+
+Size_X 1
+Size_Y 2
+Size_Z 0.925
+
+Gravity 0.3
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57309
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57071
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 57313
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 70
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 57309 
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+Blueprint_1_Map Elver
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 57313
+Blueprint_2_Product 66
+Blueprint_2_Products 2
+Blueprint_2_Build 32
+Blueprint_2_Map Elver
+
+Asset_Bundle_Version 3

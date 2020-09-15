@@ -1,0 +1,11 @@
+GUID 
+Type Supply
+Rarity Epic
+ID 34109
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Tools/TOOL-UPKIT

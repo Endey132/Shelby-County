@@ -1,0 +1,17 @@
+GUID f19e2374d7e64ab6a194a0bf7e8b0af2
+
+Type Resource
+ID 57012
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 66
+Forage
+
+Reset 1000
+
+Asset_Bundle_Version 2

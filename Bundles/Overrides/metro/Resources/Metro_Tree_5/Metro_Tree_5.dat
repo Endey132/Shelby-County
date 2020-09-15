@@ -1,0 +1,18 @@
+GUID 5c6ef1b5bcaf41cabe80c0ebeb8776c1
+
+Type Resource
+ID 57015
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 104
+Reward_ID 517
+Reward_XP 2
+Reward_Min 5
+Reward_Max 8
+
+BladeID 57000
+
+Reset 65000

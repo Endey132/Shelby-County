@@ -1,0 +1,18 @@
+GUID 4ddd285265c24a3eb0df1bc8418343ad
+
+Type Supply
+Rarity Rare
+ID 57017
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 57017
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

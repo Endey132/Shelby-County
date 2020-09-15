@@ -1,0 +1,15 @@
+GUID 0df0a7c44d5745ff91d1f2c08f0c5684
+Type Food
+Useable Consumeable
+ID 2010
+
+Size_X 1
+Size_Y 1
+Size_Z 0.17
+
+Food 10
+Virus 10
+Vision 20
+Food_Constrains_Water
+
+Asset_Bundle_Version 2

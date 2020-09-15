@@ -1,0 +1,12 @@
+GUID dea95f1ed5cf4e90bc543a6acd5371d3
+Type Food
+Useable Consumeable
+ID 41111
+
+Size_X 2
+Size_Y 1
+Size_Z 0.24
+
+Health 10
+Food 25
+Virus 35

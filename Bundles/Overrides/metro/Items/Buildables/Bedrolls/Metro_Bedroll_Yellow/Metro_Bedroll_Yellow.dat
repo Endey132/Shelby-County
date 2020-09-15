@@ -1,0 +1,40 @@
+GUID a10a656636c1444e8e1e46dd1c1f8c74
+
+Type Barricade
+Useable Barricade
+Build Bed
+ID 57288
+
+Size_X 2
+Size_Y 1
+Size_Z 0.39
+
+Health 50
+Range 4
+Radius 0.2
+Offset 0.2
+
+Explosion 37
+Vulnerable
+
+Blueprints 2
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57283
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57073   
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 57288
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 70
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 57283 
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+Blueprint_1_Map Elver

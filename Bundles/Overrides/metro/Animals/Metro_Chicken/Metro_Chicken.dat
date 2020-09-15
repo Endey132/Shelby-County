@@ -1,0 +1,16 @@
+GUID 19152656eea5418d869be398cf234a1a
+
+Type Animal
+ID 57002
+
+Speed_Run 5
+Speed_Walk 2
+
+Behaviour Ignore
+
+Health 1
+
+Reward_ID 57144
+Reward_XP 8
+Reward_Min 3
+Reward_Max 3

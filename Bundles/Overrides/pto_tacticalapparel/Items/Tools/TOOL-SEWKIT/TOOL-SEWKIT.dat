@@ -1,0 +1,11 @@
+GUID 
+Type Supply
+Rarity Uncommon
+ID 34108
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Tools/TOOL-SEWKIT

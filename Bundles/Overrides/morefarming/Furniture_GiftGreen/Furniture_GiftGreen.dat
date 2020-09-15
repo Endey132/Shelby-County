@@ -1,0 +1,29 @@
+GUID 298d2e51111b4e2298fdbe66efe909da
+Type Storage
+Useable Barricade
+Build Storage
+ID 47261
+
+Size_X 2
+Size_Y 2
+Size_Z 0.47
+
+Health 1
+Range 4
+Radius 0.2
+Offset 0.23
+
+Storage_X 5
+Storage_Y 2
+
+Explosion 86
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 48130
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 47101

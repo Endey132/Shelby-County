@@ -1,0 +1,19 @@
+GUID ec329bfb6491485fa2afe1d7978b8fd1
+Type Supply
+ID 47207
+
+Size_X 1
+Size_Y 1
+Size_Z 0.18
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47207
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 47212
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47209
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27

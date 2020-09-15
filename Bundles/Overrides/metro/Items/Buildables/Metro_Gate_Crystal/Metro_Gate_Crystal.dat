@@ -1,0 +1,33 @@
+GUID aee113d751514cbb92d2fd51c4e9c96a
+
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Gate
+ID 57268
+
+Size_X 2
+Size_Y 1
+Size_Z 0.34
+
+Health 2700
+Range 4
+Radius 1.5
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57267
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57222
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 3

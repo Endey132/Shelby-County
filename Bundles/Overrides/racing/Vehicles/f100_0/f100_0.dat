@@ -1,0 +1,32 @@
+GUID 5946d2c332ce438197933e5af455747c
+Type Vehicle
+Rarity Legendary
+ID 67550
+
+Physics_Profile d0b9e24038f8430cbe3a35469844690e
+
+Speed_Min -6
+Speed_Max 26
+
+Steer_Min 14
+Steer_Max 23
+
+Brake 22
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 750
+
+Health_Min 350
+Health_Max 450
+Health 800
+
+Cam_Passenger_Offset 
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Master_Bundle_Override racing.masterbundle
+Bundle_Override_Path /Vehicles/f100_0

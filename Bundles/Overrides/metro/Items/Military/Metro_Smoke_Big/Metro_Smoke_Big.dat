@@ -1,0 +1,42 @@
+GUID 2bd05fb8c91b4c1697a7914e6571d6ca
+
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 57661
+
+Size_X 2
+Size_Y 2
+Size_Z 0.525
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 10
+Blueprint_0_Supply_0_ID 57651  
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57652      
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 57653   
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 57654     
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 57655  
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Supply_5_ID 57656      
+Blueprint_0_Supply_5_Amount 1
+Blueprint_0_Supply_6_ID 57657  
+Blueprint_0_Supply_6_Amount 1
+Blueprint_0_Supply_7_ID 57658      
+Blueprint_0_Supply_7_Amount 1
+Blueprint_0_Supply_8_ID 57659  
+Blueprint_0_Supply_8_Amount 1
+Blueprint_0_Supply_9_ID 57660      
+Blueprint_0_Supply_9_Amount 1
+Blueprint_0_Build 32
+Blueprint_0_Map Elver
+
+Blueprint_1_Type Tool
+Blueprint_1_Supply_0_ID 57661
+Blueprint_1_Product 67
+Blueprint_1_Products 4
+Blueprint_1_Build 27

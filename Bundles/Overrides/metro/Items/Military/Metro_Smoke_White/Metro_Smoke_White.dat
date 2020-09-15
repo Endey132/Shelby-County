@@ -1,0 +1,100 @@
+GUID 9bec974a2c334f328c470244e7154c58
+
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 57652
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 11
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 57202 
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 72
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 66
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32
+Blueprint_0_Map Elver
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 57651
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 70
+Blueprint_1_Build 27
+Blueprint_1_Map Elver
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 57653
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 70
+Blueprint_2_Build 27
+Blueprint_2_Map Elver
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 57654
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Supply_1_ID 70
+Blueprint_3_Build 27
+Blueprint_3_Map Elver
+
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 57655
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Supply_1_ID 70
+Blueprint_4_Build 27
+Blueprint_4_Map Elver
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 2
+Blueprint_5_Supply_0_ID 57656
+Blueprint_5_Supply_0_Critical
+Blueprint_5_Supply_1_ID 70
+Blueprint_5_Build 27
+Blueprint_5_Map Elver
+
+Blueprint_6_Type Tool
+Blueprint_6_Supplies 2
+Blueprint_6_Supply_0_ID 57657
+Blueprint_6_Supply_0_Critical
+Blueprint_6_Supply_1_ID 70
+Blueprint_6_Build 27
+Blueprint_6_Map Elver
+
+Blueprint_7_Type Tool
+Blueprint_7_Supplies 2
+Blueprint_7_Supply_0_ID 57658
+Blueprint_7_Supply_0_Critical
+Blueprint_7_Supply_1_ID 70
+Blueprint_7_Build 27
+Blueprint_7_Map Elver
+
+Blueprint_8_Type Tool
+Blueprint_8_Supplies 2
+Blueprint_8_Supply_0_ID 57659
+Blueprint_8_Supply_0_Critical
+Blueprint_8_Supply_1_ID 70
+Blueprint_8_Build 27
+Blueprint_8_Map Elver
+
+Blueprint_9_Type Tool
+Blueprint_9_Supplies 2
+Blueprint_9_Supply_0_ID 57660
+Blueprint_9_Supply_0_Critical
+Blueprint_9_Supply_1_ID 70
+Blueprint_9_Build 27
+Blueprint_9_Map Elver
+
+Blueprint_10_Type Tool
+Blueprint_10_Supply_0_ID 57652
+Blueprint_10_Product 67
+Blueprint_10_Products 1
+Blueprint_10_Build 27

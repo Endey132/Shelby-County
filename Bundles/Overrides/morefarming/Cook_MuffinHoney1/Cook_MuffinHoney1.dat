@@ -1,0 +1,10 @@
+GUID c348b5a669fc4b9db1dbfbc2c22082e6
+Type Food
+Useable Consumeable
+ID 42197
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Food 20

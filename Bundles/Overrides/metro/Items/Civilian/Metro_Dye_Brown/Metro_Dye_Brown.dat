@@ -1,0 +1,26 @@
+GUID 32870aae70534be38c3d87b54a6804c9
+
+Type Water
+Useable Consumeable
+ID 57070
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Energy 50
+Food 10
+Water 10
+Vision 20
+Food_Constrains_Water
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 57071 
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57072
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 57073  
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27

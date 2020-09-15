@@ -1,0 +1,11 @@
+GUID a4c83f1db43b47f79b84d1fe90c8e531
+Type Food
+Useable Consumeable
+ID 41140
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Health 5
+Food 25

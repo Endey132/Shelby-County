@@ -1,0 +1,19 @@
+GUID 5414c8a7b5c7456ab27e4778d4f8ee1b
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 8837
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Hair
+Beard
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 8837
+Blueprint_0_Product 66
+Blueprint_0_Products 1
+Blueprint_0_Build 32

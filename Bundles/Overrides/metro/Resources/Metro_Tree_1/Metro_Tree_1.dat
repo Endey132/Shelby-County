@@ -1,0 +1,22 @@
+GUID 650e0156773641b8b13690c2a94a649b
+
+Type Resource
+ID 57003
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 20
+Reward_ID 517
+Reward_XP 2
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+BladeID 57000
+
+Auto_Skybox
+
+Asset_Bundle_Version 2

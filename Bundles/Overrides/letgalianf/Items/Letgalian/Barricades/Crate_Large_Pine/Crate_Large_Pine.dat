@@ -1,0 +1,31 @@
+GUID 080e84846513431ead8a1b5c81e833e7
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 17651
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 250
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 8
+Storage_Y 5
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

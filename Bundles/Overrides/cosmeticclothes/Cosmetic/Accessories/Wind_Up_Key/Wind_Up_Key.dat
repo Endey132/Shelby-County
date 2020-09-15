@@ -1,0 +1,24 @@
+GUID 9842d60579d6487aad34d6965606c7d7
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 8809
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Width 1
+Height 2
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 8809
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27

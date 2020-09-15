@@ -1,0 +1,89 @@
+GUID ac2db4261aa1414395d9e9d029555a24
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Primary
+ID 3005
+
+Size_X 5
+Size_Y 2
+Size_Z 0.5
+Size2_Z 0.7
+
+
+Magazine 3006
+Tactical 1438
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 61
+
+Range 200
+Firerate 50
+Action Rail
+
+Player_Damage 99
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 148
+Zombie_Leg_Multiplier 0.9
+Zombie_Arm_Multiplier 0.9
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 99
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 80
+Structure_Damage 10
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 80
+
+
+Durability 0.8
+
+Spread_Aim 0.1
+Spread_Hip 0.4
+
+Recoil_Aim 0.25
+Recoil_Min_X -25
+Recoil_Min_Y 20
+Recoil_Max_X -20
+Recoil_Max_Y 25
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Muzzle 42
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Level 1
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 3005
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27

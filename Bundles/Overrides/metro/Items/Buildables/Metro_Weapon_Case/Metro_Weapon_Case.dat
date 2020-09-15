@@ -1,0 +1,25 @@
+GUID f867cdd2e4724ec19bc32d3757dcb3e2
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 57577
+
+Size_X 2
+Size_Y 1
+Size_Z 0.275
+
+Health 400
+Range 4
+Radius 0.2
+Offset 0.25
+
+Storage_X 6
+Storage_Y 3
+
+Locked
+
+Explosion 36
+
+Should_Close_When_Outside_Range true

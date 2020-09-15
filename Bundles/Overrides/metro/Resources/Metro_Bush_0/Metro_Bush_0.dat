@@ -1,0 +1,17 @@
+GUID ccb8ec23af4845d3900e26cf9adb5468
+
+Type Resource
+ID 57000
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 57450 
+Forage
+
+Reset 1000
+
+Asset_Bundle_Version 2

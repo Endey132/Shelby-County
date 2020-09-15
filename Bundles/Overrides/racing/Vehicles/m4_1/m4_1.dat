@@ -1,0 +1,32 @@
+GUID 2c78888349d943a8af9016dc7fd818c2
+Type Vehicle
+Rarity Legendary
+ID 67511
+
+Physics_Profile d0b9e24038f8430cbe3a35469844690e
+
+Speed_Min -6
+Speed_Max 24
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 29
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1150
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 1
+
+Explosion 20
+
+Master_Bundle_Override racing.masterbundle
+Bundle_Override_Path /Vehicles/m4_1

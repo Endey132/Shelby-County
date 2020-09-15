@@ -1,0 +1,23 @@
+GUID 8c17f50ce8a54efdbc1518b09097a816
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 42253
+
+Size_X 1
+Size_Y 2
+Size_Z 0.43
+
+Water 40
+Disinfectant 8
+Health 8
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42253
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 42263
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 47102

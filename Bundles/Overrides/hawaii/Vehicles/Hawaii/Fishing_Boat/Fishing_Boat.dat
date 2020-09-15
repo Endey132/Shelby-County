@@ -1,0 +1,31 @@
+GUID e78921056a95409b928f5061f0832d0f
+Type Vehicle
+Rarity Epic
+ID 827
+
+Speed_Min -4
+Speed_Max 15
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 1750
+
+Health_Min 500
+Health_Max 600
+Health 700
+
+Exit 3
+
+Engine Boat
+
+Explosion 20
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2

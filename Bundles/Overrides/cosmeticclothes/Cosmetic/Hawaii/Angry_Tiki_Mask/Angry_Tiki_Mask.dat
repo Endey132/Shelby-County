@@ -1,0 +1,33 @@
+GUID 4a3081bfba1b4f779501ad37a73d9d50
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 8912
+
+Size_X 2
+Size_Y 2
+Size_Z 0.375
+
+Beard
+Hair
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 8912
+Blueprint_0_Product 61
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 61
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 61
+Blueprint_2_Supply_0_Amount 3
+Blueprint_2_Build 27
+Blueprint_2_Tool 120
+Blueprint_2_Level 1
+Blueprint_2_Skill Craft
+Blueprint_2_Map Hawaii

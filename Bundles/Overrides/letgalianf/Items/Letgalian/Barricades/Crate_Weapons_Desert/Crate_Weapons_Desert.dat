@@ -1,0 +1,35 @@
+GUID bd20a3e0e7e94562a031c802c5c8e028
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 17660
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 600
+Range 4
+Offset 0.2
+
+Storage_X 5
+Storage_Y 2
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 1013
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

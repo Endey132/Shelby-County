@@ -1,0 +1,25 @@
+GUID 83fefc5724184d299bc6bd0e05f6a6dd
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 8858
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 8857
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

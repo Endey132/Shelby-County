@@ -1,0 +1,30 @@
+GUID ca60bdec92fa48eb80f3f4a4be1ee2f1
+Type Storage
+Useable Barricade
+Build Storage
+ID 17652
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 150
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 5
+Storage_Y 4
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 62
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 38
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

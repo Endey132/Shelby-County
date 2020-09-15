@@ -1,0 +1,15 @@
+GUID ffb7867d192e415b92809a2cce4b5540
+
+Type Water
+Useable Consumeable
+ID 57450 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Energy 50
+Food 10
+Water 10
+Vision 20
+Food_Constrains_Water

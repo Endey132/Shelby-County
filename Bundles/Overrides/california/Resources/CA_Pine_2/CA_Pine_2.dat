@@ -1,0 +1,17 @@
+GUID 6985c74817ea4c25a742fd8c07a1775d
+Type Resource
+ID 4008
+
+Health 1500
+Radius 2
+Scale 0.1
+
+Explosion 26
+Reward_ID 517
+Reward_XP 6
+Reward_Min 7
+Reward_Max 9
+
+Reset 900
+
+Auto_Skybox

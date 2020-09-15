@@ -1,0 +1,29 @@
+GUID 46c1bb44348a404b804c277c2605905b
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Clock
+ID 57569 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Health 75
+Range 4
+Offset 0.05
+
+Explosion 60
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 57580 
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+Blueprint_0_Map Elver

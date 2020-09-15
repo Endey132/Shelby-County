@@ -1,0 +1,43 @@
+GUID 02186e1cf80a4054ba3db92bbde54f37
+
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 57082
+
+Size_X 2
+Size_Y 3
+Size_Z 0.7
+
+Health 200
+Range 4
+Radius 0.75
+Offset 1.5
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+Asset_Bundle_Version 3
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 75
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 57023
+Blueprint_0_Supply_3_Amount 5
+Blueprint_0_Supply_4_ID 66
+Blueprint_0_Supply_4_Amount 5
+Blueprint_0_Supply_5_ID 69
+Blueprint_0_Supply_5_Amount 1
+Blueprint_0_Tool 141
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Elver

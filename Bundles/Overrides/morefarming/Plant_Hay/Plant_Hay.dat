@@ -1,0 +1,56 @@
+GUID 53c3ac2810e147c48bfb9f203c547d19
+Type Supply
+ID 42233
+
+Size_X 1
+Size_Y 1
+Size_Z 0.62
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42232
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Blueprints 4
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42233
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 41105
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 470
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 47105
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 42233
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Tool 41105
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 41104
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 47105
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 42233
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 41161
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 462
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 47102
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 42233
+Blueprint_3_Supply_0_Amount 2
+Blueprint_3_Tool 41161
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 41160
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 47106
+

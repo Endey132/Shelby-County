@@ -1,0 +1,17 @@
+GUID 023f26673a464ba4818c21648d02fc60
+Type Supply
+ID 42199
+
+Size_X 1
+Size_Y 1
+Size_Z 0.21
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42199
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 42200
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

@@ -1,0 +1,24 @@
+GUID 67460dae332a42faa2608b9cb6155a80
+Type Glasses
+Rarity Common
+Useable Clothing
+ID 8817
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Hair
+Beard
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 8817
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27

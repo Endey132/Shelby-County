@@ -1,0 +1,23 @@
+GUID 311f5f5e7eec40358a9710294bdf24d4
+Type Mask
+Rarity Epic
+Useable Clothing
+ID 4092
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Armor 0.85
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 4092
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 32
