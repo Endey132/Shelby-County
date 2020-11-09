@@ -1,0 +1,25 @@
+GUID ad2bd46d18f5bd568ae91828695f0484
+Type Tactical
+Rarity Common
+ID 58349
+
+Size_X 2
+Size_Y 2
+Size_Z 0.075
+
+Calibers 1
+Caliber_0 56063
+
+Spread 1
+Shake 0.85
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58349
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58348
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

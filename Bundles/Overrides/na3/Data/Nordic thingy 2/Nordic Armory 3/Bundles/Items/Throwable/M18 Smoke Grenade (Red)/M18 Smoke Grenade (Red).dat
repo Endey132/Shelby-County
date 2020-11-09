@@ -1,0 +1,13 @@
+GUID f53e24fb62c54c959fe6da77e89c6409
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 58142
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Weak_Throw_Force 700
+Strong_Throw_Force 1200
+Boost_Throw_Force_Multiplier 1.2

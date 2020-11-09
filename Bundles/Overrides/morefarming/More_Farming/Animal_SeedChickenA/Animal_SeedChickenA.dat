@@ -1,0 +1,18 @@
+GUID daf26eff9ea14c0fae3e48d3aef745d4
+Type Supply
+ID 41105
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41105
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 137
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 41101
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 47104

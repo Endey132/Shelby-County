@@ -1,0 +1,26 @@
+GUID 4c7a220af16e4d1dbb200648ff6061fb
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 58169
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 175
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 1000
+Object_Damage 500
+Weak_Throw_Force 700
+Strong_Throw_Force 1200
+Boost_Throw_Force_Multiplier 1.2
+
+Range 15
+Explosion 55109
+
+Explosive

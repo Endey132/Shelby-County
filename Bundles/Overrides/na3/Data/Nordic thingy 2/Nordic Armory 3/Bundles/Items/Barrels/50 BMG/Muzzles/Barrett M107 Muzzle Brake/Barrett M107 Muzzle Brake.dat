@@ -1,0 +1,26 @@
+GUID 672970f6982d8cbc528e4e584d52d136
+Type Barrel
+Rarity Rare
+ID 58228
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56039
+
+Spread 0.75
+Shake 0.75
+Recoil_X 0.6
+Recoil_Y 0.6
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27

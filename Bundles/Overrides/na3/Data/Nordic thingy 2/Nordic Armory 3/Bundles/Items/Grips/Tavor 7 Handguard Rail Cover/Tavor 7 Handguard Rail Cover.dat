@@ -1,0 +1,20 @@
+GUID e60e524082543e54bd737450158092be
+Type Grip
+Rarity Common
+ID 58426
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 0.75
+Recoil_Y 0.6
+
+Calibers 1
+Caliber_0 56071
+
+Spread 0.8
+Sway 0.7
+Shake 0.8
+
+Paintable

@@ -1,0 +1,34 @@
+GUID f46efd546954bf71dec557d41c208a75
+Type Magazine
+Rarity Rare
+ID 58223
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 10
+Count_Min 8
+Count_Max 10
+
+Calibers 1
+Caliber_0 56039
+
+Spread 1
+Shake 1
+Recoil_X 1.5
+Recoil_Y 1.45
+
+Tracer 48
+
+Blueprints 2
+// Belt
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58357
+Blueprint_0_Build 30
+// M82 mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58223
+Blueprint_1_Build 30

@@ -1,0 +1,27 @@
+GUID a6cfa8dc13ae4af6814491846dbf717c
+Type Water
+Useable Consumeable
+ID 42230
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Water 15
+Food 30
+Energy 100
+Warmth 3000
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 83
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 462
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 42228
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47102

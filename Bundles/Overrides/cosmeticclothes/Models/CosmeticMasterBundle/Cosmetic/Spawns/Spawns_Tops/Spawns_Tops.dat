@@ -1,0 +1,13 @@
+GUID 2675639b08164bb78fe62a09792eb7d0
+Type Spawn
+ID 10410
+
+Roots 1
+Root_0_Spawn_ID 228
+Root_0_Weight 10
+
+Tables 2
+Table_0_Asset_ID 8846
+Table_0_Weight 10
+Table_1_Asset_ID 8847
+Table_1_Weight 10

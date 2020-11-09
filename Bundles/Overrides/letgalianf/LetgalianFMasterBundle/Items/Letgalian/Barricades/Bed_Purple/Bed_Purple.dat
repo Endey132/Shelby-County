@@ -1,0 +1,56 @@
+GUID cfb0031780614dcebd5c25d4af691a9b
+Type Barricade
+Useable Barricade
+Build Bed
+ID 17634
+
+Size_X 2
+Size_Y 3
+Size_Z 0.5
+
+Health 500
+Range 4
+Radius 0.4
+Offset 0.75
+
+Explosion 19
+
+Blueprints 3
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Supply_1_ID 61
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Supply_2_ID 258
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_2_Critical
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 12
+Blueprint_1_Supply_1_ID 62
+Blueprint_1_Supply_1_Amount 8
+Blueprint_1_Supply_2_ID 258
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_2_Critical
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_2_Type Furniture
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 66
+Blueprint_2_Supply_0_Amount 12
+Blueprint_2_Supply_1_ID 63
+Blueprint_2_Supply_1_Amount 8
+Blueprint_2_Supply_2_ID 258
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Supply_2_Critical
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Asset_Bundle_Version 2

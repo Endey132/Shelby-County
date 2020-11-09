@@ -1,0 +1,25 @@
+GUID 6e95effa77354916ad7a5da23fb51a46
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 34068
+
+Size_X 2
+Size_Y 2
+Size_Z 0.42
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 34068
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

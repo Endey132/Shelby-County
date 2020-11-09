@@ -1,0 +1,12 @@
+GUID 04b5fb49105c408ea72c8b235bfd945e
+Type Spawn
+ID 42187
+Roots 2
+Root_0_Spawn_ID 515
+Root_0_Weight 1
+Root_1_Spawn_ID 517
+Root_1_Weight 1
+
+Tables 1
+Table_0_Asset_ID 42187
+Table_0_Weight 100

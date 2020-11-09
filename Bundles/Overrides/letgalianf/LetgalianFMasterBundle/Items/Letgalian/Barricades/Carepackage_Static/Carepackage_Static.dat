@@ -1,0 +1,64 @@
+GUID d0751a28460441668acf6e3f035a3063
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 17663
+
+Size_X 3
+Size_Y 3
+Size_Z 0.45
+
+Health 600
+Range 6
+Radius 1.75
+Offset 2
+
+Storage_X 7
+Storage_Y 7
+
+Explosion 19
+Vulnerable
+
+Blueprints 3
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 61
+Blueprint_0_Supply_0_Amount 18
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 9
+Blueprint_0_Supply_2_ID 64
+Blueprint_0_Supply_2_Amount 16
+Blueprint_0_Supply_3_ID 69
+Blueprint_0_Supply_3_Amount 4
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 62
+Blueprint_1_Supply_0_Amount 18
+Blueprint_1_Supply_1_ID 66
+Blueprint_1_Supply_1_Amount 9
+Blueprint_1_Supply_2_ID 64
+Blueprint_1_Supply_2_Amount 16
+Blueprint_1_Supply_3_ID 69
+Blueprint_1_Supply_3_Amount 4
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_2_Type Barricade
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 63
+Blueprint_2_Supply_0_Amount 18
+Blueprint_2_Supply_1_ID 66
+Blueprint_2_Supply_1_Amount 9
+Blueprint_2_Supply_2_ID 64
+Blueprint_2_Supply_2_Amount 16
+Blueprint_2_Supply_3_ID 69
+Blueprint_2_Supply_3_Amount 4
+Blueprint_2_Level 2
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Asset_Bundle_Version 2

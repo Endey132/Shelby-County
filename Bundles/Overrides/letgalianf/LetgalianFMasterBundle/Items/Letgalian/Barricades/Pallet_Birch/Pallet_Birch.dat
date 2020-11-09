@@ -1,0 +1,26 @@
+GUID 25e92c6ee77e402b8a82b7abb5b1e6f4
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 17655
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 250
+Range 4
+Offset 0.1
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 62
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 38
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

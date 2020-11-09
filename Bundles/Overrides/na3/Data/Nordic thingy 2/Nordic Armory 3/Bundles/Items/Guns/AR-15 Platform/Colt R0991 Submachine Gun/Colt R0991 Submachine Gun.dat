@@ -1,0 +1,108 @@
+GUID fc07c356980440d7132f5c6d14b72c75
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 58366
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.6
+
+Sight 58353
+Magazine 58367
+Barrel 58199
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 5
+Ammo_Max 32
+
+Safety
+Semi
+Auto
+
+Attachment_Calibers 4
+Attachment_Caliber_0 56100
+Attachment_Caliber_1 56101
+Attachment_Caliber_2 56707
+Attachment_Caliber_3 56058
+
+Magazine_Calibers 1
+Magazine_Caliber_0 56065
+
+Unplace 0.1
+Replace 0.7
+
+Range 175
+Firerate 3
+Action Trigger
+
+Gunshot_Rolloff_Distance 800
+
+Player_Damage 35
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 35
+Zombie_Leg_Multiplier 0.8
+Zombie_Arm_Multiplier 0.8
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 35
+Animal_Leg_Multiplier 0.8
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 30
+Resource_Damage 40
+Object_Damage 20
+
+Durability 0.2
+
+Spread_Aim 0.1
+Spread_Hip 0.12
+
+Recoil_Min_X -1.1
+Recoil_Min_Y 3
+Recoil_Max_X 2.1
+Recoil_Max_Y 8
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.0032
+Shake_Min_Y 0.0032
+Shake_Min_Z -0.009
+Shake_Max_X 0.0032
+Shake_Max_Y -0.0032
+Shake_Max_Z -0.015
+
+Muzzle 55000
+
+Shell 55105
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58366
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27

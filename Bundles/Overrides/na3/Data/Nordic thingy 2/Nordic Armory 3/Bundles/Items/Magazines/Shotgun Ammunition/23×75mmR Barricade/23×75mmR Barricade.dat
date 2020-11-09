@@ -1,0 +1,33 @@
+GUID 1ac36d3b646c4df65709816f3757e18b
+Type Magazine
+Rarity Rare
+ID 58466
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 4
+Count_Min 2
+Count_Max 4
+
+Calibers 1
+Caliber_0 56042
+
+Spread 0.85
+Shake 1
+Recoil_X 1.275
+Recoil_Y 1.1
+Ballistic_Damage_Multiplier 2.5
+
+Pellets 1
+Delete_Empty
+
+Tracer 48
+
+Blueprints 1
+// 4 shells
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58466
+Blueprint_0_Build 30

@@ -1,0 +1,30 @@
+GUID d15395a027b74d54a0db294a952b1d56
+Type Storage
+Useable Barricade
+Build Storage
+ID 47119
+
+Size_X 1
+Size_Y 1
+Size_Z 0.29
+
+Health 150
+Range 4
+Radius 0.11
+Offset 0.28
+
+Storage_X 1
+Storage_Y 1
+Display
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 141
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101

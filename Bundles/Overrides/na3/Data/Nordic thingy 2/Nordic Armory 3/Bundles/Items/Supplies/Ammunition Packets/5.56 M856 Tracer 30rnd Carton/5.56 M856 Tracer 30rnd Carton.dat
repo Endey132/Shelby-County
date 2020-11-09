@@ -1,0 +1,31 @@
+GUID d79539b8ce32daf3b856898a18e580cb
+Type Supply
+Rarity Rare
+ID 58277
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 30
+Count_Min 1
+Count_Max 29
+
+Blueprints 3
+// Belt
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58263
+Blueprint_0_Build 30
+// Carton
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58277
+Blueprint_1_Build 30
+// Clip
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58278
+Blueprint_2_Build 30
+
+Delete_Empty

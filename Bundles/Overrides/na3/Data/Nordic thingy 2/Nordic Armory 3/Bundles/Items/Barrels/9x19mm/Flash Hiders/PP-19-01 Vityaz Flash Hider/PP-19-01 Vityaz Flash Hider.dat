@@ -1,0 +1,16 @@
+GUID ea83896ed01e7e9762468167f40ce30e
+Type Barrel
+Rarity Rare
+ID 58322
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56024
+
+Spread 0.98
+Shake 1
+Recoil_X 0.95
+Recoil_Y 0.85

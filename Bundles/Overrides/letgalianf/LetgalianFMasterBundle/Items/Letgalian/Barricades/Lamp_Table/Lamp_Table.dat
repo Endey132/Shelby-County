@@ -1,0 +1,31 @@
+GUID 132bd1bef48f4b9eb7d43f3da3e4fd82
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 17683
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.3
+Offset 0.4
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 1222
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

@@ -1,0 +1,37 @@
+GUID 120361ee6ef944769e3592b58d1c5c95
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot None
+ID 21377
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Range 0
+
+Player_Damage 0
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Durability 0

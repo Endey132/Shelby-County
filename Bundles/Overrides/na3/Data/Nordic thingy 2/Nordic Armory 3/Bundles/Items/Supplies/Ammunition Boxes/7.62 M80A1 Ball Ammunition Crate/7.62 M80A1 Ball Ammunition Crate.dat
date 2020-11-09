@@ -1,0 +1,17 @@
+GUID 531fca59684847e3a25b60b9b1d5db58
+Type Supply
+Rarity Rare
+ID 58034
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58034
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58035
+Blueprint_0_Output_0_Amount 8
+Blueprint_0_Build 27

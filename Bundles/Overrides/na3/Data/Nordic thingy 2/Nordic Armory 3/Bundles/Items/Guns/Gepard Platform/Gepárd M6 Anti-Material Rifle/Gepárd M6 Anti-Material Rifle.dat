@@ -1,0 +1,115 @@
+GUID 54ce8a94c68716bfd584cb5925c1a71c
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 58231
+
+Backward
+
+Size_X 5
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.6
+
+Sight 58080
+Magazine 58232
+Barrel 58234
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 3
+Ammo_Max 5
+
+Safety
+Semi
+
+Attachment_Calibers 4
+Attachment_Caliber_0 56100
+Attachment_Caliber_1 56101
+Attachment_Caliber_2 56702
+Attachment_Caliber_3 56040
+
+Magazine_Calibers 1
+Magazine_Caliber_0 56040
+
+Unplace 0.26
+Replace 0.76
+
+Range 600
+
+Ballistic_Drop 0.00015
+Ballistic_Steps 200
+Ballistic_Travel 13
+
+Firerate 17
+Action Trigger
+
+Gunshot_Rolloff_Distance 1000
+Invulnerable
+
+Player_Damage 101
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 101
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 101
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 150
+Structure_Damage 130
+Vehicle_Damage 75
+Resource_Damage 150
+Object_Damage 130
+
+Durability 0.2
+
+Spread_Aim 0.001
+Spread_Hip 0.4
+
+Recoil_Min_X 0.9
+Recoil_Min_Y 0.9
+Recoil_Max_X -0.9
+Recoil_Max_Y 1
+
+Recover_X -15
+Recover_Y -15
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.025
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.05
+
+Muzzle 55000
+
+Shell 55103
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58231
+Blueprint_1_Product 67
+Blueprint_1_Products 7
+Blueprint_1_Build 27

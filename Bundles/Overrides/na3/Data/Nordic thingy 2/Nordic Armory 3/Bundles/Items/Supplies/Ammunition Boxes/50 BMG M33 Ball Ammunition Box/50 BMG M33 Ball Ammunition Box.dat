@@ -1,0 +1,18 @@
+GUID 45341ae9bacd424e91619f1aec5b5ed0
+Type Supply
+Rarity Epic
+ID 58230
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 1
+// Gather 2 belts
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58230
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58357
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

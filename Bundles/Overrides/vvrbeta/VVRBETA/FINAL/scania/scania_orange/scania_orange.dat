@@ -1,0 +1,29 @@
+GUID 65f1f188112044ef85beefe6f263f631
+Type Vehicle
+Rarity Rare
+ID 36513
+
+Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 15
+
+Steer_Min 16
+Steer_Max 26
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 650
+
+Health_Min 350
+Health_Max 450
+Health 1050
+
+Trunk_Storage_X 9
+Trunk_Storage_Y 9
+
+Explosion 20
+Cam_Follow_Distance 10

@@ -1,0 +1,41 @@
+GUID f2c6f7e3bd3e7d7c34de63ef6105e7e9
+Type Magazine
+Rarity Legendary
+ID 58233
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 5
+Count_Min 3
+Count_Max 5
+
+Calibers 1
+Caliber_0 56040
+
+Spread 2
+Shake 1.25
+Recoil_X 1.8
+Recoil_Y 1.6
+Ballistic_Damage_Multiplier 2
+
+Tracer 48
+
+Blueprints 3
+// Belt
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58360
+Blueprint_0_Build 30
+// Lynx mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58233
+Blueprint_1_Build 30
+// OSV mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58242
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 30

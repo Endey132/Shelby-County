@@ -1,0 +1,19 @@
+GUID 3938d97a4a47534554aecf0191a7ef15
+Type Barrel
+Rarity Rare
+ID 58438
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56073
+
+Spread 0.75
+Shake 0.8
+Recoil_X 0.9
+Recoil_Y 0.7
+Silenced
+Volume 0.8
+Gunshot_Rolloff_Distance_Multiplier 0.6

@@ -1,8 +1,8 @@
-GUID d2f1ab0f1c68444c87ecc199417b9df4
+GUID 41cac987755e4299993cbb6b850bed25
 Type Shirt
 Rarity Uncommon
 Useable Clothing
-ID 2018
+ID 36018
 
 Size_X 3
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 2018
+Blueprint_0_Supply_0_ID 36018
 Blueprint_0_Product 66
 Blueprint_0_Products 3
 Blueprint_0_Build 32
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 3
 Blueprint_1_Build 32
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Items/Hawaii/AegisLab_Top

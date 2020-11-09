@@ -1,0 +1,30 @@
+GUID e6792f69eff544abbf36821201953140
+Type Vehicle
+Rarity Mythical
+ID 36564
+
+Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 31
+
+Steer_Min 16
+Steer_Max 25
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 850
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Cam_Passenger_Offset -0.15
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20

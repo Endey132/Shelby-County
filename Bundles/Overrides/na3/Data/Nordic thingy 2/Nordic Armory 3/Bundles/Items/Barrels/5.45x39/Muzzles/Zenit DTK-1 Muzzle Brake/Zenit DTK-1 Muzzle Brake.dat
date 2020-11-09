@@ -1,0 +1,17 @@
+GUID 78fea7f395f0453945cf807acb6e6a65
+Type Barrel
+Rarity Epic
+ID 58427
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 2
+Caliber_0 56702
+Caliber_1 56704
+
+Spread 0.9
+Shake 0.8
+Recoil_X 0.85
+Recoil_Y 0.675

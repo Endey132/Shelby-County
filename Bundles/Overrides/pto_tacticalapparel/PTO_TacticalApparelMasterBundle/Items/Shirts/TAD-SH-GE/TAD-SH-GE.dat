@@ -1,0 +1,29 @@
+GUID 4c8e71e7cee146b1ad371ca98237bbd3
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 34000
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 4
+
+Armor 0.87
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 34000
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Tool 34108
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32

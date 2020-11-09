@@ -1,0 +1,34 @@
+GUID 38a5bb90d7f44adea92f72d50a8fb507
+Type Vehicle
+Rarity Legendary
+ID 36543
+
+Speed_Min -2
+Speed_Max 19
+
+Steer_Min 60
+Steer_Max 30
+
+Fuel 2000
+
+Health_Min 1100
+Health_Max 1200
+Health 1750
+
+Exit 6
+
+Cam_Follow_Distance 18
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 10
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Supports_Mobile_Buildables
+Bypass_Buildable_Mobility
+BatteryMode_Sirens None

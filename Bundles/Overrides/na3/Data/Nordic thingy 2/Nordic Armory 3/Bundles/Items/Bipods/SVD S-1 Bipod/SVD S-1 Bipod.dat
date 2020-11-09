@@ -1,0 +1,21 @@
+GUID 374daf50fd7a400faaf23c113a4a69f1
+Type Grip
+Rarity Rare
+ID 58136
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Calibers 2
+Caliber_0 56061
+Caliber_1 56203
+
+Recoil_X 0.3
+Recoil_Y 0.3
+
+Spread 0.4
+Sway 0.4
+Shake 0.3
+
+Bipod

@@ -1,0 +1,49 @@
+GUID 14d90d2ecb614c1cbcd1d65c4f754c0d
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 42243
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 250
+Range 4
+Radius 0.4
+Offset 1.55
+
+Explosion 29
+
+Blueprints 3
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42240
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42165
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47101
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 42243
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 42253
+Blueprint_1_Output_0_Amount 4
+Blueprint_1_Output_1_ID 42240
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 47102
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 42243
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 42254
+Blueprint_2_Output_0_Amount 4
+Blueprint_2_Output_1_ID 42240
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 47102

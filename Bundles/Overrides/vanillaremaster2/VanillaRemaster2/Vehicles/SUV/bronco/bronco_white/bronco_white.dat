@@ -1,0 +1,29 @@
+GUID 4f376bdca2a84aaab3f2468251cf4af6
+Type Vehicle
+Rarity Uncommon
+ID 36326
+
+Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
+Fuel_Burn_Rate 1.7
+Traction
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 16
+Steer_Max 28
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 950
+
+Health_Min 350
+Health_Max 450
+Health 950
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20

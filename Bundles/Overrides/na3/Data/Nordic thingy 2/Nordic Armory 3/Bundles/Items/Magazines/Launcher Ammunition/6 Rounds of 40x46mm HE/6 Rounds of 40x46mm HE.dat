@@ -1,0 +1,31 @@
+GUID b0678e324bcdb8f16163d493e89d6fae
+Type Magazine
+Rarity Legendary
+ID 58217
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 6
+Count_Min 3
+Count_Max 6
+
+Calibers 1
+Caliber_0 56037
+
+Player_Damage 115
+Zombie_Damage 115
+Animal_Damage 115
+Barricade_Damage 225
+Structure_Damage 175
+Vehicle_Damage 175
+Resource_Damage 400
+Object_Damage 400
+
+Explosive
+Explosion 55107
+
+Range 15
+
+Delete_Empty

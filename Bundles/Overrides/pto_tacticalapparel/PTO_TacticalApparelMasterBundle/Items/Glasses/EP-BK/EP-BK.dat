@@ -1,0 +1,24 @@
+GUID bdfa6f53310b40bc9fee49d952c88221
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 34259
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Hair
+Beard
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 34259
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32

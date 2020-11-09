@@ -1,0 +1,31 @@
+GUID a86a645f269e407bab7ab5ad3cffc5f6
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 17616
+
+Size_X 3
+Size_Y 2
+Size_Z 0.45
+
+Health 500
+Range 4
+Radius 0.5
+Offset 0.75
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

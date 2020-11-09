@@ -1,0 +1,19 @@
+GUID 8148d7f5ad639e1723fbd469c07a8f5f
+Type Supply
+Rarity Rare
+ID 58303
+
+Size_X 3
+Size_Y 2
+Size_Z 0.3
+
+Amount 50
+Count_Min 1
+Count_Max 50
+
+Blueprints 1
+// Ammo Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58303
+Blueprint_0_Build 30

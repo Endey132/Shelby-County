@@ -1,0 +1,29 @@
+GUID fa50da50cadc40a89766b1e76e703399
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 34236
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.85
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 34236
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 66
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32

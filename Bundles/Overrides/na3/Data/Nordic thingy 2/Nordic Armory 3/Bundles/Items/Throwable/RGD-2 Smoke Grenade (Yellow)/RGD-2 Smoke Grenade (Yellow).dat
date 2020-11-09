@@ -1,0 +1,13 @@
+GUID 9ecf2024487dd80b8b437ae5adebfadb
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 58299
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Weak_Throw_Force 700
+Strong_Throw_Force 1200
+Boost_Throw_Force_Multiplier 1.2

@@ -1,0 +1,32 @@
+GUID 03590266f2864c358d2d33cc67e30862
+Type Vehicle
+Rarity Rare
+ID 36503
+
+Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 15
+
+Steer_Min 17
+Steer_Max 28
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 500
+
+Health_Min 350
+Health_Max 450
+Health 1550
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 8
+
+Explosion 20
+Cam_Follow_Distance 10
+
+Bumper_Invulnerable
+Tires_Invulnerable

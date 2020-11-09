@@ -1,0 +1,22 @@
+GUID bb953725c41e4fb3a6328b8d2b1d07ad
+Type Food
+Useable Consumeable
+ID 41166
+
+Size_X 1
+Size_Y 1
+Size_Z 0.29
+
+Food 35
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 1121
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 39
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103

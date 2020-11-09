@@ -1,0 +1,25 @@
+GUID 12fd84fa9614616f640a6ee48fef6b09
+Type Tactical
+Rarity Rare
+ID 58208
+
+Size_X 2
+Size_Y 2
+Size_Z 0.075
+
+Calibers 1
+Caliber_0 56204
+
+Spread 1
+Shake 0.85
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58208
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58209
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

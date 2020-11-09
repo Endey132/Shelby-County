@@ -1,0 +1,31 @@
+GUID 52c6a74939914e1896590a678ee7e339
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Campfire
+ID 47210
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Health 300
+Range 4
+Radius 0.02
+Offset 0.19
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 1056
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

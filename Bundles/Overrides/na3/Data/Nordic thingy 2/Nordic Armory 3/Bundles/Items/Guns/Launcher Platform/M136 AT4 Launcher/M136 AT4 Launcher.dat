@@ -1,0 +1,70 @@
+GUID 343adb878f76d9a512b7a0faf5c34d68
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Any
+ID 58250
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.65
+
+Magazine 58251
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Attachment_Calibers 1
+Attachment_Caliber_0 56200
+
+Magazine_Calibers 1
+Magazine_Caliber_0 56045
+
+Firerate 50
+Action Trigger
+
+Gunshot_Rolloff_Distance 1000
+
+Player_Damage 115
+Zombie_Damage 115
+Animal_Damage 115
+Barricade_Damage 300
+Structure_Damage 200
+Vehicle_Damage 950
+Resource_Damage 400
+Object_Damage 500
+Explosive
+Explosion 55107
+
+Range 20
+
+Durability 1
+Wear 100
+
+Spread_Aim 0.1
+Spread_Hip 0.22
+
+Ballistic_Force 12500
+Ballistic_Drop 0.0001
+
+Recoil_Min_X -20
+Recoil_Min_Y 30
+Recoil_Max_X 20
+Recoil_Max_Y 30
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.025
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.05
+
+Should_Delete_Empty_Magazines True
+Allow_Magazine_Change False

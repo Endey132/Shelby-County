@@ -1,0 +1,38 @@
+GUID 3188afe8c6af432e974fdb34c56c88bb
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Cage
+ID 17648
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Health 300
+Range 4
+Offset 0.1
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 65
+Blueprint_0_Supply_2_Amount 6
+Blueprint_0_Supply_3_ID 1450
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Supply_4_ID 1176
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Supply_5_ID 1222
+Blueprint_0_Supply_5_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

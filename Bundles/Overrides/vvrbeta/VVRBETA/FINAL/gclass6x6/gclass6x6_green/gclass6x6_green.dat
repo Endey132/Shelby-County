@@ -1,0 +1,29 @@
+GUID 632cd3c450404b9eb5be9e32a09cd118
+Type Vehicle
+Rarity Rare
+ID 36472
+
+Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 15
+Steer_Max 24
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 500
+
+Health_Min 350
+Health_Max 450
+Health 1150
+
+Trunk_Storage_X 7
+Trunk_Storage_Y 7
+
+Explosion 20
+Cam_Follow_Distance 10

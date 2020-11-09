@@ -1,0 +1,27 @@
+GUID b7ab85f18ffa4f9e85ee09cbc884211d
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 34169
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 8
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 34169
+Blueprint_0_Product 66
+Blueprint_0_Products 4
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Tool 34108
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32

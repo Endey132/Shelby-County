@@ -1,0 +1,81 @@
+GUID 4ee0d7952dc1474eab6417d832f2e8b0
+Type Magazine
+Rarity Rare
+ID 58237
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 20
+Count_Min 5
+Count_Max 20
+
+Calibers 1
+Caliber_0 56005
+
+Spread 1
+Shake 1.4
+Recoil_X 1.3
+Recoil_Y 1.2
+
+Tracer 48
+
+Blueprints 10
+// Packet
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58030
+Blueprint_0_Build 30
+// SVD mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58028
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Build 30
+// PKM box
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58068
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 30
+// SV-98 mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 58113
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Build 30
+// Mosin Nagant stripper clip
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 58147
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Build 30
+// SVD 20rnd mag
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 58237
+Blueprint_5_Build 30
+// SVD 30rnd mag
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 58435
+Blueprint_6_Supply_0_Critical
+Blueprint_6_Build 30
+// DP27 mag
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 58407
+Blueprint_7_Supply_0_Critical
+Blueprint_7_Build 30
+// PKM 200rnd box
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 58405
+Blueprint_8_Supply_0_Critical
+Blueprint_8_Build 30
+// Belt
+Blueprint_9_Type Ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 58465
+Blueprint_9_Build 30

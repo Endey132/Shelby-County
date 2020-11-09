@@ -1,0 +1,30 @@
+GUID 50a8293854cd471db48c58b1e12ea01d
+Type Water
+Useable Consumeable
+ID 41122
+
+Size_X 1
+Size_Y 1
+Size_Z 0.36
+
+Food 80
+Water 60
+Warmth 2000
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 41112
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 329
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 342
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 340
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 42117
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47102

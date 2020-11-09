@@ -1,0 +1,29 @@
+GUID 7125e9cd8f1640d0a1d15ff0cc5cf06b
+Type Vehicle
+ID 36007
+
+Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 17
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 500
+
+Cam_Passenger_Offset -0.1
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20

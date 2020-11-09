@@ -1,0 +1,31 @@
+GUID 53b0672f26f949ad9245e43aa15d2118
+Type Vehicle
+Rarity Epic
+ID 36526
+
+Physics_Profile 77b7aea610a644278445bac353603278
+
+Speed_Min -6
+Speed_Max 30
+
+Steer_Min 18
+Steer_Max 34
+
+Brake 34
+Lift 5
+
+Fuel 2000
+
+Health_Min 600
+Health_Max 700
+Health 1000
+
+LockMouse
+Engine Plane
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+Tires_Invulnerable
+Cam_Follow_Distance 12

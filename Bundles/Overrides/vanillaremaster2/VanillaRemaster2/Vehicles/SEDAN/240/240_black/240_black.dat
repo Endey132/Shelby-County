@@ -1,0 +1,28 @@
+GUID 7660e349433b49a7a7cba917fb3a8cfa
+Type Vehicle
+ID 36370
+Rarity Common
+
+Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
+Fuel_Burn_Rate 1.7
+
+Speed_Min -8
+Speed_Max 19
+
+Steer_Min 20
+Steer_Max 27
+
+Brake 25
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1650
+
+Health_Min 350
+Health_Max 450
+Health 1250
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Explosion 20

@@ -1,0 +1,30 @@
+GUID 92616a783b5a4ab394dfb37a3b6f453b
+Type Farm
+Useable Barricade
+Build Farm
+ID 42184
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Health 1
+Range 4
+Radius 0.05
+Offset 0.47
+
+Growth 12000
+Grow 42185
+
+Explosion 43
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 42124
+Blueprint_0_Supply_1_ID 42122
+Blueprint_0_Supply_2_ID 332
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

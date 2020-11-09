@@ -1,0 +1,36 @@
+GUID 39fb0caeccf94577b5b2da1a80ea3875
+Type Supply
+ID 49109
+
+Size_X 1
+Size_Y 1
+Size_Z 0.46
+
+Blueprints 3
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 69
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 49109
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 69
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 394
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Supply_1_ID 49130
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 72
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Supply_3_ID 69
+Blueprint_2_Supply_3_Amount 1
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 1271
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27

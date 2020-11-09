@@ -1,0 +1,30 @@
+GUID 90343b1aa1124990b7d3046c268e6cfe
+Type Vehicle
+Rarity Mythical
+ID 36263
+
+Physics_Profile b5d226fa493d4dc0b2d3763857a25579
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 26
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 34
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1150
+
+Health_Min 350
+Health_Max 450
+Health 550
+
+Cam_Passenger_Offset -0.15
+
+Trunk_Storage_X 1
+Trunk_Storage_Y 2
+
+Explosion 20

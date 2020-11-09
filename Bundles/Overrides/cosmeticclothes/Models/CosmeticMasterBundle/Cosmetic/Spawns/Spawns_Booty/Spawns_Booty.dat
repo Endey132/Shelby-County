@@ -1,0 +1,25 @@
+GUID a571704b145242f499aff1f2d54f3a7a
+Type Spawn
+ID 10409
+
+Roots 1
+Root_0_Spawn_ID 294
+Root_0_Weight 10
+
+Tables 8
+Table_0_Asset_ID 8836
+Table_0_Weight 10
+Table_1_Asset_ID 8837
+Table_1_Weight 10
+Table_2_Asset_ID 8838
+Table_2_Weight 10
+Table_3_Asset_ID 8839
+Table_3_Weight 10
+Table_4_Asset_ID 8840
+Table_4_Weight 10
+Table_5_Asset_ID 8843
+Table_5_Weight 10
+Table_6_Asset_ID 8844
+Table_6_Weight 10
+Table_7_Asset_ID 8845
+Table_7_Weight 10

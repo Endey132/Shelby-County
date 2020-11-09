@@ -1,0 +1,38 @@
+GUID 8a54121ff98f4cb9bb8c50a2b60f9b84
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 17641
+
+Size_X 3
+Size_Y 2
+Size_Z 0.3
+
+Health 600
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 4
+Storage_Y 3
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 458
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 1451
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

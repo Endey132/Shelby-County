@@ -1,0 +1,48 @@
+GUID ef5173c6bdcd4632a1d2a0abb29deb2c
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 17677
+
+Size_X 3
+Size_Y 2
+Size_Z 0.3
+
+Health 250
+Range 4
+Radius 0.375
+Offset 0.625
+
+Explosion 19
+
+Blueprints 3
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 37
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 62
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Supply_2_ID 75
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 39
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Supply_1_ID 61
+Blueprint_1_Supply_1_Amount 8
+Blueprint_1_Supply_2_ID 75
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Build 27
+Blueprint_2_Type Furniture
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 41
+Blueprint_2_Supply_0_Amount 4
+Blueprint_2_Supply_1_ID 63
+Blueprint_2_Supply_1_Amount 8
+Blueprint_2_Supply_2_ID 75
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Build 27
+
+Asset_Bundle_Version 2

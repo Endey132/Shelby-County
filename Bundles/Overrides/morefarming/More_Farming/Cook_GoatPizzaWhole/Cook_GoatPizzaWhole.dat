@@ -1,0 +1,41 @@
+GUID 312ef46e17674a9fa87445f0acfe35f5
+Type Food
+Useable Consumeable
+ID 41138
+
+Size_X 2
+Size_Y 2
+Size_Z 0.43
+
+Health 20
+Food 100
+Energy 10
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 1162
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 41135
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 41131
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 340
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 42117
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 41138
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 120
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 41139
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 41140
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27

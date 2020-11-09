@@ -1,0 +1,28 @@
+GUID 33862c09a18f47c1b2e96f0889dadfa6
+Type Supply
+ID 48109
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48109
+Blueprint_0_Outputs 7
+Blueprint_0_Output_0_ID 48112
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 48113
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 48114
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 48115
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 48116
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Output_5_ID 48117
+Blueprint_0_Output_5_Amount 1
+Blueprint_0_Output_6_ID 48118
+Blueprint_0_Output_6_Amount 1
+Blueprint_0_Build 27

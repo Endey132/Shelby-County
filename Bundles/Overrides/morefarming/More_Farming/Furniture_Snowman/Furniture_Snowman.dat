@@ -1,0 +1,25 @@
+GUID 5ba05d2087604cf98b94ca139df2830e
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 47244
+
+Size_X 1
+Size_Y 2
+Size_Z 0.49
+
+Health 250
+Range 4
+Radius 0.2
+Offset 0.5
+
+Explosion 41
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 48130
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 47101

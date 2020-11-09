@@ -1,0 +1,29 @@
+GUID f1d2b4794d3749768417d703b22422da
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 34097
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 6
+Height 4
+
+Armor 0.70
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 34097
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Tool 34108
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32

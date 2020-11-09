@@ -1,0 +1,29 @@
+GUID f0e34c8e07b8421e9aff4b309cad2989
+Type Vehicle
+Rarity Rare
+ID 36335
+
+Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
+Fuel_Burn_Rate 1.7
+Traction
+
+Speed_Min -6
+Speed_Max 17
+
+Steer_Min 15
+Steer_Max 27
+
+Brake 26
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 750
+
+Health_Min 350
+Health_Max 450
+Health 950
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20

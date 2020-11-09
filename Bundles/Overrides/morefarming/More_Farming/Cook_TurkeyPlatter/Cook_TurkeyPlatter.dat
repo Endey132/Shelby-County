@@ -1,0 +1,42 @@
+GUID ddc9146186784c6d9533522996e48c48
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 41149
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+
+Health 100
+Range 4
+Radius 0.1
+Offset 0.5
+
+Explosion 28
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 41151
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 42117
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 329
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 342
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 1030
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 41149
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 120
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 41150
+Blueprint_1_Output_0_Amount 6
+Blueprint_1_Build 27

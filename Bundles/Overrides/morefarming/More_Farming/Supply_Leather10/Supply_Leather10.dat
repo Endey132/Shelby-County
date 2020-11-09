@@ -1,0 +1,20 @@
+GUID 74f9e6143e1446fab6d598b00c479db4
+Type Supply
+ID 49105
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 516
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 49105
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 516
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
