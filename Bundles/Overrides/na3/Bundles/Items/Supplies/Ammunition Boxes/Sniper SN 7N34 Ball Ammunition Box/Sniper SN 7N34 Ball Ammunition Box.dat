@@ -1,0 +1,28 @@
+GUID 7fb3d9ea6c3d80203be5f4b4b2b8fecd
+Type Supply
+Rarity Rare
+ID 58235
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 2
+// Crowbar to open
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58235
+Blueprint_0_Tool 58518
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58359
+Blueprint_0_Output_0_Amount 35
+Blueprint_0_Build 27
+// Crowbar to open (Vanilla)
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58235
+Blueprint_0_Tool 1032
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58359
+Blueprint_0_Output_0_Amount 35
+Blueprint_0_Build 27

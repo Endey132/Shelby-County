@@ -1,0 +1,113 @@
+GUID 09bba2aad1a64938a7492905ce413e7b
+Type Magazine
+Rarity Rare
+ID 58529
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 44
+Count_Min 1
+Count_Max 44
+
+Calibers 1
+Caliber_0 56046
+
+Spread 1
+Shake 1.1
+Recoil_X 1.15
+Recoil_Y 1.25
+Ballistic_Damage_Multiplier 1.4
+
+Tracer 48
+
+Blueprints 15
+// Ammunition crate
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58523
+Blueprint_0_Build 30
+// Glock mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58524
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Build 30
+// MP5 mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58525
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 30
+// Vityaz mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 58526
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Build 30
+// M9 mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 58527
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Build 30
+// Grach mag
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 58528
+Blueprint_5_Supply_0_Critical
+Blueprint_5_Build 30
+// PP-2000 mag
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 58529
+Blueprint_6_Build 30
+// Uzi mag
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 58530
+Blueprint_7_Supply_0_Critical
+Blueprint_7_Build 30
+// Uzi 32rnd mag
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 58531
+Blueprint_8_Supply_0_Critical
+Blueprint_8_Build 30
+// P226 mag
+Blueprint_9_Type Ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 58532
+Blueprint_9_Supply_0_Critical
+Blueprint_9_Build 30
+// Colt SMG 32rnd mag
+Blueprint_10_Type Ammo
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 58533
+Blueprint_10_Supply_0_Critical
+Blueprint_10_Build 30
+// Colt SMG 25rnd mag
+Blueprint_11_Type Ammo
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 58534
+Blueprint_11_Supply_0_Critical
+Blueprint_11_Build 30
+// MPX mag
+Blueprint_12_Type Ammo
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 58535
+Blueprint_12_Supply_0_Critical
+Blueprint_12_Build 30
+// Glock 33rnd mag
+Blueprint_13_Type Ammo
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 58536
+Blueprint_13_Supply_0_Critical
+Blueprint_13_Build 30
+// HP Mag
+Blueprint_14_Type Ammo
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 58537
+Blueprint_14_Supply_0_Critical
+Blueprint_14_Build 30

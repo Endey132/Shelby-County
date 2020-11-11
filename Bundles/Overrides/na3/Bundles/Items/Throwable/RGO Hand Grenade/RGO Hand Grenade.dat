@@ -1,0 +1,28 @@
+GUID ab53246b6f7b8b94572f46b399b76ba3
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 58501
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 140
+Zombie_Damage 140
+Animal_Damage 140
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 65
+Resource_Damage 1000
+Object_Damage 500
+Weak_Throw_Force 675
+Strong_Throw_Force 1000
+Boost_Throw_Force_Multiplier 1.15
+
+Range 13
+Fuse_Length 3.2
+Explosion 55109
+
+Explosive
+Explode_On_Impact

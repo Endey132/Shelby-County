@@ -1,0 +1,30 @@
+GUID 807e2fe2d169e684f698b29473f6d730
+Type Magazine
+Rarity Epic
+ID 58201
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 56033
+
+Player_Damage 125
+Zombie_Damage 125
+Animal_Damage 125
+Barricade_Damage 200
+Structure_Damage 175
+Vehicle_Damage 40
+Resource_Damage 150
+Object_Damage 150
+
+Explosive
+Explosion 55114
+
+Range 15
+Tracer 55121
+
+Delete_Empty
