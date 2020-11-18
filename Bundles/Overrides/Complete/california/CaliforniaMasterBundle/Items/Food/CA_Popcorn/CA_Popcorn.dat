@@ -1,0 +1,13 @@
+GUID 81abcf3e14154977821b1aed9993e09a
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 104081
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Quality_Min 50
+
+Food 35
