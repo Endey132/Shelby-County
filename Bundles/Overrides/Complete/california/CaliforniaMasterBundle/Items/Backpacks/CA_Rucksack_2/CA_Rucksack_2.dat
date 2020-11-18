@@ -2,7 +2,7 @@ GUID 8a991f0f41b44e1e8c57e58c098050e1
 Type Backpack
 Rarity Legendary
 Useable Clothing
-ID 104066
+ID 47066
 
 Size_X 2
 Size_Y 2
@@ -22,3 +22,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 3
 Blueprint_1_Build 32
+
+Master_Bundle_Override california.masterbundle
+Bundle_Override_Path /CaliforniaMasterBundle/Items/Backpacks/CA_Rucksack_2

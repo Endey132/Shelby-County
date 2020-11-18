@@ -2,7 +2,7 @@ GUID 7d0d7d666bc14a128398ad1799e12fd0
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 104005
+ID 47005
 
 Size_X 2
 Size_Y 2
@@ -22,3 +22,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override california.masterbundle
+Bundle_Override_Path /CaliforniaMasterBundle/Items/Backpacks/CA_Ghillie_Backpack
