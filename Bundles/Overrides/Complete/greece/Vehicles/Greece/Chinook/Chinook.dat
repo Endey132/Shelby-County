@@ -1,7 +1,7 @@
-GUID b6dd7f172fad4029b71a6ed9629182a4
+GUID 9839eab159d947e9bad0d3ce14d76bef
 Type Vehicle
 Rarity Legendary
-ID 3505
+ID 4005
 
 Speed_Min -2
 Speed_Max 16
@@ -29,3 +29,6 @@ Explosion 20
 Invulnerable
 Tires_Invulnerable
 Asset_Bundle_Version 2
+
+Master_Bundle_Override greece.masterbundle
+Bundle_Override_Path /Vehicles/Greece/Chinook

@@ -1,7 +1,7 @@
-GUID 36dd2f6d30c84c68806d09dcbb321e0e
+GUID 1b5f77c672f64b14a195774807d969c0
 Type Vehicle
 Rarity Uncommon
-ID 3503
+ID 4003
 
 Speed_Min -6
 Speed_Max 13
@@ -27,3 +27,6 @@ Explosion 20
 
 Trunk_Storage_X 7
 Trunk_Storage_Y 5
+
+Master_Bundle_Override greece.masterbundle
+Bundle_Override_Path /Vehicles/Greece/Metafora
