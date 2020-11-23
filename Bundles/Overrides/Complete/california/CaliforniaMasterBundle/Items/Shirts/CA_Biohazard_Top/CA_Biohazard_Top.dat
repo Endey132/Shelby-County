@@ -26,3 +26,6 @@ Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 27
 
 Proof_Fire
+
+Master_Bundle_Override california.masterbundle
+Bundle_Override_Path /CaliforniaMasterBundle/Items/Shirts/CA_BiohazardTop
