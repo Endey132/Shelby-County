@@ -3,7 +3,7 @@ Type Gun
 Rarity Uncommon
 Useable Gun
 Slot Primary
-ID 13005
+ID 13005  
 
 Size_X 5
 Size_Y 2
@@ -87,3 +87,6 @@ Blueprint_1_Supply_0_ID 3005
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override france.masterbundle
+Bundle_Override_Path /Items/France/Guns/Musket
