@@ -1,7 +1,7 @@
-GUID 0df0a7c44d5745ff91d1f2c08f0c5684
+GUID a4b826879a5a4358823ec4fdb63c39bb
 Type Food
 Useable Consumeable
-ID 2010
+ID 12010
 
 Size_X 1
 Size_Y 1
@@ -13,3 +13,6 @@ Vision 20
 Food_Constrains_Water
 
 Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Items/Hawaii/Mushroom_0

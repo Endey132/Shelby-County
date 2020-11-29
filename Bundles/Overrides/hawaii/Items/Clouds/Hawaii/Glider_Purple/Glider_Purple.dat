@@ -1,8 +1,8 @@
-GUID af6496e28dc24294938b2a857f4c8b49
+GUID e2745cc4704948c99b96ccd4c707490a
 Type Cloud
 Rarity Uncommon
 Useable Cloud
-ID 1805
+ID 11805
 
 Size_X 5
 Size_Y 2
@@ -17,3 +17,6 @@ Blueprint_0_Product 66
 Blueprint_0_Build 32
 
 Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /HawaiiMasterBundle/Items/Clouds/Hawaii/Glider_Purple

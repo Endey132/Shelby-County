@@ -1,8 +1,8 @@
-GUID 29aeac2a9f57455da32b2141979458e0
+GUID c55c03b8050d4ec6966a7cb3c70a7822
 Type Pants
 Rarity Uncommon
 Useable Clothing
-ID 2019
+ID 12019
 
 Size_X 2
 Size_Y 2
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Items/Hawaii/AegisLab_Bottom

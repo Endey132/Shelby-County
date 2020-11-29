@@ -1,8 +1,8 @@
-GUID 01350755d7ff4430a1d7ddf34ee21b74
+GUID 2378ee1392c949f9a8af4dd3c8053205
 Type Cloud
 Rarity Uncommon
 Useable Cloud
-ID 1803
+ID 11803
 
 Size_X 5
 Size_Y 2
@@ -17,3 +17,6 @@ Blueprint_0_Product 66
 Blueprint_0_Build 32
 
 Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /HawaiiMasterBundle/Items/Clouds/Hawaii/Glider_Orange
