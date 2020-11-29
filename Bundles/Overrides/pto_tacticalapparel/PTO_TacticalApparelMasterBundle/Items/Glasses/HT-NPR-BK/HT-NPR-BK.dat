@@ -1,8 +1,8 @@
-GUID f47d94423f7c48ae9655147dd03dcd63
+GUID 829e67685f1548a7b49ffa4ea26b0a7a
 Type Glasses
 Rarity Legendary
 Useable Clothing
-ID 34241
+ID 37241
 
 Size_X 2
 Size_Y 1
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Glasses/HT-NPR-BK

@@ -1,8 +1,8 @@
-GUID bdfa6f53310b40bc9fee49d952c88221
+GUID b8aece53fb7b4ae3b11b69c05c3ca7c2
 Type Glasses
 Rarity Rare
 Useable Clothing
-ID 34259
+ID 37259
 
 Size_X 2
 Size_Y 1
@@ -22,3 +22,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Glasses/EP-BK

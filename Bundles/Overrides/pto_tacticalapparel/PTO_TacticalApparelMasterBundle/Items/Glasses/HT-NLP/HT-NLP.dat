@@ -1,8 +1,8 @@
-GUID 81de15890ce5446eaf572bbd328f7e8c
+GUID 3eed8fcbbc854ace99e68d904c513492
 Type Glasses
 Rarity Epic
 Useable Clothing
-ID 34239
+ID 37239
 
 Size_X 2
 Size_Y 1
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Glasses/HT-NLP
