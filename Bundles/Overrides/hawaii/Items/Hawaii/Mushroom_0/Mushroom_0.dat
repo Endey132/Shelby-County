@@ -13,3 +13,6 @@ Vision 20
 Food_Constrains_Water
 
 Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Items/Hawaii/Mushroom_0

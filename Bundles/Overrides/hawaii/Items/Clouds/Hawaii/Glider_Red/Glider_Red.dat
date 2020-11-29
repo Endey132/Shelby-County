@@ -17,3 +17,6 @@ Blueprint_0_Product 66
 Blueprint_0_Build 32
 
 Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /HawaiiMasterBundle/Items/Clouds/Hawaii/Glider_Red
