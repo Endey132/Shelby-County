@@ -1,7 +1,7 @@
-GUID 5419bfa62b764d32bd3fde06c7c69b0d
+GUID fc18935248234c92a9ff4a0ad39c8148
 Type Vehicle
 Rarity Legendary
-ID 36530
+ID 36950
 
 Speed_Min -2
 Speed_Max 25
@@ -28,3 +28,6 @@ Trunk_Storage_Y 5
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/avvtr/avvtr_black

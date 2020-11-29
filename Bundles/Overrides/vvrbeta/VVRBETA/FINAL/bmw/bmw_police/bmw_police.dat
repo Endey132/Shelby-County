@@ -1,6 +1,6 @@
-GUID f7bceea5e5c44cc2b3544189cd73d9ef
+GUID e76927e52bdc4f1a98cac30004c227af
 Type Vehicle
-ID 36498
+ID 36918
 Rarity Rare
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
@@ -28,3 +28,6 @@ Trunk_Storage_X 4
 Trunk_Storage_Y 5
 
 Explosion 20
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/bmw/bmw_police
