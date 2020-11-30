@@ -1,7 +1,7 @@
-GUID dfe67e0084414a41aa10d0503907263a
+GUID c65913ab1a4c4fdcb8b016a3d6453498
 Type Vehicle
 Rarity Mythical
-ID 36306
+ID 436306
 
 Physics_Profile b5d226fa493d4dc0b2d3763857a25579
 Fuel_Burn_Rate 1.7
@@ -28,3 +28,6 @@ Trunk_Storage_X 1
 Trunk_Storage_Y 2
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/f40/f40_white
