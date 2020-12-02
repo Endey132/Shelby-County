@@ -1,7 +1,7 @@
-GUID 46b22a1f1c784a2d984cdb5c195c880f
-
+GUID b3d7751c9297495398c9e8ecc85b8897
 Type Vehicle
-ID 841
+Rarity Uncommon
+ID 10841
 
 Speed_Min -5
 Speed_Max 14
@@ -29,3 +29,6 @@ Trunk_Storage_Y 2
 
 
 Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii_Expansion/Cement_Truck

@@ -1,7 +1,7 @@
-GUID 867fa3d33cc64945af8200100d3592ac
+GUID 647323d313d04b47b6a05938a4e9e0ab
 Type Vehicle
 Rarity Epic
-ID 810
+ID 10810
 
 Speed_Min -4
 Speed_Max 24
@@ -32,3 +32,6 @@ Invulnerable
 Bypass_ID_Limit
 
 Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii/Seaplane

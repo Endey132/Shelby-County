@@ -1,8 +1,7 @@
-GUID 985d5c83825044f58719abb5c625a3da
-
+GUID 3b1db22764b6415ca74304644dd99c62
 Type Vehicle
 Rarity Uncommon
-ID 840
+ID 10840
 
 Speed_Min -5
 Speed_Max 10
@@ -34,3 +33,6 @@ Invulnerable
 Tires_Invulnerable
 
 Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii_Expansion/Bulldozer_0

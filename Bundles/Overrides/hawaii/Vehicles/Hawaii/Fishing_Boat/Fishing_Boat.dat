@@ -1,7 +1,7 @@
-GUID e78921056a95409b928f5061f0832d0f
+GUID af8302e52ab547f4a142f439899dba76
 Type Vehicle
 Rarity Epic
-ID 827
+ID 10827
 
 Speed_Min -4
 Speed_Max 15
@@ -29,3 +29,6 @@ Trunk_Storage_Y 6
 Bypass_ID_Limit
 
 Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii/Fishing_Boat

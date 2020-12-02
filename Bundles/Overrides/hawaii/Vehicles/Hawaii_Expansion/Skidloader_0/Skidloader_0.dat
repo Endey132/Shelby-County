@@ -1,7 +1,7 @@
-GUID 2370ed15d0214a64a328cd52be939c6c
+GUID 387e7e552d7c47a09264edefd254fca5
 Type Vehicle
 Rarity Uncommon
-ID 842
+ID 10842
 
 Speed_Min -5
 Speed_Max 10
@@ -27,3 +27,6 @@ Invulnerable
 Tires_Invulnerable
 
 Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii_Expansion/Skidloader_0

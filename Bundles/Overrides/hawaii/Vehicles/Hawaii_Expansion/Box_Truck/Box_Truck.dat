@@ -1,7 +1,7 @@
-GUID 3233ebd2931a469fb39deeb6182ef23b
+GUID f03a457220554a1499887b4816da6eca
 Type Vehicle
 Rarity Uncommon
-ID 847
+ID 10847
 
 Speed_Min -6
 Speed_Max 12
@@ -31,3 +31,6 @@ Trunk_Storage_Y 5
 Bypass_ID_Limit
 
 Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii_Expansion/Box_Truck
