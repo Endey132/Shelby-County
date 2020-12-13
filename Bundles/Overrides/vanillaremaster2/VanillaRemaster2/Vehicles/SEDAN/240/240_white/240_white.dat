@@ -1,6 +1,6 @@
-GUID 8f9fe68df1054b16ab134423478e63c7
+GUID 5f9ebaaa39344a4e9c77dedfbb52f7f3
 Type Vehicle
-ID 36376
+ID 363761
 Rarity Common
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
@@ -26,3 +26,6 @@ Trunk_Storage_X 5
 Trunk_Storage_Y 5
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/SEDAN/240_white
