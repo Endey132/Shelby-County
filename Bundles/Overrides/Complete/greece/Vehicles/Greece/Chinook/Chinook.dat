@@ -31,4 +31,4 @@ Tires_Invulnerable
 Asset_Bundle_Version 2
 
 Master_Bundle_Override greece.masterbundle
-Bundle_Override_Path /Vehicles/Greece/Chinook
+Bundle_Override_Path /GreeceMasterBundle/Vehicles/Greece/Chinook

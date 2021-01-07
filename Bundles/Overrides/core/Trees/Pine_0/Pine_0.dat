@@ -22,4 +22,4 @@ Christmas_Redirect 99848480a28f41ebb3d752a47fd5b023
 
 
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Trees/Pine_0
+Bundle_Override_Path /CoreMasterBundle/Trees/Pine_0
