@@ -1,0 +1,29 @@
+GUID 77a8bd97397f49d9ac613859110fdbb1
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 15768
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Armor 0.1
+
+Width 2
+Height 1
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 15768
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Accessories/Golden_Neck_Chain

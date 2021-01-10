@@ -1,0 +1,22 @@
+GUID 9e7f07d156634ff6a5a58a605e9e05cd
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 15837
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Hair
+Beard
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 15837
+Blueprint_0_Product 66
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Outfits/Eyepatch

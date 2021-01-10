@@ -1,0 +1,36 @@
+GUID 714d162eea16425a9e9a1dcbb714ac3d
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 15954
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Armor 0.95
+
+Beard
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 15954
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 66
+Blueprint_2_Supply_0_Amount 5
+Blueprint_2_Build 32
+Blueprint_2_Conditions 1
+Blueprint_2_Condition_0_Type Holiday
+Blueprint_2_Condition_0_Value Halloween
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Halloween/Lantern

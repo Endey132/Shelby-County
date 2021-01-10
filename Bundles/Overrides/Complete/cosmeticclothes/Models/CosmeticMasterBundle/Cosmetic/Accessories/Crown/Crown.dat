@@ -1,0 +1,28 @@
+GUID a77928ce2f9b4977bd4c2e43f817fbc5
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 15824
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 15824
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Accessories/Crown
