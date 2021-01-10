@@ -1,0 +1,33 @@
+GUID 05506278e0d845f791f9e506676e90a6
+Type Shirt
+Rarity Common
+Useable Clothing
+ID 8776
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 3
+
+Armor 0.95
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 8776
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 165
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 66
+Blueprint_2_Supply_1_Amount 2
+Blueprint_2_Build 32

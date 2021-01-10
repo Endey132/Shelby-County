@@ -1,0 +1,26 @@
+GUID 5f693279ddcb4d738568ff25f46d1407
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 8925
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Hair
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 8926
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27

@@ -1,0 +1,26 @@
+GUID fdeb13ad56604724a15ac55c8da330ee
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 8815
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Armor 0.1
+
+Width 1
+Height 1
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 8815
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
