@@ -1,9 +1,9 @@
-GUID 87838b7f622c4a53886bf9970c947a7f
+GUID 9cce082f373a4b56a89379780ebd7495
 
 Type Fuel
 Rarity Epic
 Useable Fuel
-ID 57341
+ID 10001
 
 Size_X 3
 Size_Y 3
@@ -21,3 +21,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Items/Civilian/Metro_Gas_Large

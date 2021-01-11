@@ -1,0 +1,17 @@
+GUID c883671e0e57478fb68374861ecf0e2e
+
+Type Fuel
+Rarity Rare
+Useable Fuel
+ID 10000
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Fuel 500
+
+Asset_Bundle_Version 3
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Items/Civilian/Metro_Gas
