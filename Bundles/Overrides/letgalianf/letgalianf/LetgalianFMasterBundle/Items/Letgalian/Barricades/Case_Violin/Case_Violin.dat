@@ -1,0 +1,35 @@
+GUID 02bfeb27946f4f1dbca1cf4a71a0d6a6
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 27685
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 200
+Range 4
+Offset 0.2
+
+Storage_X 5
+Storage_Y 2
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override letgalianf.masterbundle
+Bundle_Override_Path Items/Letgalian/Barricades/Case_Violin
