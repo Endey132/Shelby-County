@@ -1,8 +1,8 @@
-GUID d005694fd1af4b3aab68448ecc788f1e
+GUID 9d6b71add867411cbf624e52c44feb81
 Type Vest
 Rarity Rare
 Useable Clothing
-ID 34161
+ID 10004
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.70
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34161
+Blueprint_0_Supply_0_ID 10004
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/711-TC-TA

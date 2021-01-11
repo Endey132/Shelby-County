@@ -1,8 +1,8 @@
-GUID efa3c4a5c67244c69bf9f298518e564d
+GUID bbc9b7fd80d64097a62bc743205cc9e1
 Type Vest
 Rarity Mythical
 Useable Clothing
-ID 34922
+ID 10009
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.10
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34922
+Blueprint_0_Supply_0_ID 10009
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/A-JA-T
