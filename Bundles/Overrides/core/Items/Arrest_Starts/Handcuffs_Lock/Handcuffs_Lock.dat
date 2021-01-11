@@ -1,8 +1,8 @@
-GUID a02639d65d79438281af15f22b7632f9
+GUID 27457ac477434f8aae0bcd5d82a899bb
 Type Arrest_Start
 Rarity Uncommon
 Useable Arrest_Start
-ID 1195
+ID 2195
 
 Size_X 1
 Size_Y 1
@@ -17,4 +17,4 @@ Blueprint_0_Product 67
 Blueprint_0_Build 27
 
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Arrest_Starts/Handcuffs_Lock
+Bundle_Override_Path /Items/Arrest_Starts/Handcuffs_LockHandcuffs_Lock
