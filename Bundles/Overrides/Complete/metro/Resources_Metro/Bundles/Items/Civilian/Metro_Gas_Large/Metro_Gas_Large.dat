@@ -23,4 +23,4 @@ Blueprint_0_Skill Craft
 Blueprint_0_Build 27
 
 Master_Bundle_Override metro.masterbundle
-Bundle_Override_Path Items/Civilian/Metro_Gas_Large
+Bundle_Override_Path /Items/Civilian/Metro_Gas_Large

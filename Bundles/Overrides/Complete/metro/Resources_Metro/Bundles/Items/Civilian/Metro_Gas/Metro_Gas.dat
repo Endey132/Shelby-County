@@ -14,4 +14,4 @@ Fuel 500
 Asset_Bundle_Version 3
 
 Master_Bundle_Override metro.masterbundle
-Bundle_Override_Path Items/Civilian/Metro_Gas
+Bundle_Override_Path /Items/Civilian/Metro_Gas
