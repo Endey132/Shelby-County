@@ -1,0 +1,24 @@
+GUID ba601c27cf8f44369b7a4f927614994d
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 15820
+
+Size_X 2
+Size_Y 2
+Size_Z 0.375
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 15820
+Blueprint_0_Product 61
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 61
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Accessories/Bucket_Helmet

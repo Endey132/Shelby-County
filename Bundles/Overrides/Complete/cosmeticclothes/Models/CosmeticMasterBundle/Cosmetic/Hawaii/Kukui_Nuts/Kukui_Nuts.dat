@@ -1,0 +1,29 @@
+GUID 6cdc0187ee74482ab7d4350d6e2a7ddd
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 15921
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Width 1
+Height 2
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 15921
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Hawaii/Kukui_Nuts

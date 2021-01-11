@@ -1,0 +1,28 @@
+GUID 94315b1891dd4a13a6c50cd264a50bcd
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 15858
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 15857
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Master_Bundle_Override cosmeticclothes.masterbundle
+Bundle_Override_Path /Models/CosmeticMasterBundle/Cosmetic/Outfits/Explorer_Hat
