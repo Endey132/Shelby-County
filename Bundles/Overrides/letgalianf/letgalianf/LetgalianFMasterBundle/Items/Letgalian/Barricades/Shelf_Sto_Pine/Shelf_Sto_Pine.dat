@@ -1,0 +1,31 @@
+GUID 95701f207a114a3ea80e466eb5bef60f
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 27615
+
+Size_X 3
+Size_Y 2
+Size_Z 0.45
+
+Health 300
+Range 4
+Radius 0.5
+Offset 0.75
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override letgalianf.masterbundle
+Bundle_Override_Path Items/Letgalian/Barricades/Shelf_Sto_Pine

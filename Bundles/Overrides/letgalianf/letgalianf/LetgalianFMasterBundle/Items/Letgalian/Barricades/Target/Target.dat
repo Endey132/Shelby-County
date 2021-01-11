@@ -1,0 +1,32 @@
+GUID f6a877a12e964f129ada611e5fc5f456
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 27621
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Health 50
+Range 4
+Radius 0.4
+Offset 0.75
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override letgalianf.masterbundle
+Bundle_Override_Path Items/Letgalian/Barricades/Target
