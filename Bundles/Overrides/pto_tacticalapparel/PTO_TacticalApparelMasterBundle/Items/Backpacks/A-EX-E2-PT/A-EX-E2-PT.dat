@@ -1,8 +1,8 @@
-GUID 52667b9ee54a483ca45c898b00cd9e2e
+GUID 460f27c7e4ab4f74b24f763d6a9beb9b
 Type Backpack
 Rarity Mythical
 Useable Clothing
-ID 34918
+ID 37918
 
 Size_X 2
 Size_Y 2
@@ -22,3 +22,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/A-EX-E2-PT

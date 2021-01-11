@@ -1,8 +1,8 @@
-GUID c1c5980e9bda473eac5b9bb52d8ee881
+GUID 2952868eb1504a33a66398f8d7072c1b
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34207
+ID 37207
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-TP-BK

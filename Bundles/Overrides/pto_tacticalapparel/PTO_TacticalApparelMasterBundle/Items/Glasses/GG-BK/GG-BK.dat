@@ -1,8 +1,8 @@
-GUID 33749be5810e46bfa98f439da82ada23
+GUID 7104a242a23748658ff1675e3bec4c4e
 Type Glasses
 Rarity Rare
 Useable Clothing
-ID 34261
+ID 36261
 
 Size_X 2
 Size_Y 1
@@ -22,3 +22,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Glasses/GG-BK

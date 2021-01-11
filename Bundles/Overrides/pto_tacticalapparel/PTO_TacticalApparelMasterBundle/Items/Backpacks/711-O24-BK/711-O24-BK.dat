@@ -1,8 +1,8 @@
-GUID f172a96d7ba24f7db9563a18604902bb
+GUID e2a91589451d4c838ab65a26b1ff6fd8
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34180
+ID 37180
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+aster_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/711-O24-BK

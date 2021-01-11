@@ -1,8 +1,8 @@
-GUID 20ac77f22b874ea0ae9cf67317fcce13
+GUID dfe7cc6d51d7426481db99e7f0fe13b7
 Type Backpack
 Rarity Rare
 Useable Clothing
-ID 34191
+ID 37191
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-E2-TA

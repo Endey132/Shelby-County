@@ -1,8 +1,8 @@
-GUID f11b9c26c49647e7b6977f8b7eceab77
+GUID 3abb28b5dd404a38b7a2d08e04e30190
 Type Backpack
 Rarity Rare
 Useable Clothing
-ID 34164
+ID 37164
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/711-D12-TA

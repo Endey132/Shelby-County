@@ -1,8 +1,8 @@
-GUID b7ab85f18ffa4f9e85ee09cbc884211d
+GUID 794522d1cd2f4df2869e9e92b428d822
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34169
+ID 37169
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/711-D24-RG

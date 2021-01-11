@@ -1,8 +1,8 @@
-GUID 6fb2b53e64d3486a9aa84183ee0bc63a
+GUID c36dca41a7ec41c3bbb48ad6d8bd68db
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34201
+ID 37201
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-HR-BK

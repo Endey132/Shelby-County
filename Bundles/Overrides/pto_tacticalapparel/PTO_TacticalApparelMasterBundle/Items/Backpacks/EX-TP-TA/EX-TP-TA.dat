@@ -1,8 +1,8 @@
-GUID 91b52e210f60469ba5dfbb1f89b72b84
+GUID 2c116a171cdd4e1cb42537eef2805c40
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34206
+ID 37206
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-TP-TA

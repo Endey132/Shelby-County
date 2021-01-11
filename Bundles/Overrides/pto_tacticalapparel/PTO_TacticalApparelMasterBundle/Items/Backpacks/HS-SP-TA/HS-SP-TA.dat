@@ -1,8 +1,8 @@
-GUID a15d7737327346dc81d18af49edd0f0f
+GUID 4de66b777f88445fb74f3f669412e803
 Type Backpack
 Rarity Rare
 Useable Clothing
-ID 34105
+ID 37105
 
 Size_X 1
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/HS-SP-TA

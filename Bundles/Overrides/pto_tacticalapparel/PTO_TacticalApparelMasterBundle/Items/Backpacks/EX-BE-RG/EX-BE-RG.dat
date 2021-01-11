@@ -1,8 +1,8 @@
-GUID 88d877bce2c9490bbd93882560de17bb
+GUID fb0f1489a5a94e2088239bda2f6080fa
 Type Backpack
 Rarity Legendary
 Useable Clothing
-ID 34199
+ID 37199
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-BE-RG

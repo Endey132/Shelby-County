@@ -1,8 +1,8 @@
-GUID db81b258df1846c3a4b8d1e7ff381c1e
+GUID 2dbe0893e47c4f67b40417faddbc3d17
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34212
+ID 37212
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/TAD-FP-TA

@@ -1,8 +1,8 @@
-GUID 86d84c4c082048d3943869249d46ef69
+GUID a219b8fabf1243dabf887ff1c1b8c145
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34196
+ID 37196
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-E3-RG

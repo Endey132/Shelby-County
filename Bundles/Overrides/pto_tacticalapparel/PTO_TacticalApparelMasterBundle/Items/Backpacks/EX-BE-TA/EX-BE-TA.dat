@@ -1,8 +1,8 @@
-GUID 7313929cbe714ec8b707c4d49043e89b
+GUID 6515b29ad95842f59f87374fe0ab8ab9
 Type Backpack
 Rarity Legendary
 Useable Clothing
-ID 34197
+ID 37197
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/EX-BE-TA

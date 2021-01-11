@@ -1,8 +1,8 @@
-GUID edd798c4a99941e294c3592e4143cf28
+GUID 20e29f7b098a4c0985c477fe44986f7f
 Type Backpack
 Rarity Epic
 Useable Clothing
-ID 34059
+ID 37059
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/TP-AP-MC

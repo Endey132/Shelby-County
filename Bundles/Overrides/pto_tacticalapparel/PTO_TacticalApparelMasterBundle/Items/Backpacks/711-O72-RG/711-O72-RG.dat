@@ -1,8 +1,8 @@
-GUID 36edf13a289442f29afeeedf284147d6
+GUID 8adf68163e804f22a2432cbeac9eccaf
 Type Backpack
 Rarity Legendary
 Useable Clothing
-ID 34184
+ID 37184
 
 Size_X 2
 Size_Y 2
@@ -25,3 +25,7 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Backpacks/711-O72-RG
