@@ -1,6 +1,6 @@
-GUID 2b21b558f7e947b69a95dce83cf34519
+GUID 587b5b49b44a483aa8fdc3bb55b791c4
 Type Vehicle
-ID 36375
+ID 48375
 Rarity Common
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
@@ -26,3 +26,6 @@ Trunk_Storage_X 5
 Trunk_Storage_Y 5
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/SEDAN/240_red

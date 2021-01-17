@@ -29,4 +29,4 @@ Trunk_Storage_X 7
 Trunk_Storage_Y 5
 
 Master_Bundle_Override greece.masterbundle
-Bundle_Override_Path /Vehicles/Greece/Metafora
+Bundle_Override_Path /GreeceMasterBundle/Vehicles/Greece/Metafora

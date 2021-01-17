@@ -1,8 +1,8 @@
-GUID 0f4dbad68a71426e895d069213bee482
+GUID 6966b7117b074f5a92685035800f9a81
 Type Vest
 Rarity Rare
 Useable Clothing
-ID 34158
+ID 10007
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.70
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34158
+Blueprint_0_Supply_0_ID 10007
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/711-TV-TA

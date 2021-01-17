@@ -27,5 +27,6 @@
 	"Prevent_Building_Near_Spawnpoint_Radius": 0,
 	"Allow_Holiday_Redirects": false,
 	"Allow_Skills": true,
-	"Tips": 5
+	"Tips": 5,
+	"Can_Use_Bundles": false
 }

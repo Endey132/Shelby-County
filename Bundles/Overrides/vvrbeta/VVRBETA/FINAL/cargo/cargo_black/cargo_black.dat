@@ -1,7 +1,7 @@
-GUID 1d38c7fcb97447cd830677736bb6e24a
+GUID beaf47c39b5c47e9964b46607a10e77d
 Type Vehicle
 Rarity Rare
-ID 36500
+ID 36920
 
 Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
 Fuel_Burn_Rate 1.7
@@ -30,3 +30,6 @@ Cam_Follow_Distance 10
 
 Bumper_Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/cargo/cargo_black

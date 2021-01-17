@@ -1,7 +1,7 @@
-GUID e6792f69eff544abbf36821201953140
+GUID e8311482b71e4a09964640cc58ca0f90
 Type Vehicle
 Rarity Mythical
-ID 36564
+ID 36984
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
 Fuel_Burn_Rate 1.7
@@ -28,3 +28,6 @@ Trunk_Storage_X 2
 Trunk_Storage_Y 2
 
 Explosion 20
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/Chiron/Chiron_purple
