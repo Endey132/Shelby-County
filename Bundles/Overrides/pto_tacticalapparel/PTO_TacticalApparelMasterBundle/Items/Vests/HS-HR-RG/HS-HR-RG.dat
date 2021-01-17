@@ -1,8 +1,8 @@
-GUID e40efc81ebda45a982baf435175fa408
+GUID 8c29652924b246e992ec49bfc95064ad
 Type Vest
 Rarity Rare
 Useable Clothing
-ID 34092
+ID 10019
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34092
+Blueprint_0_Supply_0_ID 10019
 Blueprint_0_Product 66
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/HS-HR-RG

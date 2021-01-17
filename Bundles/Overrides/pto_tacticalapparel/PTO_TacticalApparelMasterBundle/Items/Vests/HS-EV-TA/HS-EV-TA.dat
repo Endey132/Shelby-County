@@ -1,8 +1,8 @@
-GUID 2e76936e0e634cb7a61b39becee048c6
+GUID 7771b6693356481db8999245dba6f29e
 Type Vest
 Rarity rare
 Useable Clothing
-ID 34093
+ID 10015
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.70
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34093
+Blueprint_0_Supply_0_ID 10015
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/HS-EV-TA

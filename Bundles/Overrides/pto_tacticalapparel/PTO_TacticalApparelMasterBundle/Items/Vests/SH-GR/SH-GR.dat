@@ -1,8 +1,8 @@
-GUID dd2507b88390426096efcd3ab541086f
+GUID 284d1170d8c347fa8f7663ab9d56fdc8
 Type Vest
 Rarity Uncommon
 Useable Clothing
-ID 34255
+ID 10033
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34255
+Blueprint_0_Supply_0_ID 10033
 Blueprint_0_Product 66
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/SH-GR

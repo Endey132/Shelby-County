@@ -1,8 +1,8 @@
-GUID 2004a7af17164b33bced2982f707fdc1
+GUID 93bcff54d774467397dd567a00bf01f2
 Type Vest
 Rarity Epic
 Useable Clothing
-ID 34096
+ID 10023
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.70
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34096
+Blueprint_0_Supply_0_ID 10023
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/HS-LC-TA
