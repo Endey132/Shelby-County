@@ -1,9 +1,9 @@
-GUID bed57b7cf8a24e4882032cd7d3d1a28c
+GUID 6bbeb08b5cbe44bfa2f544e5e4ca4b73
 Type Melee
 Rarity Uncommon
 Useable Melee
 Slot None
-ID 21378
+ID 19378
 
 Size_X 1
 Size_Y 1
@@ -35,3 +35,6 @@ Resource_Damage 0
 Object_Damage 0
 
 Durability 0
+
+Master_Bundle_Override multi_carkeys.masterbundle
+Bundle_Override_Path /_Mods/Multi's Carkeys/carkey_traditional
