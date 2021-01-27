@@ -1,8 +1,8 @@
-GUID c5a8d4d9eead4fceb9227463839fceb5
+GUID 2b0b84eec67c4f4ba2d897862de0757a
 Type Water
 Rarity Rare
 Useable Consumeable
-ID 42262
+ID 32262
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Size_Z 0.25
 Water 20
 Disinfectant 4
 Health 4
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_CupMead

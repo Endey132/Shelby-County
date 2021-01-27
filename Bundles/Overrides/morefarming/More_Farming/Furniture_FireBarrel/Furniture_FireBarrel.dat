@@ -1,9 +1,9 @@
-GUID a23b6a1138af42b1b47f177ab2414a2d
+GUID 68e8ec02144f4f31947b40e8dbc92ff4
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Campfire
-ID 47232
+ID 37232
 
 Size_X 2
 Size_Y 2
@@ -26,4 +26,7 @@ Blueprint_0_Supply_1_Amount 4
 Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_FireBarrel

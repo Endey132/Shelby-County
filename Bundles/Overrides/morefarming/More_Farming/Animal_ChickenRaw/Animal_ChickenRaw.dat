@@ -1,7 +1,7 @@
-GUID fe7bbecccab441f0ab542180aacf83f3
+GUID 19b8e2fab07d48bfbf5db397af187e5e
 Type Food
 Useable Consumeable
-ID 41101
+ID 31101
 
 Size_X 1
 Size_Y 1
@@ -10,3 +10,6 @@ Size_Z 0.28
 Health 5
 Food 20
 Virus 35
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_ChickenRaw

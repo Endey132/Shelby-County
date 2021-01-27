@@ -1,6 +1,6 @@
-GUID 9190eb3d287a49f28d353e4afda1cccb
+GUID ab616f1b3ccf4b4380509bbac21ad151
 Type Magazine
-ID 48111
+ID 38111
 
 Size_X 1
 Size_Y 1
@@ -18,9 +18,12 @@ Tracer 48111
 Blueprints 1
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 48111
+Blueprint_0_Supply_0_ID 38111
 Blueprint_0_Supply_0_Critical
-Blueprint_0_Supply_1_ID 49130
+Blueprint_0_Supply_1_ID 39130
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 48111
+Blueprint_0_Output_0_ID 38111
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_GuitarScore01

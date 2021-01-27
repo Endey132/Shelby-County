@@ -1,7 +1,7 @@
-GUID 622e752ab5d8452b8b5835bffbb94a58
+GUID 08de565c893647fcaf4a7a573e0d1771
 Type Food
 Useable Consumeable
-ID 43117
+ID 33117
 
 Size_X 2
 Size_Y 1
@@ -9,3 +9,6 @@ Size_Z 0.22
 
 Food 20
 Virus 25
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Fishing_Eel

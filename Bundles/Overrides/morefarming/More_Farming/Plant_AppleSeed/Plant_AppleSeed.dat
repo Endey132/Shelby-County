@@ -1,8 +1,8 @@
-GUID 8c6f15de576042cd9a991be9906ee6e8
+GUID 5ec8ef7d04164f15b9c7f1f288789e16
 Type Farm
 Useable Barricade
 Build Farm
-ID 42105
+ID 32105
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.25
 Offset 0.95
 
 Growth 12000
-Grow 42106
+Grow 32106
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42106
+Blueprint_0_Supply_0_ID 32106
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_AppleSeed

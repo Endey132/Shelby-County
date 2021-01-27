@@ -1,8 +1,8 @@
-GUID e52320a144d741d5b42523f27f3eefe1
+GUID 77b1a4343edc46f0b0c191da0581d320
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 47267
+ID 37267
 
 Size_X 2
 Size_Y 2
@@ -25,4 +25,7 @@ Blueprint_0_Supply_1_Amount 6
 Blueprint_0_Tool 138
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_CouchLeatherS

@@ -1,7 +1,7 @@
-GUID eac86a294ca2495d899f6b67c30fdf71
+GUID dcc195858e734186a04b3830047b0511
 Type Food
 Useable Consumeable
-ID 43115
+ID 33115
 
 Size_X 3
 Size_Y 1
@@ -9,3 +9,6 @@ Size_Z 0.32
 
 Food 40
 Virus 25
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Fishing_Crab

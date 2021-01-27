@@ -1,8 +1,8 @@
-GUID 8320f469a7df4d1e851091f893488c08
+GUID 03d110c8fd12408db53a1f8f87081fc5
 Type Water
 Rarity Rare
 Useable Consumeable
-ID 42261
+ID 32261
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Size_Z 0.25
 Water 20
 Disinfectant 4
 Health 4
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_CupAle

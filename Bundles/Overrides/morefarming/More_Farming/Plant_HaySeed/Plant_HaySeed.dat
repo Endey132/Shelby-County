@@ -1,8 +1,8 @@
-GUID af026194d0f04ced9fa827ad44fce96a
+GUID 4afaa75c09d64d23ad30dba8bf911de8
 Type Farm
 Useable Barricade
 Build Farm
-ID 42232
+ID 32232
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.25
 Offset 0.95
 
 Growth 12000
-Grow 42233
+Grow 32233
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42233
+Blueprint_0_Supply_0_ID 32233
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_HaySeed

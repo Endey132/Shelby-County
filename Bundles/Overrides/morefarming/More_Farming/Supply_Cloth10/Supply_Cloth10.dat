@@ -1,6 +1,6 @@
-GUID 0edb5791c06f46aca312ff54758cded3
+GUID 2e176d31ec0846a284a8ae36be38f029
 Type Supply
-ID 49103
+ID 39103
 
 Size_X 1
 Size_Y 1
@@ -13,7 +13,7 @@ Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49103
+Blueprint_1_Supply_0_ID 39103
 Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 66
 Blueprint_1_Output_0_Amount 10
@@ -25,3 +25,6 @@ Blueprint_2_Outputs 1
 Blueprint_2_Output_0_ID 66
 Blueprint_2_Output_0_Amount 4
 Blueprint_2_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Cloth10

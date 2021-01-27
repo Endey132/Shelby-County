@@ -1,7 +1,7 @@
-GUID a6cfa8dc13ae4af6814491846dbf717c
+GUID 0867cf4a57ef4d13abf0b492c08e3ffe
 Type Water
 Useable Consumeable
-ID 42230
+ID 32230
 
 Size_X 1
 Size_Y 1
@@ -19,9 +19,12 @@ Blueprint_0_Supply_0_ID 83
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Supply_1_ID 462
 Blueprint_0_Supply_1_Amount 1
-Blueprint_0_Supply_2_ID 42228
+Blueprint_0_Supply_2_ID 32228
 Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Tool 1030
 Blueprint_0_Level 2
 Blueprint_0_Skill Cook
-Blueprint_0_Build 47102
+Blueprint_0_Build 37102
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_HotChocolate

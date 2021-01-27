@@ -1,8 +1,8 @@
-GUID f4a3be274278453196ba36ba6fd38c98
+GUID 43d19b532f774b8383da633f7dce7866
 Type Farm
 Useable Barricade
 Build Farm
-ID 42182
+ID 32182
 
 Size_X 1
 Size_Y 1
@@ -14,7 +14,7 @@ Radius 0.05
 Offset 0.47
 
 Growth 12000
-Grow 42183
+Grow 32183
 
 Explosion 43
 Vulnerable
@@ -22,7 +22,10 @@ Vulnerable
 Blueprints 1
 Blueprint_0_Type Utilities
 Blueprint_0_Supplies 3
-Blueprint_0_Supply_0_ID 42124
-Blueprint_0_Supply_1_ID 42128
+Blueprint_0_Supply_0_ID 32124
+Blueprint_0_Supply_1_ID 32128
 Blueprint_0_Supply_2_ID 332
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_FlowerPachiraSeed

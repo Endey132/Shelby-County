@@ -1,8 +1,8 @@
-GUID 5ba05d2087604cf98b94ca139df2830e
+GUID 837787f8b0ea4e2fafc4f4843287e88a
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 47244
+ID 37244
 
 Size_X 1
 Size_Y 2
@@ -20,6 +20,9 @@ Blueprint_0_Type Furniture
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 66
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Tool 48130
+Blueprint_0_Tool 38130
 Blueprint_0_Tool_Critical
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Snowman

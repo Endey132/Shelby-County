@@ -1,6 +1,6 @@
-GUID 74f9e6143e1446fab6d598b00c479db4
+GUID 609862b2fbe7482a9e5829ffa32a16f3
 Type Supply
-ID 49105
+ID 39105
 
 Size_X 1
 Size_Y 1
@@ -13,8 +13,11 @@ Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49105
+Blueprint_1_Supply_0_ID 39105
 Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 516
 Blueprint_1_Output_0_Amount 10
 Blueprint_1_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Leather10

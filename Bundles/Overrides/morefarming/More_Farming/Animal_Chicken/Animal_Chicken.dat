@@ -1,6 +1,6 @@
-GUID f4f5c3e36b00440c8f48881311dfe8df
+GUID f5de744296334e8a8ccfbc6281146f40
 Type Animal
-ID 41100
+ID 31100
 
 Speed_Run 4
 Speed_Walk 0.9
@@ -9,9 +9,12 @@ Behaviour Ignore
 
 Health 30
 
-Reward_ID 41101
+Reward_ID 31101
 Reward_XP 5
 Reward_Min 1
 Reward_Max 2
 
 Panics 2
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_Chicken

@@ -1,8 +1,8 @@
-GUID 3ba3454cd99d478a9e2f6a212f630d6d
+GUID b59cfcbf065c4a7b924d80739e11e949
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 47152
+ID 37152
 
 Size_X 2
 Size_Y 1
@@ -20,11 +20,14 @@ Blueprint_0_Type Barricade
 Blueprint_0_Supplies 3
 Blueprint_0_Supply_0_ID 63
 Blueprint_0_Supply_0_Amount 6
-Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_ID 32
 Blueprint_0_Supply_1_Amount 2
 Blueprint_0_Supply_2_ID 71
 Blueprint_0_Supply_2_Amount 2
 Blueprint_0_Tool 138
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_FencePine

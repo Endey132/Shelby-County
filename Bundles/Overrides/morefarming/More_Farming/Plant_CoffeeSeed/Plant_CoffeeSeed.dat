@@ -1,8 +1,8 @@
-GUID aaa44bc6463f42809ff3c1bee884c335
+GUID 2458d8d65f864663932928cfdf29d2cb
 Type Farm
 Useable Barricade
 Build Farm
-ID 42101
+ID 32101
 
 Size_X 1
 Size_Y 1
@@ -14,7 +14,10 @@ Radius 0.25
 Offset 0.95
 
 Growth 12000
-Grow 42101
+Grow 32101
 
 Explosion 43
 Vulnerable
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_CoffeeSeed

@@ -1,8 +1,8 @@
-GUID be4f5f9d585441b7a2d837fd8e84e055
+GUID 7a4d8fa77cb6425b96f74fe5d415276f
 Type Farm
 Useable Barricade
 Build Farm
-ID 42210
+ID 32210
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.25
 Offset 0.95
 
 Growth 12000
-Grow 42211
+Grow 32211
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42211
+Blueprint_0_Supply_0_ID 32211
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_CacaoSeed

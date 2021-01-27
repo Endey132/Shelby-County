@@ -1,6 +1,6 @@
-GUID f4803b2d60b4486fb10daf9580a996f5
+GUID b76047eabd9845c29fbd3b131eaa4059
 Type Supply
-ID 48130
+ID 38130
 
 Size_X 2
 Size_Y 2
@@ -16,6 +16,9 @@ Blueprint_0_Supply_3_ID 256
 Blueprint_0_Supply_4_ID 255
 Blueprint_0_Supply_5_ID 258
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 48130
+Blueprint_0_Output_0_ID 38130
 Blueprint_0_Output_0_Amount 1
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_OrnamentKit

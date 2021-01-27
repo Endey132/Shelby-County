@@ -1,8 +1,8 @@
-GUID fb26d6c39d8742c7a5e2a288ab3be957
+GUID d93031a7e3be4664bc398d13db1e0ab6
 Type Barricade
 Useable Barricade
 Build Torch
-ID 47250
+ID 37250
 
 Size_X 1
 Size_Y 1
@@ -20,6 +20,9 @@ Blueprint_0_Type Furniture
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 67
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Tool 48130
+Blueprint_0_Tool 38130
 Blueprint_0_Tool_Critical
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_OrnamentBallSilver

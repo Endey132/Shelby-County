@@ -1,10 +1,13 @@
-GUID 74ed96a98d2545ef9ea777e9df0e308a
+GUID b62099117f6e45ebaa6bfd20ce264200
 Type Food
 Useable Consumeable
-ID 41150
+ID 31150
 
 Size_X 1
 Size_Y 1
 Size_Z 0.38
 
 Food 30
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_TurkeyPlate

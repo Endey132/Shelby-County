@@ -1,9 +1,9 @@
-GUID 6e331cbdeb9a45dbb6988a82ef46b7ae
+GUID 8448cfbd5093423cb78856224944d44e
 Type Barricade
 Rarity Uncommon
 Useable Barricade
 Build Door
-ID 47101
+ID 37101
 
 Size_X 1
 Size_Y 2
@@ -21,4 +21,7 @@ Blueprint_0_Type Barricade
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 281
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_DoorSlidingMaple

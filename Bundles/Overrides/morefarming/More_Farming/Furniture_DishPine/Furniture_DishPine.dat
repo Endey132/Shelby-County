@@ -1,8 +1,8 @@
-GUID d84a496e194d486babb73b4d54b9900e
+GUID 2ee076cb23bf48bcacfd0ad9f748ed75
 Type Storage
 Useable Barricade
 Build Storage
-ID 47113
+ID 37113
 
 Size_X 1
 Size_Y 1
@@ -27,4 +27,7 @@ Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Tool 141
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_DishPine

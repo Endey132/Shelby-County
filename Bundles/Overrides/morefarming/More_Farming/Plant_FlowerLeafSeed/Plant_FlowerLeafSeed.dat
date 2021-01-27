@@ -1,8 +1,8 @@
-GUID 7471b8d55fa645118f598a545e1a468e
+GUID 27df639a6c7a471093506d9a591bb30c
 Type Farm
 Useable Barricade
 Build Farm
-ID 42180
+ID 32180
 
 Size_X 1
 Size_Y 1
@@ -14,7 +14,7 @@ Radius 0.05
 Offset 0.47
 
 Growth 12000
-Grow 42181
+Grow 32181
 
 Explosion 43
 Vulnerable
@@ -22,7 +22,10 @@ Vulnerable
 Blueprints 1
 Blueprint_0_Type Utilities
 Blueprint_0_Supplies 3
-Blueprint_0_Supply_0_ID 42124
-Blueprint_0_Supply_1_ID 42126
+Blueprint_0_Supply_0_ID 32124
+Blueprint_0_Supply_1_ID 32126
 Blueprint_0_Supply_2_ID 332
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_FlowerLeafSeed

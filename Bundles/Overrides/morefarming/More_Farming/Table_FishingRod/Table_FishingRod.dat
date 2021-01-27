@@ -1,17 +1,20 @@
-GUID 135c055f5d424d07aabacb622e744e40
+GUID c3d57f78b07b46028b59a0c5a99a42d4
 Type Spawn
-ID 43101
+ID 33101
 
 Tables 6
-Table_0_Asset_ID 43105
+Table_0_Asset_ID 33105
 Table_0_Weight 20
-Table_1_Asset_ID 43107
+Table_1_Asset_ID 33107
 Table_1_Weight 30
-Table_2_Asset_ID 43109
+Table_2_Asset_ID 33109
 Table_2_Weight 30
-Table_3_Asset_ID 43111
+Table_3_Asset_ID 33111
 Table_3_Weight 25
-Table_4_Asset_ID 43115
+Table_4_Asset_ID 33115
 Table_4_Weight 10
-Table_5_Asset_ID 43117
+Table_5_Asset_ID 33117
 Table_5_Weight 20
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Table_FishingRod

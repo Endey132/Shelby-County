@@ -1,9 +1,9 @@
-GUID 4eef8df367864e73874b755b554cb6a4
+GUID 384b8a59c6b447619351a49c437bfd2d
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage
-ID 48107
+ID 38107
 
 Size_X 1
 Size_Y 2
@@ -20,3 +20,6 @@ Display
 Locked
 
 Explosion 36
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_GuitarStand

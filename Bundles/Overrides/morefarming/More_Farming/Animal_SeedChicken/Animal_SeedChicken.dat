@@ -1,8 +1,8 @@
-GUID d508a9f291704b4eb19c27202d922b99
+GUID 3f7181bf6bc346fa9081fd3ecdd90069
 Type Farm
 Useable Barricade
 Build Farm
-ID 41104
+ID 31104
 
 Size_X 1
 Size_Y 1
@@ -14,7 +14,10 @@ Radius 0.5
 Offset 0.81
 
 Growth 18000
-Grow 41105
+Grow 31105
 
 Explosion 47105
 Vulnerable
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_SeedChicken

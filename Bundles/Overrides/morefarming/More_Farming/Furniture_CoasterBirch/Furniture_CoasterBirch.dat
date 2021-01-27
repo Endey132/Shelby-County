@@ -1,8 +1,8 @@
-GUID 7354edc12d7f41f285346bf38898ebfc
+GUID 72cc80165f104515a5270b46ca473616
 Type Storage
 Useable Barricade
 Build Storage
-ID 47115
+ID 37115
 
 Size_X 1
 Size_Y 1
@@ -27,4 +27,7 @@ Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Tool 141
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_CoasterBirch

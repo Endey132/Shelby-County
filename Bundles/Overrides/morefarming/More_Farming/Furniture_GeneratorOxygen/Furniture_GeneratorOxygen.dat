@@ -1,9 +1,9 @@
-GUID 1195168fb10a449bb3cdfc9ae5909eea
+GUID b00b2e6f7f6c4095aa9e29f15ad91b43
 Type Barricade
 Rarity Epic
 Useable Barricade
 Build Oxygenator
-ID 47141
+ID 37141
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_GeneratorOxygen

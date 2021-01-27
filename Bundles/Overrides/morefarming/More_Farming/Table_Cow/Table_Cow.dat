@@ -1,10 +1,13 @@
-GUID f14ccf6417394ec499b713ddd7fa529e
+GUID eb76e273fbfa4624b24913e7200542bb
 Type Spawn
-ID 41160
+ID 31160
 Roots 1
 Root_0_Spawn_ID 524
 Root_0_Weight 10
 
 Tables 1
-Table_0_Asset_ID 41160
+Table_0_Asset_ID 31160
 Table_0_Weight 100
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Table_Cow

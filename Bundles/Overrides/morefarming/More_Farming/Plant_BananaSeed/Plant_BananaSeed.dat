@@ -1,8 +1,8 @@
-GUID 87398d533a9a47dab3ffc19811527863
+GUID 68d110ebc3774fb1ac96e402e521cc67
 Type Farm
 Useable Barricade
 Build Farm
-ID 42113
+ID 32113
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.25
 Offset 0.95
 
 Growth 12000
-Grow 42114
+Grow 32114
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42114
+Blueprint_0_Supply_0_ID 32114
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_BananaSeed

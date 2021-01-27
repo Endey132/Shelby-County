@@ -1,7 +1,7 @@
-GUID d84dc53840a749c892f95875abdfe090
+GUID 12ccd36513124824b02988f20eca027e
 Type Food
 Useable Consumeable
-ID 42218
+ID 32218
 
 Size_X 1
 Size_Y 1
@@ -14,9 +14,12 @@ Blueprint_0_Type Supply
 Blueprint_0_Supplies 2
 Blueprint_0_Supply_0_ID 80
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Supply_1_ID 42152
+Blueprint_0_Supply_1_ID 32152
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Tool 1030
 Blueprint_0_Level 2
 Blueprint_0_Skill Cook
-Blueprint_0_Build 47103
+Blueprint_0_Build 37103
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_CandyCola
