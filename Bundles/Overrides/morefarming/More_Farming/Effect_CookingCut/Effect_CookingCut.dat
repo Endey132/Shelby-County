@@ -1,3 +1,6 @@
-GUID 472b5ac893b94bce984f2c8909ad4778
+GUID ccef1fb1013b46c6bfba5cbabbd439c8
 Type Effect
-ID 47104
+ID 37104
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Effect_CookingCut

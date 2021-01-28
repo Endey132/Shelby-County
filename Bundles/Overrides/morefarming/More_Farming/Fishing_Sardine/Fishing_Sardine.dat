@@ -1,7 +1,7 @@
-GUID 1274dfcb709e49d7812a3775e25003b5
+GUID 5b78dd0a25fd449fa634405f83bf5a02
 Type Food
 Useable Consumeable
-ID 43109
+ID 33109
 
 Size_X 1
 Size_Y 1
@@ -9,3 +9,6 @@ Size_Z 0.27
 
 Food 15
 Virus 15
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Fishing_Sardine

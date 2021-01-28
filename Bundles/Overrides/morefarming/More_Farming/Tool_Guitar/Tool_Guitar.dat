@@ -1,15 +1,15 @@
-GUID 907caba681d44c1bacc2230d8f2995b7
+GUID 19e9b0377fd84d2db6f97e6978343c3c
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 48102
+ID 38102
 
 Size_X 2
 Size_Y 3
 Size_Z 0.89
 
-Magazine 48111
+Magazine 38111
 
 Ammo_Min 100
 Ammo_Max 100
@@ -75,19 +75,22 @@ Blueprint_0_Type Tool
 Blueprint_0_Supplies 4
 Blueprint_0_Supply_0_ID 63
 Blueprint_0_Supply_0_Amount 6
-Blueprint_0_Supply_1_ID 41113
+Blueprint_0_Supply_1_ID 31113
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Supply_2_ID 65
 Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Supply_3_ID 70
 Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Outputs 3
-Blueprint_0_Output_0_ID 48102
+Blueprint_0_Output_0_ID 38102
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Output_1_ID 48109
+Blueprint_0_Output_1_ID 38109
 Blueprint_0_Output_1_Amount 1
-Blueprint_0_Output_2_ID 48107
+Blueprint_0_Output_2_ID 38107
 Blueprint_0_Output_2_Amount 1
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_Guitar

@@ -1,7 +1,10 @@
-GUID ea60d6c338bc4e3aaaf8427c0efefd78
+GUID edc916b440cc4c0ea0e77d1087df5345
 Type Supply
-ID 41113
+ID 31113
 
 Size_X 1
 Size_Y 1
 Size_Z 0.33
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_SheepIntestine

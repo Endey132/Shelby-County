@@ -1,8 +1,8 @@
-GUID e7dbdf659f8346caa0dc1e82e33627d7
+GUID 65ad9cf52d5e4b24bd31352f136b4e04
 Type Farm
 Useable Barricade
 Build Farm
-ID 42121
+ID 32121
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.05
 Offset 0.47
 
 Growth 12000
-Grow 42122
+Grow 32122
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42122
+Blueprint_0_Supply_0_ID 32122
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_FlowerRedSeed

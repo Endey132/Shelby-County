@@ -1,9 +1,9 @@
-GUID 123c97ae911d4212baac77f0902a3052
+GUID 818e294e2276436cb25f1f11b1c65e4d
 Type Storage
 Rarity Epic
 Useable Barricade
 Build Storage
-ID 47146
+ID 37146
 
 Size_X 2
 Size_Y 2
@@ -31,4 +31,7 @@ Blueprint_0_Supply_1_Amount 6
 Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Tripod

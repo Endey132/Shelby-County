@@ -1,8 +1,8 @@
-GUID a39001950ac147a598487c00862f2a80
+GUID 2337c475ae9c4ada88caef1ba209106b
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 47132
+ID 37132
 
 Size_X 2
 Size_Y 2
@@ -25,4 +25,7 @@ Blueprint_0_Supply_1_Amount 6
 Blueprint_0_Tool 76
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_ChairSaloonMetal

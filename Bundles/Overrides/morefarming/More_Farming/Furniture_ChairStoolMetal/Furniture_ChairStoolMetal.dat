@@ -1,8 +1,8 @@
-GUID f6e72524db5e4ff3ae11d59bc31aec18
+GUID f5739d77d32b4131b25c619e0decb12c
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 47124
+ID 37124
 
 Size_X 2
 Size_Y 2
@@ -25,4 +25,7 @@ Blueprint_0_Supply_1_Amount 4
 Blueprint_0_Tool 76
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_ChairStoolMetal

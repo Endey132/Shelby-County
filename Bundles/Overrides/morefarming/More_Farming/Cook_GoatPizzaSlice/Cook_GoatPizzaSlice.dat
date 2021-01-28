@@ -1,7 +1,7 @@
-GUID 96a5e849ecc64d08b017e26ab5183914
+GUID c6bb4ee477804edcbc6d22968263d187
 Type Food
 Useable Consumeable
-ID 41139
+ID 31139
 
 Size_X 2
 Size_Y 2
@@ -13,10 +13,13 @@ Food 75
 Blueprints 1
 Blueprint_0_Type Supply
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 41139
+Blueprint_0_Supply_0_ID 31139
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Tool 120
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 41140
+Blueprint_0_Output_0_ID 31140
 Blueprint_0_Output_0_Amount 3
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_GoatPizzaSlice

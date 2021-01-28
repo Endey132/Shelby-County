@@ -1,10 +1,13 @@
-GUID c348b5a669fc4b9db1dbfbc2c22082e6
+GUID 49020990acd74966b3dfb5bf89322f02
 Type Food
 Useable Consumeable
-ID 42197
+ID 32197
 
 Size_X 1
 Size_Y 1
 Size_Z 0.2
 
 Food 20
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_MuffinHoney1

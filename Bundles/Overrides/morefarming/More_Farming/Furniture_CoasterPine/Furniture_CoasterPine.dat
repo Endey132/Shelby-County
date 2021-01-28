@@ -1,8 +1,8 @@
-GUID 1bdfefbc413147639272c2eb42d60f29
+GUID 0c1d5ee4d1f64cb8b4d6a8b956c1693d
 Type Storage
 Useable Barricade
 Build Storage
-ID 47117
+ID 37117
 
 Size_X 1
 Size_Y 1
@@ -27,4 +27,7 @@ Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Tool 141
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_CoasterPine

@@ -1,7 +1,7 @@
-GUID 618645a5be4b4d8ca041ceff52191b82
+GUID 38956cb2309d4831ba7ac3b1f5afbce3
 Type Water
 Useable Consumeable
-ID 42165
+ID 32165
 
 Size_X 1
 Size_Y 1
@@ -12,11 +12,14 @@ Water 60
 Blueprints 1
 Blueprint_0_Type Supply
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 42215
+Blueprint_0_Supply_0_ID 32215
 Blueprint_0_Supply_0_Amount 2
-Blueprint_0_Supply_1_ID 42152
+Blueprint_0_Supply_1_ID 32152
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Tool 120
 Blueprint_0_Level 2
 Blueprint_0_Skill Cook
-Blueprint_0_Build 47102
+Blueprint_0_Build 37102
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_JuiceGrape

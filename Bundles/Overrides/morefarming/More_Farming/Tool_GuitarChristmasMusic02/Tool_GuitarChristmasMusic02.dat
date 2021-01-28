@@ -1,3 +1,6 @@
-GUID 6448170ee1e44545a8fbe2d40a16ad89
+GUID 95c023c77368492f9311a975ba65fc05
 Type Effect
-ID 48121
+ID 38121
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_GuitarChristmasMusic01

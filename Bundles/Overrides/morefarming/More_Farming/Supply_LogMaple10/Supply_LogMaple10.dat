@@ -1,6 +1,6 @@
-GUID 70dd3d1c3fec4977b406d4a2667d0fdf
+GUID 7169682368a146889984cbd05653ae5f
 Type Supply
-ID 49117
+ID 39117
 
 Size_X 1
 Size_Y 1
@@ -13,7 +13,7 @@ Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49117
+Blueprint_1_Supply_0_ID 39117
 Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 39
 Blueprint_1_Output_0_Amount 10
@@ -26,3 +26,6 @@ Blueprint_2_Outputs 1
 Blueprint_2_Output_0_ID 39
 Blueprint_2_Output_0_Amount 1
 Blueprint_2_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_LogMaple10

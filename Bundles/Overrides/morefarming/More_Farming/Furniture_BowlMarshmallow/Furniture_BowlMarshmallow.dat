@@ -1,9 +1,9 @@
-GUID 60116b105e9f4828845d5da1a993eec3
+GUID 112db629465c446a9ae035d7fec7e67a
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage
-ID 47201
+ID 37201
 
 Size_X 2
 Size_Y 2
@@ -22,10 +22,13 @@ Explosion 19
 Blueprints 1
 Blueprint_0_Type Furniture
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 42228
+Blueprint_0_Supply_0_ID 32228
 Blueprint_0_Supply_0_Amount 4
-Blueprint_0_Supply_1_ID 47112
+Blueprint_0_Supply_1_ID 37112
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_BowlMarshmallow

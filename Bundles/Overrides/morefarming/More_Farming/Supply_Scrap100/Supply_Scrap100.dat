@@ -1,6 +1,6 @@
-GUID 4b717c85466946af85a15ab8fc50abd4
+GUID 785f3c8ab67c4ac1bc57ebc81ae9ceac
 Type Supply
-ID 49102
+ID 39102
 
 Size_X 2
 Size_Y 2
@@ -8,13 +8,16 @@ Size_Z 0.71
 
 Blueprints 2
 Blueprint_0_Type Gear
-Blueprint_0_Supply_0_ID 49101
+Blueprint_0_Supply_0_ID 39101
 Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49102
+Blueprint_1_Supply_0_ID 39102
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 49101
+Blueprint_1_Output_0_ID 39101
 Blueprint_1_Output_0_Amount 10
 Blueprint_1_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Scrap100

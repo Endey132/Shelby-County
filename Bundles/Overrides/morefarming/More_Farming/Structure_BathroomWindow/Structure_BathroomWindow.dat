@@ -1,9 +1,9 @@
-GUID 788e354c588543fb8add6798b881bf39
+GUID 66ff32bab2c84078b4aded4c328b27e7
 Type Structure
 Rarity Rare
 Useable Structure
 Construct Wall
-ID 47187
+ID 37187
 
 Size_X 2
 Size_Y 1
@@ -21,4 +21,7 @@ Blueprint_0_Supply_0_ID 74
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Supply_1_ID 70
 Blueprint_0_Supply_1_Amount 1
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Structure_BathroomWindow

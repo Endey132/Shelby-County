@@ -1,9 +1,9 @@
-GUID 979d3ad7736f472b8f310b3c7ac3c111
+GUID d76d8be7664a4de3bd7d3636fbbd545f
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Spot
-ID 47198
+ID 37198
 
 Size_X 2
 Size_Y 1
@@ -27,3 +27,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_LightCeilingFluorescent

@@ -1,8 +1,8 @@
-GUID 08f5be1debe34ec18c8e222e3e6c7c20
+GUID de79f33dd8f04b69928b052e4c0f50aa
 Type Storage
 Useable Barricade
 Build Storage_Wall
-ID 47243
+ID 37243
 
 Size_X 1
 Size_Y 1
@@ -23,6 +23,9 @@ Blueprint_0_Type Furniture
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 67
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Tool 48130
+Blueprint_0_Tool 38130
 Blueprint_0_Tool_Critical
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_ChristmasTinsel

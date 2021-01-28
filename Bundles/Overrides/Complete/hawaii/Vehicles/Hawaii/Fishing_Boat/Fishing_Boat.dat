@@ -1,0 +1,34 @@
+GUID af8302e52ab547f4a142f439899dba76
+Type Vehicle
+Rarity Epic
+ID 10827
+
+Speed_Min -4
+Speed_Max 15
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 1750
+
+Health_Min 500
+Health_Max 600
+Health 700
+
+Exit 3
+
+Engine Boat
+
+Explosion 20
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii/Fishing_Boat

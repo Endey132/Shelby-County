@@ -1,7 +1,10 @@
-GUID 9c0d0531a4b040458eb9e8dafa353035
+GUID 90887b254e5842e7ae925393897129a9
 Type Supply
-ID 42189
+ID 32189
 
 Size_X 1
 Size_Y 1
 Size_Z 0.35
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Beeswax

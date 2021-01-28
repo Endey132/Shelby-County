@@ -1,6 +1,6 @@
-GUID f10887ac6f9d477383825c90d037e08d
+GUID cbc486c998764d6cb95f41578ebb9807
 Type Animal
-ID 41110
+ID 31110
 
 Speed_Run 12
 Speed_Walk 4
@@ -9,9 +9,12 @@ Behaviour Ignore
 
 Health 50
 
-Reward_ID 41111
+Reward_ID 31111
 Reward_XP 5
 Reward_Min 1
 Reward_Max 2
 
 Panics 1
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_Sheep

@@ -1,8 +1,8 @@
-GUID 12ada5697c2848729dec2f8cce5b4d75
+GUID 3071f42d1b5f4058894618bf8a6405c0
 Type Farm
 Useable Barricade
 Build Farm
-ID 42150
+ID 32150
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.25
 Offset 1.55
 
 Growth 12000
-Grow 42151
+Grow 32151
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42151
+Blueprint_0_Supply_0_ID 32151
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_SugarcaneSeed

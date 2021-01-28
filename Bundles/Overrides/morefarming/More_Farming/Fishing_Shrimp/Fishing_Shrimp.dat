@@ -1,7 +1,7 @@
-GUID 71c9461de84f4efe8b76999fad2dba56
+GUID cb0458b9bccd47c99c046e280f01befb
 Type Food
 Useable Consumeable
-ID 43107
+ID 33107
 
 Size_X 1
 Size_Y 1
@@ -9,3 +9,6 @@ Size_Z 0.23
 
 Food 10
 Virus 10
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Fishing_Shrimp

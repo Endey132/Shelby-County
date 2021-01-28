@@ -1,7 +1,7 @@
-GUID e4005306919d48929a1c1be223a81bbe
+GUID 0714657f0a7a4dffb42032dde2b8f6b7
 Type Food
 Useable Consumeable
-ID 41130
+ID 31130
 
 Size_X 2
 Size_Y 1
@@ -10,3 +10,6 @@ Size_Z 0.24
 Health 10
 Food 25
 Virus 35
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_GoatRaw

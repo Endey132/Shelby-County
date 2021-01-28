@@ -1,9 +1,9 @@
-GUID 58f845aa62544a05853a9480eadf748a
+GUID e5b51684a2b4454c966a87a7dd59ae8b
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage
-ID 42240
+ID 32240
 
 Size_X 2
 Size_Y 2
@@ -26,9 +26,12 @@ Blueprint_0_Supply_0_ID 63
 Blueprint_0_Supply_0_Amount 8
 Blueprint_0_Supply_1_ID 285
 Blueprint_0_Supply_1_Amount 4
-Blueprint_0_Supply_2_ID 42189
+Blueprint_0_Supply_2_ID 32189
 Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Tool 138
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Barrel

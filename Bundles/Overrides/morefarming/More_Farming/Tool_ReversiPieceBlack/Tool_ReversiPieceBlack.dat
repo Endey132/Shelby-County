@@ -1,8 +1,8 @@
-GUID 36d7558259a34aa99c720e40272798f7
+GUID fb95f34904de4643847eb53b937f3603
 Type Barricade
 Useable Barricade
 Build Campfire
-ID 47208
+ID 37208
 
 Size_X 1
 Size_Y 1
@@ -14,3 +14,6 @@ Radius 0.001
 Offset 1.02
 
 Vulnerable
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_ReversiPieceBlock

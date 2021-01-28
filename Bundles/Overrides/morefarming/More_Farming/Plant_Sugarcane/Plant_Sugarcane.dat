@@ -1,7 +1,7 @@
-GUID 7e0373f78567453e9a6d3de66dbcd453
+GUID 8812d532457548c588541dcac5d0d068
 Type Food
 Useable Consumeable
-ID 42151
+ID 32151
 
 Size_X 1
 Size_Y 2
@@ -14,7 +14,10 @@ Food_Constrains_Water
 
 Actions 1
 Action_0_Type Blueprint
-Action_0_Source 42150
+Action_0_Source 32150
 Action_0_Blueprints 1
 Action_0_Blueprint_0_Index 0
 Action_0_Key Craft_Seed
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_Sugarcane

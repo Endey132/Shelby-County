@@ -1,9 +1,9 @@
-GUID b240e779386d4aa486470b11d126f247
+GUID 97fa8ff3b649471a840067d9379de8b2
 Type Barricade
 Rarity Uncommon
 Useable Barricade
 Build Door
-ID 47160
+ID 37160
 
 Size_X 1
 Size_Y 1
@@ -28,4 +28,7 @@ Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Tool 138
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_FenceDoorBirch

@@ -1,7 +1,7 @@
-GUID c49657fb41b54d218b3b927189fd1122
+GUID b13863f15cdc4f6f9ca56412fe1d0160
 Type Water
 Useable Consumeable
-ID 41132
+ID 31132
 
 Size_X 1
 Size_Y 2
@@ -16,3 +16,6 @@ Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 392
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_GoatMilk

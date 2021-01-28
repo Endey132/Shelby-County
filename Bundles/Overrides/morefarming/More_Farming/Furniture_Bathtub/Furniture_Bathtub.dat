@@ -1,9 +1,9 @@
-GUID 88be5b32bc78421fbe1192d1f116facf
+GUID 1dcd4a4bca494b3f846e692179f1d966
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Spot
-ID 47180
+ID 37180
 
 Size_X 3
 Size_Y 2
@@ -28,4 +28,7 @@ Blueprint_0_Supply_2_Amount 4
 Blueprint_0_Tool 138
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Bathtub

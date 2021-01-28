@@ -1,8 +1,8 @@
-GUID 2203eb323ad44a95b6881aeb726eef5e
+GUID c8dae2325248484d9f46e588be05f21b
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 47205
+ID 37205
 
 Size_X 2
 Size_Y 2
@@ -29,10 +29,13 @@ Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
 Blueprint_0_Outputs 3
-Blueprint_0_Output_0_ID 47205
+Blueprint_0_Output_0_ID 37205
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Output_1_ID 47207
+Blueprint_0_Output_1_ID 37207
 Blueprint_0_Output_1_Amount 1
-Blueprint_0_Output_2_ID 47206
+Blueprint_0_Output_2_ID 37206
 Blueprint_0_Output_2_Amount 1
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_ReversiBoard

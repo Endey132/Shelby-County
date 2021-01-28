@@ -1,9 +1,9 @@
-GUID 09e7506fb22b4ef38e4fa82999965bfc
+GUID 851dce883d1244f9a4b44556845e92cc
 Type Barricade
 Rarity Epic
 Useable Barricade
 Build Door
-ID 47217
+ID 37217
 
 Size_X 2
 Size_Y 2
@@ -21,7 +21,7 @@ Explosion 19
 Blueprints 1
 Blueprint_0_Type Barricade
 Blueprint_0_Supplies 4
-Blueprint_0_Supply_0_ID 49117
+Blueprint_0_Supply_0_ID 39117
 Blueprint_0_Supply_0_Amount 2
 Blueprint_0_Supply_1_ID 285
 Blueprint_0_Supply_1_Amount 4
@@ -32,4 +32,7 @@ Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Tool 138
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_HangarDoorRampart

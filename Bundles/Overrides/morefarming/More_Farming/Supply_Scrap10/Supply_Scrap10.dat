@@ -1,6 +1,6 @@
-GUID 11288a5e2d1045d8a380333f6c6468dc
+GUID 4d8d07d114df4862bba734da3cc37b67
 Type Supply
-ID 49101
+ID 39101
 
 Size_X 1
 Size_Y 1
@@ -13,7 +13,7 @@ Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49101
+Blueprint_1_Supply_0_ID 39101
 Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 67
 Blueprint_1_Output_0_Amount 10
@@ -42,3 +42,6 @@ Blueprint_4_Output_0_Amount 1
 Blueprint_4_Level 1
 Blueprint_4_Skill Cook
 Blueprint_4_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Scrap10

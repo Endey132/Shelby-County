@@ -1,7 +1,7 @@
-GUID 9f23125c06fd4559a182af76182ebe4e
+GUID ecd5be4966c24ca8a1ccbbe069a9f657
 Type Food
 Useable Consumeable
-ID 42141
+ID 32141
 
 Size_X 1
 Size_Y 1
@@ -25,4 +25,7 @@ Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Tool 120
 Blueprint_0_Level 2
 Blueprint_0_Skill Cook
-Blueprint_0_Build 47104
+Blueprint_0_Build 37104
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_SaladCheese
