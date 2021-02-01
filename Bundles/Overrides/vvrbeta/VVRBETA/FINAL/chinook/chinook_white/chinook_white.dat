@@ -1,7 +1,7 @@
-GUID 38a5bb90d7f44adea92f72d50a8fb507
+GUID 0d59504458bb4bf48ea2b0c9a44428eb
 Type Vehicle
 Rarity Legendary
-ID 36543
+ID 36963
 
 Speed_Min -2
 Speed_Max 19
@@ -32,3 +32,6 @@ Tires_Invulnerable
 Supports_Mobile_Buildables
 Bypass_Buildable_Mobility
 BatteryMode_Sirens None
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/chinook/chinook_white

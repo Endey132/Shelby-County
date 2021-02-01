@@ -1,9 +1,9 @@
-GUID 0b3fec6c7cec49e6bca109bc090f699b
+GUID 5a85d9be30fe49d98cd214b36643a343
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Cage
-ID 47179
+ID 37179
 
 Size_X 2
 Size_Y 2
@@ -27,4 +27,7 @@ Blueprint_0_Supply_2_Amount 4
 Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Shower

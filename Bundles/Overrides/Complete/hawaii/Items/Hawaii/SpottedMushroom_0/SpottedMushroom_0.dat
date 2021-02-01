@@ -1,0 +1,16 @@
+GUID 760b6d32c2064930b46afc0ca559564f
+Type Food
+Useable Consumeable
+ID 12013
+
+Size_X 1
+Size_Y 1
+Size_Z 0.17
+
+Food 10
+Disinfectant 15
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Items/Hawaii/SpottedMushroom_0

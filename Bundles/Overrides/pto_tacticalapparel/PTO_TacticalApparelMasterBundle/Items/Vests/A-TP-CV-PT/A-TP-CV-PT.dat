@@ -1,8 +1,8 @@
-GUID 5165276a6068426ca17f281a7a998b41
+GUID 68dc6c87762e4a5198aef04d6db10570
 Type Vest
 Rarity Mythical
 Useable Clothing
-ID 34907
+ID 100011
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.10
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34907
+Blueprint_0_Supply_0_ID 10011
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/A-TP-CV-PT

@@ -1,6 +1,6 @@
-GUID 2e666ec731af404eb38907ba591083ff
+GUID e8995bcd102b49a5a9734488c56e82ec
 Type Supply
-ID 42196
+ID 32196
 
 Size_X 1
 Size_Y 1
@@ -9,9 +9,12 @@ Size_Z 0.21
 Blueprints 1
 Blueprint_0_Type Supply
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 42196
+Blueprint_0_Supply_0_ID 32196
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 42197
+Blueprint_0_Output_0_ID 32197
 Blueprint_0_Output_0_Amount 2
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_MuffinHoney2

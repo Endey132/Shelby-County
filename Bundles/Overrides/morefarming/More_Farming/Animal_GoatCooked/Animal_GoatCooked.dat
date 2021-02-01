@@ -1,7 +1,7 @@
-GUID d9fc45a9d7b14f66a263a8fc58e916d7
+GUID 9f1f39ac95e94711a94fe75b15da6d3f
 Type Food
 Useable Consumeable
-ID 41131
+ID 31131
 
 Size_X 2
 Size_Y 1
@@ -12,8 +12,11 @@ Food 25
 
 Blueprints 1
 Blueprint_0_Type Supply
-Blueprint_0_Supply_0_ID 41130
+Blueprint_0_Supply_0_ID 31130
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Level 1
 Blueprint_0_Skill Cook
-Blueprint_0_Build 47103
+Blueprint_0_Build 37103
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_GoatCooked

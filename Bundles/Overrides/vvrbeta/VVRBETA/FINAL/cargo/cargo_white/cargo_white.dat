@@ -1,7 +1,7 @@
-GUID 2ee69a99c4c54b22997a882b8e2e1fe9
+GUID 90d95746bd924120a8b24c9aa14d1bed
 Type Vehicle
 Rarity Rare
-ID 36506
+ID 36926
 
 Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
 Fuel_Burn_Rate 1.7
@@ -30,3 +30,6 @@ Cam_Follow_Distance 10
 
 Bumper_Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/cargo/cargo_white

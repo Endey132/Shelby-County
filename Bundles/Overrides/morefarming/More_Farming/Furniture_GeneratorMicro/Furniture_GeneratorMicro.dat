@@ -1,9 +1,9 @@
-GUID 366610a1ca2d442195418a61ecc1292a
+GUID dd59526721d240639ac1650a1dc8c32a
 Type Generator
 Rarity Rare
 Useable Barricade
 Build Generator
-ID 47140
+ID 37140
 
 Size_X 1
 Size_Y 1
@@ -29,3 +29,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_GeneratorMicro

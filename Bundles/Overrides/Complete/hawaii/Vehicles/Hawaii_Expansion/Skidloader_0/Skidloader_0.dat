@@ -1,0 +1,32 @@
+GUID 387e7e552d7c47a09264edefd254fca5
+Type Vehicle
+Rarity Uncommon
+ID 10842
+
+Speed_Min -5
+Speed_Max 10
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 24
+
+Fuel_Min 500
+Fuel_Max 600
+Fuel 1000
+
+Health_Min 400
+Health_Max 500
+Health 1000
+
+Traction
+Bumper_Multiplier 2
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Vehicles/Hawaii_Expansion/Skidloader_0

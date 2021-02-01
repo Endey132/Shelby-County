@@ -1,6 +1,6 @@
-GUID 8765406612bd4fd380b2ae47ca23b01f
+GUID 25fa5307a7394a77bff6ad7b5cd7c102
 Type Supply
-ID 49130
+ID 39130
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Blueprint_2_Supply_0_Amount 5
 Blueprint_2_Level 1
 Blueprint_2_Skill Cook
 Blueprint_2_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Charcoal

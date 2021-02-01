@@ -1,8 +1,8 @@
-GUID 5fee0c2da8c74bb8acb57e07f72f6963
+GUID 325b6a78b558448187074aa882c3b7f1
 Type Farm
 Useable Barricade
 Build Farm
-ID 42107
+ID 32107
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.25
 Offset 0.95
 
 Growth 12000
-Grow 42108
+Grow 32108
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42108
+Blueprint_0_Supply_0_ID 32108
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_OrangeSeed

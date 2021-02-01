@@ -1,7 +1,7 @@
-GUID dea95f1ed5cf4e90bc543a6acd5371d3
+GUID 99b56bab8be74bcbb42b3efa58adeae4
 Type Food
 Useable Consumeable
-ID 41111
+ID 31111
 
 Size_X 2
 Size_Y 1
@@ -10,3 +10,6 @@ Size_Z 0.24
 Health 10
 Food 25
 Virus 35
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_SheepRaw

@@ -1,9 +1,9 @@
-GUID 8c1c424202d043158e29e184e88d2fa4
+GUID 6409755295bb47bebfd4d6609fc0e73e
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage
-ID 47168
+ID 37168
 
 Size_X 2
 Size_Y 2
@@ -29,4 +29,7 @@ Blueprint_0_Supply_1_Amount 2
 Blueprint_0_Tool 138
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_CupboardBirch

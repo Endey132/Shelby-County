@@ -1,7 +1,7 @@
-GUID a4c83f1db43b47f79b84d1fe90c8e531
+GUID df62fd83efcd44dc916fd68a4c0675be
 Type Food
 Useable Consumeable
-ID 41140
+ID 31140
 
 Size_X 1
 Size_Y 1
@@ -9,3 +9,6 @@ Size_Z 0.27
 
 Health 5
 Food 25
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_GoatPizzaPiece

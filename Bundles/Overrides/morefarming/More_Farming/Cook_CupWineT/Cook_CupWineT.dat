@@ -1,8 +1,8 @@
-GUID fd8445b75e7a4b6f821f7b90b591ff7f
+GUID 2d11997820ba42bd8236059e1b27b1a9
 Type Water
 Rarity Rare
 Useable Consumeable
-ID 42264
+ID 32264
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Size_Z 0.25
 Water 20
 Disinfectant 4
 Health 4
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_CupWineT

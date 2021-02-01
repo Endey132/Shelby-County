@@ -1,7 +1,7 @@
-GUID c166292798644a0c913ec6133951b863
+GUID add295002f924a1e9633bcd4037274f6
 Type Vehicle
 Rarity Rare
-ID 36502
+ID 36922
 
 Physics_Profile 2280c56acb6e4748bb2d48f8111e6f27
 Fuel_Burn_Rate 1.7
@@ -30,3 +30,6 @@ Cam_Follow_Distance 10
 
 Bumper_Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/cargo/cargo_green

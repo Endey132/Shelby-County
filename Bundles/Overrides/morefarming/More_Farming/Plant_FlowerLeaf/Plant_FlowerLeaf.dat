@@ -1,8 +1,8 @@
-GUID e9a41194c7af45fdbe57cba43d282e72
+GUID 581d84c6d4d14a79aabc7f39f26c6381
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 42181
+ID 32181
 
 Size_X 1
 Size_Y 2
@@ -14,3 +14,6 @@ Radius 0.2
 Offset 1.6
 
 Explosion 96
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_FlowerLeaf

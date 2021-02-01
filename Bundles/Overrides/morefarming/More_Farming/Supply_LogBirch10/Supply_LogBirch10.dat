@@ -1,6 +1,6 @@
-GUID 0063b0a2fe264284a9a4f726606043c7
+GUID 0196b33d97a34a43babfbb9816a73633
 Type Supply
-ID 49115
+ID 39115
 
 Size_X 1
 Size_Y 1
@@ -13,7 +13,7 @@ Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49115
+Blueprint_1_Supply_0_ID 39115
 Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 37
 Blueprint_1_Output_0_Amount 10
@@ -26,3 +26,6 @@ Blueprint_2_Outputs 1
 Blueprint_2_Output_0_ID 37
 Blueprint_2_Output_0_Amount 1
 Blueprint_2_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_LogBirch10

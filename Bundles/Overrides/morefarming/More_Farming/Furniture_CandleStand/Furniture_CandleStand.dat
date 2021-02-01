@@ -1,9 +1,9 @@
-GUID 991b9de4bbce4cb78e53c3b65619d620
+GUID 31b71c8c4dae41d6a17bb2418782517e
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Campfire
-ID 47270
+ID 37270
 
 Size_X 2
 Size_Y 2
@@ -19,7 +19,7 @@ Explosion 28
 Blueprints 1
 Blueprint_0_Type Utilities
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 42191
+Blueprint_0_Supply_0_ID 32191
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Supply_0_Critical
 Blueprint_0_Supply_1_ID 285
@@ -27,4 +27,7 @@ Blueprint_0_Supply_1_Amount 6
 Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_CandleStand

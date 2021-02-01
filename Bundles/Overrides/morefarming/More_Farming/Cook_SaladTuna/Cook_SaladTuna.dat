@@ -1,7 +1,7 @@
-GUID bb396ca58f724ca9b641cd136d95fa5c
+GUID bd087d7fa40b401aa5e916db8dec1a69
 Type Food
 Useable Consumeable
-ID 42143
+ID 32143
 
 Size_X 1
 Size_Y 1
@@ -25,4 +25,7 @@ Blueprint_0_Supply_3_Amount 1
 Blueprint_0_Tool 120
 Blueprint_0_Level 2
 Blueprint_0_Skill Cook
-Blueprint_0_Build 47104
+Blueprint_0_Build 37104
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_SaladTuna

@@ -1,6 +1,6 @@
-GUID 19940426fa9d4a97a23a9dd4c9ec2b63
+GUID d69f602d7586417691b438c188ccfd49
 Type Supply
-ID 42187
+ID 32187
 
 Size_X 1
 Size_Y 1
@@ -9,12 +9,14 @@ Size_Z 0.28
 Blueprints 1
 Blueprint_0_Type Gear
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 42187
+Blueprint_0_Supply_0_ID 32187
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 42188
+Blueprint_0_Output_0_ID 32188
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Output_1_ID 42189
+Blueprint_0_Output_1_ID 32189
 Blueprint_0_Output_1_Amount 1
 Blueprint_0_Build 27
 
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Beehive

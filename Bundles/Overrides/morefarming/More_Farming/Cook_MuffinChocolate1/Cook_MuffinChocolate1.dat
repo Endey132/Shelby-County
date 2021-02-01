@@ -1,10 +1,13 @@
-GUID ef67f1128c9d4ce2b6b949af9da7cf1b
+GUID 9dc5bd6388794291b9db66992eb6e0d8
 Type Food
 Useable Consumeable
-ID 42200
+ID 32200
 
 Size_X 1
 Size_Y 1
 Size_Z 0.2
 
 Food 20
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Cook_MuffinChocolate1

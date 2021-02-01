@@ -1,8 +1,8 @@
-GUID 3f48c0486b644ca9a0e89563e9ab3ad8
+GUID ba47d4d9bec54f11860d8e0a160afecf
 Type Vest
 Rarity Epic
 Useable Clothing
-ID 34100
+ID 10025
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.70
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34100
+Blueprint_0_Supply_0_ID 10025
 Blueprint_0_Product 66
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/HS-MC-BK

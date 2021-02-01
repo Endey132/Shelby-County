@@ -1,9 +1,9 @@
-GUID 6f2e9972e9bd4c58a760b5414e993a02
+GUID 9bad9d97d3524f20a109bfa4f8a11b60
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Campfire
-ID 47108
+ID 37108
 
 Size_X 2
 Size_Y 3
@@ -26,4 +26,7 @@ Blueprint_0_Supply_1_Amount 6
 Blueprint_0_Tool 138
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Oven

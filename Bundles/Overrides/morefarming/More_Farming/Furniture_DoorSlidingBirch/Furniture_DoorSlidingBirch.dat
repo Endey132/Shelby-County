@@ -1,8 +1,8 @@
-GUID b9b0e04ef5e54309b4167676366f3357
+GUID 23d538380d474956bbdf668f0da3e8c7
 Type Barricade
 Useable Barricade
 Build Door
-ID 47102
+ID 37102
 
 Size_X 1
 Size_Y 2
@@ -20,4 +20,7 @@ Blueprint_0_Type Barricade
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 282
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_DoorSlidingBirch

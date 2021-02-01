@@ -1,4 +1,4 @@
-GUID eae45138cfe948b28a6b310aabe5cc4e
+GUID 4cd1975bdbf6463ba30b5811b30cdeab
 Type Vehicle
 ID 36497
 Rarity Rare
@@ -28,3 +28,6 @@ Trunk_Storage_X 4
 Trunk_Storage_Y 5
 
 Explosion 20
+
+Master_Bundle_Override vvrbeta.masterbundle
+Bundle_Override_Path /VVRBETA/FINAL/bmw/bmw_yellow

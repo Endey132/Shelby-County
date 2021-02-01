@@ -1,9 +1,9 @@
-GUID 829a7d86c17847e79452b88878ec5aec
+GUID 870bbd288fb346d59a6c8d8a9b229032
 Type Barricade
 Rarity Rare
 Useable Barricade
 Build Cage
-ID 47196
+ID 37196
 
 Size_X 2
 Size_Y 2
@@ -28,3 +28,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_LightWallMirror

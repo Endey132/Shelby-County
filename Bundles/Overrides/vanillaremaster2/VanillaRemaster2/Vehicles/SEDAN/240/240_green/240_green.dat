@@ -1,6 +1,6 @@
 GUID 95ccad29cc554e479eed8f246762b779
 Type Vehicle
-ID 36372
+ID 48372
 Rarity Common
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
@@ -26,3 +26,6 @@ Trunk_Storage_X 5
 Trunk_Storage_Y 5
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/SEDAN/240_green

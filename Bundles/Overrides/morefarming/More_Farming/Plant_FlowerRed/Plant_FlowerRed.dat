@@ -1,8 +1,8 @@
-GUID 7cfefdcff6774c22b9b2b184058550df
+GUID c7d8428414284941bfd8ab0fdaa7f3db
 Type Barricade
 Useable Barricade
 Build Barricade
-ID 42122
+ID 32122
 
 Size_X 1
 Size_Y 1
@@ -17,7 +17,10 @@ Explosion 96
 
 Actions 1
 Action_0_Type Blueprint
-Action_0_Source 42121
+Action_0_Source 32121
 Action_0_Blueprints 1
 Action_0_Blueprint_0_Index 0
 Action_0_Key Craft_Seed
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_FlowerRed

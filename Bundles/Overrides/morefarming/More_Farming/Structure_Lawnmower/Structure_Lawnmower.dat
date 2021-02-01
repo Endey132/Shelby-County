@@ -1,9 +1,9 @@
-GUID a9ae490a199a4a80b1fb00181b8e402a
+GUID 1c35a1284c5e4581b7a869892663d57a
 Type Structure
 Rarity Rare
 Useable Structure
 Construct Floor
-ID 47230
+ID 37230
 
 Size_X 2
 Size_Y 2
@@ -28,3 +28,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Structure_Lawnmower

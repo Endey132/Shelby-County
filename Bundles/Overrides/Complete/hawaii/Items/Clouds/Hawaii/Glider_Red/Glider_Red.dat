@@ -1,0 +1,22 @@
+GUID 8d831e6c6e734fc8b7bba3e3c04f56d6
+Type Cloud
+Rarity Uncommon
+Useable Cloud
+ID 11800
+
+Size_X 5
+Size_Y 2
+Size_Z 1.8
+
+Gravity 0.10
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 1800
+Blueprint_0_Product 66
+Blueprint_0_Build 32
+
+Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /HawaiiMasterBundle/Items/Clouds/Hawaii/Glider_Red

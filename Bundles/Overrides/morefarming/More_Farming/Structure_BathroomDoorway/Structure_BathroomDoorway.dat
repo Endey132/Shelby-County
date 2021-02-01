@@ -1,9 +1,9 @@
-GUID f356fae50fc94b64ab31ca82475f123a
+GUID 11303fb603e34779a019ce1693244a0d
 Type Structure
 Rarity Rare
 Useable Structure
 Construct Wall
-ID 47185
+ID 37185
 
 Size_X 2
 Size_Y 1
@@ -21,4 +21,7 @@ Blueprint_0_Supply_0_ID 74
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Supply_1_ID 70
 Blueprint_0_Supply_1_Amount 1
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Structure_BathroomDoorway

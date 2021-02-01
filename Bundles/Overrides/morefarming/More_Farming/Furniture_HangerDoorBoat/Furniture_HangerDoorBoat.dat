@@ -1,9 +1,9 @@
-GUID f229bb0e12834e339f8576636e83e8df
+GUID 5c98a73565d94608be68fd72c3a66a78
 Type Barricade
 Rarity Epic
 Useable Barricade
 Build Door
-ID 47137
+ID 37137
 
 Size_X 2
 Size_Y 3
@@ -28,4 +28,7 @@ Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_HangarDoorBoat

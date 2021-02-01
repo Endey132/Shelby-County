@@ -1,0 +1,31 @@
+GUID c7e85e3681cf41e09fdb118ed10e3851
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 27614
+
+Size_X 3
+Size_Y 2
+Size_Z 0.45
+
+Health 250
+Range 4
+Radius 0.5
+Offset 0.75
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 61
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 40
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override letgalianf.masterbundle
+Bundle_Override_Path Items/Letgalian/Barricades/Shelf_Sto_Maple

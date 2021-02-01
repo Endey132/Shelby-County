@@ -1,7 +1,10 @@
-GUID d1467095eb434bbd976ddf3892fb865f
+GUID 6960593ca8214115bed04c34fcda5c29
 Type Spawn
-ID 41147
+ID 31147
 
 Tables 1
-Table_0_Asset_ID 41148
+Table_0_Asset_ID 31148
 Table_0_Weight 100
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Table_Turkey

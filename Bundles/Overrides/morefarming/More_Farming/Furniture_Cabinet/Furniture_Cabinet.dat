@@ -1,9 +1,9 @@
-GUID 2e98f1e0a4ae42559a498ee1a56096b6
+GUID e079d486d915452fa1670bf4d3277f42
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage_Wall
-ID 47222
+ID 37222
 
 Size_X 2
 Size_Y 2
@@ -30,4 +30,7 @@ Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Tool 138
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Cabinet

@@ -1,8 +1,8 @@
-GUID a914a40b41674cd99b620d8e98fe1183
+GUID a3276a79f87f44ccb8be2882d6db7cb1
 Type Vest
 Rarity Uncommon
 Useable Clothing
-ID 34257
+ID 10032
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34257
+Blueprint_0_Supply_0_ID 10032
 Blueprint_0_Product 66
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/SH-BU

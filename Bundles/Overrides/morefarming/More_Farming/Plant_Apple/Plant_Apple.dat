@@ -1,7 +1,7 @@
-GUID 03c3a6c41acf4a6b81888743e1360848
+GUID a53c3a3634f14dc4a11a90378d2b4267
 Type Food
 Useable Consumeable
-ID 42106
+ID 32106
 
 Size_X 1
 Size_Y 1
@@ -15,7 +15,10 @@ Food_Constrains_Water
 
 Actions 1
 Action_0_Type Blueprint
-Action_0_Source 42105
+Action_0_Source 32105
 Action_0_Blueprints 1
 Action_0_Blueprint_0_Index 0
 Action_0_Key Craft_Seed
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_Apple

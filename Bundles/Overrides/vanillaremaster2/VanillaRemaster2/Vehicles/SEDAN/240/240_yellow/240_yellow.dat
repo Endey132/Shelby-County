@@ -1,6 +1,6 @@
-GUID 4909bfe06f544bbf97b43a6a99527ab0
+GUID 8f1527b54928477eb9979e7882f0e6b9
 Type Vehicle
-ID 36377
+ID 48377
 Rarity Common
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
@@ -26,3 +26,6 @@ Trunk_Storage_X 5
 Trunk_Storage_Y 5
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/SEDAN/240_yellow

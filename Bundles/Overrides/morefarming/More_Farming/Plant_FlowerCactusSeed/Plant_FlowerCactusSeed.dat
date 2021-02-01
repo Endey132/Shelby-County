@@ -1,8 +1,8 @@
-GUID 265c5446892f440992f1dd6431b39d69
+GUID bc135cb90cd048e193a3499ab2344831
 Type Farm
 Useable Barricade
 Build Farm
-ID 42123
+ID 32123
 
 Size_X 1
 Size_Y 1
@@ -14,12 +14,15 @@ Radius 0.05
 Offset 0.47
 
 Growth 12000
-Grow 42124
+Grow 32124
 
 Explosion 43
 Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 42124
+Blueprint_0_Supply_0_ID 32124
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Plant_FlowerCactusSeed

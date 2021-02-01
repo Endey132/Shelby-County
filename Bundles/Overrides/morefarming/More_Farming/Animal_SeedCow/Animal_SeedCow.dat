@@ -1,8 +1,8 @@
-GUID a42bde9da346453081828a98dafda90b
+GUID 820266324524479497b289aab7f782db
 Type Farm
 Useable Barricade
 Build Farm
-ID 41160
+ID 31160
 
 Size_X 3
 Size_Y 2
@@ -14,7 +14,10 @@ Radius 0.5
 Offset 0.81
 
 Growth 22000
-Grow 41161
+Grow 31161
 
-Explosion 47106
+Explosion 37106
 Vulnerable
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Animal_SeedCow

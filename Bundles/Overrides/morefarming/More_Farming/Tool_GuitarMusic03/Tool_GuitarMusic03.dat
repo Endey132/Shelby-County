@@ -1,3 +1,6 @@
-GUID ca5a5bff46f3414588a55d76fa6c4388
+GUID c2f73c72f9d740f8bd41380a74eb9b88
 Type Effect
-ID 48113
+ID 38113
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Tool_GuitarMusic03

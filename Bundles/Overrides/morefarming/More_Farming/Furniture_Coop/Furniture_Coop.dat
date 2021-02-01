@@ -1,9 +1,9 @@
-GUID 6dfe59ee2b584a1fbcc143d369a5d17c
+GUID f0b891c96e174913bbea5fee9ea2482d
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage
-ID 47231
+ID 37231
 
 Size_X 3
 Size_Y 3
@@ -31,4 +31,7 @@ Blueprint_0_Supply_2_Amount 2
 Blueprint_0_Tool 138
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Coop

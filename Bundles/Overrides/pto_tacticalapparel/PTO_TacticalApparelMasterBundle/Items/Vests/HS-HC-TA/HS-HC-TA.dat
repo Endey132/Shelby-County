@@ -1,8 +1,8 @@
-GUID 885e5de4d02c42e987538bf2a68359ea
+GUID e91e5f870c944f7790ec58e0e57702c4
 Type Vest
 Rarity Epic
 Useable Clothing
-ID 34102
+ID 10018
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.70
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34102
+Blueprint_0_Supply_0_ID 10018
 Blueprint_0_Product 67
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/HS-HC-TA

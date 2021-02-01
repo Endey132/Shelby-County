@@ -1,6 +1,6 @@
-GUID baea3a304ac8400984ee9d2c4d754969
+GUID cbf7d01b61014f97a74fd713eefe7378
 Type Vehicle
-ID 36075
+ID 48075
 Rarity Rare
 
 Physics_Profile 9bf542e2e34a4de3b3c7bb5441faeeca
@@ -28,3 +28,6 @@ Trunk_Storage_X 3
 Trunk_Storage_Y 3
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/gtr/gtr_red

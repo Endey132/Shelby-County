@@ -1,9 +1,9 @@
-GUID 52c6a74939914e1896590a678ee7e339
+GUID 235cfc26f0db4d9aba12baa7a68dfead
 Type Barricade
 Rarity Common
 Useable Barricade
 Build Campfire
-ID 47210
+ID 37210
 
 Size_X 1
 Size_Y 1
@@ -29,3 +29,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_Bell

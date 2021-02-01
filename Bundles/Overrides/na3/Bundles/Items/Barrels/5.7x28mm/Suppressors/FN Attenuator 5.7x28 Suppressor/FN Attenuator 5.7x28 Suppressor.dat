@@ -1,7 +1,7 @@
-GUID 4d78e9e8b45c39199264f6020b838e73
+GUID 13a15cae7bec4a42b8b2ba13d2956b31
 Type Barrel
 Rarity Epic
-ID 58310
+ID 62310
 
 Size_X 2
 Size_Y 1
@@ -19,3 +19,6 @@ Braked
 Silenced
 Volume 0.8
 Gunshot_Rolloff_Distance_Multiplier 0.5
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/5.7x28mm/Suppressors/FN Attenuator 5.7x28 Suppressor

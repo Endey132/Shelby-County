@@ -1,7 +1,7 @@
-GUID ab38c5a8478e48e5a89e0dbe59eb7b83
+GUID e9108e0033bc45fb8ca2fa61a676efc7
 Type Food
 Useable Consumeable
-ID 43105
+ID 33105
 
 Size_X 2
 Size_Y 1
@@ -9,3 +9,6 @@ Size_Z 0.23
 
 Food 25
 Virus 25
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Fishing_Carp

@@ -1,9 +1,9 @@
-GUID ffbe29e5328647a0b6cb4bca196ee92f
+GUID cb9b6bf8e5e64bf885a5c1a79eeacb66
 Type Structure
 Rarity Rare
 Useable Structure
 Construct Roof
-ID 47186
+ID 37186
 
 Size_X 2
 Size_Y 2
@@ -21,4 +21,7 @@ Blueprint_0_Supply_0_ID 74
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Supply_1_ID 70
 Blueprint_0_Supply_1_Amount 1
-Blueprint_0_Build 47101
+Blueprint_0_Build 37101
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Structure_BathroomFloor

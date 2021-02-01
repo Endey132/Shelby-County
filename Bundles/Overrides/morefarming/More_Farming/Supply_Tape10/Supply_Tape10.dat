@@ -1,6 +1,6 @@
-GUID 39fb0caeccf94577b5b2da1a80ea3875
+GUID 4d5182d6248d4f2ca8211111f202cc50
 Type Supply
-ID 49109
+ID 39109
 
 Size_X 1
 Size_Y 1
@@ -13,7 +13,7 @@ Blueprint_0_Supply_0_Amount 10
 Blueprint_0_Build 27
 Blueprint_1_Type Gear
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 49109
+Blueprint_1_Supply_0_ID 39109
 Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 69
 Blueprint_1_Output_0_Amount 10
@@ -22,7 +22,7 @@ Blueprint_2_Type Tool
 Blueprint_2_Supplies 4
 Blueprint_2_Supply_0_ID 394
 Blueprint_2_Supply_0_Amount 2
-Blueprint_2_Supply_1_ID 49130
+Blueprint_2_Supply_1_ID 39130
 Blueprint_2_Supply_1_Amount 1
 Blueprint_2_Supply_2_ID 72
 Blueprint_2_Supply_2_Amount 1
@@ -34,3 +34,6 @@ Blueprint_2_Output_0_Amount 1
 Blueprint_2_Level 3
 Blueprint_2_Skill Craft
 Blueprint_2_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Supply_Tape10

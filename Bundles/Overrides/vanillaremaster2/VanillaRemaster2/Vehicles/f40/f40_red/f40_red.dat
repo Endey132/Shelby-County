@@ -1,7 +1,7 @@
-GUID be26437020904b09b3fbabc57f2a7e99
+GUID c09a086e2c484831adfbafa3e0b96300
 Type Vehicle
 Rarity Mythical
-ID 36305
+ID 48305
 
 Physics_Profile b5d226fa493d4dc0b2d3763857a25579
 Fuel_Burn_Rate 1.7
@@ -28,3 +28,6 @@ Trunk_Storage_X 1
 Trunk_Storage_Y 2
 
 Explosion 20
+
+Master_Bundle_Override vanillaremaster2.masterbundle
+Bundle_Override_Path /VanillaRemaster2/Vehicles/f40/f40_red

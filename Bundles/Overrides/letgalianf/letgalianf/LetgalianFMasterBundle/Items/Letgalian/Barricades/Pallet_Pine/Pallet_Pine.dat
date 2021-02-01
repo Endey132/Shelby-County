@@ -1,0 +1,30 @@
+GUID 7dbc2fd2df9148c893fd6325dc7645a9
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 27657
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 350
+Range 4
+Offset 0.1
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override letgalianf.masterbundle
+Bundle_Override_Path Items/Letgalian/Barricades/Pallet_Pine

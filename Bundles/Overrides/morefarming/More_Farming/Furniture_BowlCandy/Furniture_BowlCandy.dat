@@ -1,9 +1,9 @@
-GUID f17c3efa4a6348c6a9d98e6584df1361
+GUID 8998c928ef6040128957f4aaa8aabc24
 Type Storage
 Rarity Rare
 Useable Barricade
 Build Storage
-ID 47200
+ID 37200
 
 Size_X 2
 Size_Y 2
@@ -22,16 +22,19 @@ Explosion 28
 Blueprints 1
 Blueprint_0_Type Furniture
 Blueprint_0_Supplies 5
-Blueprint_0_Supply_0_ID 42220
+Blueprint_0_Supply_0_ID 32220
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Supply_1_ID 42221
+Blueprint_0_Supply_1_ID 32221
 Blueprint_0_Supply_1_Amount 1
-Blueprint_0_Supply_2_ID 42218
+Blueprint_0_Supply_2_ID 32218
 Blueprint_0_Supply_2_Amount 1
-Blueprint_0_Supply_3_ID 42219
+Blueprint_0_Supply_3_ID 32219
 Blueprint_0_Supply_3_Amount 1
-Blueprint_0_Supply_4_ID 47111
+Blueprint_0_Supply_4_ID 37111
 Blueprint_0_Supply_4_Amount 1
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Master_Bundle_Override morefarming.masterbundle
+Bundle_Override_Path /More_Farming/Furniture_BowlCandy

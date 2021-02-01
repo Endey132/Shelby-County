@@ -1,8 +1,8 @@
-GUID 5fa6414f61ed404b9e9d99c5541b8001
+GUID c6b77344fffa4536b8e35469c28830c6
 Type Vest
 Rarity Rare
 Useable Clothing
-ID 34085
+ID 10024
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 34085
+Blueprint_0_Supply_0_ID 10024
 Blueprint_0_Product 66
 Blueprint_0_Products 2
 Blueprint_0_Build 32
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /Items/Vests/HS-LR-BK
