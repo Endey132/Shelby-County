@@ -1,8 +1,8 @@
-GUID 17fae4f497fb4e458bdf14b912bb8ab5
+GUID 110acf5d31c44b00a0b3b55833ac5510
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34019
+ID 37019
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-RT-MC

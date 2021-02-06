@@ -1,8 +1,8 @@
-GUID 6ca7b08abe4a453e9c42edb1d4f88885
+GUID a9816ecb2ded4321bf8f51f836b07daf
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34022
+ID 37022
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-CTG-MC

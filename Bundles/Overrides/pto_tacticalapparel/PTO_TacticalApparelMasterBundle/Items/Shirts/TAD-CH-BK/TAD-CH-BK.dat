@@ -1,8 +1,8 @@
-GUID 1e501d8f042c423e8bfcc5f8c37b5e00
+GUID 83de9cd7a1bc4b99b7d8c662d6040fa3
 Type Shirt
 Rarity Epic
 Useable Clothing
-ID 34223
+ID 37223
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TAD-CH-BK

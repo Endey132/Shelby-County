@@ -1,8 +1,8 @@
-GUID 7cc2e972859d492199b18865afcc4e69
+GUID fcae6e23dc5c46459a06745e2331a7d7
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34017
+ID 37017
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-CT-GE

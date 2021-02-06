@@ -1,8 +1,8 @@
-GUID 2fde7c6a9d3642a3887f4cf904ee7476
+GUID 94bfefeb25524f1890cad87f05993625
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34038
+ID 37038
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-FJG-GE

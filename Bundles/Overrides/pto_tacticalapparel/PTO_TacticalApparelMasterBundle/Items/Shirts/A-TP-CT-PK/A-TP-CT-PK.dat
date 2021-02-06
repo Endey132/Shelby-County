@@ -1,8 +1,8 @@
-GUID 342322be371a463589bafc67203e5d1c
+GUID 7be3feecf1294e17b8790a9df0bfcb38
 Type Shirt
 Rarity Mythical
 Useable Clothing
-ID 34904
+ID 37904
 
 Size_X 3
 Size_Y 2
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/A-TP-CT-PK

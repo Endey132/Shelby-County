@@ -1,8 +1,8 @@
-GUID c611ef3f9a424049bfaeae4cea1cf67f
+GUID e9921ed3c4e345228c014cba076bad95
 Type Shirt
 Rarity Epic
 Useable Clothing
-ID 34001
+ID 37001
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34400
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TAD-SH-BK

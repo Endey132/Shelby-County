@@ -1,8 +1,8 @@
-GUID a33596adbc16465d97a51f0e7ba5f23e
+GUID 648c814e65974feaa9fbcccf83f40551
 Type Shirt
 Rarity Mythical
 Useable Clothing
-ID 34901
+ID 37901
 
 Size_X 3
 Size_Y 2
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/A-TAD-SH-JA

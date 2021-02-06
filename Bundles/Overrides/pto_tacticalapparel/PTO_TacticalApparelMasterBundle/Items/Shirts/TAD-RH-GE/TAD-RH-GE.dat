@@ -1,8 +1,8 @@
-GUID 7da2003c86614a539a94d2aa43f2e93f
+GUID 340fe2e5d2f74db894c6ff0cb7d0f956
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34217
+ID 37217
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TAD-RH-GE

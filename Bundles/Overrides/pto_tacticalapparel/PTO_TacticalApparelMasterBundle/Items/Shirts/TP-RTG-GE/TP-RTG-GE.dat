@@ -1,8 +1,8 @@
-GUID f9f79ff1ee714de8b6fa30b8e69fdf65
+GUID 875b4985c34447c8824520fe11de3477
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34026
+ID 37026
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-RTG-GE

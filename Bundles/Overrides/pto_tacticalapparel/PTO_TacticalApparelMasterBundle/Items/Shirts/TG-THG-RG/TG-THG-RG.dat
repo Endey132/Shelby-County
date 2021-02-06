@@ -1,8 +1,8 @@
-GUID 94b9cac37b0f4717be3e0ee3c23a5bc9
+GUID 22358ed77d00475f963e46a6b4985f2f
 Type Shirt
 Rarity Legendary
 Useable Clothing
-ID 34008
+ID 37008
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TG-THG-RG

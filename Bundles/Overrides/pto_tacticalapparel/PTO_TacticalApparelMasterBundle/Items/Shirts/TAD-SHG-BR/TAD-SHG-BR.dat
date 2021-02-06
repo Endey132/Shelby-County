@@ -1,8 +1,8 @@
-GUID 7db07ac15beb4e978aba12a36bb33dec
+GUID eeb57244c76a47b3b0fbe460d439e9fc
 Type Shirt
 Rarity Epic
 Useable Clothing
-ID 34005
+ID 37005
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TAD-SHG-BR

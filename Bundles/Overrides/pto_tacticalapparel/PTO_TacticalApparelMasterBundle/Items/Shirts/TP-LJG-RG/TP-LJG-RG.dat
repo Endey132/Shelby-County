@@ -1,8 +1,8 @@
-GUID 6bed69719a824306a4f0f27541b782ac
+GUID 9e8ad73af61f41cfb46f306d9e064e4c
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 34045
+ID 37045
 
 Size_X 3
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-LJG-RG
