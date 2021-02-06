@@ -1,8 +1,8 @@
-GUID 4e1515aadc664fa191d3e844bd4887d5
+GUID 6db13e7ee92b4c388f7a8b50f37a9abf
 Type Mask
 Rarity Epic
 Useable Clothing
-ID 34246
+ID 37246
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,7 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 5
 Blueprint_1_Build 32
+
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Masks/3M-PRO

@@ -1,8 +1,8 @@
-GUID 47f0fc4d63ba4d5a9f97abc03bf3f15e
+GUID bfbfda4b24d24b8d8d211f6ac90ed4de
 Type Mask
 Rarity Rare
 Useable Clothing
-ID 34245
+ID 37245
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Masks/3M-MED

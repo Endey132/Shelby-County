@@ -1,8 +1,8 @@
-GUID 241b56d096c746d6b4f2142c597b4200
+GUID d3c4cdc861f84c088006d30310560f9c
 Type Mask
 Rarity Rare
 Useable Clothing
-ID 34244
+ID 37244
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,7 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Build 32
+
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Masks/3M-SCI

@@ -1,8 +1,8 @@
-GUID abf58d29bd214452875d2ec36d0236f3
+GUID 32416dfdf52143debb4b9300387944d9
 Type Mask
 Rarity Epic
 Useable Clothing
-ID 34247
+ID 37247
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Masks/WSC-ROD

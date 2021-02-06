@@ -1,8 +1,8 @@
-GUID 97228f55ea184527b4feb2f18572075f
+GUID 89f62959831b416cabb4eaf2a8911bc0
 Type Mask
 Rarity Mythical
 Useable Clothing
-ID 34913
+ID 37913
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Masks/A-WSC-ROD-JA
