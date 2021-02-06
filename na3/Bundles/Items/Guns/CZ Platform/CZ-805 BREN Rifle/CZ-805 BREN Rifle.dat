@@ -1,9 +1,9 @@
-GUID 7316b791d99a4aa7b70020fa050dd77c
+GUID 93ce6a928dad431b98fdb96d8c719548
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58157
+ID 48157
 
 Size_X 4
 Size_Y 2
@@ -107,3 +107,6 @@ Blueprint_1_Supply_0_ID 58157
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/CZ Platform/CZ-805 BREN Rifle

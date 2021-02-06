@@ -1,7 +1,7 @@
-GUID 8e73a52ab9e37d0317f3c2fac239a26d
+GUID eb5f0b498bb94e49b3a7b96f537eecc3
 Type Grip
 Rarity Mythical
-ID 58249
+ID 48249
 
 Size_X 1
 Size_Y 1
@@ -18,3 +18,6 @@ Sway 0.5
 Shake 0.4
 
 Bipod
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/OSV-96 Bipod

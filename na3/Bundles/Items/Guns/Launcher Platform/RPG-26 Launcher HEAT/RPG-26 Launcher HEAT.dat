@@ -1,9 +1,9 @@
-GUID da79c1ef420c8ab6da17dcf803b50f5f
+GUID eb22cd6ba6764e58b9b325cea516c43a
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Any
-ID 58319
+ID 48319
 
 Size_X 5
 Size_Y 2
@@ -69,3 +69,6 @@ Shake_Max_Z -0.05
 
 Should_Delete_Empty_Magazines True
 Allow_Magazine_Change False
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Laucher Platform/RPG-26 Launcher HEAT

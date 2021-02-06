@@ -1,9 +1,9 @@
-GUID 3de587809098f7abb363754606719c5a
+GUID 747f5f02ec0747b8b6792db131b57a22
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58362
+ID 48362
 
 Size_X 4
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_1_Supply_0_ID 58362
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/FNC Platform/Bofors Ak 5C Carbine

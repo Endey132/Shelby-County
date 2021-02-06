@@ -1,9 +1,9 @@
-GUID 2b187be33dbf4794a4372de456269eb2
+GUID be21e41bdf324db2a8aa48acb719ce7a
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58440
+ID 48440
 
 Size_X 3
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_1_Supply_0_ID 58440
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/MP7 Platform/H&K MP7A2 Sub Machine Gun

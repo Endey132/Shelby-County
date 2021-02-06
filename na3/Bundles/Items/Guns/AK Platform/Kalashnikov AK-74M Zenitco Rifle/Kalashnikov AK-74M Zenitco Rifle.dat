@@ -1,9 +1,9 @@
-GUID c8a2ebd09d314fa792bb0d610e122f11
+GUID 0272b9a92ce04a42b8fab9e624674329
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58089
+ID 48089
 
 Size_X 4
 Size_Y 2
@@ -110,3 +110,6 @@ Blueprint_1_Supply_0_ID 58089
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov AK-74M Zenitco Rifle

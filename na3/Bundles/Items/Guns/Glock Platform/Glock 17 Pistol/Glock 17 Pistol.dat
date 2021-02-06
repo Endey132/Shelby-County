@@ -1,9 +1,9 @@
-GUID 76a51508e1aa43c18d2b9773d31f28a0
+GUID d20992a3533d4bbd8f11368f4a4a9f1b
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58090
+ID 48090
 
 Size_X 2
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58090
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Glock Platform/Glock 17 Pistol

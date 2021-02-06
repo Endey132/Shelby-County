@@ -1,9 +1,9 @@
-GUID 62efb80d64527894fbcdba09c848f56b
+GUID 86b7001b4dbf40c08febb5fe234ada2d
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58287
+ID 48287
 
 Size_X 4
 Size_Y 2
@@ -102,3 +102,6 @@ Blueprint_1_Supply_0_ID 58287
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Vepr VPO-136 Rifle/Vepr VPO-136 Rifle

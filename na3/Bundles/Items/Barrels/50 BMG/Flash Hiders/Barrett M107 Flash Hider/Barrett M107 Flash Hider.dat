@@ -1,7 +1,7 @@
-GUID db6bf5a747109b79c42336c23868b563
+GUID 9c0107ef192047aa8145412ec28ee7a3
 Type Barrel
 Rarity Legendary
-ID 58229
+ID 48229
 
 Size_X 1
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 1.1
 Shake 0.975
 Recoil_X 0.9
 Recoil_Y 1
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/50 BMG/Flash Hiders/Barret M107 Flash Hider

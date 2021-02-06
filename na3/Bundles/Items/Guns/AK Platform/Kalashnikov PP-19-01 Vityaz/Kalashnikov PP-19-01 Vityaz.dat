@@ -1,9 +1,9 @@
-GUID cc416e4d681c4926a0a336d89461fcab
+GUID 9b7641c620d044498d1b1b6a85d80599
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58127
+ID 48127
 
 Size_X 3
 Size_Y 2
@@ -102,3 +102,6 @@ Blueprint_1_Supply_0_ID 58127
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov PP-19-01 Vityaz

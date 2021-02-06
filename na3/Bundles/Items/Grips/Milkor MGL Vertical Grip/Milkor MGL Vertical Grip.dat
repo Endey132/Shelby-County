@@ -1,7 +1,7 @@
-GUID 1d73e7de1f9afdc287577d84891c63d4
+GUID b48290244be445fda70e259cc9f27866
 Type Grip
 Rarity Rare
-ID 58219
+ID 48219
 
 Size_X 1
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.75
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Milkor MGL Vertical Grip

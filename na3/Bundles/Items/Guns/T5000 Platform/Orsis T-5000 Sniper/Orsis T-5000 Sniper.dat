@@ -1,9 +1,9 @@
-GUID 5ed54ec6b34a6afdbf607bc4ab608860
+GUID 417d73776b634f37a3bc81fd933c948c
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58408
+ID 48408
 
 Size_X 5
 Size_Y 2
@@ -107,3 +107,6 @@ Blueprint_1_Supply_0_ID 58408
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/T5000 Platform/Orsis T-5000 Sniper

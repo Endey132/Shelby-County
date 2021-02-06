@@ -1,9 +1,9 @@
-GUID c8c4a6e35fc33dbc17591682f64f2735
+GUID ce6d272cd047416fa596fdbc565b3994
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58480
+ID 48480
 
 Size_X 4
 Size_Y 2
@@ -110,3 +110,6 @@ Blueprint_1_Supply_0_ID 58480
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AR-15 Platform/Colt M4 Carbine

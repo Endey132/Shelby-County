@@ -1,9 +1,9 @@
-GUID 4219181bbed2bd9d36a249c8d86f0bc0
+GUID f062b873ce7b4b73bd1bec4ac104c866
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58372
+ID 48372
 
 Size_X 5
 Size_Y 2
@@ -109,3 +109,6 @@ Blueprint_1_Supply_0_ID 58372
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/M14 Platform/SA M1A SOCOM 16

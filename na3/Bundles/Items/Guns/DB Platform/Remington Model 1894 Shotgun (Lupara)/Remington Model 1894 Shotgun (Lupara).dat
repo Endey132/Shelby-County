@@ -1,9 +1,9 @@
-GUID eb9528b19e0989cf9dc3ae3e3904935d
+GUID 5bd980948fd7486c8e6217a6c1829a03
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Any
-ID 58317
+ID 48317
 
 Size_X 3
 Size_Y 2
@@ -113,3 +113,6 @@ Blueprint_3_Supply_0_ID 58316
 Blueprint_3_Tool 141
 Blueprint_3_State_Transfer
 Blueprint_3_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/DB Platform/Remington Model 1894 Shotgun (Lupara)

@@ -1,7 +1,7 @@
-GUID 7d7f10791dfc1c6a8ae272c4090b6097
+GUID 2f8563cba8be4fef942553d6237f6626
 Type Grip
 Rarity Epic
-ID 58400
+ID 48400
 
 Size_X 1
 Size_Y 2
@@ -38,3 +38,6 @@ Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 58400
 Blueprint_1_Output_0_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/B-3 Mount with Harris Bipod

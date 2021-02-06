@@ -1,7 +1,7 @@
-GUID 31d1c318c029a9c925aef7135646f4fc
+GUID 9cbae5e5abd2418fb2c8c7f9dbecf5e9
 Type Grip
 Rarity Rare
-ID 58259
+ID 48259
 
 Size_X 1
 Size_Y 2
@@ -19,3 +19,6 @@ Sway 0.4
 Shake 0.3
 
 Bipod
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/SVDM Bipod

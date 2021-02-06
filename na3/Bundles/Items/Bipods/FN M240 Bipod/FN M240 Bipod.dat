@@ -1,7 +1,7 @@
-GUID e4c3c2a5c9794665a66f14cf93d27022
+GUID b578d9e673bb4696b6bba80637a534e8
 Type Grip
 Rarity Rare
-ID 58066
+ID 48066
 
 Size_X 2
 Size_Y 2
@@ -20,3 +20,6 @@ Shake 0.3
 Bipod
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/FN M240 Bipod

@@ -1,9 +1,9 @@
-GUID 9a7c215ac0b29bd462dc27a4b9e043b1
+GUID 8d90d5ebfbfa4a3cb8c80d080acaabd6
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58264
+ID 48264
 
 Size_X 2
 Size_Y 2
@@ -99,3 +99,6 @@ Blueprint_1_Supply_0_ID 58264
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Grach Platform/Kalashnikov MP-443 Grach Pistol

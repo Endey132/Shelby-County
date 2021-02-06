@@ -1,7 +1,7 @@
-GUID 9aabc4fd36844829b9324daa78d84961
+GUID 1cb3e90d48eb420eb21e02fd56b580e0
 Type Grip
 Rarity Rare
-ID 58595
+ID 48595
 
 Size_X 2
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.4
 Shake 0.3
 
 Bipod
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/G3 Bipod

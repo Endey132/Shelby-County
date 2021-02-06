@@ -1,9 +1,9 @@
-GUID 749f9045ec2de1f552ebdcb5187571bd
+GUID b26f96a82e6b443592eee078064e8cf0
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58328
+ID 48328
 
 Size_X 3
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58328
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Uzi Platform/IWI Uzi Submachine Gun

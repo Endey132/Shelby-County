@@ -1,7 +1,7 @@
-GUID 672970f6982d8cbc528e4e584d52d136
+GUID 3908e44be7574ffea2c9eeed81b93617
 Type Barrel
 Rarity Rare
-ID 58228
+ID 48228
 
 Size_X 1
 Size_Y 1
@@ -24,3 +24,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Repair
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/50 BMG Muzzles/Barret M107 Muzzle Brake

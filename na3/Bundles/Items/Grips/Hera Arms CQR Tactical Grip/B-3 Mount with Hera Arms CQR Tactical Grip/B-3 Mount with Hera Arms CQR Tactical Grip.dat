@@ -1,7 +1,7 @@
-GUID b1c53caef42c9cadde3fec13b926efcf
+GUID 4587b7e245714d66805855d198404c2b
 Type Grip
 Rarity Epic
-ID 58456
+ID 48456
 
 Size_X 1
 Size_Y 2
@@ -20,19 +20,22 @@ Shake 0.8
 Blueprints 2
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58456
+Blueprint_0_Supply_0_ID 48456
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58397
-Blueprint_0_Output_1_ID 58168
+Blueprint_0_Output_0_ID 48397
+Blueprint_0_Output_1_ID 48168
 Blueprint_0_Output_0_Amount 1
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58397
+Blueprint_1_Supply_0_ID 48397
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58168
+Blueprint_1_Supply_1_ID 48168
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58456
+Blueprint_1_Output_0_ID 48456
 Blueprint_1_Output_0_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Hera Arms CQR Tactical Grip/B-3 Mount with Hera Arms CQR Tactical Grip

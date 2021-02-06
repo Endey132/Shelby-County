@@ -1,9 +1,9 @@
-GUID 6f5f62bd98969603b7a56450c2ab25a1
+GUID 2ed16db865d74464a6250a36b89d3b40
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Secondary
-ID 58312
+ID 48312
 
 Size_X 3
 Size_Y 2
@@ -105,3 +105,6 @@ Blueprint_1_Supply_0_ID 58312
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/P90 Platform/FN P90 TR Personal Defense Weapon

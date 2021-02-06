@@ -1,9 +1,9 @@
-GUID 013a76073a0d43b183f0e40a80d901d5
+GUID bf05556c3920435fa1753835c60b0ead
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58155
+ID 48155
 
 Size_X 2
 Size_Y 2
@@ -99,3 +99,6 @@ Blueprint_1_Supply_0_ID 58155
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/1911 Platform/Colt M1911

@@ -1,7 +1,7 @@
-GUID 1bc98db5fe9b7c9fc2e19ec70e8d8b0b
+GUID 18747caec97642feb35928ea05d0ff3c
 Type Barrel
 Rarity Rare
-ID 58450
+ID 48450
 
 Size_X 1
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 0.825
 Shake 0.92
 Recoil_X 0.75
 Recoil_Y 0.825
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/9x19mm/Muzzles/TSS Reaper Short Type II Muzzle Break

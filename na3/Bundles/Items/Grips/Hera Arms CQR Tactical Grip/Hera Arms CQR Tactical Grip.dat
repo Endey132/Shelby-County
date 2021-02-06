@@ -1,7 +1,7 @@
-GUID 8f38190cd24e4c729cc0fffbdb8836f1
+GUID 2b115cfcdc734f7c93ccd539ef01db05
 Type Grip
 Rarity Rare
-ID 58168
+ID 48168
 
 Size_X 1
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.75
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Hera Arms CQR Tactical Grip

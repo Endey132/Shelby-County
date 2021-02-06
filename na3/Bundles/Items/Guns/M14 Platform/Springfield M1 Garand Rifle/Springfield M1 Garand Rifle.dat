@@ -1,9 +1,9 @@
-GUID b547dba1f54b4e2e9dc53d948331de40
+GUID 6dbe4883644d4559ba6205983ae289c1
 Type Gun
 Rarity Uncommon
 Useable Gun
 Slot Primary
-ID 58515
+ID 48515
 
 Size_X 5
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58515
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/M14 Platform/Springfield M1 Garand Rifle

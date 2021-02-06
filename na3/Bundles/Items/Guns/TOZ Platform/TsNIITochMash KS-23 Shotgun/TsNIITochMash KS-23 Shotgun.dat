@@ -1,9 +1,9 @@
-GUID c8cb7be335672c429815efb07875b9bf
+GUID 1abe23a7eeb24d67b5961897c0bb7f2a
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58247
+ID 48247
 
 Size_X 5
 Size_Y 2
@@ -97,3 +97,7 @@ Blueprint_1_Supply_0_ID 58247
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/TOZ Platform/TsNIITochMash KS-23 Shotgun

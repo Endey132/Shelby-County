@@ -1,9 +1,9 @@
-GUID 4af4974b8d5796157c045d7189ae89ca
+GUID a04eb650257045f4bb645098f484f808
 Type Gun
 Rarity Uncommon
 Useable Gun
 Slot Secondary
-ID 58342
+ID 48342
 
 Size_X 2
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58342
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/P220 Platform/SIG P226 Pistol

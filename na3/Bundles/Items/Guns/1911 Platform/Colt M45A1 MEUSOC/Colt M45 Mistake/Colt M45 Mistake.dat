@@ -1,9 +1,9 @@
-GUID 4bf4e8bbf5544c088107ee17d0515c73
+GUID 9d06333d06194a798bf004c66c4caaae
 Type Gun
 Rarity Mythical
 Useable Gun
 Slot Secondary
-ID 58563
+ID 48563
 
 Size_X 2
 Size_Y 2
@@ -95,3 +95,6 @@ Blueprint_1_Supply_0_ID 58563
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/1911 Platform/Colt M45A1 MEUSOC/Colt M45 Mistake

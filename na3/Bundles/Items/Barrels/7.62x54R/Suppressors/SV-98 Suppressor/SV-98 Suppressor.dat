@@ -1,7 +1,7 @@
-GUID ad1e57afa1f2281520c7647a6b032658
+GUID b3c07672993543b08984e2c7b624a8ae
 Type Barrel
 Rarity Epic
-ID 58428
+ID 48428
 
 Size_X 2
 Size_Y 1
@@ -22,3 +22,6 @@ Braked
 Silenced
 Volume 1.0
 Gunshot_Rolloff_Distance_Multiplier 0.6
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/7.62x54R/Suppressors/SV-98 Suppressor

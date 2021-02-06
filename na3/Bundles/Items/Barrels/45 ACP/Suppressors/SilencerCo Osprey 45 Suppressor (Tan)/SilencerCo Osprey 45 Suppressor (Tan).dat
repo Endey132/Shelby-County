@@ -1,7 +1,7 @@
-GUID 4bd603e41c263281b60cd6a4c6ec1b01
+GUID 4aeb3afa3ced4194a31d79ef6c8974c5
 Type Barrel
 Rarity Epic
-ID 58285
+ID 48285
 
 Size_X 2
 Size_Y 1
@@ -29,3 +29,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Repair
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/45 ACP Suppressors/SilencerCo Osprey 45 Suppressor (Tan)

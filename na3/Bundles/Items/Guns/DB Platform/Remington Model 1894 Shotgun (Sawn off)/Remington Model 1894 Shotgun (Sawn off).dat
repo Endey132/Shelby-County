@@ -1,9 +1,9 @@
-GUID b6f9090a74805d6d198afe7eb2631a75
+GUID 5fc8f50478e64a728c4cc94f6f6524a5
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58316
+ID 48316
 
 Size_X 3
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_2_Supply_0_ID 58315
 Blueprint_2_Tool 141
 Blueprint_2_State_Transfer
 Blueprint_2_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/DB Platform/Remington Model 1894 Shotgun (Sawn Off)

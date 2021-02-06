@@ -1,9 +1,9 @@
-GUID 4879542afb60b2a1c82072cdb40f9050
+GUID 5374016925204cd58ca23c8b0f4273f3
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58434
+ID 48434
 
 Size_X 5
 Size_Y 2
@@ -112,3 +112,6 @@ Blueprint_1_Supply_0_ID 58434
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/SVD Platform/Dragonuv SVU-A Battle Rifle

@@ -1,9 +1,9 @@
-GUID af189a3295b54c46b9e2b91423df212f
+GUID 922856bb8a2449288048cac4c06ee1a0
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58173
+ID 48173
 
 Size_X 5
 Size_Y 2
@@ -107,3 +107,6 @@ Blueprint_1_Supply_0_ID 58173
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AW Platform/AI L115A3 Sniper

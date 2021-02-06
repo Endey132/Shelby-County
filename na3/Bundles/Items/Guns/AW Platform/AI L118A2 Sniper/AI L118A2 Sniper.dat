@@ -1,9 +1,9 @@
-GUID ca94f96c48a449dfb6fe78a548fda912
+GUID a757fb02a77444d19bf66cedc41748ec
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58097
+ID 48097
 
 Size_X 5
 Size_Y 2
@@ -107,3 +107,6 @@ Blueprint_1_Supply_0_ID 58097
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AW Platform/Al L118A2 Sniper

@@ -1,9 +1,9 @@
-GUID 0f7b7919b9f04170852c10a4f77902c5
+GUID 25aa73c52e624f84b330443c66906dcd
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58067
+ID 48067
 
 Size_X 5
 Size_Y 2
@@ -105,3 +105,6 @@ Blueprint_1_Supply_0_ID 58067
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/PKM Platform/Kalashnikov PKM Medium Machine Gun

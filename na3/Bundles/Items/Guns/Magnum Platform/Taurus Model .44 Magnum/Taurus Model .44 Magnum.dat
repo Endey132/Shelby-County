@@ -1,9 +1,9 @@
-GUID 74ed19b69075b61946a6f3c18565d931
+GUID fbdf66a9c58e4e0f91eb8c5c0d7a2c70
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58267
+ID 48267
 
 Size_X 2
 Size_Y 2
@@ -99,3 +99,6 @@ Blueprint_1_Supply_0_ID 58267
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Magnum Platform/Taurus Model .44 Magnum

@@ -1,9 +1,9 @@
-GUID 830de79f2961459ea7bbc186aefec913
+GUID 9d9c1e415b9f4e0186f55649e43f3594
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58177
+ID 48177
 
 Size_X 5
 Size_Y 2
@@ -104,3 +104,7 @@ Blueprint_1_Supply_0_ID 58177
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/M870 Platform/Remington M870 MCS Shotgun

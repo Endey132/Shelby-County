@@ -1,9 +1,9 @@
-GUID c64e867bc8f5535d175acd9c82e358f8
+GUID dbea0a9b7fd54a1596d0573cb69e7ad0
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58406
+ID 48406
 
 Size_X 5
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58406
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/DP Platform/Degtyaryov DP-27 Light Machine Gun

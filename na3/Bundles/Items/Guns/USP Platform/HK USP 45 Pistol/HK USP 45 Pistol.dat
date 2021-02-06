@@ -1,9 +1,9 @@
-GUID 372a6ba86ce0c473f0f9bf8bacec81fb
+GUID f51e582cdeb84f7ba76dfd20437b9074
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58325
+ID 48325
 
 Size_X 2
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58325
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/USP Platform/HK USP 45 Pistol

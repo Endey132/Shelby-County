@@ -1,9 +1,9 @@
-GUID d4b2c17abcfb91fec760e5818082bc74
+GUID cd713754dead47e4b8312dc325564116
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58340
+ID 48340
 
 Size_X 4
 Size_Y 2
@@ -114,5 +114,5 @@ Blueprint_2_Tool 76
 Blueprint_2_State_Transfer
 Blueprint_2_Build 27
 
-Bundle_Override_Path /Bundles/Items/Guns/AR-15 Platform/DPMS AP4 Carbine
 Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AR-15 Platform/DPMS AP4 Carbine

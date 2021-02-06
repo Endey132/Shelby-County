@@ -1,9 +1,9 @@
-GUID d95d2ef14b4144a29a529df5bdb3b9bd
+GUID cbede09dfbfd457dbb5ecdd607917f12
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58642
+ID 48642
 
 Size_X 5
 Size_Y 2
@@ -89,3 +89,6 @@ Blueprint_1_Supply_0_ID 58642
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/Carl Gustav M3 Recoilless Rifle

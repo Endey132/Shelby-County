@@ -1,7 +1,7 @@
-GUID 3f3c249b25c762f5160a602aebd7589e
+GUID 8e5649e2890c4e4eaec60361321ce1c9
 Type Barrel
 Rarity Rare
-ID 58191
+ID 48191
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Silenced
 Braked
 Volume 0.8
 Gunshot_Rolloff_Distance_Multiplier 0.9
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/9x39mm/Suppressors/VAL Suppressor

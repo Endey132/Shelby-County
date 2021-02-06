@@ -1,9 +1,9 @@
-GUID 523457f1a140b95ed88ab9ef40a67615
+GUID 1b71530acfc145dc9705c38acc897c63
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58216
+ID 48216
 
 Size_X 4
 Size_Y 2
@@ -90,3 +90,6 @@ Blueprint_1_Supply_0_ID 58216
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/Milkor MGL Mk.1s

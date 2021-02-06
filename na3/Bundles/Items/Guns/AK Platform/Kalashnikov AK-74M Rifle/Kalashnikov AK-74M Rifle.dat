@@ -1,9 +1,9 @@
-GUID 17e13c36bdf0cb7dc136968fc17fa7d6
+GUID 8256f449172e4c28913a1cc38929da57
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58215
+ID 48215
 
 Size_X 4
 Size_Y 2
@@ -109,3 +109,6 @@ Blueprint_1_Supply_0_ID 58215
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov AK-74M Rifle

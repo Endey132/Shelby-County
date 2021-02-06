@@ -1,7 +1,7 @@
-GUID e28f5871f887461bbbc0719c8fc7944e
+GUID 87660746311d48138f79abc08dc4a51d
 Type Barrel
 Rarity Rare
-ID 58635
+ID 48635
 
 Size_X 1
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 0.85
 Shake 0.95
 Recoil_X 0.8
 Recoil_Y 0.83
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/7.62x51/Muzzles/G3 Muzzle Brake

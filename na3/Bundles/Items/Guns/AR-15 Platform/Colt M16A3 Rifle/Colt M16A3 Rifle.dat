@@ -1,9 +1,9 @@
-GUID 2ca343286a5d8d6d21c9f3c7c906c3c7
+GUID b7d171d614554273acef8bc617919692
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58245
+ID 48245
 
 Size_X 4
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_1_Supply_0_ID 58245
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AR-15 Platform/Colt M16A3 Rifle

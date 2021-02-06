@@ -1,9 +1,9 @@
-GUID 1d4e11c7736d812cf3785756474e34d4
+GUID b1d18a1ce4944b47b5c55cfe4a4ec4f2
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58447
+ID 48447
 
 Size_X 4
 Size_Y 2
@@ -108,3 +108,6 @@ Blueprint_1_Supply_0_ID 58447
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/MCX Platform/SIG MCX Rifle

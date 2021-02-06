@@ -1,7 +1,7 @@
-GUID 83fcca32cb124021b91ec42c8401969f
+GUID 0cf78f2aa0634a60876d3adf5cc51387
 Type Barrel
 Rarity Common
-ID 58562
+ID 48562
 
 Size_X 1
 Size_Y 2
@@ -17,3 +17,6 @@ Spread 0.8
 Sway 0.75
 Shake 0.8
 Ballistic_Drop 0.875
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/OTs-14 Groza Grip

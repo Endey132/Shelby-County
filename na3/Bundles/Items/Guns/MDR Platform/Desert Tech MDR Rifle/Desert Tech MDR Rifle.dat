@@ -1,9 +1,9 @@
-GUID ae74ed85404be031b9b89e062ba4b25a
+GUID f25c33b8c11a4af5a01a50508d06c987
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58375
+ID 48375
 
 Size_X 4
 Size_Y 2
@@ -108,3 +108,6 @@ Blueprint_1_Supply_0_ID 58375
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/MDR Platform/Desert Tech MDR Rifle

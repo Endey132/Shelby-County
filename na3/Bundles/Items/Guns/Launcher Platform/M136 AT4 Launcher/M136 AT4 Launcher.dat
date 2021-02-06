@@ -1,9 +1,9 @@
-GUID 343adb878f76d9a512b7a0faf5c34d68
+GUID 966daa53a071417f8d82a592e65549aa
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Any
-ID 58250
+ID 48250
 
 Size_X 5
 Size_Y 2
@@ -69,3 +69,6 @@ Shake_Max_Z -0.05
 
 Should_Delete_Empty_Magazines True
 Allow_Magazine_Change False
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/M136 AT4 Launcher

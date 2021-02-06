@@ -1,9 +1,9 @@
-GUID 89aa261a0341408fa675e8151e0fd054
+GUID 77363650112b4fc1be7c748b7d2d98c6
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58123
+ID 48123
 
 Size_X 4
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58123
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov RPK Light Machine Gun

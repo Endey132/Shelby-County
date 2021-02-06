@@ -1,7 +1,7 @@
-GUID 45e0eab141dc2d6b305d4c83230460de
+GUID 5298ca03e3c544e18d80168cdbf0d9ff
 Type Barrel
 Rarity Rare
-ID 58432
+ID 48432
 
 Size_X 1
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 0.825
 Shake 0.92
 Recoil_X 0.75
 Recoil_Y 0.825
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/5.56x46/Muzzles/Daniel Defense Wave Muzzle Brake

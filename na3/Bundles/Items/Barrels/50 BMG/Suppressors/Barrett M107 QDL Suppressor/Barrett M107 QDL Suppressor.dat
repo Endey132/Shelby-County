@@ -1,7 +1,7 @@
-GUID 5d4f9b0d6e20587b64124c16a309cbe5
+GUID f9b47fb2c41c44e89df379ad15b41c50
 Type Barrel
 Rarity Epic
-ID 58449
+ID 48449
 
 Size_X 2
 Size_Y 1
@@ -19,3 +19,6 @@ Braked
 Silenced
 Volume 0.8
 Gunshot_Rolloff_Distance_Multiplier 0.8
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/50 BMG/Suppressors/Barret M107 QDL Suppressor

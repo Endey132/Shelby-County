@@ -1,9 +1,9 @@
-GUID a562ea6864e94434a6f7ae48973edcd4
+GUID d3a4822432d24b8690b68c17f9794fa1
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58133
+ID 48133
 
 Size_X 4
 Size_Y 2
@@ -110,3 +110,6 @@ Blueprint_1_Supply_0_ID 58133
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AR-15 Platform/Colt Mk.18 Mod 1 Carbine

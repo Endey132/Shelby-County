@@ -1,9 +1,9 @@
-GUID 7b322f7d6e1149e79768b7a7d3f8149f
+GUID 2eecce3c58a645cfb86354a212ab1887
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Any
-ID 58200
+ID 48200
 
 Size_X 3
 Size_Y 2
@@ -85,3 +85,6 @@ Blueprint_1_Supply_0_ID 58200
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/LMT M203 Standalone Launcher

@@ -1,7 +1,7 @@
-GUID d07ae9355bdfd30f8ba5c83f9c013e08
+GUID 4ae793718d1a4bb187412d5ad68b3526
 Type Grip
 Rarity Legendary
-ID 58226
+ID 48226
 
 Size_X 2
 Size_Y 2
@@ -22,8 +22,11 @@ Bipod
 Blueprints 1
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58226
+Blueprint_0_Supply_0_ID 48226
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58227
+Blueprint_0_Output_0_ID 48227
 Blueprint_0_Output_0_Amount 1
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/Barret M107 Bipod

@@ -1,9 +1,9 @@
-GUID c5cb54033a8b43a396a7c619f30ccd0e
+GUID 1314f98ece3e42029191a8e20525a93c
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58611
+ID 48611
 
 Size_X 3
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58611
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/MP5 Platform/H&K MP5SD2 Submachine Gun

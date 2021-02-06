@@ -1,9 +1,9 @@
-GUID c038e819292d4375a760f280d256dd99
+GUID c150944d65664c0692bfea79a181722b
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58636
+ID 48636
 
 Size_X 5
 Size_Y 2
@@ -103,3 +103,6 @@ Blueprint_1_Supply_0_ID 58636
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/FAL Platform/FN FAL Battle Rifle

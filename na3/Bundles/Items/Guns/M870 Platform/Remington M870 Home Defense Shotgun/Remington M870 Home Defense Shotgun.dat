@@ -1,9 +1,9 @@
-GUID 13897c8297276ed8ae946c1f06c50615
+GUID d096fa75fcb645d1a06dcdfe5ab9a966
 Type Gun
 Rarity Uncommon
 Useable Gun
 Slot Primary
-ID 58341
+ID 48341
 
 Size_X 5
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Output_0_Amount 2
 Blueprint_1_Output_1_ID 61
 Blueprint_1_Output_1_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/M870 Platform/Remington M870 Home Defense Shotgun

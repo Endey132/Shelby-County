@@ -1,7 +1,7 @@
-GUID 9c5916889bf44bc0a5838bad3a9bd780
+GUID 2a41bb4375fc42259bb34a3b2a684aaa
 Type Grip
 Rarity Rare
-ID 58606
+ID 48606
 
 Size_X 2
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.4
 Shake 0.3
 
 Bipod
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/HK33 Bipod

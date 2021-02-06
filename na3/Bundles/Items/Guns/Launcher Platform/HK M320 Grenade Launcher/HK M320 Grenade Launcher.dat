@@ -1,9 +1,9 @@
-GUID d717fa3da29a24c0a1fdc91b6081607e
+GUID e3fdedac18204ed7a9d56c443705de1a
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Any
-ID 58210
+ID 48210
 
 Size_X 3
 Size_Y 2
@@ -82,3 +82,6 @@ Blueprint_1_Supply_0_ID 58210
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/HK M320 Grenade Launcher

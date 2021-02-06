@@ -1,9 +1,9 @@
-GUID b5c4a6248d7b4a588889cc384cb8c298
+GUID 49af61615b5348da951807f3a6d46472
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58081
+ID 48081
 
 Size_X 4
 Size_Y 2
@@ -101,3 +101,6 @@ Blueprint_1_Supply_0_ID 58081
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/G36 Platform/H&K G36C Carbine

@@ -1,9 +1,9 @@
-GUID 2d9fb4507a572b53e86efca689758d48
+GUID 3e3295efd46b4dbc815501bdaf4d6d85
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58442
+ID 48442
 
 Size_X 4
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_1_Supply_0_ID 58442
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Degtyaryov AEK-973

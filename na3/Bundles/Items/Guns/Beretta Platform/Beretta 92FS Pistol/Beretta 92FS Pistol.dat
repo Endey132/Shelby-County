@@ -1,9 +1,9 @@
-GUID fb08b0e881c7afb1b6d192871ceaf8bf
+GUID cbcc72c70f7549819e2117c7211b3f96
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58252
+ID 48252
 
 Size_X 2
 Size_Y 2
@@ -98,3 +98,6 @@ Blueprint_1_Supply_0_ID 58252
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Beretta Platform/Beretta 92FS Pistol

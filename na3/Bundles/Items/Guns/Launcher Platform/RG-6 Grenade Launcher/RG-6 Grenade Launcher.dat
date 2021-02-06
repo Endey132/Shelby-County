@@ -1,9 +1,9 @@
-GUID ecd675a028202738c341a7e4a49b43e4
+GUID d461809e8497493fa05ec748f5e58951
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58220
+ID 48220
 
 Backward
 
@@ -85,3 +85,6 @@ Blueprint_1_Supply_0_ID 58220
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Pltform/RG-6 Grenade Launcher

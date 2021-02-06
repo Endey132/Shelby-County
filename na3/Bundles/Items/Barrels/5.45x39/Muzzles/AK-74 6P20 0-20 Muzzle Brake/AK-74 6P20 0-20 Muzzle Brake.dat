@@ -1,7 +1,7 @@
-GUID 149beeab7e9d4db98fa1f3cfdef9dfa5
+GUID d6ab26ecc2324daca8db293c5746e07e
 Type Barrel
 Rarity Rare
-ID 58181
+ID 48181
 
 Size_X 1
 Size_Y 1
@@ -24,3 +24,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Repair
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/5.45x39/Muzzles/AK-74 6P20 0-20 Muzzle Brake

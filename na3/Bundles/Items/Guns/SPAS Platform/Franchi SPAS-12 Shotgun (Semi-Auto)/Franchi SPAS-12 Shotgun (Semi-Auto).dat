@@ -1,9 +1,9 @@
-GUID f4504178f0e826d3c05628fb650926f3
+GUID 2f6dec196d29431393923338c8a8df54
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58207
+ID 48207
 
 Size_X 4
 Size_Y 2
@@ -112,3 +112,6 @@ Blueprint_2_State_Transfer
 Blueprint_2_Product 58206
 Blueprint_2_Products 1
 Blueprint_2_Build 55111
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/SPAS Platform/SPAS-12 Shotgun (Semi-Auto)

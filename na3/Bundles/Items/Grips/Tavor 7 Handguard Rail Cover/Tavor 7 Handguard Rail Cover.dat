@@ -1,7 +1,7 @@
-GUID e60e524082543e54bd737450158092be
+GUID 432fb0ed2fd346a49a63bd082fb5ade0
 Type Grip
 Rarity Common
-ID 58426
+ID 48426
 
 Size_X 2
 Size_Y 1
@@ -18,3 +18,6 @@ Sway 0.7
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Tavor 7 Handguard Rail Cover

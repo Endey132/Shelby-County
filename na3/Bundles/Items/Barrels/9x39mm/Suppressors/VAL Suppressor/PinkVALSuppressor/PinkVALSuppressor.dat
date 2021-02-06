@@ -1,7 +1,7 @@
-GUID d6c446ea98dbc6195e019f4b9c2e0648
+GUID 6ae4df0d0b5044b18f8553e0cc8a7ef1
 Type Barrel
 Rarity Mythical
-ID 58324
+ID 48324
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Silenced
 Braked
 Volume 0.8
 Gunshot_Rolloff_Distance_Multiplier 0.9
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/9x39mm/Suppressors/VAL Suppressors/PinkVALSuppressor

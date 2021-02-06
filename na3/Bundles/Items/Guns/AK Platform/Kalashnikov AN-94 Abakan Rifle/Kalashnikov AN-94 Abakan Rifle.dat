@@ -1,9 +1,9 @@
-GUID e161d75c0d2b4f52b5e586a5817194e9
+GUID f8f1dbb4dc1c4959b2c272ef11888634
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58187
+ID 48187
 
 Size_X 4
 Size_Y 2
@@ -103,3 +103,6 @@ Blueprint_1_Supply_0_ID 58187
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov AN-94 Abakan Rifle

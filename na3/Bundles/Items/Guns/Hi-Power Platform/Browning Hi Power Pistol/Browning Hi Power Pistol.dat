@@ -1,9 +1,9 @@
-GUID cef358452142a04e505ceb94f55cbcf7
+GUID 9b50d8299d77477d9557b8b022a0779b
 Type Gun
 Rarity Uncommon
 Useable Gun
 Slot Secondary
-ID 58510
+ID 48510
 
 Size_X 2
 Size_Y 2
@@ -98,3 +98,6 @@ Blueprint_1_Supply_0_ID 58510
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Hi-Power Platform/Browning Hi Power Pistol

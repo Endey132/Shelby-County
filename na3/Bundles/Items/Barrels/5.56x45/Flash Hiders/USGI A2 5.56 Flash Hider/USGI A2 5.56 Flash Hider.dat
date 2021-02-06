@@ -1,7 +1,7 @@
-GUID d056ac8b62cb4205ae1ee7e5e88116c8
+GUID 4c9577b42eb34160a20f66f34d214561
 Type Barrel
 Rarity Rare
-ID 58199
+ID 48199
 
 Size_X 1
 Size_Y 1
@@ -16,3 +16,6 @@ Recoil_X 0.9
 Recoil_Y 1
 
 Muzzle 55115
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/5.56x45/Flash Hiders/USGI A2 5.55 Flash Hider

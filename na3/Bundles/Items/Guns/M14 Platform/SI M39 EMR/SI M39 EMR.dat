@@ -1,9 +1,9 @@
-GUID ab5d1c1c87d99f4afbc190f78cbd7ad3
+GUID d82c9a4257a64f64b5a37c7f49e2dfb8
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58270
+ID 48270
 
 Size_X 5
 Size_Y 2
@@ -109,3 +109,6 @@ Blueprint_1_Supply_0_ID 58270
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/M14 Platform/SI M39 EMR

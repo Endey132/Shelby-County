@@ -1,9 +1,9 @@
-GUID 9ada92546dcf94841ef84fd74ab067bf
+GUID 4b7c7674e3774f53b4d5b80e0515a0ed
 Type Gun
 Rarity Mythical
 Useable Gun
 Slot Primary
-ID 58410
+ID 48410
 
 Size_X 5
 Size_Y 2
@@ -113,3 +113,6 @@ Blueprint_1_Supply_0_ID 58410
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/DP Platform/One Man Co. DP-2000 Light Machine Gun

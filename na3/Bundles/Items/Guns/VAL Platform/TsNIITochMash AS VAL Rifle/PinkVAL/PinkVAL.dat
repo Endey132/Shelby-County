@@ -1,9 +1,9 @@
-GUID f08af30a13072d4a75d049c649736130
+GUID cf953515e93e4ce5a928ebd3c4f4f431
 Type Gun
 Rarity Mythical
 Useable Gun
 Slot Any
-ID 58323
+ID 48323
 
 Size_X 4
 Size_Y 2
@@ -105,3 +105,6 @@ Blueprint_1_Supply_0_ID 58323
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/VAL Platform/TsNiiTochMash AS Val Rifle

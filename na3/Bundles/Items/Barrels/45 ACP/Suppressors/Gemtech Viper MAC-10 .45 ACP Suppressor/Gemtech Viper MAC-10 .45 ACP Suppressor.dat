@@ -1,7 +1,7 @@
-GUID 34a4fe40785a86f3137ae2a3acdf92ea
+GUID 54398b64da244b0cb7b52452f45acf34
 Type Barrel
 Rarity Epic
-ID 58350
+ID 48350
 
 Size_X 2
 Size_Y 1
@@ -29,3 +29,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Repair
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/45 ACP/Suppressors/Gemtech Viper MAC-10 .45 ACP Suppressor

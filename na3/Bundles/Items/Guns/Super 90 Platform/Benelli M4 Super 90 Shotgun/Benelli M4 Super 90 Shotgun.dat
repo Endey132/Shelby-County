@@ -1,9 +1,9 @@
-GUID 148f506a708b45a4af5b58346391ad84
+GUID 03d2d1dfde1f422fb8456861ab930039
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58197
+ID 48197
 
 Size_X 5
 Size_Y 2
@@ -102,3 +102,7 @@ Blueprint_1_Supply_0_ID 58197
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Super 90 Platform/Benelli M4 Super 90

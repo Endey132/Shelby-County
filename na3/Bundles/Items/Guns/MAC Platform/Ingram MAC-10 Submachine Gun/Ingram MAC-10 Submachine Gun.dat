@@ -1,9 +1,9 @@
-GUID c121cf7a9b5dc560b1a7502ebe4fc290
+GUID dda11d83ad864f4c8382a1a8c805adad
 Type Gun
 Rarity Uncommon
 Useable Gun
 Slot Secondary
-ID 58346
+ID 48346
 
 Size_X 3
 Size_Y 2
@@ -103,3 +103,6 @@ Blueprint_1_Supply_0_ID 58346
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/MAC Platform/Ingram MAC-10 Submachine Gun

@@ -1,9 +1,9 @@
-GUID 7e25c993df294648b2a2e33753ae259f
+GUID c426447599e840faa608da1cb75d67b1
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58011
+ID 48011
 
 Size_X 2
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58011
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/1911 Platform/Colt M45A1 MEUSOC

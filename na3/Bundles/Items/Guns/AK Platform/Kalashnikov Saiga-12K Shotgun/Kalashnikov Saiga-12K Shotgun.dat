@@ -1,9 +1,9 @@
-GUID 68baeb183f4c42c2abf12bd93a9f0a41
+GUID cfb729af78b04148bcf3eb1d669d4ea2
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58179
+ID 48179
 
 Size_X 4
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58179
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov Saiga-12K Shotgun

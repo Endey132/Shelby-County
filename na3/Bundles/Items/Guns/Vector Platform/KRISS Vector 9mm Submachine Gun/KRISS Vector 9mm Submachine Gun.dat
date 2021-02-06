@@ -1,9 +1,9 @@
-GUID 53467449c57943d1acee0796237a4d22
+GUID 2d32acc7999c48de87cf5413d564ae03
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Secondary
-ID 58513
+ID 48513
 
 Size_X 3
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58513
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Vector Platform/KRISS Vector 9mm Submachine Gun

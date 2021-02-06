@@ -1,9 +1,9 @@
-GUID 683121ab0aa8404e920547acd9ffd652
+GUID d5c534a2d42e44c8ab631e0f73905f16
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58014
+ID 48014
 
 Size_X 4
 Size_Y 2
@@ -108,3 +108,6 @@ Blueprint_1_Supply_0_ID 58014
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/FB Beryl M762 Rifle

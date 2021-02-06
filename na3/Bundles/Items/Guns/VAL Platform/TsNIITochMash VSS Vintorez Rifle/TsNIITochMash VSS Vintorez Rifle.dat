@@ -1,9 +1,9 @@
-GUID 676ddae14b934a8996c02ca1bb62e3fd
+GUID e76e3e0eb6c144e8bbd83092c822145a
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58192
+ID 48192
 
 Size_X 4
 Size_Y 2
@@ -105,3 +105,6 @@ Blueprint_1_Supply_0_ID 58192
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/VAL Platform/TsNiiTochMash VSS Vintorez Rifle

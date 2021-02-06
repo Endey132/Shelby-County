@@ -1,9 +1,9 @@
-GUID 231c2682d793914ef7f4d5d4b490a0ad
+GUID 3ab29f2e9e9f45bda24cbb07d6c04195
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58203
+ID 48203
 
 Size_X 3
 Size_Y 2
@@ -100,3 +100,6 @@ Blueprint_1_Supply_0_ID 58203
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov PP-19 Bizzon-2 SMG

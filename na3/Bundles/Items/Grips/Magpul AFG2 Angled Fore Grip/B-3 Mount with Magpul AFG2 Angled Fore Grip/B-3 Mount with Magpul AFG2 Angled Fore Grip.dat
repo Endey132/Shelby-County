@@ -1,7 +1,7 @@
-GUID 4b69686c9ac88190ec30eb79fa6c4163
+GUID bc5d484b70384c5eaf12be1d6de74c83
 Type Grip
 Rarity Epic
-ID 58457
+ID 48457
 
 Size_X 1
 Size_Y 2
@@ -36,3 +36,6 @@ Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 58457
 Blueprint_1_Output_0_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Magpul AFG2 Angeled Fore Grip/B-3 Mount with Magpul AFG2 Angled Fore Grip

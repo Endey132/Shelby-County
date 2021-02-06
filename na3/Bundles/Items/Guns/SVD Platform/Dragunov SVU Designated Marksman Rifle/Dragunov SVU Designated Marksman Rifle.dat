@@ -1,9 +1,9 @@
-GUID db1320d33ce88587587010b30b472547
+GUID 4e74a5e5a78d461688558f31014fa08f
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58433
+ID 48433
 
 Size_X 5
 Size_Y 2
@@ -112,3 +112,6 @@ Blueprint_1_Supply_0_ID 58433
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/SVD Platform/Dragonuv SVU Designated Marksman Rifle

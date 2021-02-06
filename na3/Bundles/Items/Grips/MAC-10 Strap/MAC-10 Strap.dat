@@ -1,7 +1,7 @@
-GUID dce86efba0c32a4f14adbfd2a27a0a30
+GUID df8c611ebcb847e6b7e0aacaf6dfd3d4
 Type Grip
 Rarity Rare
-ID 58351
+ID 48351
 
 Size_X 1
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.75
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/MAC-10 Strap

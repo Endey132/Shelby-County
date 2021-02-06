@@ -1,7 +1,7 @@
-GUID e507debe87e957b5e3fc1032fd49af82
+GUID 7d4d30ed7ee84ca6abb22ef67a2b354c
 Type Barrel
 Rarity Epic
-ID 58448
+ID 48448
 
 Size_X 2
 Size_Y 1
@@ -19,3 +19,6 @@ Braked
 Silenced
 Volume 0.8
 Gunshot_Rolloff_Distance_Multiplier 0.8
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/12.7x108/Suppressors/GM6 Lynx Factory Suppressor

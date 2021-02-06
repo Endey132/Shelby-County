@@ -1,7 +1,7 @@
-GUID 6c2392844946a1c327d9e792a86cd50f
+GUID 388e3a305099499cb55f4ec0fe84a244
 Type Grip
 Rarity Epic
-ID 58398
+ID 48398
 
 Size_X 1
 Size_Y 2
@@ -36,3 +36,6 @@ Blueprint_1_Outputs 1
 Blueprint_1_Output_0_ID 58398
 Blueprint_1_Output_0_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/KAC Vertical Grip/B-3 Mount with KAC Vertical Grip

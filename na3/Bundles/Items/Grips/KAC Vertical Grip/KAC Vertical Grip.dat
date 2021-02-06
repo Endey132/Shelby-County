@@ -1,7 +1,7 @@
-GUID 9ffb036582dc487aa582ef102f7d9d24
+GUID a98a313771a14ebca6cc938225682f4e
 Type Grip
 Rarity Rare
-ID 58039
+ID 48039
 
 Size_X 1
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.75
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/KAC Vertical Grip

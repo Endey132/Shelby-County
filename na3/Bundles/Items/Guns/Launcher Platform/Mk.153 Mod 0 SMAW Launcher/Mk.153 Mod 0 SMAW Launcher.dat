@@ -1,9 +1,9 @@
-GUID 97fefe856b6b4d0a893edce6ea638400
+GUID b260cbd34cc6450cb3f35f714f492130
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58073
+ID 48073
 
 Size_X 5
 Size_Y 2
@@ -91,3 +91,6 @@ Blueprint_1_Supply_0_ID 58073
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/Mk.153 Mod 0 SMAW Launcher

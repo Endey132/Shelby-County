@@ -1,9 +1,9 @@
-GUID 9fba80f926a1529cae8b21b3a390828c
+GUID b729e794a4d04a1eb98454c9e78ea805
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58369
+ID 48369
 
 Size_X 4
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_1_Supply_0_ID 58369
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/FNC Platform/Bofors Ak 5D Carabine

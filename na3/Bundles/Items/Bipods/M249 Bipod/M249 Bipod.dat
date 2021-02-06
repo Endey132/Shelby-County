@@ -1,7 +1,7 @@
-GUID fa34091df0c2c0a941247d2609e5cf3d
+GUID 15999a7f6ca64cc5add17399d58fdad0
 Type Grip
 Rarity Common
-ID 58352
+ID 48352
 
 Size_X 2
 Size_Y 2
@@ -18,3 +18,6 @@ Sway 0.52
 Shake 0.42
 
 Bipod
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/M249 Bipod

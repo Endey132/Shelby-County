@@ -1,9 +1,9 @@
-GUID 3fe08365e19c2b72f3b55e95363abd78
+GUID 258a5f48538844d8bd80043d6e6fc366
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58236
+ID 48236
 
 Size_X 5
 Size_Y 2
@@ -113,3 +113,6 @@ Blueprint_1_Supply_0_ID 58236
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/SVD Platform/SVDM Designated Marksman Rifle

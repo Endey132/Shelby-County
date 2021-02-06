@@ -1,9 +1,9 @@
-GUID 32a8f36fb5fb8a3dca348bf67fd0e62c
+GUID 0abb7687a6dd4f4c81dd6cfcaffcdf75
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58414
+ID 48414
 
 Size_X 3
 Size_Y 2
@@ -107,3 +107,6 @@ Blueprint_1_Supply_0_ID 58414
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/Kalashnikov PP-19-01 Vityaz SN Zenitco SMG

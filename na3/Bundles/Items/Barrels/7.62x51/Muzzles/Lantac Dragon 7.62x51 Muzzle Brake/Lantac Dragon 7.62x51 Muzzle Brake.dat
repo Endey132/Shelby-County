@@ -1,7 +1,7 @@
-GUID c8f0a747c08eb84956a6e8d47106c73b
+GUID 8707f68cf79b4252af6a8ec8120467c9
 Type Barrel
 Rarity Rare
-ID 58451
+ID 48451
 
 Size_X 1
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 0.825
 Shake 0.92
 Recoil_X 0.75
 Recoil_Y 0.825
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/7.62x51/Muzzles/Lantac Dragon 7.62x51 Muzzle Brake

@@ -1,9 +1,9 @@
-GUID 9355b1c5f4bd4ebd9500a87ef011cca3
+GUID 26db285a86ff4a6da1215624d36346bd
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58610
+ID 48610
 
 Size_X 4
 Size_Y 2
@@ -103,3 +103,6 @@ Blueprint_1_Supply_0_ID 58610
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/G3 Platform/H&K HK53 Carbine

@@ -1,7 +1,7 @@
-GUID 17a903fe8546455eb8fed58f3cb1a422
+GUID 5d893e8c85a4424dad6d41301910d444
 Type Grip
 Rarity Rare
-ID 58069
+ID 48069
 
 Size_X 2
 Size_Y 2
@@ -20,3 +20,6 @@ Shake 0.2
 Bipod
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Bipods/PKM Bipod

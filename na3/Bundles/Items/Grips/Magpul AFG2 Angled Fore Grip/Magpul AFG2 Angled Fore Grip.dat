@@ -1,7 +1,7 @@
-GUID f433543f45f743db92ead0176d030033
+GUID 5731579902204c5e9e47f7af60ae8beb
 Type Grip
 Rarity Rare
-ID 58040
+ID 48040
 
 Size_X 2
 Size_Y 1
@@ -18,3 +18,6 @@ Sway 0.75
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Magpul AFG2 Angled Fore Grip

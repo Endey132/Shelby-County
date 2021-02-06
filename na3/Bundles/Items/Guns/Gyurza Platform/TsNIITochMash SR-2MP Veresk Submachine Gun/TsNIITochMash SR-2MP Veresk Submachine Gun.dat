@@ -1,9 +1,9 @@
-GUID 35866b298aea41a28f3028ac2a399e31
+GUID eb199e71de46461099aa42921dbcfef2
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58584
+ID 48584
 
 Size_X 3
 Size_Y 2
@@ -101,3 +101,6 @@ Blueprint_1_Supply_0_ID 58584
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Gyurza Platform/TsNIITochMash SR-2MP Veresek Submachine Gun

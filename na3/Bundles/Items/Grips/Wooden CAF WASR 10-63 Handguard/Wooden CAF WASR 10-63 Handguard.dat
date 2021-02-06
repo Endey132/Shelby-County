@@ -1,7 +1,7 @@
-GUID 3e802f8a5eb746d19c80bcd873d3f060
+GUID ef3b0b636c2f4a8cbd94575cb5d86d6f
 Type Grip
 Rarity Rare
-ID 58037
+ID 48037
 
 Size_X 2
 Size_Y 1
@@ -18,3 +18,6 @@ Sway 0.75
 Shake 0.8
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Grips/Wooden CAF WASR 10-63 Handguard

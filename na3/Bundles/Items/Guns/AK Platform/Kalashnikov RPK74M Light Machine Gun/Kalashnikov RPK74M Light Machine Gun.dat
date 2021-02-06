@@ -1,9 +1,9 @@
-GUID bdf7bfdf962dcf7c36c7e8ab7a79b13b
+GUID 7c5a93bbff0c42969f4a131001adb73d
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58503
+ID 48503
 
 Size_X 4
 Size_Y 2
@@ -106,3 +106,6 @@ Blueprint_1_Supply_0_ID 58503
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AK Platform/RPK74M Light Machine Gun

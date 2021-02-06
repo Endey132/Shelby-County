@@ -1,9 +1,9 @@
-GUID 75dc101e9b986f95e1ec5bc77e1e09e2
+GUID 7e3e5261b4b04584b30d628803f963dd
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58213
+ID 48213
 
 Size_X 4
 Size_Y 2
@@ -105,3 +105,6 @@ Blueprint_1_Supply_0_ID 58213
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/G36 Platform/H&K G36KA4 Rifle

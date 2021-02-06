@@ -1,9 +1,9 @@
-GUID 300a33bffa1a4f439707e9808ce8d87c
+GUID a9dbd69caf1e41e283e41e8a34f9fb9a
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58640
+ID 48640
 
 Size_X 5
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58640
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/FAL Platform/L1A1 Tactical Self-Loading Rifle

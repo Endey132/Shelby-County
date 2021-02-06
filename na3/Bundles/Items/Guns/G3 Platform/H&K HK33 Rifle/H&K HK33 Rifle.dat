@@ -1,9 +1,9 @@
-GUID 1b1702149e13493e9d302162861464c3
+GUID 3a6626412f834fcebee68844cafe8473
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58601
+ID 48601
 
 Size_X 5
 Size_Y 2
@@ -104,3 +104,6 @@ Blueprint_1_Supply_0_ID 58601
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/G3 Platform/H&K HK33 Rifle

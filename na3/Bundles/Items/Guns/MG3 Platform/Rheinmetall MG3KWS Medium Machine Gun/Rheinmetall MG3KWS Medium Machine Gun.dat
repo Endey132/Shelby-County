@@ -1,9 +1,9 @@
-GUID fe80382924703aba7e838ad5e0841a9b
+GUID 33d8a75b244e415aadb516d04bf55e88
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58403
+ID 48403
 
 Size_X 5
 Size_Y 2
@@ -108,3 +108,6 @@ Blueprint_1_Supply_0_ID 58403
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/MG3 Platform/Rheinmetall MG3KWS Medium Machine Gun

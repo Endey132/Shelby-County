@@ -1,9 +1,9 @@
-GUID a8f3bfa6e94eb90919cbfdc484917185
+GUID 1678ca7375fa4a62b1000b1f11b4043e
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58430
+ID 48430
 
 Size_X 5
 Size_Y 2
@@ -107,3 +107,6 @@ Blueprint_1_Supply_0_ID 58430
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/T5000 Platform/Orsis T-5000 .388 Sniper

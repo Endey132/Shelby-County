@@ -1,7 +1,7 @@
-GUID d61653aeba3b469f9d8b3fa0e1134a43
+GUID c7f87ae75f964c08815d44c78e6d28cb
 Type Barrel
 Rarity Epic
-ID 58184
+ID 48184
 
 Size_X 2
 Size_Y 1
@@ -32,3 +32,6 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Repair
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Barrels/7.62X45R/Suppressors/TGP-V SVD Suppressor

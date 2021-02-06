@@ -1,9 +1,9 @@
-GUID 759ad7261d49527ede548943716c28d3
+GUID a7d629382f0f48009b1e37907b879126
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58222
+ID 48222
 
 Backward
 
@@ -115,3 +115,6 @@ Blueprint_1_Supply_0_ID 58222
 Blueprint_1_Product 67
 Blueprint_1_Products 7
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/M82 Platform/Barret M107 Anti-Material Rifle

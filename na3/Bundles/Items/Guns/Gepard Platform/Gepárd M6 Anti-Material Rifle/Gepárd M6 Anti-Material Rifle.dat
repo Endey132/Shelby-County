@@ -1,9 +1,9 @@
-GUID 54ce8a94c68716bfd584cb5925c1a71c
+GUID 3959303bfd534160ba3fbd40410dc15f
 Type Gun
 Rarity Legendary
 Useable Gun
 Slot Primary
-ID 58231
+ID 48231
 
 Backward
 
@@ -115,3 +115,6 @@ Blueprint_1_Supply_0_ID 58231
 Blueprint_1_Product 67
 Blueprint_1_Products 7
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Gepard Platform/Gepard M6 Anti-Material Rifle

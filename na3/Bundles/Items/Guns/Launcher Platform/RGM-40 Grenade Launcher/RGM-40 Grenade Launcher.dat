@@ -1,9 +1,9 @@
-GUID fba8e7b54141bf414ab6e3f9569e7101
+GUID 3f6ba088011040a2b2ef88d36c2e5bec
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Any
-ID 58211
+ID 48211
 
 Size_X 3
 Size_Y 2
@@ -82,3 +82,6 @@ Blueprint_1_Supply_0_ID 58211
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/RGM-40 Grenade Launcher

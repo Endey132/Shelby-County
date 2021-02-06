@@ -1,9 +1,9 @@
-GUID e994fb48f20f471f88a1f4fcff8bf998
+GUID 0161c2dce9c3463bb5b39ad55254c7e3
 Type Gun
 Rarity Epic
 Useable Gun
 Slot Primary
-ID 58076
+ID 48076
 
 Size_X 5
 Size_Y 2
@@ -86,3 +86,6 @@ Blueprint_1_Supply_0_ID 58076
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/Launcher Platform/RPG-7V2 Rocket-Propelled Grenade Launcher

@@ -1,9 +1,9 @@
-GUID c06393abb4594dbd8afa900c7daae532
+GUID f32454a32fe84fa29236068fb2704ab8
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Secondary
-ID 58018
+ID 48018
 
 Size_X 4
 Size_Y 2
@@ -108,3 +108,6 @@ Blueprint_1_Supply_0_ID 58018
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/AR-15 Platform/Colt MK.18 CQBR Carbine

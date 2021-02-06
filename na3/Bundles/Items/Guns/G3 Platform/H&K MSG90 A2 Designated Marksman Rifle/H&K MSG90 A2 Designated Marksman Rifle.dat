@@ -1,9 +1,9 @@
-GUID 228696e4d1ac4133bff6db2e7ffb1c49
+GUID 0c229389bd624ce08b026556415a2df4
 Type Gun
 Rarity Rare
 Useable Gun
 Slot Primary
-ID 58593
+ID 48593
 
 Size_X 5
 Size_Y 2
@@ -111,3 +111,6 @@ Blueprint_1_Supply_0_ID 58593
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Guns/G3 Platform/H&K MSG90 A2 Designated Marksman Rifle
