@@ -1,8 +1,8 @@
-GUID 7bff59d82d6d49799eb06d21bf2c9138
+GUID 5e0ce6092b584e1797a79abb1de60fbd
 Type Hat
 Rarity Uncommon
 Useable Clothing
-ID 34077
+ID 37077
 
 Size_X 2
 Size_Y 2
@@ -23,3 +23,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/TP-RC-RG

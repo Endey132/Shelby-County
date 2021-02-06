@@ -1,8 +1,8 @@
-GUID 0a0b336a1bdd4081972703481c3061b4
+GUID f9748473553842d3910916abdf7c05dd
 Type Pants
 Rarity Mythical
 Useable Clothing
-ID 34903
+ID 37903
 
 Size_X 2
 Size_Y 2
@@ -24,3 +24,7 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Pants/A-TG-TP-PT

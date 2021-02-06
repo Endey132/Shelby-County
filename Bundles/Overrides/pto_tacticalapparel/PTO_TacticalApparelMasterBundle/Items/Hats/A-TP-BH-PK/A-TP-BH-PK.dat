@@ -1,8 +1,8 @@
-GUID bcd3a543a84e46f99646c8cf3e0780ad
+GUID 81db7d92138947ba9ce9648bc6a76a61
 Type Hat
 Rarity Mythical
 Useable Clothing
-ID 34917
+ID 37917
 
 Size_X 2
 Size_Y 2
@@ -23,3 +23,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/A-TP-BH-PK

@@ -1,8 +1,8 @@
-GUID fd088635bde84e22887252ba3db3cf7b
+GUID 3c337d0a7a47412f9640e5a9be4d08c1
 Type Hat
 Rarity Uncommon
 Useable Clothing
-ID 34252
+ID 37252
 
 Size_X 2
 Size_Y 2
@@ -23,3 +23,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 4
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/SHC-R

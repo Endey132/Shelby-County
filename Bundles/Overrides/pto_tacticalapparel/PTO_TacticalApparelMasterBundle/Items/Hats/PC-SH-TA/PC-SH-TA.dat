@@ -1,8 +1,8 @@
-GUID feb9cc7b1f234f3d9a92c4f258ba9234
+GUID 04b0fc63cb574b2e9b593063d38f5b7c
 Type Hat
 Rarity Epic
 Useable Clothing
-ID 34224
+ID 37224
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/PC-SH-TA

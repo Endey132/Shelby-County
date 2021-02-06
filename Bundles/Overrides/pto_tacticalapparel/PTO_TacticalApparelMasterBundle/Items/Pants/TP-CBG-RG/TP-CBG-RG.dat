@@ -1,8 +1,8 @@
-GUID 9ac6dea0393d436795d1bd97a344091e
+GUID 7a8b54625da04ba5b10ff11bb91405cc
 Type Pants
 Rarity Rare
 Useable Clothing
-ID 34033
+ID 37033
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Pants/TP-CBG-RG

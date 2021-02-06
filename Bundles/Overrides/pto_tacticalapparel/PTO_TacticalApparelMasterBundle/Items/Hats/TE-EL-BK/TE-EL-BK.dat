@@ -1,8 +1,8 @@
-GUID c58e45fe10e948ac82a60ac55c2d7f52
+GUID c0e72ff9db9749efa97e034c6497da29
 Type Hat
 Rarity Epic
 Useable Clothing
-ID 34234
+ID 37234
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/TE-EL-BK

@@ -1,8 +1,8 @@
-GUID 82962d6a6a6f4d2da4f446007ec1498a
+GUID 986a367e490243d9af4906fff8b84d4a
 Type Pants
 Rarity Epic
 Useable Clothing
-ID 34010
+ID 37010
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,7 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Pants/TG-TP-BK

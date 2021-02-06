@@ -1,8 +1,8 @@
-GUID 0209a7b4298546df8547da4f973622d7
+GUID bf801072048e483caaaa3ea94a1ff21c
 Type Hat
 Rarity Legendary
 Useable Clothing
-ID 34231
+ID 37231
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/PC-CH-GR

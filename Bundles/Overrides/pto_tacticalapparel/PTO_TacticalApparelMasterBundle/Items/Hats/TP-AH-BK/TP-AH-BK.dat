@@ -1,8 +1,8 @@
-GUID 931915005416437b8babb9fd4e0bb071
+GUID 414ed10b82d94ef7a3571b48f2cecf84
 Type Hat
 Rarity Epic
 Useable Clothing
-ID 34064
+ID 37064
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supply_1_Amount 2
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/TP-AH-BK

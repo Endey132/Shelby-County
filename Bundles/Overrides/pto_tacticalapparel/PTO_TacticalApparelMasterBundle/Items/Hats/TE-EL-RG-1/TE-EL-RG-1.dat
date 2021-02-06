@@ -1,8 +1,8 @@
-GUID 0e910b6172684e35b782e885b16a53e0
+GUID 6fa76c1a1b87408f9cf7118a8b7fea28
 Type Hat
 Rarity Legendary
 Useable Clothing
-ID 34237
+ID 37237
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/TE-EL-RG-1

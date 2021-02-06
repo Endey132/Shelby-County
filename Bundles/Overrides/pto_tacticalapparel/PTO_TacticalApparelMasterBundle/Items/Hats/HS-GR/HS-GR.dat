@@ -1,8 +1,8 @@
-GUID c860a17418fd4afba95f96c9df9ea991
+GUID 195c4b58edf845909f0108cb0d8ec15b
 Type Hat
 Rarity Rare
 Useable Clothing
-ID 34262
+ID 37262
 
 Size_X 2
 Size_Y 2
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 67
 Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/HS-GR

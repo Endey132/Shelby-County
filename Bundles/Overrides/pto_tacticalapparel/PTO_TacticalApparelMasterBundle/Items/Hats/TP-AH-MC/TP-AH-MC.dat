@@ -1,8 +1,8 @@
-GUID 73545ea593794df58a2529fc48e3d43d
+GUID 28e5ba4521e046d78cace2a0ca5f7e5f
 Type Hat
 Rarity Epic
 Useable Clothing
-ID 34063
+ID 37063
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Supply_1_Amount 2
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Hats/TP-AH-MC
