@@ -1,8 +1,8 @@
-GUID 84c49803e1f94110a27e0b6de745c9c7
+GUID 61fd028fa29847e2be8c79ebd7a7e996
 Type Vest
 Rarity Epic
 Useable Clothing
-ID 34130
+ID 37130
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-CV-MC-1

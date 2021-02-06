@@ -1,8 +1,8 @@
-GUID 5adaa85b48894712a898387ded43921c
+GUID bb2dde9c5b0a42a3b0cced4545361664
 Type Vest
 Rarity Mythical
 Useable Clothing
-ID 34125
+ID 37125
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 3
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-AV-RG-4

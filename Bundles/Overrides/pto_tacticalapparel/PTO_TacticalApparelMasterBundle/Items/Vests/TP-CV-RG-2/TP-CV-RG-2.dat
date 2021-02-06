@@ -1,8 +1,8 @@
-GUID 54848425b3e04ad1a084614ba0e4a237
+GUID af3ed5d8883c46c594c1748134b26c13
 Type Vest
 Rarity Legendary
 Useable Clothing
-ID 34139
+ID 37139
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-CV-RG-2

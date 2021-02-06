@@ -1,8 +1,8 @@
-GUID dd31b8898bba41fdada45d3a83058288
+GUID f07761af4aff4a8a8b2f5b43cabae9da
 Type Vest
 Rarity Legendary
 Useable Clothing
-ID 34111
+ID 37111
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-AV-TA-2

@@ -1,8 +1,8 @@
-GUID b6d3817769e74083ae256fe5f3f5234b
+GUID ef81e2f8349e4cdba21b7455cc22d979
 Type Vest
 Rarity Rare
 Useable Clothing
-ID 34189
+ID 37189
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TC-AR-BK

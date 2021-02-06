@@ -1,8 +1,8 @@
-GUID f7010c56027340d6b9a877e6e34e6f25
+GUID 694718e8d5ee450f8b9e8d33dfd6d2e4
 Type Vest
 Rarity Uncommon
 Useable Clothing
-ID 34253
+ID 37253
 
 Size_X 2
 Size_Y 2
@@ -24,3 +24,6 @@ Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/SH-TA

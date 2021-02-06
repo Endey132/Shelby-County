@@ -1,8 +1,8 @@
-GUID 624ec8ee5b084b118af3f2f67feca72d
+GUID 2dd1e27b16944d21ac364e37d65fa952
 Type Vest
 Rarity Epic
 Useable Clothing
-ID 34049
+ID 37049
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-AV-RG
