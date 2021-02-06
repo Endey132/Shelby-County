@@ -1,0 +1,36 @@
+GUID d1865f817dbc499e9f71ba6458a20806
+Type Vehicle
+Rarity Epic
+ID 36767
+
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 14
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2500
+
+Health_Min 350
+Health_Max 450
+Health 2000
+
+Cam_Passenger_Offset -0.1
+Cam_Follow_Distance 10
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Exit 3
+
+Traction
+Bumper_Invulnerable
+BatteryMode_Sirens None

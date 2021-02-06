@@ -1,0 +1,32 @@
+GUID a31d5c3eb3bb4145a477da15a1082615
+Type Vehicle
+Rarity Legendary
+ID 36684
+
+Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 28
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 26
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 950
+
+Cam_Passenger_Offset -0.15
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Bumper_Invulnerable

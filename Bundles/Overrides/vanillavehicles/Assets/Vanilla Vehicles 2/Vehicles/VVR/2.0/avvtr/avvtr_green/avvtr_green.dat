@@ -1,0 +1,30 @@
+GUID c75d92da94254f55aea5fdbb8603cc36
+Type Vehicle
+Rarity Legendary
+ID 36532
+
+Speed_Min -2
+Speed_Max 25
+
+Steer_Min 60
+Steer_Max 30
+
+Fuel 1750
+
+Health_Min 1100
+Health_Max 1200
+Health 1350
+
+Exit 3
+
+Cam_Follow_Distance 8.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable

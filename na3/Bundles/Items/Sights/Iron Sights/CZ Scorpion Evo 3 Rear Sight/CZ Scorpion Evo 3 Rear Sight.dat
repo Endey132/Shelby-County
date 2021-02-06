@@ -1,0 +1,18 @@
+GUID 93c7a1feb44f47b1a5c4ec88a604fe2a
+Type Sight
+ID 58557
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56100
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 58557
+Blueprint_0_Supply_1_ID 58558
+Blueprint_0_Product 58556
+Blueprint_0_Build 55129

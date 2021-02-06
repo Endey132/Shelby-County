@@ -1,0 +1,23 @@
+GUID b5dc18cb7d5c46dfbe8a36eaff7b55f7
+Type Barrel
+Rarity Epic
+ID 58046
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56701
+
+Spread 1.2
+Shake 1
+Recoil_X 0.94
+Recoil_Y 1.1
+Ballistic_Drop 0.975
+Braked
+Silenced
+Volume 1.0
+Gunshot_Rolloff_Distance_Multiplier 0.7
+
+Muzzle 55116

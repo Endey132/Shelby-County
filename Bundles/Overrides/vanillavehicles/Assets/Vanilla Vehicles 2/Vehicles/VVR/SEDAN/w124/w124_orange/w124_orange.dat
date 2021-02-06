@@ -1,0 +1,31 @@
+GUID 7791fc9ca7704e7cb3cc7e51ea800069
+Type Vehicle
+ID 36403
+Rarity Common
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -7
+Speed_Max 19
+
+Steer_Min 18
+Steer_Max 28
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 700
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Cam_Passenger_Offset -0.1
+Bumper_Invulnerable

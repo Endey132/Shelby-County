@@ -1,0 +1,31 @@
+GUID a8cdd32631104e66b797c705b2841d46
+Type Vehicle
+Rarity Uncommon
+ID 36321
+
+Physics_Profile 17b600c56a564c6285de9d488950def1
+Fuel_Burn_Rate 1.4
+Traction
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 950
+
+Health_Min 350
+Health_Max 450
+Health 750
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Bumper_Invulnerable

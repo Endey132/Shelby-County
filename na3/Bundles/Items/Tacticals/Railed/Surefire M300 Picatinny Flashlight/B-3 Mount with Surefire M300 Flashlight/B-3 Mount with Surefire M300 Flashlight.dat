@@ -1,0 +1,33 @@
+GUID 90c964b084c04cf280a66a038cfa9856
+Type Tactical
+Rarity Epic
+ID 58653
+
+Size_X 1
+Size_Y 2
+Size_Z 0.075
+
+Calibers 1
+Caliber_0 56068
+
+Light
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58653
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58397
+Blueprint_0_Output_1_ID 58650
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 58397
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 58650
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 58653
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27

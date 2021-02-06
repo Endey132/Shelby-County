@@ -1,0 +1,35 @@
+GUID 0d33463878fb4d1db587cae202d0199d
+Type Vehicle
+Rarity Uncommon
+ID 36243
+
+Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
+Fuel_Burn_Rate 1.4
+Traction
+
+Speed_Min -6
+Speed_Max 17
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1050
+
+Health_Min 350
+Health_Max 450
+Health 700
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 7
+Trunk_Storage_Y 8
+
+Explosion 20
+
+Bumper_Invulnerable
+Cam_Follow_Distance 5
+BatteryMode_Sirens None

@@ -1,0 +1,40 @@
+GUID 3c1c4436d5c8408699cb22db76432431
+Type Magazine
+Rarity Epic
+ID 58193
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 10
+Count_Min 5
+Count_Max 10
+
+Calibers 1
+Caliber_0 56032
+
+Spread 1.2
+Shake 1.2
+Recoil_X 1.32
+Recoil_Y 1.15
+
+Tracer 48
+
+Blueprints 3
+// Ammo box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58195
+Blueprint_0_Build 55117
+// AS VAL mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58190
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Build 55117
+// VSS mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58193
+Blueprint_2_Build 55117

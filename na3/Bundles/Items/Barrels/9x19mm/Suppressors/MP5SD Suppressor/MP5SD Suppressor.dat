@@ -1,0 +1,13 @@
+GUID 550f343153d848949e6e876da4053683
+Type Barrel
+Rarity Mythical
+ID 58592
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Silenced
+Braked
+Volume 0.7
+Gunshot_Rolloff_Distance_Multiplier 0.5

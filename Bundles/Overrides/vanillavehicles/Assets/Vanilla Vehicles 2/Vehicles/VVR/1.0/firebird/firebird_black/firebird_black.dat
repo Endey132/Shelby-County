@@ -1,0 +1,32 @@
+GUID 1c88a60555f442bbbc5d6e8bb07d7b7a
+Type Vehicle
+Rarity Rare
+ID 36210
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 21
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 925
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Cam_Passenger_Offset -0.1
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Bumper_Invulnerable

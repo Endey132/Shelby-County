@@ -1,0 +1,47 @@
+GUID f679f6f53f414fe78f57b23db253b1b3
+Type Magazine
+Rarity Rare
+ID 58577
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 18
+Count_Min 1
+Count_Max 17
+
+Calibers 1
+Caliber_0 56087
+
+Spread 1.2
+Shake 1.15
+Recoil_X 1.1
+Recoil_Y 1.2
+Ballistic_Damage_Multiplier 1.25
+
+Tracer 48
+
+Blueprints 4
+// Ammo Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58573
+Blueprint_0_Build 55117
+// SR1MP mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58577
+Blueprint_1_Build 55117
+// SR-2 Veresk mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58586
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 55117
+// SR-2 Veresk 20rnd mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 58589
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Build 55117

@@ -1,0 +1,35 @@
+GUID 1b483034ce494f509836d8198f431488
+Type Magazine
+Rarity Rare
+ID 58566
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 7
+Count_Min 1
+Count_Max 6
+
+Calibers 1
+Caliber_0 56086
+
+Spread 0.975
+Shake 1
+Recoil_X 1
+Recoil_Y 1
+Ballistic_Damage_Multiplier 0.9
+
+Tracer 48
+
+Blueprints 2
+// Ammunition crate
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58569
+Blueprint_0_Build 55117
+// Deagle mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58566
+Blueprint_1_Build 55117

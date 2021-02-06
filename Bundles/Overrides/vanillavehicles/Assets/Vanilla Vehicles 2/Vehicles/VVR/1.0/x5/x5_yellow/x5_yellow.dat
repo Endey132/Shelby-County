@@ -1,0 +1,33 @@
+GUID fa7b22cf249c4eb8b3ebef91099aef00
+Type Vehicle
+Rarity Uncommon
+ID 36177
+
+Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
+Fuel_Burn_Rate 1.4
+Traction
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 950
+
+Health_Min 350
+Health_Max 450
+Health 750
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Bumper_Invulnerable

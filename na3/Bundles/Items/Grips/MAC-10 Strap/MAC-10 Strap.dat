@@ -1,0 +1,20 @@
+GUID dce86efba0c32a4f14adbfd2a27a0a30
+Type Grip
+Rarity Rare
+ID 58351
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Calibers 1
+Caliber_0 56063
+
+Spread 0.8
+Sway 0.75
+Shake 0.8
+
+Paintable

@@ -1,0 +1,24 @@
+GUID f0e6e97abde84dd48cbf062ffe771834
+Type Barrel
+Rarity Epic
+ID 58542
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56706
+
+Attachment_Calibers 1
+Attachment_Caliber_0 56706
+
+Spread 0.9
+Shake 0.9
+Recoil_X 1
+Recoil_Y 0.975
+Ballistic_Drop 0.975
+Braked
+Silenced
+Volume 0.9
+Gunshot_Rolloff_Distance_Multiplier 0.7

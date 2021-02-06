@@ -1,0 +1,36 @@
+GUID e5643b52d8ba147d3cbf6365cd2901ef
+Type Sight
+Rarity Rare
+ID 58463
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56200
+
+Spread 0.8
+Zoom 4
+
+Blueprints 2
+// Disassemble
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58463
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 58462
+Blueprint_0_Output_1_ID 58025
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 55129
+// Assemble
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 58462
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 58025
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 58463
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 55129

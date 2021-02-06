@@ -1,0 +1,18 @@
+"Metadata"
+{
+	"GUID" "07a91e022be14decbb789b0857e9337a"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Root_Mass" "1.5"
+	"Wheel_Mass" "4"
+	"Wheel_Damping_Rate" "0.5"
+	"Wheel_Suspension_Force" "10"
+	"Wheel_Suspension_Damper" "10"
+	"Motor_Torque_Multiplier" "1"
+	"Brake_Torque_Traction_Multiplier" "1"
+	"Wheel_Drive_Model" "All"
+	"Wheel_Brake_Model" "All"
+}
+

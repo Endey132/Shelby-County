@@ -1,0 +1,35 @@
+GUID d14ad10e5b8747459567cb7d3cbaa68d
+Type Vehicle
+Rarity Rare
+ID 36754
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 15
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 750
+
+Health_Min 350
+Health_Max 450
+Health 450
+
+Cam_Passenger_Offset -0.1
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+Zip
+Engine Car
+Num_Steering_Tires 2
+
+Bumper_Invulnerable

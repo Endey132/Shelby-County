@@ -1,0 +1,32 @@
+GUID 87bdad9358c54993b95c70428b2a2274
+Type Vehicle
+Rarity Common
+ID 36031
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 22
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 950
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Bumper_Invulnerable

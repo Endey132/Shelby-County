@@ -1,0 +1,46 @@
+GUID dc40fc0e7c25437698cd6152c5120f1e
+Type Magazine
+Rarity Rare
+ID 58162
+
+Size_X 1
+Size_Y 3
+Size_Z 0.3
+
+Amount 40
+Count_Min 5
+Count_Max 40
+
+Calibers 1
+Caliber_0 56027
+
+Spread 1.18
+Shake 1
+Recoil_X 1
+Recoil_Y 0.7
+
+Tracer 48
+
+Blueprints 4
+// Ammo Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58164
+Blueprint_0_Build 55117
+// MP7 20 rnd Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58160
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Build 55117
+// MP7 30 rnd Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58161
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 55117
+// MP7 40 rnd Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 58162
+Blueprint_3_Build 55117

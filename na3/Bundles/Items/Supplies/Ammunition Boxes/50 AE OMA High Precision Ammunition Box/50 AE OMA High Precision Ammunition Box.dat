@@ -1,0 +1,19 @@
+GUID c834c4b5ac564955a414a75c5ba1cb96
+Type Supply
+Rarity Rare
+ID 58570
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Amount 20
+Count_Min 1
+Count_Max 19
+
+Blueprints 1
+// Ammo Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58570
+Blueprint_0_Build 55117

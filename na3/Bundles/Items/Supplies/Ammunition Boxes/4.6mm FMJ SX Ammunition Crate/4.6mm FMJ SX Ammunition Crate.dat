@@ -1,0 +1,19 @@
+GUID 17252285d3134fc19ac63eddd42877e9
+Type Supply
+Rarity Rare
+ID 58164
+
+Size_X 3
+Size_Y 2
+Size_Z 0.3
+
+Amount 140
+Count_Min 1
+Count_Max 139
+
+Blueprints 1
+// Ammo Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58164
+Blueprint_0_Build 55117

@@ -1,0 +1,48 @@
+GUID 471b29a85d684721b92f8e60b405d097
+Type Magazine
+Rarity Rare
+ID 58545
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 71
+Count_Min 1
+Count_Max 71
+
+Calibers 1
+Caliber_0 56082
+
+Spread 1
+Shake 1
+Recoil_X 1.1
+Recoil_Y 1.1
+
+Speed 0.9
+
+Tracer 48
+
+Blueprints 4
+// Surplus Packet
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58546
+Blueprint_0_Build 55117
+// PPSH41 mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58544
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Build 55117
+// PPSH41 drum
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58545
+Blueprint_2_Build 55117
+// TT33 mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 58548
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Build 55117

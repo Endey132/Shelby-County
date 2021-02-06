@@ -1,0 +1,21 @@
+GUID 12874a17eba6d12bac81f8353fd7cd29
+Type Supply
+Rarity Rare
+ID 58360
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Amount 50
+Count_Min 1
+Count_Max 49
+
+Blueprints 1
+// Belt
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58360
+Blueprint_0_Build 55117
+
+Delete_Empty

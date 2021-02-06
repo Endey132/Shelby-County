@@ -1,0 +1,32 @@
+GUID 6a8ee71027eb41e396e9f6658f2a1864
+Type Vehicle
+Rarity Uncommon
+ID 36107
+
+Speed_Min -8
+Speed_Max 30
+
+Steer_Min 30
+Steer_Max 20
+
+Fuel 1000
+
+Health_Min 800
+Health_Max 900
+Health 500
+
+Exit 2
+
+Cam_Follow_Distance 7
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 3
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Bumper_Invulnerable

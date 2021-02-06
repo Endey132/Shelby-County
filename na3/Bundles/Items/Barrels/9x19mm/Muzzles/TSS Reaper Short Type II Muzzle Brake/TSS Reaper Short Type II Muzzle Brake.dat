@@ -1,0 +1,16 @@
+GUID 1bc98db5fe9b7c9fc2e19ec70e8d8b0b
+Type Barrel
+Rarity Rare
+ID 58450
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56707
+
+Spread 0.825
+Shake 0.92
+Recoil_X 0.75
+Recoil_Y 0.825

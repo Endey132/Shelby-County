@@ -1,0 +1,32 @@
+GUID 6455a8af2d504b48908a085931a72a5a
+Type Magazine
+Rarity Mythical
+ID 58649
+
+Size_X 6
+Size_Y 2
+Size_Z 0.3
+
+Amount 4
+Count_Min 4
+Count_Max 4
+
+Calibers 1
+Caliber_0 56005
+
+Spread 0.5
+Shake 1.4
+Recoil_X -10
+Recoil_Y 20
+Ballistic_Damage_Multiplier 1.5
+Ballistic_Drop 0.5
+Speed 0.55
+
+Allow_Manual_Drop true
+Should_Drop_On_Death false
+Tracer 48
+
+Allow_Manual_Drop true
+Should_Drop_On_Death false
+Durability 0
+Should_Fill_After_Detach true

@@ -1,0 +1,20 @@
+GUID 697171b9d7984a49ba965243ae4f18fa
+Type Magazine
+Rarity Epic
+ID 58646
+
+Size_X 5
+Size_Y 1
+Size_Z 0.35
+
+Amount 1
+
+Calibers 1
+Caliber_0 56095
+
+Projectile_Blast_Radius_Multiplier 1.25
+Projectile_Launch_Force_Multiplier 0.875
+Projectile_Damage_Multiplier 0.8
+
+Explosive
+Explosion 55107

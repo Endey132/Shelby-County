@@ -1,0 +1,22 @@
+GUID 6c3eb8f8693e96e92b86429f9c4bd259
+Type Sight
+ID 58364
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56100
+
+Holographic
+
+Blueprints 1
+// Quicksalvage
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58364
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58365
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 55129

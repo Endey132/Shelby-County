@@ -1,0 +1,16 @@
+GUID e28f5871f887461bbbc0719c8fc7944e
+Type Barrel
+Rarity Rare
+ID 58635
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56093
+
+Spread 0.85
+Shake 0.95
+Recoil_X 0.8
+Recoil_Y 0.83

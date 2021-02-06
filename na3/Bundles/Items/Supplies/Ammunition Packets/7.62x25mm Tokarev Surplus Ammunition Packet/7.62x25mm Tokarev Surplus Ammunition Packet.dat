@@ -1,0 +1,21 @@
+GUID ed8ffa0bf69b435293790093f0299e3c
+Type Supply
+Rarity Rare
+ID 58546
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 70
+Count_Min 1
+Count_Max 69
+
+Blueprints 1
+// Surplus Packet
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58546
+Blueprint_0_Build 55117
+
+Delete_Empty

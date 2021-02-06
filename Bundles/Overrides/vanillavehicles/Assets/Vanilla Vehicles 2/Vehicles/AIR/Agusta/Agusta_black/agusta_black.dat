@@ -1,0 +1,34 @@
+GUID a25c835f4c30496bbbd4e264cbf88e02
+Type Vehicle
+Rarity Rare
+ID 36830
+
+Speed_Min -2
+Speed_Max 30
+
+Steer_Min 90
+Steer_Max 90
+
+Air_Turn_Responsiveness 2.5
+Air_Steer_Min 20
+Air_Steer_Max 40
+
+Fuel 6500
+
+Health_Min 1100
+Health_Max 1200
+Health 1850
+
+Exit 3
+
+Cam_Follow_Distance 16.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable

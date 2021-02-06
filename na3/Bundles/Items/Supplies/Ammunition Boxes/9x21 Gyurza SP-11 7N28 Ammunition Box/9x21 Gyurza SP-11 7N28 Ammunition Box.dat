@@ -1,0 +1,19 @@
+GUID 89e54444a013488da2d10a72b30f41aa
+Type Supply
+Rarity Rare
+ID 58572
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 40
+Count_Min 1
+Count_Max 39
+
+Blueprints 1
+// Ammo box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58572
+Blueprint_0_Build 55117

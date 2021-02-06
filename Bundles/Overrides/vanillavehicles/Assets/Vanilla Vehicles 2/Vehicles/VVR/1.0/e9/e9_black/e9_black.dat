@@ -1,0 +1,32 @@
+GUID 35595658f84444c0ac6c7e9c1b8e7fcf
+Type Vehicle
+ID 36090
+Rarity Epic
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1000
+
+Health_Min 350
+Health_Max 450
+Health 450
+
+Cam_Passenger_Offset -0.1
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Bumper_Invulnerable

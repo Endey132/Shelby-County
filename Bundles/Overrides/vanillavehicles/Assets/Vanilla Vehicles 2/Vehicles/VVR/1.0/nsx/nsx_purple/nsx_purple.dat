@@ -1,0 +1,32 @@
+GUID 431896531fb54a689670053392f7262b
+Type Vehicle
+Rarity Epic
+ID 36155
+
+Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 22
+
+Steer_Min 19
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1100
+
+Health_Min 350
+Health_Max 450
+Health 500
+
+Cam_Passenger_Offset -0.15
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Bumper_Invulnerable

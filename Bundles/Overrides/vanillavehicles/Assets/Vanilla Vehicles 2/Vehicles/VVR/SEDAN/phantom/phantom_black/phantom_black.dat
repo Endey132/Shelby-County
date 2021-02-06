@@ -1,0 +1,30 @@
+GUID 763a3fce653d4dcea43f796a4c0d2abe
+Type Vehicle
+ID 36390
+Rarity Legendary
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -7
+Speed_Max 22
+
+Steer_Min 18
+Steer_Max 32
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1000
+
+Health_Min 350
+Health_Max 450
+Health 850
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Explosion 20
+
+Bumper_Invulnerable

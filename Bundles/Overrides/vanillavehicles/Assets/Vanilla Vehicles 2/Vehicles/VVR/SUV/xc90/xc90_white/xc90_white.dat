@@ -1,0 +1,31 @@
+GUID 17a8ea03a78f490ba7862f88fb57d800
+Type Vehicle
+Rarity Common
+ID 36346
+
+Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
+Fuel_Burn_Rate 1.4
+Traction
+
+Speed_Min -6
+Speed_Max 17
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1550
+
+Health_Min 350
+Health_Max 450
+Health 1050
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Bumper_Invulnerable

@@ -1,0 +1,30 @@
+GUID f3e48e86d8434ee4835064aa5f2daca0
+Type Vehicle
+Rarity Rare
+ID 36223
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 24
+
+Steer_Min 16
+Steer_Max 28
+
+Brake 29
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 750
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 2
+
+Explosion 20

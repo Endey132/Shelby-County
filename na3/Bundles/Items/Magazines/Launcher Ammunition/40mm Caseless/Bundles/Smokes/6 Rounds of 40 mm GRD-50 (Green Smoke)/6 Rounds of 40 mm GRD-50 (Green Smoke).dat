@@ -1,0 +1,29 @@
+GUID d3478b596c3bb8d17f7c35b64d8a1e16
+Type Magazine
+Rarity Epic
+ID 58496
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 6
+Count_Min 3
+Count_Max 6
+
+Calibers 1
+Caliber_0 56038
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Explosive
+Explosion 55124
+
+Range 0
+Tracer 55121
+
+Delete_Empty

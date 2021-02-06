@@ -1,0 +1,21 @@
+GUID b7022658d5d1140d4f03b0f464fa30a4
+Type Supply
+Rarity Rare
+ID 58474
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 20
+Count_Min 1
+Count_Max 19
+
+Blueprints 1
+// Packet
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58474
+Blueprint_0_Build 55117
+
+Delete_Empty

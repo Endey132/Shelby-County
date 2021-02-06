@@ -1,0 +1,30 @@
+GUID c94c6dedcae64141ae089bb76883b109
+Type Vehicle
+ID 36388
+Rarity Mythical
+
+Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
+Fuel_Burn_Rate 1.65
+
+Speed_Min -7
+Speed_Max 26
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1000
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Bumper_Invulnerable

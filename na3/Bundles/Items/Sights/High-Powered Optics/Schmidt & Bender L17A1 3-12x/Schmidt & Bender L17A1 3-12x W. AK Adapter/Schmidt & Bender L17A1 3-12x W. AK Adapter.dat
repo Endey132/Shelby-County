@@ -1,0 +1,36 @@
+GUID 6273e1098ab64a41849acb3b27509c9c
+Type Sight
+Rarity Epic
+ID 58151
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 56200
+
+Spread 0.8
+Zoom 12
+
+Blueprints 2
+// Disassemble
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58151
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 58099
+Blueprint_0_Output_1_ID 58025
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 55129
+// Assemble
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 58099
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 58025
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 58151
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 55129

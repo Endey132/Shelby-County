@@ -1,0 +1,41 @@
+GUID 5a0fbe64149ec5c03c7e740a03f1c18f
+Type Magazine
+Rarity Rare
+ID 58224
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 10
+Count_Min 8
+Count_Max 10
+
+Calibers 1
+Caliber_0 56039
+
+Spread 2
+Shake 1.25
+Recoil_X 1.5
+Recoil_Y 1.5
+Ballistic_Damage_Multiplier 2
+
+Tracer 48
+
+Blueprints 3
+// M2 AP Belt
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58358
+Blueprint_0_Build 55117
+// M82 M2 AP mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58224
+Blueprint_1_Build 55117
+// M2 Browning box
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 55015
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 55117

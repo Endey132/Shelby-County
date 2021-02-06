@@ -1,0 +1,35 @@
+GUID cbf6747021404ff793fe65218b525f7f
+Type Sight
+Rarity Rare
+ID 58633
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56092
+
+Holographic
+
+Blueprints 2
+// Disassemble
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58633
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 58044
+Blueprint_0_Output_1_ID 58612
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 55129
+// Assemble
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 58044
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 58612
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 58633
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 55129

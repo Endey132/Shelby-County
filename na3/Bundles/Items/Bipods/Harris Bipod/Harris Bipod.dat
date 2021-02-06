@@ -1,0 +1,29 @@
+GUID 7dee5fffa88545b5a3ef0e1885806df9
+Type Grip
+Rarity Rare
+ID 58103
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 56101
+
+Recoil_X 0.3
+Recoil_Y 0.3
+
+Spread 0.4
+Sway 0.4
+Shake 0.3
+
+Bipod
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58103
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58104
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

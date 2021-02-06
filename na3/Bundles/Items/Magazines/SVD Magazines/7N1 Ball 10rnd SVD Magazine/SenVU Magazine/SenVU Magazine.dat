@@ -1,0 +1,62 @@
+GUID 95bfe8a8b7964b3595b1181d7bee66d8
+Type Magazine
+Rarity Rare
+ID 58648
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 4
+Count_Min 4
+Count_Max 4
+
+Calibers 1
+Caliber_0 56005
+
+Spread 1
+Shake 1.4
+Recoil_X 1.3
+Recoil_Y 1.2
+
+Tracer 48
+
+Blueprints 6
+// Packet
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58030
+Blueprint_0_Build 55117
+// Belt
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 58465
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Build 55117
+// SVD mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 58028
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 55117
+// SVD 20rnd mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 58237
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Build 55117
+// SVD 30rnd mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 58435
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Build 55117
+// SenVU mag
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 58648
+Blueprint_5_Build 55117
+
+
+Bundle_Override_Path /Bundles/Items/Magazines/SVD Magazines/7N1 Ball 10rnd SVD Magazine
+Master_Bundle_Override na3.masterbundle

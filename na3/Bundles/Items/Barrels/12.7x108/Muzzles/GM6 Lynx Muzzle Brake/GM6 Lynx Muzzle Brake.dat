@@ -1,0 +1,16 @@
+GUID d658ead33de0f5d55b583e402b03fb62
+Type Barrel
+Rarity Legendary
+ID 58234
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56040
+
+Spread 0.75
+Shake 0.75
+Recoil_X 0.6
+Recoil_Y 0.6

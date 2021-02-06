@@ -1,0 +1,31 @@
+GUID c526cdd7e6ba4816819588320261a434
+Type Vehicle
+Rarity Rare
+ID 36312
+
+Physics_Profile 17b600c56a564c6285de9d488950def1
+Fuel_Burn_Rate 1.4
+Traction
+
+Speed_Min -6
+Speed_Max 19
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 850
+
+Health_Min 350
+Health_Max 450
+Health 1000
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Bumper_Invulnerable

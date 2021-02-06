@@ -1,0 +1,31 @@
+GUID 701b23c407474b0385a1eeb63285c98e
+Type Barrel
+Rarity Epic
+ID 58050
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 56702
+
+Spread 1.1
+Shake 1.05
+Recoil_X 1
+Recoil_Y 1.175
+Ballistic_Drop 1.1
+Braked
+Silenced
+Volume 1.0
+Gunshot_Rolloff_Distance_Multiplier 0.7
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27

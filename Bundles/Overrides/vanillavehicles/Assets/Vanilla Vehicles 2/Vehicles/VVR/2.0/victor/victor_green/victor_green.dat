@@ -1,0 +1,32 @@
+GUID e9f0ac43f8524bb39b5ba7087174f9d2
+Type Vehicle
+Rarity Mythical
+ID 36582
+
+Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 26
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 36
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 900
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Bumper_Invulnerable

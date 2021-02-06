@@ -1,0 +1,16 @@
+GUID 04d8538fc04ceacbe15e607498684e6a
+Type Tactical
+Rarity Rare
+ID 58429
+
+Size_X 2
+Size_Y 1
+Size_Z 0.075
+
+Calibers 1
+Caliber_0 56022
+
+Spread 1
+Shake 0.8
+Recoil_X 0.84
+Recoil_Y 0.84

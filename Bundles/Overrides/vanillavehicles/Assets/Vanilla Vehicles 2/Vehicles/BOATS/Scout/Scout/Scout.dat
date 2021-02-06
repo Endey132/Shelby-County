@@ -1,0 +1,34 @@
+GUID 47966f2ffe9343e589baeceb367a11a9
+Type Vehicle
+Rarity Epic
+ID 36821
+
+Speed_Min -4
+Speed_Max 14
+
+Steer_Min 30
+Steer_Max 30
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 1250
+
+Health_Min 500
+Health_Max 600
+Health 1250
+
+Exit -1
+
+Engine Boat
+
+Cam_Follow_Distance 8
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Bumper_Invulnerable
+BatteryMode_Headlights Charge
+BatteryMode_Sirens

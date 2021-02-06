@@ -1,0 +1,21 @@
+GUID bef71a55dc0e4a3381094a046cfa8e96
+Type Supply
+Rarity Rare
+ID 58008
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 30
+Count_Min 1
+Count_Max 29
+
+Blueprints 1
+// 30rnd packets
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58008
+Blueprint_0_Build 55117
+
+Delete_Empty

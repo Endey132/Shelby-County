@@ -1,0 +1,22 @@
+GUID 2db2e803ed864f929af6f716f7f445f8
+Type Magazine
+Rarity Epic
+ID 58074
+
+Size_X 4
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 56013
+
+Projectile_Blast_Radius_Multiplier 0.75
+Projectile_Launch_Force_Multiplier 1.5
+Projectile_Damage_Multiplier 2.67
+
+Explosive
+Explosion 55108
+
+Delete_Empty
