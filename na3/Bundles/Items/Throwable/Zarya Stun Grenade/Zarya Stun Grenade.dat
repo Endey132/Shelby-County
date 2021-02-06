@@ -1,8 +1,8 @@
-GUID ad7e2e19677d624343b1cea3c26bcde9
+GUID 8279d45dc52c4e6f94f775b55365e91f
 Type Throwable
 Rarity Rare
 Useable Throwable
-ID 58290
+ID 48290
 
 Size_X 1
 Size_Y 1
@@ -16,3 +16,6 @@ Boost_Throw_Force_Multiplier 1.2
 
 Range 12
 Explosion 55109
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/Zarya Stun Grenade

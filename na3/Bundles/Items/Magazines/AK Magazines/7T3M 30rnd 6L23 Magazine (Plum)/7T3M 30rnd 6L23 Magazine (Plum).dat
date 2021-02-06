@@ -1,7 +1,7 @@
-GUID cbe3612b4a351f3f5fdabc79a0197efd
+GUID 022d121cc8b848e8998aa04097db767c
 Type Magazine
 Rarity Rare
-ID 58473
+ID 48473
 
 Size_X 1
 Size_Y 2
@@ -25,34 +25,37 @@ Blueprints 6
 // 30rnd tracer packets
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58469
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48469
+Blueprint_0_Build 45117
 // 6L20 Tracer
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58470
+Blueprint_1_Supply_0_ID 48470
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
 // 6L23 Tracer
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58471
+Blueprint_2_Supply_0_ID 48471
 Blueprint_2_Supply_0_Critical
-Blueprint_2_Build 55117
+Blueprint_2_Build 45117
 // 6L18 Tracer
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 58472
+Blueprint_3_Supply_0_ID 48472
 Blueprint_3_Supply_0_Critical
-Blueprint_3_Build 55117
+Blueprint_3_Build 45117
 // Plum 6L20 Tracer
 Blueprint_4_Type Ammo
 Blueprint_4_Supplies 1
-Blueprint_4_Supply_0_ID 58473
-Blueprint_4_Build 55117
+Blueprint_4_Supply_0_ID 48473
+Blueprint_4_Build 45117
 // 6L26 Tracer
 Blueprint_5_Type Ammo
 Blueprint_5_Supplies 1
-Blueprint_5_Supply_0_ID 58505
+Blueprint_5_Supply_0_ID 48505
 Blueprint_5_Supply_0_Critical
-Blueprint_5_Build 55117
+Blueprint_5_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/AK Magazines/7T3M 30rnd 6L23 Magazine (Plum)

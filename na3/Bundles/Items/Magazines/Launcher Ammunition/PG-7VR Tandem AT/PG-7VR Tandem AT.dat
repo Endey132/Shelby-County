@@ -1,7 +1,7 @@
-GUID 17ae802911e74025b906844bf60dc077
+GUID 14496a5ef6414e079f75b4393a4fbfd4
 Type Magazine
 Rarity Epic
-ID 58135
+ID 48135
 
 Size_X 5
 Size_Y 1
@@ -18,3 +18,6 @@ Projectile_Damage_Multiplier 2.67
 
 Explosive
 Explosion 55108
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/PG-7VR Tandem AT

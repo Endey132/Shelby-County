@@ -1,9 +1,9 @@
-GUID 3b2d60ef2dee445fa494e82b11a039bd
+GUID a187cf185536434b9f66fff3f645538c
 Type Melee
 Rarity Rare
-Useable Melee
+Usable Melee
 Slot Any
-ID 58129
+ID 48129
 
 Size_X 1
 Size_Y 2
@@ -46,3 +46,6 @@ Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 67
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Melees/Back-Up Weapons/M9 Bayonet

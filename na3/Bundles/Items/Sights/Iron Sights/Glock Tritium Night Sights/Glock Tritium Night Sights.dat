@@ -1,6 +1,6 @@
-GUID 70f1e78c8cf26a3f16f59a8516d1b32b
+GUID 70791ee3d44f4c888801fa79059e97aa
 Type Sight
-ID 58256
+ID 48256
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56018
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/Glock Tritium Night Sights

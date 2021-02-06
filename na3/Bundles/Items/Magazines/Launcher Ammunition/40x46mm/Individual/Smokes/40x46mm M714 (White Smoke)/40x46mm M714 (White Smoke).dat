@@ -1,7 +1,7 @@
-GUID a090fd86ec82d45b20b954cb7a05c9ae
+GUID decc0fc40ce740e7a6da021aed84f7f2
 Type Magazine
 Rarity Epic
-ID 58482
+ID 48482
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Individual/Smokes/40x46mm M714 (White Smoke)

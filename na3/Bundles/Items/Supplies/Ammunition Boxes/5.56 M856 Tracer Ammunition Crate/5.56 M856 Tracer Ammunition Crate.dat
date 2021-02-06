@@ -1,7 +1,7 @@
-GUID 6b7ea31bc1ce2640ed2a3a8a0a15e8e1
+GUID 4358eac9e2f8494596c94f7b10b97e26
 Type Supply
 Rarity Rare
-ID 58262
+ID 48262
 
 Size_X 2
 Size_Y 2
@@ -10,8 +10,11 @@ Size_Z 0.3
 Blueprints 1
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58262
+Blueprint_0_Supply_0_ID 48262
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58263
+Blueprint_0_Output_0_ID 48263
 Blueprint_0_Output_0_Amount 6
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/5.56 M856 Tracer Ammunition Crate

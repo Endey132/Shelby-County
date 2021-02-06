@@ -1,6 +1,6 @@
-GUID c4064deab14513dc35b675fe198b3183
+GUID e497206a057947319d389f0217e81fbc
 Type Sight
-ID 58225
+ID 48225
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56039
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/Barrett M107 Sights

@@ -1,6 +1,6 @@
-GUID 83a37e268d6370b63c831760de3f6840
+GUID 2011f1363b734be18dd8881c8f0ffcd3
 Type Sight
-ID 58468
+ID 48468
 
 Size_X 2
 Size_Y 1
@@ -10,3 +10,6 @@ Calibers 1
 Caliber_0 56100
 
 Holographic
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/OKP-7 Reflex Sight

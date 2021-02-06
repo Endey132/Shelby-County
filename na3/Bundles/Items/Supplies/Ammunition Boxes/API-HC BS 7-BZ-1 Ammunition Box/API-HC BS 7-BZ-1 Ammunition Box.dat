@@ -1,7 +1,7 @@
-GUID f496710f61e3739424c89b4c0e8b8c64	
+GUID 	afea69ffad8b4225b9566c5a0846b2d0
 Type Supply
 Rarity Rare
-ID 58279
+ID 48279
 
 Size_X 2
 Size_Y 2
@@ -11,19 +11,22 @@ Blueprints 2
 // Crowbar to open
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58279
+Blueprint_0_Supply_0_ID 48279
 Blueprint_0_Tool 58518
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58360
+Blueprint_0_Output_0_ID 48360
 Blueprint_0_Output_0_Amount 2
 Blueprint_0_Build 27
 // Crowbar to open (Vanilla)
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58279
+Blueprint_1_Supply_0_ID 48279
 Blueprint_1_Tool 1032
 Blueprint_1_Tool_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58360
+Blueprint_1_Output_0_ID 48360
 Blueprint_1_Output_0_Amount 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/API-HC BS 7-BZ-1 Ammunition Box

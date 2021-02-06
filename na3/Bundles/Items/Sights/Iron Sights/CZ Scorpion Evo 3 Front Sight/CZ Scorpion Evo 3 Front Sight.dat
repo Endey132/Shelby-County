@@ -1,6 +1,6 @@
-GUID cef8da11e4224ddb8064a55eec8bfeb3
+GUID 217afae105a249c0ab9d558fda340821
 Type Sight
-ID 58558
+ID 48558
 
 Size_X 1
 Size_Y 1
@@ -12,7 +12,10 @@ Caliber_0 56100
 Blueprints 1
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 58558
-Blueprint_0_Supply_1_ID 58557
+Blueprint_0_Supply_0_ID 48558
+Blueprint_0_Supply_1_ID 48557
 Blueprint_0_Product 58556
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/CZ Scorpion Evo 3 Front Sight

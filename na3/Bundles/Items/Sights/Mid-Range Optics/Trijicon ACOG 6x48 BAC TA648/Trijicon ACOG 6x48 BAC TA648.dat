@@ -1,7 +1,7 @@
-GUID 468e34e513b0b3a0a48cb19238be9628
+GUID 1dba73d90d3b4372b2d4340ce4c3332f
 Type Sight
 Rarity Rare
-ID 58396
+ID 48396
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56100
 
 Spread 0.85
 Zoom 6
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Mid-Range Optics/Trijicon ACOG 6x48 BAC TA648

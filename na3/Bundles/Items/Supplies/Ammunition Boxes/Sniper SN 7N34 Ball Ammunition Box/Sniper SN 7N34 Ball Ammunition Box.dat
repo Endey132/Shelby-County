@@ -1,7 +1,7 @@
-GUID 7fb3d9ea6c3d80203be5f4b4b2b8fecd
+GUID f1995342e05f4dcaa922843e9375d14d
 Type Supply
 Rarity Rare
-ID 58235
+ID 48235
 
 Size_X 2
 Size_Y 2
@@ -11,19 +11,22 @@ Blueprints 2
 // Crowbar to open
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58235
+Blueprint_0_Supply_0_ID 48235
 Blueprint_0_Tool 58518
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58359
+Blueprint_0_Output_0_ID 48359
 Blueprint_0_Output_0_Amount 2
 Blueprint_0_Build 27
 // Crowbar to open (Vanilla)
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58235
+Blueprint_1_Supply_0_ID 48235
 Blueprint_1_Tool 1032
 Blueprint_1_Tool_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58359
+Blueprint_1_Output_0_ID 48359
 Blueprint_1_Output_0_Amount 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/Sniper SN 7N34 Ball Ammunition Box

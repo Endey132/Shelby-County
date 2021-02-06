@@ -1,7 +1,7 @@
-GUID 89e54444a013488da2d10a72b30f41aa
+GUID c58a5d05a4b944ecbb7979458952db8c
 Type Supply
 Rarity Rare
-ID 58572
+ID 48572
 
 Size_X 2
 Size_Y 2
@@ -15,5 +15,8 @@ Blueprints 1
 // Ammo box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58572
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48572
+Blueprint_0_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/9x21 Gyurza S-11 8N28 Ammunition Box

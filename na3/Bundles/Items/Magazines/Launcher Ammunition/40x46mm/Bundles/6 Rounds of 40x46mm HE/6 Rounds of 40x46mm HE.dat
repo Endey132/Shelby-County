@@ -1,7 +1,7 @@
-GUID b0678e324bcdb8f16163d493e89d6fae
+GUID 192da886b401429189b4382757e16ce4
 Type Magazine
 Rarity Legendary
-ID 58217
+ID 48217
 
 Size_X 2
 Size_Y 2
@@ -31,3 +31,6 @@ Range 15
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Bundles/6 Rounds of 40x46mm HE

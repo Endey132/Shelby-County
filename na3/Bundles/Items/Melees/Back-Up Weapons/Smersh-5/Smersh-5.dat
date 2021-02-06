@@ -1,9 +1,9 @@
-GUID 366df001f32944dcaf50cb34e0d6c8d1
+GUID 3a09087614164454a4e00f7630d7e999
 Type Melee
 Rarity Rare
 Useable Melee
 Slot Any
-ID 58130
+ID 48130
 
 Size_X 1
 Size_Y 2
@@ -52,3 +52,6 @@ Blueprint_1_Supply_0_ID 58130
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Melees/Back-Up Weapons/Smersh-5

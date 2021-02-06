@@ -1,7 +1,7 @@
-GUID 1ac36d3b646c4df65709816f3757e18b
+GUID bc575e8473af4e09aa359faed20f0371
 Type Magazine
 Rarity Rare
-ID 58466
+ID 48466
 
 Size_X 1
 Size_Y 1
@@ -29,5 +29,8 @@ Blueprints 1
 // 4 shells
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58466
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48466
+Blueprint_0_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Shotgun Ammunition/23x75mmR Barricade

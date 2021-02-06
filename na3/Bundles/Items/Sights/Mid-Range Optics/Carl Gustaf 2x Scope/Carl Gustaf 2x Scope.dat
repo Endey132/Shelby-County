@@ -1,7 +1,7 @@
-GUID 19b2529405aa4a12b599cf8e23f4690f
+GUID 4f75814ad1d34ca7a843037f3a11d4d65
 Type Sight
 Rarity Rare
-ID 58644
+ID 48644
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56095
 
 Spread 0.8
 Zoom 3
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Mid-Range Optics/Carl Gustaf 2x Scope

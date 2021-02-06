@@ -1,6 +1,6 @@
-GUID 6422a3d0d9ab403c891893d88eafb8cc
+GUID 386a0730d18d4c0bababfcb72e81bc0a
 Type Sight
-ID 58119
+ID 48119
 
 Size_X 2
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56025
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/SA80 Carry Handle

@@ -1,7 +1,7 @@
-GUID a748d6d236a617265b57cd2acfe43873
+GUID 9f59c50f17fe43dfba205c075337284c
 Type Magazine
 Rarity Rare
-ID 58387
+ID 48387
 
 Size_X 1
 Size_Y 1
@@ -26,16 +26,19 @@ Blueprints 3
 // Box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58388
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48388
+Blueprint_0_Build 45117
 // M82 mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58387
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48387
+Blueprint_1_Build 45117
 // M2 Browning box
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 55022
+Blueprint_2_Supply_0_ID 45022
 Blueprint_2_Supply_0_Critical
-Blueprint_2_Build 55117
+Blueprint_2_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/M82 Magazines/50 BMG 660 10rnd M82 Magazine

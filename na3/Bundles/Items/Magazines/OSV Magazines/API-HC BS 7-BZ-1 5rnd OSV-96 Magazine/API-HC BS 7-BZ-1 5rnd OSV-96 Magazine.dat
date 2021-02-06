@@ -1,7 +1,7 @@
-GUID a7ca697d143b48b2641808f3ca319847
+GUID 5478931973304a3aba59b0abdbbaca0e
 Type Magazine
 Rarity Legendary
-ID 58242
+ID 48242
 
 Size_X 1
 Size_Y 1
@@ -26,22 +26,25 @@ Blueprints 4
 // Belt
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58360
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48360
+Blueprint_0_Build 45117
 // Lynx mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58233
+Blueprint_1_Supply_0_ID 48233
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
 // OSV mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58242
-Blueprint_2_Build 55117
+Blueprint_2_Supply_0_ID 48242
+Blueprint_2_Build 45117
 // Kord/NSV box
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 55018
+Blueprint_3_Supply_0_ID 45018
 Blueprint_3_Supply_0_Critical
 Blueprint_3_Build 30
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/OSV Magazines/API-HC BS 7-BZ 1 5rnd OSV-96 Magazines

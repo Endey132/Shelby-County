@@ -1,6 +1,6 @@
-GUID 72e5cf15a02f4cdaabac4777eda67b6d
+GUID 249aa36425f04b398511a0e830f98246
 Type Sight
-ID 58055
+ID 48055
 
 Size_X 2
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/FN Mk.20 SSR Sight

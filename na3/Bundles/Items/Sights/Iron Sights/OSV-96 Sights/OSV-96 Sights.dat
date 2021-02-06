@@ -1,6 +1,6 @@
-GUID 1d838746fc8d20ac610f72715b421301
+GUID 0b40d18da3bc4b229fd3cb483d43e48b
 Type Sight
-ID 58243
+ID 48243
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56041
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/OSV-96 Sights

@@ -1,7 +1,7 @@
-GUID 043a7992d1c14163a3880190422c2e0d
+GUID b30384f7834c4dc594412239b2e8181c
 Type Tactical
 Rarity Rare
-ID 58582
+ID 48582
 
 Size_X 1
 Size_Y 1
@@ -15,19 +15,22 @@ Caliber_0 56089
 Blueprints 2
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58582
+Blueprint_0_Supply_0_ID 48582
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58581
-Blueprint_0_Output_1_ID 58311
+Blueprint_0_Output_0_ID 48581
+Blueprint_0_Output_1_ID 48311
 Blueprint_0_Output_0_Amount 1
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58581
+Blueprint_1_Supply_0_ID 48581
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58311
+Blueprint_1_Supply_1_ID 48311
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58582
+Blueprint_1_Output_0_ID 48582
 Blueprint_1_Output_0_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Railed/SIG CPL-RM Compact Pistol Laser/SR-1MP Single Rail with SIG CPL-RM Pistol Laser

@@ -1,6 +1,6 @@
-GUID c90d7a5986591714bec8b54d235c4e54
+GUID 45675210dfe14986a1b3c2bb966c90cc
 Type Sight
-ID 58437
+ID 48437
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56073
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/SVU Flip-Up Sights

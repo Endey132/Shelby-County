@@ -1,8 +1,11 @@
-GUID fe6a050c30da4df0a483c01996c75442
+GUID 3c5dbfe283294c40b459800813417c1c
 Type Supply
 Rarity Epic
-ID 58580
+ID 48580
 
 Size_X 1
 Size_Y 1
 Size_Z 0.5
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Weapon Parts/SR-1MP Quad Rail Mount/SR-1MP Quad Rail Mount

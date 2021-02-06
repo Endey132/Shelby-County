@@ -1,7 +1,7 @@
-GUID 756096ea930cdbd7a3e154b165d1f242
+GUID ca985f29ce7e4382bd33d08bf561f395
 Type Magazine
 Rarity Epic
-ID 58485
+ID 48485
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Individual/Smokes/40x46mm M716 (Yellow Smoke

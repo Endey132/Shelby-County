@@ -1,8 +1,8 @@
-GUID ab6cfb36fdfd9fbcde51d6f8012e497d
+GUID 7f90b8f081724550beecc7129b69d66e
 Type Throwable
 Rarity Rare
 Useable Throwable
-ID 58291
+ID 48291
 
 Size_X 1
 Size_Y 1
@@ -16,3 +16,6 @@ Boost_Throw_Force_Multiplier 1.2
 
 Range 8
 Explosion 55109
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/Model 7290 Stun Grenade

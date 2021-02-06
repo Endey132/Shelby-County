@@ -1,6 +1,6 @@
-GUID e500473ee5458dc2407eec62b649179f
+GUID 508e805564ed4955b60111780af0e11c
 Type Sight
-ID 58355
+ID 48355
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/RAS Flip Up Sights (M27 IAR)

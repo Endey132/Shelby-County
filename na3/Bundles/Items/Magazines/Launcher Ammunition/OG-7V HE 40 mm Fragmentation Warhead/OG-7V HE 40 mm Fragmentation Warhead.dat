@@ -1,7 +1,7 @@
-GUID d78ff88853e64008a024b38d72b186de
+GUID 7dac7fc9c8e74e4bb9dc76c1809dbd70
 Type Magazine
 Rarity Epic
-ID 58122
+ID 48122
 
 Size_X 5
 Size_Y 1
@@ -18,3 +18,6 @@ Projectile_Damage_Multiplier 0.8
 
 Explosive
 Explosion 55107
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/OG-7V HE 40 mm Fragmentation Warhead

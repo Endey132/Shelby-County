@@ -1,7 +1,7 @@
-GUID 148e8d54dd12491d94ce7c84de7d5cfa
+GUID bb37d71129904f51b583fa4155394050
 Type Sight
 Rarity Rare
-ID 58052
+ID 48052
 
 Size_X 2
 Size_Y 1
@@ -17,20 +17,23 @@ Blueprints 2
 // Disassemble
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58052
+Blueprint_0_Supply_0_ID 48052
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58009
-Blueprint_0_Output_1_ID 58025
+Blueprint_0_Output_0_ID 48009
+Blueprint_0_Output_1_ID 48025
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
 // Assemble
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58009
+Blueprint_1_Supply_0_ID 48009
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58025
+Blueprint_1_Supply_1_ID 48025
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58052
+Blueprint_1_Output_0_ID 48052
 Blueprint_1_Output_0_Amount 1
-Blueprint_1_Build 55129
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Mid-Range Optics/Trijicon ACOG 4x32 TA31D/Trijicon ACOG 4x32 TA31D W. AK Adapter

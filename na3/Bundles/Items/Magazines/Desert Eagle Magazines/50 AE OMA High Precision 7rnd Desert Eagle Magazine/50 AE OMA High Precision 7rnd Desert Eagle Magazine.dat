@@ -1,7 +1,7 @@
-GUID bf22d235dcd44e60b16e45475de1ef60
+GUID d96a84c2b2044bca88734196a8dce4b1
 Type Magazine
 Rarity Rare
-ID 58567
+ID 48567
 
 Size_X 1
 Size_Y 1
@@ -26,10 +26,13 @@ Blueprints 2
 // Ammunition crate
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58570
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48570
+Blueprint_0_Build 45117
 // Deagle mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58567
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48567
+Blueprint_1_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Desert Eagle Magazines/50 AE OMA High Prescision 7rnd Desert Eagle Magazine

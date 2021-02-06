@@ -1,7 +1,7 @@
-GUID a8518709aa4145858d676aabd5e2e874
+GUID 08af75d81d4940eea1b33640391c2bac
 Type Tactical
 Rarity Epic
-ID 58096
+ID 48096
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Rangefinder
 
 Calibers 1
 Caliber_0 56080
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Railed/LaserWorks LE-032 Rangefinder

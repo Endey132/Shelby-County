@@ -1,7 +1,7 @@
-GUID 3e166b3561bb4be2a4cbd1b89e605503
+GUID 23b6ce0e465e4af68be54886cf38053b
 Type Sight
 Rarity Rare
-ID 58166
+ID 48166
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56100
 
 Spread 0.8
 Zoom 4
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Mid-Range Optics/Elcan SpecterDR 1x-4x

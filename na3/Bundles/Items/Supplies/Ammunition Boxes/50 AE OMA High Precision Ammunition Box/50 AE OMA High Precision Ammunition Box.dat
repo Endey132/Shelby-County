@@ -1,7 +1,7 @@
-GUID c834c4b5ac564955a414a75c5ba1cb96
+GUID d3ff796c09e64e3c9d386f72a766e7be
 Type Supply
 Rarity Rare
-ID 58570
+ID 48570
 
 Size_X 2
 Size_Y 2
@@ -15,5 +15,8 @@ Blueprints 1
 // Ammo Box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58570
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48570
+Blueprint_0_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/50 AE OMA High Precision Box

@@ -1,8 +1,8 @@
-GUID 2d065152926e5c13d154dc7a17a1bc60
+GUID 8348422b2e574e329aa042a0a8c9ac93
 Type Throwable
 Rarity Uncommon
 Useable Throwable
-ID 58298
+ID 48298
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Size_Z 0.4
 Weak_Throw_Force 700
 Strong_Throw_Force 1200
 Boost_Throw_Force_Multiplier 1.2
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/RGD-2 Smoke Grenade (Green)

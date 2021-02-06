@@ -1,6 +1,6 @@
-GUID 56557ede1b664a0ea0c8a3de1a3a0a70
+GUID 7231ad975ae1482dae169e41bc2caafb
 Type Sight
-ID 58560
+ID 48560
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56044
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/MP-443 Grach Sights

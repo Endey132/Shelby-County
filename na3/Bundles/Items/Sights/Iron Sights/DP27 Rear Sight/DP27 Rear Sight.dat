@@ -1,6 +1,6 @@
-GUID 2a57cfab34bd528a4b939193414bf534
+GUID cf63f8554097401e9da1cbc18702ca08
 Type Sight
-ID 58411
+ID 48411
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/DP27 Rear Sight

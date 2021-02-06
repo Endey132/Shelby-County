@@ -1,7 +1,7 @@
-GUID 3abd0804a45c4d51a479aadb7e3bcdff
+GUID b0802177b8644e2c9f45deb83cc19522
 Type Supply
 Rarity Rare
-ID 58092
+ID 48092
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,10 @@ Blueprints 1
 // Ammunition crate
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58092
+Blueprint_0_Supply_0_ID 48092
 Blueprint_0_Build 30
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/9mm FMJ Ammunition Crate

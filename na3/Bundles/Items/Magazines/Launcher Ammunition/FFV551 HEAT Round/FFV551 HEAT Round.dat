@@ -1,7 +1,7 @@
-GUID bdb0ebb26048436d8585795f4fa952dc
+GUID 9087a65f212a462e908f80222f837ef0
 Type Magazine
 Rarity Epic
-ID 58643
+ID 48643
 
 Size_X 5
 Size_Y 1
@@ -18,3 +18,6 @@ Projectile_Damage_Multiplier 1.4
 
 Explosive
 Explosion 55108
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/FFV551 HEAT Round

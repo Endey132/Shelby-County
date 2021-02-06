@@ -1,7 +1,7 @@
-GUID e5643b52d8ba147d3cbf6365cd2901ef
+GUID 29b9aa9b4aa44ca18df4c74dae44aac8
 Type Sight
 Rarity Rare
-ID 58463
+ID 48463
 
 Size_X 2
 Size_Y 1
@@ -17,20 +17,23 @@ Blueprints 2
 // Disassemble
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58463
+Blueprint_0_Supply_0_ID 48463
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58462
-Blueprint_0_Output_1_ID 58025
+Blueprint_0_Output_0_ID 48462
+Blueprint_0_Output_1_ID 48025
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
 // Assemble
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58462
+Blueprint_1_Supply_0_ID 48462
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58025
+Blueprint_1_Supply_1_ID 48025
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58463
+Blueprint_1_Output_0_ID 48463
 Blueprint_1_Output_0_Amount 1
-Blueprint_1_Build 55129
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/NPZ PA1-4 Scope/NPZ PA1-4 Scope W. AK Adapter

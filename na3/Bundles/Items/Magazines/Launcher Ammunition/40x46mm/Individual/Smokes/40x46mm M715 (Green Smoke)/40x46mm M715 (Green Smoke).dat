@@ -1,7 +1,7 @@
-GUID 8dda3a6ed8181db7d16159a9c5b57891
+GUID 4e209d9a4ab849409c6f3eed6ac883b4
 Type Magazine
 Rarity Epic
-ID 58484
+ID 48484
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Individual/Smokes/40x46mm M715 (Green Smoke)

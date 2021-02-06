@@ -1,7 +1,7 @@
-GUID 1e7bbe9f478940228b1dd41c7938d82b
+GUID 6706bee3c6b645638ad511b4a322e16b
 Type Magazine
 Rarity Rare
-ID 58516
+ID 48516
 
 Size_X 1
 Size_Y 1
@@ -25,11 +25,14 @@ Blueprints 2
 // Packet
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58517
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48517
+Blueprint_0_Build 45117
 // M1 Garand Clip
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58516
+Blueprint_1_Supply_0_ID 48516
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/M14 Magazines/M1906 Ball 8rnd M1 Garand Clip

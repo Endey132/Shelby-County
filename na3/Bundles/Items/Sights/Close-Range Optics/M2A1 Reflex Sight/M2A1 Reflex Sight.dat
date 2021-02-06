@@ -1,6 +1,6 @@
-GUID bcb0acecf94cd09074d07b1980d708b9
+GUID b012a760d5c74100a4274f5d7cee0226
 Type Sight
-ID 58218
+ID 48218
 
 Size_X 2
 Size_Y 1
@@ -10,3 +10,6 @@ Calibers 1
 Caliber_0 56100
 
 Holographic
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Close-Range Optics/M2A1 Reflex Sight

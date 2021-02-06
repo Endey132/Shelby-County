@@ -1,6 +1,6 @@
-GUID 75f4f114e8af4ea0b60debbc0407451c
+GUID e37f01bc32ab49a2b1209d29fa86cb71
 Type Sight
-ID 58163
+ID 48163
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/H&K MP7 Sight

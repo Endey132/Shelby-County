@@ -1,7 +1,7 @@
-GUID bd14b376790978a6a2d7ac6a9d9f4fbf
+GUID 82d70d7dc59c4b63b2c57c44f1bdd0fa
 Type Magazine
 Rarity Legendary
-ID 58221
+ID 48221
 
 Size_X 2
 Size_Y 2
@@ -30,3 +30,6 @@ Range 15
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40mm Caseless/Bundles/6 Rounds of 40 mm VOG-25

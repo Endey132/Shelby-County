@@ -1,7 +1,7 @@
-GUID 807e2fe2d169e684f698b29473f6d730
+GUID e36223c7f9cc468db45e68b59c428f46
 Type Magazine
 Rarity Epic
-ID 58201
+ID 48201
 
 Size_X 1
 Size_Y 1
@@ -29,3 +29,6 @@ Range 15
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Individual/40x46mm HE

@@ -1,7 +1,7 @@
-GUID bddef052295a43d8916f34d12a2f1169
+GUID 381e0298c3c743c9a1b3b1aa49e121f8
 Type Sight
 Rarity Rare
-ID 58625
+ID 48625
 
 Size_X 2
 Size_Y 1
@@ -17,20 +17,23 @@ Blueprints 2
 // Disassemble
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58625
+Blueprint_0_Supply_0_ID 48625
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58065
-Blueprint_0_Output_1_ID 58612
+Blueprint_0_Output_0_ID 48065
+Blueprint_0_Output_1_ID 48612
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
 // Assemble
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58065
+Blueprint_1_Supply_0_ID 48065
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58612
+Blueprint_1_Supply_1_ID 48612
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58625
+Blueprint_1_Output_0_ID 48625
 Blueprint_1_Output_0_Amount 1
-Blueprint_1_Build 55129
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Mid-Range Optics/Trijicon ACOG 3.5x35 TA11F/Trijicon ACOG 3.5x35 TA11F on HK Mount

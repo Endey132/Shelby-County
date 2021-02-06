@@ -1,7 +1,7 @@
-GUID 942197baef10be1958d32c69b1a41578
+GUID 2fc0352ac46d43a9b2d150067c4a06ac
 Type Magazine
 Rarity Legendary
-ID 58389
+ID 48389
 
 Size_X 1
 Size_Y 1
@@ -26,22 +26,25 @@ Blueprints 3
 // Box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58391
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48391
+Blueprint_0_Build 45117
 // Lynx mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58390
+Blueprint_1_Supply_0_ID 48390
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
 // OSV mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58389
-Blueprint_2_Build 55117
+Blueprint_2_Supply_0_ID 48389
+Blueprint_2_Build 45117
 // Kord/NSV box
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 55024
+Blueprint_3_Supply_0_ID 45024
 Blueprint_3_Supply_0_Critical
 Blueprint_3_Build 30
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/OSV Magazines/680 FMJ 5rnd OSV-96 Magazine

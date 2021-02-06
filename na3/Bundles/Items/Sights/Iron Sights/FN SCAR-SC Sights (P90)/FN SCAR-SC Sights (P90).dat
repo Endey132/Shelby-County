@@ -1,6 +1,6 @@
-GUID ad6171538790fe3f4d19d581a107efef
+GUID 0c184e6b8c484a89b22ca61180e0a16b
 Type Sight
-ID 58314
+ID 48314
 
 Size_X 2
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/FN SCAR-SC Sights (P90)

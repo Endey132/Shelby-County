@@ -1,7 +1,7 @@
-GUID e47391865dc140d0a006e6f4bdbdb06e
+GUID a451948f851d4707aceda293897c9147
 Type Supply
 Rarity Epic
-ID 58523
+ID 48523
 
 Size_X 2
 Size_Y 2
@@ -15,5 +15,8 @@ Blueprints 1
 // Ammo Box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58523
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48523
+Blueprint_0_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/9mm AP 6.3 Ammunition Box

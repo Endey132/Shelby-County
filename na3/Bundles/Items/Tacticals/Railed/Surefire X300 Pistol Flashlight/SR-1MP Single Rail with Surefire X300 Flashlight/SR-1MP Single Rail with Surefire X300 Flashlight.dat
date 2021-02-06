@@ -1,7 +1,7 @@
-GUID d3231ec00a17417b946990ba4339ad4f
+GUID 9f4b05647a8848b3943b704f32a5e34d
 Type Tactical
 Rarity Rare
-ID 58652
+ID 48652
 
 Size_X 1
 Size_Y 1
@@ -15,19 +15,22 @@ Caliber_0 56089
 Blueprints 2
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58652
+Blueprint_0_Supply_0_ID 48652
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58581
-Blueprint_0_Output_1_ID 58651
+Blueprint_0_Output_0_ID 48581
+Blueprint_0_Output_1_ID 48651
 Blueprint_0_Output_0_Amount 1
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58581
+Blueprint_1_Supply_0_ID 48581
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58651
+Blueprint_1_Supply_1_ID 48651
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58652
+Blueprint_1_Output_0_ID 48652
 Blueprint_1_Output_0_Amount 1
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Railed/Surefire X300 Pistol Flashlight/SR-1MP Single Rail with Surefire X300 Flashlight

@@ -1,7 +1,7 @@
-GUID ea3d7c50131af27be2f467212b2d1e20
+GUID dbb9b93076914981b3991fddb0976f38
 Type Magazine
 Rarity Epic
-ID 58494
+ID 48494
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40mm Caseless/Bundles/Smokes/6 Rounds of 40 mm GRD-50 (White Smoke)

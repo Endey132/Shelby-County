@@ -1,7 +1,7 @@
-GUID 3afef4d1a2182987df49cfa6ae15f90c
+GUID 46334ddda5084f0988c8be26ec589cc8
 Type Magazine
 Rarity Epic
-ID 58320
+ID 48320
 
 Size_X 4
 Size_Y 1
@@ -17,3 +17,6 @@ Projectile_Damage_Multiplier 1
 
 Explosive
 Explosion 55108
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/72.5 HEAT

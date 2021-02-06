@@ -1,8 +1,11 @@
-GUID f3b34cd1461d46f65dc7702ab2fc7b14
+GUID c0b0f0ca81304f72944506d3456a3efc
 Type Supply
 Rarity Epic
-ID 58397
+ID 48397
 
 Size_X 1
 Size_Y 1
 Size_Z 0.5
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Weapon Pats/B-3 Mount

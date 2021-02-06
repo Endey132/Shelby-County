@@ -1,6 +1,6 @@
-GUID c59935baf61c4a1cbdbd947005c0cc42
+GUID 36cbf62d4860486b8d9b96af48b30f38
 Type Sight
-ID 58132
+ID 48132
 
 Size_X 2
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/SV98 Rear Sight

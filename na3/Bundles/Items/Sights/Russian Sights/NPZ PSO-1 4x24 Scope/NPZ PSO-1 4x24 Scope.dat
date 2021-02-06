@@ -1,7 +1,7 @@
-GUID 0da6bd384c804203aaf905c712db0b64
+GUID 0117d655456d421bb85b94f6b26b1d31
 Type Sight
 Rarity Rare
-ID 58029
+ID 48029
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56200
 
 Spread 0.8
 Zoom 4
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/NPZ PSO-1 4x24 Scope

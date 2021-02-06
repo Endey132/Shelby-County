@@ -1,7 +1,7 @@
-GUID d72fb819e50c894c1ab7f6e08e185010
+GUID 56bcee6b225b4562b8bb1cff09d8f98f
 Type Magazine
 Rarity Epic
-ID 58492
+ID 48492
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40mm Caseless/Individual/Smokes/40 mm GRD-50 (Green Smoke)

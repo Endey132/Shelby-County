@@ -1,7 +1,7 @@
-GUID 713e32fa9c8842318d537e39937b3807
+GUID 40c2088e35854f25b8f71063a2211b5a
 Type Sight
 Rarity Rare
-ID 58148
+ID 48148
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56202
 
 Spread 0.8
 Zoom 3.5
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/PU 3.5x Scope

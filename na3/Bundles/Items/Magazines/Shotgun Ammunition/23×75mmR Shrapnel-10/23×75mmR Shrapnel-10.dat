@@ -1,7 +1,7 @@
-GUID 4fa4b730af7b4db938ad74d2ac9d024a
+GUID 03f97b7a058e4b6c842869bc703b0e5a
 Type Magazine
 Rarity Rare
-ID 58248
+ID 48248
 
 Size_X 1
 Size_Y 1
@@ -28,5 +28,8 @@ Blueprints 1
 // 4 shells
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58248
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48248
+Blueprint_0_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Shotgun Ammunition/23x75mmR Shrapnel-10

@@ -1,6 +1,6 @@
-GUID f9ebdefcd094976c016d5bb6d3db1a78
+GUID c589f3a09ef549d1bc0daf745fec150c
 Type Sight
-ID 58246
+ID 48246
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/AR15 A2 Rear Sight

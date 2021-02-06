@@ -1,7 +1,7 @@
-GUID 5edafca257355e25df14c5be09a04213
+GUID 662f646f0b234a0fbd05c607b93587fc
 Type Magazine
 Rarity Epic
-ID 58483
+ID 48483
 
 Size_X 1
 Size_Y 1
@@ -25,3 +25,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Individual/Smokes/40x46mm M713 (Red Smoke)

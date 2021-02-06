@@ -1,9 +1,9 @@
-GUID ea00deb9ddf547ffae40602109f0c4d2
+GUID 274a3a822e9b4fe6a58aec2302ad98ea
 Type Melee
 Rarity Uncommon
 Useable Melee
 Slot Any
-ID 58518
+ID 48518
 
 Size_X 1
 Size_Y 3
@@ -52,3 +52,6 @@ Blueprint_1_Supply_0_ID 58518
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Melees/Utility Weapons/NA3Crowbar

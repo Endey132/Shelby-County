@@ -1,6 +1,6 @@
-GUID 7f79276116cfe4166f364c9ba6c9a72e
+GUID d6074e9ded464a2baff641580ea869da
 Type Sight
-ID 58255
+ID 48255
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56043
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/Beretta 92FS Meprolight Night Sights

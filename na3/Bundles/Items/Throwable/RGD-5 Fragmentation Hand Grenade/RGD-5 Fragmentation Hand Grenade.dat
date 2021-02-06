@@ -1,8 +1,8 @@
-GUID dcfe98a8cc00482ea5512264956db82f
+GUID 0d04bcff59094be2a8323b8e3b1d28c8
 Type Throwable
 Rarity Rare
 Useable Throwable
-ID 58056
+ID 48056
 
 Size_X 1
 Size_Y 1
@@ -24,3 +24,6 @@ Range 15
 Explosion 55109
 
 Explosive
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/RGD-5 Fragmentation Hand Grenade

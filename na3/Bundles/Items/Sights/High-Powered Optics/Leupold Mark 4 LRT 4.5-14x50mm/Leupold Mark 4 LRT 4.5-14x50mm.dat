@@ -1,7 +1,7 @@
-GUID a25a12af7f514d429ce31d90033a58ab
+GUID e09b6cbc282a4b22afcf35f60bde813b
 Type Sight
 Rarity Epic
-ID 58102
+ID 48102
 
 Size_X 2
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 0.8
 Zoom 14.3
 
 Paintable
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/High-Powered Optics/Leupold Mark 4 LRT 4.5-14x50mm

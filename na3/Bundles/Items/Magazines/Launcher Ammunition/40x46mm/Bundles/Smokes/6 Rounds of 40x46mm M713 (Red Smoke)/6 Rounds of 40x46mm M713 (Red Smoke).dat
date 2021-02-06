@@ -1,7 +1,7 @@
-GUID 71e51a748e6aef69bc9a38680859bfe8
+GUID 36aba0663be7450bbf3b6c3efa71bf3b
 Type Magazine
 Rarity Epic
-ID 58487
+ID 48487
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Range 0
 Tracer 55121
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/40x46mm/Bluendles/Smokes/6 Rounds of 40x46mm M173 (Red Smoke)

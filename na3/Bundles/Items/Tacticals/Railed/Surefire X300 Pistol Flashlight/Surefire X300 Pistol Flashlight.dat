@@ -1,7 +1,7 @@
-GUID 4aae55618fde4acfb20107a72be69803
+GUID 894f6187917d46bfab3cad3e1bc4b652
 Type Tactical
 Rarity Rare
-ID 58651
+ID 48651
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Light
 
 Calibers 1
 Caliber_0 56056
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Railed/Surefire X300 Pistpl Flashlight

@@ -1,7 +1,7 @@
-GUID 302c706a8c8ba42070c565aeac2cf1a4
+GUID 92c608ca7e0a456885fc3786243c5659
 Type Magazine
 Rarity Legendary
-ID 58232
+ID 48232
 
 Size_X 1
 Size_Y 1
@@ -25,22 +25,25 @@ Blueprints 4
 // Belt
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58359
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48359
+Blueprint_0_Build 45117
 // Lynx mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58232
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48232
+Blueprint_1_Build 45117
 // OSV mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58241
+Blueprint_2_Supply_0_ID 48241
 Blueprint_2_Supply_0_Critical
-Blueprint_2_Build 55117
+Blueprint_2_Build 45117
 // Kord/NSV box
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 55023
+Blueprint_3_Supply_0_ID 45023
 Blueprint_3_Supply_0_Critical
 Blueprint_3_Build 30
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Gepard Magazines/Sniper SN 7N34 5rnd GM6 Magazine

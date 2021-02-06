@@ -1,7 +1,7 @@
-GUID f64740323eae485f8b5a4fe9985ba4f2
+GUID 3e7eab9b17cd4f91bbc3fffa09968810
 Type Magazine
 Rarity Rare
-ID 58548
+ID 48548
 
 Size_X 1
 Size_Y 1
@@ -25,22 +25,25 @@ Blueprints 4
 // Surplus Packet
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58546
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48546
+Blueprint_0_Build 45117
 // PPSH41 mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58544
+Blueprint_1_Supply_0_ID 48544
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
 // PPSH41 drum
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58545
+Blueprint_2_Supply_0_ID 48545
 Blueprint_2_Supply_0_Critical
-Blueprint_2_Build 55117
+Blueprint_2_Build 45117
 // TT33 mag
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 58548
-Blueprint_3_Build 55117
+Blueprint_3_Supply_0_ID 48548
+Blueprint_3_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Tokarev Magazines/7.62 Tokarev FMJ 8rnd TT-33 Magazines

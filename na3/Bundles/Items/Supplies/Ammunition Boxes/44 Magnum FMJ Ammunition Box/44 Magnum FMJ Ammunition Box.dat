@@ -1,7 +1,7 @@
-GUID 4c42bcb66452438526fb31064567cd87
+GUID 998b929927824dc1a301e389a5a8a08e
 Type Supply
 Rarity Rare
-ID 58269
+ID 48269
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,10 @@ Blueprints 1
 // Ammo box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58269
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48269
+Blueprint_0_Build 45117
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammuniton Boxes/44 Magnum FMJ Ammunition Box

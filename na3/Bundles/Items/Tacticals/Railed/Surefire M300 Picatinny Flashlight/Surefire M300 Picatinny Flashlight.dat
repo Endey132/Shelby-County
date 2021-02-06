@@ -1,7 +1,7 @@
-GUID 1a7ee97cf4af40ed99bb9281f4ccd03b
+GUID b00ba62f5a3c4f07bf8bb927a7b773a9
 Type Tactical
 Rarity Rare
-ID 58650
+ID 48650
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Light
 
 Calibers 1
 Caliber_0 56080
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Railed/Surefire M300 Pictinny Flashlight

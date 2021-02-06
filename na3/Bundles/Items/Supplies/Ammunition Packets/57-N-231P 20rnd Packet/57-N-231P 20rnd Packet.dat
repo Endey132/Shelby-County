@@ -1,7 +1,7 @@
-GUID b7022658d5d1140d4f03b0f464fa30a4
+GUID 422a4b4bd8c84fb19900780452d06c04
 Type Supply
 Rarity Rare
-ID 58474
+ID 48474
 
 Size_X 1
 Size_Y 1
@@ -15,7 +15,10 @@ Blueprints 1
 // Packet
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58474
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48474
+Blueprint_0_Build 45117
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Packets/57-N-231P 20rnd Packet

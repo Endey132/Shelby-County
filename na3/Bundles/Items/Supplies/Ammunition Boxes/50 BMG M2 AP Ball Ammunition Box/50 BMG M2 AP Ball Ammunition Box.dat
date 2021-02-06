@@ -1,7 +1,7 @@
-GUID c366d25235ab76c5d3dc1fb5ac59c965
+GUID 00a255e7e0d84685ba398b81c4cc7ca1
 Type Supply
 Rarity Epic
-ID 58244
+ID 48244
 
 Size_X 2
 Size_Y 2
@@ -11,8 +11,11 @@ Blueprints 1
 // Gather 2 belts
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58244
+Blueprint_0_Supply_0_ID 48244
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58358
+Blueprint_0_Output_0_ID 48358
 Blueprint_0_Output_0_Amount 2
-Blueprint_0_Build 55117
+Blueprint_0_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/50 BMG M2 AP Ball Ammunition Crate

@@ -1,9 +1,9 @@
-GUID 498da15b4a92d9b832e03795305e9532
+GUID 1403584d1d7c438a8678fe7df628e547
 Type Melee
 Rarity Rare
 Useable Melee
 Slot Any
-ID 58321
+ID 48321
 
 Size_X 2
 Size_Y 3
@@ -45,3 +45,6 @@ Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 67
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Melees/Utility Weapons/M48 Tactical Tomahawk

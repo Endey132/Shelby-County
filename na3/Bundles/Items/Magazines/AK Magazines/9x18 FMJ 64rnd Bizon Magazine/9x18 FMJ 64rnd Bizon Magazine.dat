@@ -1,7 +1,7 @@
-GUID 7259de6c61be3105bfef8a307e8f8c6e
+GUID d5b65c77f5ca460d9a83d2dee4b90a7f
 Type Magazine
 Rarity Rare
-ID 58204
+ID 48204
 
 Size_X 2
 Size_Y 1
@@ -25,16 +25,19 @@ Blueprints 3
 // Ammunition crate
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58072
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48072
+Blueprint_0_Build 45117
 // Makarov mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58071
+Blueprint_1_Supply_0_ID 48071
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
 // PP-19 Bizon mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58204
-Blueprint_2_Build 55117
+Blueprint_2_Supply_0_ID 48204
+Blueprint_2_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/AK Magazines/9x18 FMJ 64rnd Bizon Magazine

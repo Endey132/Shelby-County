@@ -1,7 +1,7 @@
-GUID bef71a55dc0e4a3381094a046cfa8e96
+GUID 4638e58eede343738e5eaf6c814c0f76
 Type Supply
 Rarity Rare
-ID 58008
+ID 48008
 
 Size_X 1
 Size_Y 1
@@ -15,7 +15,10 @@ Blueprints 1
 // 30rnd packets
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58008
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48008
+Blueprint_0_Build 45117
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Packets/5.45 7N6 Ball 30rnd Packets

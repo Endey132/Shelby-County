@@ -1,7 +1,7 @@
-GUID 8f51021dc0a4bd2ef9e9fa94dc451818
+GUID 4634dd1e1f1e484d8ac7400b62ee232e
 Type Sight
 Rarity Rare
-ID 58460
+ID 48460
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56100
 
 Spread 0.8
 Zoom 2.8
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/Kashtan P1 2.8x Sight

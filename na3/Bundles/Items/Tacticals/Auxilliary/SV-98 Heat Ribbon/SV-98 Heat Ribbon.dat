@@ -1,7 +1,7 @@
-GUID 04d8538fc04ceacbe15e607498684e6a
+GUID ae583026e7b1495e9214832ccbd3adbf
 Type Tactical
 Rarity Rare
-ID 58429
+ID 48429
 
 Size_X 2
 Size_Y 1
@@ -14,3 +14,6 @@ Spread 1
 Shake 0.8
 Recoil_X 0.84
 Recoil_Y 0.84
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Auxilliary/SV-98 Heat Ribbon

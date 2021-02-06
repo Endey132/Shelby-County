@@ -1,8 +1,11 @@
-GUID 25c2f1fbebfe4135baad4fd92c4961d0
+GUID 3c9a4d52c90d413ea5a88695e30068af
 Type Supply
 Rarity Rare
-ID 58025
+ID 48025
 
 Size_X 2
 Size_Y 1
 Size_Z 0.5
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Weapon Parts/Midwest Industries AK Railed Scipe Mount

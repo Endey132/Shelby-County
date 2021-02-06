@@ -1,7 +1,7 @@
-GUID 87314b01f43140e529ded63d9376e636
+GUID 91b910d4c6d74493b8fc5dd0798845e7
 Type Sight
 Rarity Rare
-ID 58462
+ID 48462
 
 Size_X 2
 Size_Y 1
@@ -12,3 +12,6 @@ Caliber_0 56100
 
 Spread 0.8
 Zoom 4
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/NPZ PA1-4 Scope

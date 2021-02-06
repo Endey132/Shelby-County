@@ -1,8 +1,8 @@
-GUID d3c6474d2f104806b955c8f3c7858f0f
+GUID 38eb73bf6c874a74aa8de79775385fb4
 Type Throwable
 Rarity Uncommon
 Useable Throwable
-ID 58141
+ID 48141
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Size_Z 0.4
 Weak_Throw_Force 700
 Strong_Throw_Force 1200
 Boost_Throw_Force_Multiplier 1.2
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/M18 Smoke Grenade (White)

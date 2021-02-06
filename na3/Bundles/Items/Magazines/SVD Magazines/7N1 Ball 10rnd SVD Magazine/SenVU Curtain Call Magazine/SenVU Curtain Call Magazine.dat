@@ -1,7 +1,7 @@
-GUID 6455a8af2d504b48908a085931a72a5a
+GUID 36d86a320d2b4245b08726862dab15f9
 Type Magazine
 Rarity Mythical
-ID 58649
+ID 48649
 
 Size_X 6
 Size_Y 2
@@ -30,3 +30,6 @@ Allow_Manual_Drop true
 Should_Drop_On_Death false
 Durability 0
 Should_Fill_After_Detach true
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/SVD Magazines/7N1 Ball 10rnd SVD Magazine/SenVU Curatain Call Magazine

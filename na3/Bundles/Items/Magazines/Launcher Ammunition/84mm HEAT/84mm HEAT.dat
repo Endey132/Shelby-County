@@ -1,7 +1,7 @@
-GUID 912a2be178c88c2b9159dc761fe73df7
+GUID 95b17d0bb4a847e6818f2dd7d84beb4e
 Type Magazine
 Rarity Epic
-ID 58251
+ID 48251
 
 Size_X 4
 Size_Y 1
@@ -17,3 +17,6 @@ Projectile_Damage_Multiplier 1
 
 Explosive
 Explosion 55108
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/84mm HEAT

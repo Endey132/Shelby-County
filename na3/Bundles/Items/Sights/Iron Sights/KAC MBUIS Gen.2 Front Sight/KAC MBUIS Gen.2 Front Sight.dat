@@ -1,6 +1,6 @@
-GUID 1819b0dfc89158dadf5ccde2d8746418
+GUID c8b6481e31be44cbafe9672f91336148
 Type Sight
-ID 58335
+ID 48335
 
 Size_X 1
 Size_Y 1
@@ -12,13 +12,16 @@ Caliber_0 56100
 Blueprints 2
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 58334
-Blueprint_0_Supply_1_ID 58335
+Blueprint_0_Supply_0_ID 48334
+Blueprint_0_Supply_1_ID 48335
 Blueprint_0_Product 58336
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58334
-Blueprint_1_Supply_1_ID 58335
+Blueprint_1_Supply_0_ID 48334
+Blueprint_1_Supply_1_ID 48335
 Blueprint_1_Product 58385
-Blueprint_1_Build 55129
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/KAC MBUIS Gen.2 Front Sight

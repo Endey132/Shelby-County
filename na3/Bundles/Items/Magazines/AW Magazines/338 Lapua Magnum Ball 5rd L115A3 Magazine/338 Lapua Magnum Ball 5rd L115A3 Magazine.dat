@@ -1,7 +1,7 @@
-GUID 67a524d6acc247c89bb0ebe02ee7d19c
+GUID 9b91f1bb10e8490ebbac3f0d96a5aadc
 Type Magazine
 Rarity Rare
-ID 58174
+ID 48174
 
 Size_X 1
 Size_Y 1
@@ -25,15 +25,18 @@ Blueprints 3
 // Ammo box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58175
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48175
+Blueprint_0_Build 45117
 // L115 mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58174
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48174
+Blueprint_1_Build 45117
 // Tochnost mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58431
-Blueprint_2_Build 55117
+Blueprint_2_Supply_0_ID 48431
+Blueprint_2_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/AW Magazines/338 Lapua Magnum Ball 5rd L115A3 Magazines

@@ -1,8 +1,8 @@
-GUID 7c84f6571d6581641054178de93fca17
+GUID eb2e60855eeb41afb7f31bc6bcdc7f65
 Type Throwable
 Rarity Uncommon
 Useable Throwable
-ID 58296
+ID 48296
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Size_Z 0.4
 Weak_Throw_Force 700
 Strong_Throw_Force 1200
 Boost_Throw_Force_Multiplier 1.2
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/RGD-2 Smoke Grende (White)

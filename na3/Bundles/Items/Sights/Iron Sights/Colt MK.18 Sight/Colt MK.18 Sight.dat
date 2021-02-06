@@ -1,6 +1,6 @@
-GUID acbe9e5504364622a30894d58a8f1034
+GUID 254c6f91ff3e43d39b60367e2af3679c
 Type Sight
-ID 58020
+ID 48020
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/Colt MK.18 Sight

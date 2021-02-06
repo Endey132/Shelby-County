@@ -1,7 +1,7 @@
-GUID 697171b9d7984a49ba965243ae4f18fa
+GUID 31c9ab867e7c47eba2c61737da235a6b
 Type Magazine
 Rarity Epic
-ID 58646
+ID 48646
 
 Size_X 5
 Size_Y 1
@@ -18,3 +18,6 @@ Projectile_Damage_Multiplier 0.8
 
 Explosive
 Explosion 55107
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/FFV441B HE Round

@@ -1,7 +1,7 @@
-GUID 3c1c4436d5c8408699cb22db76432431
+GUID 64be4089beee41c7a15bda5cf2a73180
 Type Magazine
 Rarity Epic
-ID 58190
+ID 48190
 
 Size_X 1
 Size_Y 2
@@ -25,16 +25,19 @@ Blueprints 3
 // Ammo box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58195
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48195
+Blueprint_0_Build 45117
 // AS VAL mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58190
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48190
+Blueprint_1_Build 45117
 // VSS mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58193
+Blueprint_2_Supply_0_ID 48193
 Blueprint_2_Supply_0_Critical
-Blueprint_2_Build 55117
+Blueprint_2_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/VAL Magazines/SP-5 20rnd 6L25 Magazines

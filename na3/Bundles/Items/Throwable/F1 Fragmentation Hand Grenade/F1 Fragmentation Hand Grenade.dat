@@ -1,8 +1,8 @@
-GUID 4c7a220af16e4d1dbb200648ff6061fb
+GUID 66372cec48424f8d97142a885ca1cfa5
 Type Throwable
 Rarity Rare
 Useable Throwable
-ID 58169
+ID 48169
 
 Size_X 1
 Size_Y 1
@@ -24,3 +24,6 @@ Range 15
 Explosion 55109
 
 Explosive
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/F1 Fragmentation Hand Grenade

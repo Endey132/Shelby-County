@@ -1,8 +1,8 @@
-GUID c2310d9ff643493b8bc5875703bb2bee
+GUID fb62c515272847d0b697181b2145cb03
 Type Throwable
 Rarity Rare
 Useable Throwable
-ID 58176
+ID 48176
 
 Size_X 1
 Size_Y 1
@@ -16,3 +16,6 @@ Boost_Throw_Force_Multiplier 1.2
 
 Range 12
 Explosion 55109
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Throwable/M84 Flashbang Stun Grenade

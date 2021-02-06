@@ -1,7 +1,7 @@
-GUID 1b483034ce494f509836d8198f431488
+GUID 76e7fb8668a94bc3b80d8f8443ca35c5
 Type Magazine
 Rarity Rare
-ID 58566
+ID 48566
 
 Size_X 1
 Size_Y 1
@@ -26,10 +26,13 @@ Blueprints 2
 // Ammunition crate
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58569
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48569
+Blueprint_0_Build 45117
 // Deagle mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58566
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48566
+Blueprint_1_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Desert Eagle Magazines/50 AE 300 Grain 7rnd Desert Eagle Magazine

@@ -1,9 +1,9 @@
-GUID f5646bf36ceb61b88ad8406d98de7349
+GUID cebfeb9281b34174812f63c32f160c74
 Type Melee
 Rarity Rare
 Useable Melee
 Slot Any
-ID 58345
+ID 48345
 
 Size_X 1
 Size_Y 2
@@ -52,3 +52,6 @@ Blueprint_1_Supply_0_ID 58345
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Melees/Back-Up Weapons/Storm Tactical Combat Knife

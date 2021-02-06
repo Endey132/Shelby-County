@@ -1,7 +1,7 @@
-GUID d79539b8ce32daf3b856898a18e580cb
+GUID eb23e458a99b47529d824e1bd05b7aa0
 Type Supply
 Rarity Rare
-ID 58277
+ID 48277
 
 Size_X 1
 Size_Y 1
@@ -15,17 +15,20 @@ Blueprints 3
 // Belt
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58263
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48263
+Blueprint_0_Build 45117
 // Carton
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58277
-Blueprint_1_Build 55117
+Blueprint_1_Supply_0_ID 48277
+Blueprint_1_Build 45117
 // Clip
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58278
-Blueprint_2_Build 55117
+Blueprint_2_Supply_0_ID 48278
+Blueprint_2_Build 45117
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Packets/5.56 M856 Tracer 30rnd Carton

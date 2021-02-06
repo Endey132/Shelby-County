@@ -1,6 +1,6 @@
-GUID 83cfd78f8e708ad2ade789bdc6212f7b
+GUID f9882136b0c44beb9d762dc2f67a4f59
 Type Sight
-ID 58202
+ID 48202
 
 Size_X 1
 Size_Y 1
@@ -8,3 +8,6 @@ Size_Z 0.1
 
 Calibers 1
 Caliber_0 56100
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Iron Sights/M203 Rail-Mounted Leaf Sight

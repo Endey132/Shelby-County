@@ -1,7 +1,7 @@
-GUID bcd24ac685884440aee7f39a3bc30c2f
+GUID e6b31de30642481abad2fc9dec0b8e33
 Type Magazine
 Rarity Epic
-ID 58077
+ID 48077
 
 Size_X 5
 Size_Y 1
@@ -18,3 +18,6 @@ Projectile_Damage_Multiplier 1.4
 
 Explosive
 Explosion 55108
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Launcher Ammunition/PG-7VL HEAT

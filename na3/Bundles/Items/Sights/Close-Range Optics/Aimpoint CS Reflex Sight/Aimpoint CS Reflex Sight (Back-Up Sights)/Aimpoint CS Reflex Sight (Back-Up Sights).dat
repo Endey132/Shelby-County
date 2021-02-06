@@ -1,6 +1,6 @@
-GUID 8b4c3b052a4ab6f9ced32ca3f3be7f9a
+GUID 1c407421b5f4492eb28fd628b8140409
 Type Sight
-ID 58365
+ID 48365
 
 Size_X 2
 Size_Y 1
@@ -15,8 +15,11 @@ Blueprints 1
 // Quicksalvage
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58365
+Blueprint_0_Supply_0_ID 48365
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58364
+Blueprint_0_Output_0_ID 48364
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Close-Range Optics/Aimpoint CS Reflex Sight/Aimpoint CS Reflex Sight (Back-Up Sights)

@@ -1,7 +1,7 @@
-GUID 143206a7f64741898fca32ae91b06882
+GUID 5623a834a54c47f88b70cee38f511d07
 Type Supply
 Rarity Rare
-ID 58030
+ID 48030
 
 Size_X 1
 Size_Y 1
@@ -15,7 +15,10 @@ Blueprints 1
 // Packet
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58030
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48030
+Blueprint_0_Build 45117
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Packets/7.62 7N1 Ball 20rnd Packet

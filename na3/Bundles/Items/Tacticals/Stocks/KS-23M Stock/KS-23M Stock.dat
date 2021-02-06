@@ -1,7 +1,7 @@
-GUID 8b8ebda619da36e3ec6ea07ab9e2bdc9
+GUID 74584863ae604f4d9d6a52fa7368356d
 Type Tactical
 Rarity Rare
-ID 58445
+ID 48445
 
 Size_X 2
 Size_Y 2
@@ -14,3 +14,6 @@ Spread 1
 Shake 1
 Recoil_X 0.7
 Recoil_Y 0.7
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Stocks/KS-23M Stock

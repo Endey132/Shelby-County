@@ -1,7 +1,7 @@
-GUID 7d9ab3a1a84ab406397a604c3f785450
+GUID 1b8224affba4436daa6b89d4599ae6e4
 Type Supply
 Rarity Rare
-ID 58464
+ID 48464
 
 Size_X 3
 Size_Y 2
@@ -11,19 +11,22 @@ Blueprints 2
 // Crowbar to open
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58464
+Blueprint_0_Supply_0_ID 48464
 Blueprint_0_Tool 58518
 Blueprint_0_Outputs 1
-Blueprint_0_Output_0_ID 58465
+Blueprint_0_Output_0_ID 48465
 Blueprint_0_Output_0_Amount 8
 Blueprint_0_Build 27
 // Crowbar to open (Vanilla)
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58464
+Blueprint_1_Supply_0_ID 48464
 Blueprint_1_Tool 1032
 Blueprint_1_Tool_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58465
+Blueprint_1_Output_0_ID 48465
 Blueprint_1_Output_0_Amount 8
 Blueprint_1_Build 27
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Boxes/7N1 Ball Ammunition Crate

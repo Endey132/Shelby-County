@@ -1,7 +1,7 @@
-GUID ede60466bbe94e5c8ff25893c0399f58
+GUID 4c098ca4ee354e4995f44155ccdb718b
 Type Magazine
 Rarity Rare
-ID 58589
+ID 48589
 
 Size_X 1
 Size_Y 2
@@ -26,22 +26,25 @@ Blueprints 4
 // Ammo Box
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58573
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48573
+Blueprint_0_Build 45117
 // SR1MP mag
 Blueprint_1_Type Ammo
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 58577
+Blueprint_1_Supply_0_ID 48577
 Blueprint_2_Supply_0_Critical
-Blueprint_1_Build 55117
+Blueprint_1_Build 45117
 // SR-2 Veresk mag
 Blueprint_2_Type Ammo
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 58586
+Blueprint_2_Supply_0_ID 48586
 Blueprint_2_Supply_0_Critical
-Blueprint_2_Build 55117
+Blueprint_2_Build 45117
 // SR-2 Veresk 20rnd mag
 Blueprint_3_Type Ammo
 Blueprint_3_Supplies 1
-Blueprint_3_Supply_0_ID 58589
-Blueprint_3_Build 55117
+Blueprint_3_Supply_0_ID 48589
+Blueprint_3_Build 45117
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Magazines/Gyurza Magaines/SP-10 7N29 20rnd SR-2 Veresk Magazine

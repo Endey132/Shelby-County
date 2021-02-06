@@ -1,7 +1,7 @@
-GUID d64ef0dd45b24eec82f4f76a42a5cfcf
+GUID 8c4545846bd14c45bf4d64a4a52d0bf1
 Type Sight
 Rarity Rare
-ID 58051
+ID 48051
 
 Size_X 2
 Size_Y 1
@@ -16,20 +16,23 @@ Blueprints 2
 // Disassemble
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58051
+Blueprint_0_Supply_0_ID 48051
 Blueprint_0_Outputs 2
-Blueprint_0_Output_0_ID 58044
-Blueprint_0_Output_1_ID 58025
+Blueprint_0_Output_0_ID 48044
+Blueprint_0_Output_1_ID 48025
 Blueprint_0_Output_0_Amount 1
-Blueprint_0_Build 55129
+Blueprint_0_Build 45129
 // Assemble
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 2
-Blueprint_1_Supply_0_ID 58044
+Blueprint_1_Supply_0_ID 48044
 Blueprint_1_Supply_0_Critical
-Blueprint_1_Supply_1_ID 58025
+Blueprint_1_Supply_1_ID 48025
 Blueprint_1_Supply_1_Critical
 Blueprint_1_Outputs 1
-Blueprint_1_Output_0_ID 58051
+Blueprint_1_Output_0_ID 48051
 Blueprint_1_Output_0_Amount 1
-Blueprint_1_Build 55129
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Russian Sights/PK-120 Holographic Sight/PK-120 Holographic Sight W. AK Adapter

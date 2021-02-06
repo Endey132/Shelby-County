@@ -1,7 +1,7 @@
-GUID 52f26ce76cf3ec69e2421c94df6d2d95
+GUID bad3bb58a24e4496b6843a6c17058b40
 Type Supply
 Rarity Rare
-ID 58357
+ID 48357
 
 Size_X 2
 Size_Y 1
@@ -15,7 +15,10 @@ Blueprints 1
 // Belt
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 58357
-Blueprint_0_Build 55117
+Blueprint_0_Supply_0_ID 48357
+Blueprint_0_Build 45117
 
 Delete_Empty
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Supplies/Ammunition Belts/50 BMG M33 Ball 50rnd Belt

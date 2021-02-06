@@ -1,7 +1,7 @@
-GUID b2bbff9b97994c83baf53bdb5ee0b37b
+GUID b3fd41005ceb4898bea53982bf50e986
 Type Tactical
 Rarity Rare
-ID 58036
+ID 48036
 
 Size_X 1
 Size_Y 1
@@ -11,3 +11,6 @@ Laser
 
 Calibers 1
 Caliber_0 56080
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Tacticals/Railed/AN PEQ-15 Laser Sight
