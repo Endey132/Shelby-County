@@ -1,7 +1,7 @@
-GUID f0ba14eea2b54c2db1440b548a31435e
+GUID eab126ed03fa439fa0c642f6841ee02b
 Type Vehicle
 Rarity Common
-ID 36033
+ID 26033
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/Mustang/mustang_orange

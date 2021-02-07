@@ -1,7 +1,7 @@
-GUID e28a7de8c43244f5b1eb20990b53ce63
+GUID 1c57a1af784040f5a72cb9e726fecbd2
 Type Vehicle
 Rarity Rare
-ID 36336
+ID 26336
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/defender/defender_white

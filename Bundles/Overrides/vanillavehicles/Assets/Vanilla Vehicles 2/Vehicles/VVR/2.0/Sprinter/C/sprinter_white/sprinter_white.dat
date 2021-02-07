@@ -1,7 +1,7 @@
-GUID f8ea578390b7478dae3506a689843d5e
+GUID 4e32a93deddd4beabc10f977fe472f1e
 Type Vehicle
 Rarity Common
-ID 36416
+ID 26416
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Cam_Follow_Distance 10
 BatteryMode_Sirens None
 Bypass_Buildable_Mobility
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/C/sprinter_white

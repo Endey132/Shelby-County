@@ -1,6 +1,6 @@
-GUID 56f30c3a2e9543bb9bbddd3602150e06
+GUID 691770b267cf472c8586e954c89baaa2
 Type Vehicle
-ID 36485
+ID 26485
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -31,3 +31,6 @@ Explosion 20
 
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/tahoe/tahoe_red

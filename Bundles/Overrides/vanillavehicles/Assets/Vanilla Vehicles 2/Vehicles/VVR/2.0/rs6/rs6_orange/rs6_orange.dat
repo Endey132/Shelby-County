@@ -1,6 +1,6 @@
-GUID 915a05e6b55c4dd391dc361c2b73b4f7
+GUID 6a8d80c41c1e41a0a3d40bbdf23b0763
 Type Vehicle
-ID 36593
+ID 26593
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -30,3 +30,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/rs6/rs6_orange

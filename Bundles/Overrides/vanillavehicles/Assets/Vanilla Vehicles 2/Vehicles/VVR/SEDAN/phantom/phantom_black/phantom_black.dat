@@ -1,6 +1,6 @@
-GUID 763a3fce653d4dcea43f796a4c0d2abe
+GUID 6543670a7c6447f48f5e8465370fbf1a
 Type Vehicle
-ID 36390
+ID 26390
 Rarity Legendary
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -28,3 +28,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/phantom/phantom_black

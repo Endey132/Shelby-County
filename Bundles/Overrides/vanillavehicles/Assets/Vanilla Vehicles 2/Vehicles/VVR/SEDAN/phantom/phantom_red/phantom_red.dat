@@ -1,6 +1,6 @@
-GUID d28ab3a0150a45c7a52479032d97c5d5
+GUID da67c3dc9994485d968faf2df91334b2
 Type Vehicle
-ID 36395
+ID 26395
 Rarity Legendary
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -28,3 +28,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/phantom/phantom_red

@@ -1,7 +1,7 @@
-GUID 46ab4de5e0f44fb88a92eda5ecbaa70d
+GUID d06b734cbe3740dab32133adb0149cab
 Type Vehicle
 Rarity Rare
-ID 36117
+ID 26117
 
 Speed_Min -4
 Speed_Max 29
@@ -30,3 +30,6 @@ Trunk_Storage_Y 1
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/seajet/seajet_yellow

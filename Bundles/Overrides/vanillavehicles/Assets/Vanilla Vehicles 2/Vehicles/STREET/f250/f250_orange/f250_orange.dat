@@ -1,7 +1,7 @@
-GUID bad0da8034cb4aa1a6cf79d5f70fb78c
+GUID f2d66b87b74a4e16a15fded66bfb7ccd
 Type Vehicle
 Rarity Common
-ID 36803
+ID 26803
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.7
@@ -33,3 +33,6 @@ Explosion 20
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/f250/f250_orange

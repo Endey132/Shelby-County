@@ -1,6 +1,6 @@
-GUID 3e1cc170b16b444fa48ed8dc65372525
+GUID 09749e5775ad49849743ffde98416213
 Type Vehicle
-ID 36480
+ID 26480
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -31,3 +31,6 @@ Explosion 20
 
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/tahoe/tahoe_black

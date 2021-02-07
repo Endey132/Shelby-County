@@ -1,7 +1,7 @@
-GUID e63aba6396e540e9aa6eba35ca6386a9
+GUID 6b161b3075b248cb834f124643e7e335
 Type Vehicle
 Rarity Uncommon
-ID 36705
+ID 26705
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/r1t/R1T_red

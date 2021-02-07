@@ -1,7 +1,7 @@
-GUID 0adf8c57c70d4e849163395d79a89348
+GUID bbc6285dc4eb45b0a68a99676bf154b5
 Type Vehicle
 Rarity Epic
-ID 36636
+ID 26636
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/mt/mt_white

@@ -1,7 +1,7 @@
-GUID 66e49df8d371484d8fa1a7a2ea1aff33
+GUID 5670e5d383ee4aaea9c868bad194b5cb
 Type Vehicle
 Rarity Uncommon
-ID 36812
+ID 26812
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Explosion 20
 
 Traction
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/sandracer/sandracer_green

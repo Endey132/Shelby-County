@@ -1,7 +1,7 @@
-GUID a8cdd32631104e66b797c705b2841d46
+GUID 029b62d5bb99492e9fe4657364bc9f0f
 Type Vehicle
 Rarity Uncommon
-ID 36321
+ID 26321
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/bronco/bronco_blue

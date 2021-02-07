@@ -1,7 +1,7 @@
-GUID f2d084dd7bf9490c85ece0534d54df27
+GUID 7d82ff014b6d43dd991972aa6e7b8040
 Type Vehicle
 Rarity Rare
-ID 36116
+ID 26116
 
 Speed_Min -4
 Speed_Max 29
@@ -30,3 +30,6 @@ Trunk_Storage_Y 1
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/seajet/seajet_white

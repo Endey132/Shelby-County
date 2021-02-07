@@ -1,6 +1,6 @@
-GUID 245c20e21d9b4379ae676fceb69ea249
+GUID 95f75687f6514ceaa45f493dffb78c8c
 Type Vehicle
-ID 36012
+ID 26012
 Rarity Epic
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -28,3 +28,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/cobra/cobra_green

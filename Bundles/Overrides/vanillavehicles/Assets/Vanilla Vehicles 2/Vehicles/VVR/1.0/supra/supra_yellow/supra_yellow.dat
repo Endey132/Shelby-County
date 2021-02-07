@@ -1,6 +1,6 @@
-GUID 4f05be982b16471292c311a3c095b34d
+GUID 0ae483ef890e4c689b96e1abe4ee6433
 Type Vehicle
-ID 36087
+ID 26087
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/supra/supra_yellow

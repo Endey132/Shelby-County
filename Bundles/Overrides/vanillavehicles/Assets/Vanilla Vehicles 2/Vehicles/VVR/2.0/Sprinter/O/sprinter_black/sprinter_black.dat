@@ -1,7 +1,7 @@
-GUID 1bdadc2764ed4ae2bad5f938d78672a9
+GUID 8132093962a243c79978fa6a4df4e076
 Type Vehicle
 Rarity Legendary
-ID 36430
+ID 26430
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,7 @@ Trunk_Storage_Y 11
 Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/O/sprinter_black

@@ -1,7 +1,7 @@
-GUID 5377a1269ebd4c2eae39db2a36c953ad
+GUID e9ad26da164d4442a0862d79bb488132
 Type Vehicle
 Rarity Rare
-ID 36835
+ID 26835
 
 Speed_Min -2
 Speed_Max 30
@@ -32,3 +32,7 @@ Trunk_Storage_Y 6
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/AIR/Agusta/Agusta_Rescue

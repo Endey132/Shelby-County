@@ -1,6 +1,6 @@
-GUID baea3a304ac8400984ee9d2c4d754969
+GUID cc92b53842b4419bbf1cd133b88bea1a
 Type Vehicle
-ID 36075
+ID 26075
 Rarity Rare
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -31,3 +31,6 @@ Explosion 20
 
 Traction
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/gtr/gtr_red

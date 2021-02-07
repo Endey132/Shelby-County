@@ -1,7 +1,7 @@
-GUID 4cd44014b79e4dc086e24ab982f33208
+GUID a80e9998f22149729b0933260b01b451
 Type Vehicle
 Rarity Legendary
-ID 36531
+ID 26531
 
 Speed_Min -2
 Speed_Max 25
@@ -28,3 +28,7 @@ Trunk_Storage_Y 5
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/avvtr/avvtr_grey

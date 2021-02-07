@@ -1,7 +1,7 @@
-GUID 8cc0910d8f2f4d4dbe21c7dccc4d3026
+GUID b1849232030d4178be86f2deeb153cd8
 Type Vehicle
 Rarity Epic
-ID 36763
+ID 26763
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_orange

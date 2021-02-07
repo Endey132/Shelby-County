@@ -1,7 +1,7 @@
-GUID 82a613ff25594edd9d201011c6d9493d
+GUID 9e77193a186d4778a6a215e5632d85c8
 Type Vehicle
 Rarity Rare
-ID 36673
+ID 26673
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/sl/sl_orange

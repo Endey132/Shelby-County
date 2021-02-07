@@ -1,7 +1,7 @@
-GUID 41b0bd3c9c854ee084c4724f4dbc80eb
+GUID 52a27d774efc4f228e4643bd54600a23
 Type Vehicle
 Rarity Rare
-ID 36130
+ID 26130
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/evo/evo_black

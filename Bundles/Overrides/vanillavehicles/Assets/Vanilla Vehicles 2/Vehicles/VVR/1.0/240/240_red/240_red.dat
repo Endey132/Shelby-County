@@ -1,6 +1,6 @@
-GUID 19b0469a956d4c42a4e0d873401684d2
+GUID 5e67e8de47d745a29a32c7bc2ee40c14
 Type Vehicle
-ID 36005
+ID 26005
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/240/240_red

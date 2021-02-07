@@ -1,7 +1,7 @@
-GUID ef992552a28b47a7afbfc529f744fbc1
+GUID 760ef33334af40a7bf261b907a9b12a5
 Type Vehicle
 Rarity Epic
-ID 36606
+ID 26606
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Ofirebird/Ofirebird_white

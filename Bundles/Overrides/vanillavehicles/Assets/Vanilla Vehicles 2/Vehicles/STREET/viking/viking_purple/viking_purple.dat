@@ -1,7 +1,7 @@
-GUID 8529aba47bc74c7d81af3fd0e8eede33
+GUID a5d5e94e78674c3d9f6f24eb235224c1
 Type Vehicle
 Rarity Epic
-ID 36764
+ID 26764
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_purple

@@ -1,7 +1,7 @@
-GUID f0045bd2895d48648118ab144f643116
+GUID b3da014d2bc1410a87ce04ca60182b0a
 Type Vehicle
 Rarity Rare
-ID 36808
+ID 26808
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.7
@@ -33,3 +33,6 @@ Explosion 20
 
 Traction
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/f250/f250_EMS

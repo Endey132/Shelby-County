@@ -1,7 +1,7 @@
-GUID 1e4e751295d9423d9b2cb9785cd1cbf9
+GUID 98bef1c7c9104e58bd1a86077334aec4
 Type Vehicle
 Rarity Legendary
-ID 36550
+ID 26550
 
 Physics_Profile e41da97656124c0ab36e29915b1cc267
 Fuel_Burn_Rate 1.4
@@ -34,3 +34,7 @@ Tires_Invulnerable
 
 Pitch_Idle 0.05
 Pitch_Drive 0.05
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/hoverbike/hoverbike_black

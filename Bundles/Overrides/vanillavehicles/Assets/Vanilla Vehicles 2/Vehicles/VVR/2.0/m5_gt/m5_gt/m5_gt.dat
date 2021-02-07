@@ -1,6 +1,6 @@
-GUID c94c6dedcae64141ae089bb76883b109
+GUID 77bd9666fdc9466ba9a2e2553c37c760
 Type Vehicle
-ID 36388
+ID 26388
 Rarity Mythical
 
 Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
@@ -28,3 +28,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/m5_gt/m5_gt

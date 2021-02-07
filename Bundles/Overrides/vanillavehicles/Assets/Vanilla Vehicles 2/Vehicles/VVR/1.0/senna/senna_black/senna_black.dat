@@ -1,7 +1,7 @@
-GUID 817dc53a3c47410b8df6077d4a544b05
+GUID 8e9d6302123949c28962fc7a96b17267
 Type Vehicle
 Rarity Mythical
-ID 36260
+ID 26260
 
 Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/senna/senna_black

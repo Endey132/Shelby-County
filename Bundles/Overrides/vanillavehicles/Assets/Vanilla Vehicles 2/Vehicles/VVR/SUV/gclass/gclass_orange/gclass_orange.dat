@@ -1,7 +1,7 @@
-GUID c7b84863394b47c1b64b2ceb2a9f2cd2
+GUID 265a28aa229745b8a2092d9840a8ad7b
 Type Vehicle
 Rarity Rare
-ID 36313
+ID 26313
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/gclass/gclass_orange

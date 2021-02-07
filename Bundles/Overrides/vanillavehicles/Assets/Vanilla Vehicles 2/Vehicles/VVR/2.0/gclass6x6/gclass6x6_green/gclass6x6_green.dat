@@ -1,7 +1,7 @@
-GUID 632cd3c450404b9eb5be9e32a09cd118
+GUID 222db495814141789ce94d9ee4b908e4
 Type Vehicle
 Rarity Epic
-ID 36472
+ID 26472
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -28,3 +28,6 @@ Trunk_Storage_Y 7
 Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/gclass6x6/gclass6x6_green

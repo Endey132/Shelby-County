@@ -1,7 +1,7 @@
-GUID bab6681eae874b8abf7bdc9a20d462aa
+GUID cd3132aee8774acdbafd09ed9e12fae6
 Type Vehicle
 Rarity Epic
-ID 36762
+ID 26762
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_green

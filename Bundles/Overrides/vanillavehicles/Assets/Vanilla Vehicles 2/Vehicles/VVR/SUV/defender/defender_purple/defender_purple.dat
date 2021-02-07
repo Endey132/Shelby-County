@@ -1,7 +1,7 @@
-GUID f0df37369ec142e884107b4e077645ef
+GUID da479d78163c408eabd59c6a3d15cbc3
 Type Vehicle
 Rarity Rare
-ID 36334
+ID 26334
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/defender/defender_purple

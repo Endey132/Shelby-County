@@ -1,7 +1,7 @@
-GUID c7b61461458b4abda22b9ea7cfb8f7a2
+GUID bb6df81cebdb4a32a9b3b3ba6e81b4db
 Type Vehicle
 Rarity Rare
-ID 36314
+ID 26314
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/gclass/gclass_purple

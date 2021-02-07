@@ -1,7 +1,7 @@
-GUID a70c59ac40424a0585edae6905a1685e
+GUID 4e6a21b2f3394624a634e0a7787ce9bc
 Type Vehicle
 Rarity Legendary
-ID 36554
+ID 26554
 
 Physics_Profile e41da97656124c0ab36e29915b1cc267
 Fuel_Burn_Rate 1.4
@@ -34,3 +34,7 @@ Tires_Invulnerable
 
 Pitch_Idle 0.05
 Pitch_Drive 0.05
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/hoverbike/hoverbike_purple

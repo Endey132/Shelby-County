@@ -1,7 +1,7 @@
-GUID 59425cbbd88345de957d1fbc30ca7bca
+GUID ee41b9d308e64450a21e016257847402
 Type Vehicle
 Rarity Rare
-ID 36291
+ID 26291
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/trueno/trueno_blue

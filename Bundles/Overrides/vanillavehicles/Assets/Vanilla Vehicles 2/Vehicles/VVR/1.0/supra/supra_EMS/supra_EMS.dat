@@ -1,6 +1,6 @@
-GUID 5a4d39f2cc2643c883817524657daf24
+GUID 61f110e25bca49d2a6546f5f65591975
 Type Vehicle
-ID 36089
+ID 26089
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/supra/supra_EMS

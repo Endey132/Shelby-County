@@ -1,7 +1,7 @@
-GUID c6034c3de66c480ab2e8a2b64c534636
+GUID 01d74170fcf145fd8ed258a9b04dfdeb
 Type Vehicle
 Rarity Epic
-ID 36151
+ID 26151
 
 Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/nsx/nsx_blue

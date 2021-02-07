@@ -1,7 +1,7 @@
-GUID 5e868a644740474f860c48e604e01114
+GUID 87fd31cadd674c4aa358042a2bc579b8
 Type Vehicle
 Rarity Uncommon
-ID 36178
+ID 26178
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/x5/x5_police

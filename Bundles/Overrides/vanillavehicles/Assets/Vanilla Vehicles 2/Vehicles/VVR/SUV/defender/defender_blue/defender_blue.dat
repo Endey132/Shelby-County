@@ -1,7 +1,7 @@
-GUID 8842c512381e4bf9b1cdacc9f79e2cc4
+GUID 6e869f7e597f42339986f1eda78f3c04
 Type Vehicle
 Rarity Rare
-ID 36331
+ID 26331
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/defender/defender_blue

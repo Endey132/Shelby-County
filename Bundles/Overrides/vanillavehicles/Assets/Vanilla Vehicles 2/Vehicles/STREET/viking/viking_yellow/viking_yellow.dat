@@ -1,7 +1,7 @@
-GUID d1865f817dbc499e9f71ba6458a20806
+GUID 49dff06a81f347869b3ab923074f1553
 Type Vehicle
 Rarity Epic
-ID 36767
+ID 26767
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_yellow

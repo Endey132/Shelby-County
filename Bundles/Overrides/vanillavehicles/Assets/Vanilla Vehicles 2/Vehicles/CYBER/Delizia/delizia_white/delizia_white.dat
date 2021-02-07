@@ -1,7 +1,7 @@
-GUID e549d6b5e83e40eea52889eefa025722
+GUID 2bc6e1a1e49d42f2ab8abd9c10d58791
 Type Vehicle
 Rarity Legendary
-ID 36686
+ID 26686
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/CYBER/Delizia/delizia_white

@@ -1,7 +1,7 @@
-GUID d22195f9fe544b07930c941aadb58e90
+GUID 85efa4899f4b4e259653e28f01caaa07
 Type Vehicle
 Rarity Epic
-ID 36252
+ID 26252
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Invulnerable
 Cam_Follow_Distance 8
 Bumper_Invulnerable
 Traction
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/mbtruck/mbtruck_brown

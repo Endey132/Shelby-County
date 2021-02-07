@@ -1,7 +1,7 @@
-GUID ff5174dea5ea40799b5e1559cbb6b9e9
+GUID 3831c862ed2e48f5a2e5b8e9aa7aa54d
 Type Vehicle
 Rarity Legendary
-ID 36680
+ID 26680
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/CYBER/Delizia/delizia_black

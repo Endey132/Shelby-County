@@ -1,7 +1,7 @@
-GUID 61f9b0fb0b054a6888dcd72802d25c67
+GUID 12a861b6d0ef446d9f9bfd88a25c14a4
 Type Vehicle
 Rarity Rare
-ID 36517
+ID 26517
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -28,3 +28,6 @@ Trunk_Storage_Y 9
 Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/scania/scania_yellow

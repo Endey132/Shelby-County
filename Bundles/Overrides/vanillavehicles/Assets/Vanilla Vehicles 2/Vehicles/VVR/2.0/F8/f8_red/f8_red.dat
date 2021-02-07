@@ -1,7 +1,7 @@
-GUID 17a2bb21ac70459eb959f11426913fbb
+GUID 69a3d1ec20a84ce68cdc2c020df7feae
 Type Vehicle
 Rarity Mythical
-ID 36575
+ID 26575
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/F8/f8_red

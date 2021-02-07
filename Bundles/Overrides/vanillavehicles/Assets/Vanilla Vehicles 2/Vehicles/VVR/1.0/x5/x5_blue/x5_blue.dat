@@ -1,7 +1,7 @@
-GUID 87e66fede9d74e59a6f64688ec52be1e
+GUID acafb80354c94c5fa52551fb97a2922e
 Type Vehicle
 Rarity Uncommon
-ID 36171
+ID 26171
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/x5/x5_blue

@@ -1,7 +1,7 @@
-GUID a40edafc80864abb92c1f8c77be58701
+GUID ef5861dcc3544f7cb3c37e3de795a574
 Type Vehicle
 Rarity Uncommon
-ID 36248
+ID 26248
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Explosion 20
 
 Bumper_Invulnerable
 Cam_Follow_Distance 5
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/silverado/silverado_police

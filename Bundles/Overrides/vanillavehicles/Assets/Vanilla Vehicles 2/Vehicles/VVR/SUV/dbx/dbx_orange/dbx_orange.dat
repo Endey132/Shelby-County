@@ -1,7 +1,7 @@
-GUID e8067c11848e47f18ae66175dc1c7afd
+GUID de6aab6fb608421ea22cce12fa99cbc6
 Type Vehicle
 Rarity Epic
-ID 36353
+ID 26353
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/dbx/dbx_orange

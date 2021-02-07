@@ -1,7 +1,7 @@
-GUID b3c789959c0a41208e5e50821f6469b7
+GUID e9f5cecd1ec34f22bbe794361d011c91
 Type Vehicle
 Rarity Epic
-ID 36286
+ID 26286
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/lancia/lancia_white

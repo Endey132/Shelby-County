@@ -1,6 +1,6 @@
-GUID 1d481c42238c4a3b9f1c93398203bb27
+GUID d033f87054cf4327b9026e994ffa5974
 Type Vehicle
-ID 36491
+ID 26491
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/bmw/bmw_blue

@@ -1,7 +1,7 @@
-GUID d14ad10e5b8747459567cb7d3cbaa68d
+GUID ee4825ed697749d19cbaf5c4db7df492
 Type Vehicle
 Rarity Rare
-ID 36754
+ID 26754
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Engine Car
 Num_Steering_Tires 2
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/sm/sm_purple

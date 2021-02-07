@@ -1,7 +1,7 @@
-GUID 7b3b21e1506a463499c88824edc8f8e8
+GUID 5b48651c2d5e418da51bd010b059fb5d
 Type Vehicle
 Rarity Epic
-ID 36766
+ID 26766
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_white

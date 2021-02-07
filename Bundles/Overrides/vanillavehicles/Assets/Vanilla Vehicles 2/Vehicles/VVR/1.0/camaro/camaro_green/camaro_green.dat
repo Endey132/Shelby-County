@@ -1,7 +1,7 @@
-GUID aec1345d67cf4f389e7b6eb74f22b19e
+GUID df0d97e6dea34222ab567b9fe8e53d4f
 Type Vehicle
 Rarity Rare
-ID 36192
+ID 26192
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/camaro/camaro_green

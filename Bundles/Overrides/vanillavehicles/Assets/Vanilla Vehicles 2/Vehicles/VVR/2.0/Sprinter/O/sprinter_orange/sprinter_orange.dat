@@ -1,7 +1,7 @@
-GUID 0da177bc7a7a410d98ebbda7e524e3c9
+GUID c7b122dde4a5447bbf7b4b9378cd14a8
 Type Vehicle
 Rarity Legendary
-ID 36433
+ID 26433
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,7 @@ Trunk_Storage_Y 11
 Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/O/sprinter_orange

@@ -1,7 +1,7 @@
-GUID 63f7b1eeaad24a7db6e42fb2a533b922
+GUID af91898727094cf89ab0d77476371644
 Type Vehicle
 Rarity Uncommon
-ID 36698
+ID 26698
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/g80/g80_Police

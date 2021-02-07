@@ -1,7 +1,7 @@
-GUID 018e585be3ad45399dbb856cd4166555
+GUID d1615eb8d72a470d8bd25c08df83967e
 Type Vehicle
 Rarity Legendary
-ID 36542
+ID 26542
 
 Speed_Min -2
 Speed_Max 19
@@ -32,3 +32,6 @@ Tires_Invulnerable
 Supports_Mobile_Buildables
 Bypass_Buildable_Mobility
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/chinook/chinook_green

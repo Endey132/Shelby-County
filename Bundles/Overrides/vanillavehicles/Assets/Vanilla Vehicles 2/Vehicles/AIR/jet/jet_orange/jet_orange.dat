@@ -1,7 +1,7 @@
-GUID 2f8c644a30c44fdc8f0e873880fa6546
+GUID f609a3bd3afa4552b4b264212451daa6
 Type Vehicle
 Rarity Legendary
-ID 36773
+ID 26773
 
 Speed_Min -4
 Speed_Max 55
@@ -35,3 +35,6 @@ Trunk_Storage_Y 3
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/AIR/jet/jet_orange

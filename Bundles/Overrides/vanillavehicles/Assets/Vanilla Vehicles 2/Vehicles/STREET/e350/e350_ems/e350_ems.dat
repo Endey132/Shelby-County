@@ -1,7 +1,7 @@
-GUID 12479dfd9c484c9ab2101bd3c5b2dca1
+GUID c844ff141ecf4903af1dc084ac5b5828
 Type Vehicle
 Rarity Uncommon
-ID 36798
+ID 26798
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.7
@@ -32,3 +32,7 @@ Explosion 20
 
 Traction
 Bumper_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/e350/e350_ems

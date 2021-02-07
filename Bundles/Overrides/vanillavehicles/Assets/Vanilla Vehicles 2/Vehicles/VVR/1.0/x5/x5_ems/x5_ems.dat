@@ -1,7 +1,7 @@
-GUID 4ee0ee56f1db493a95d645fac12173a4
+GUID c70de23ddf5840438783a745c0a3fa66
 Type Vehicle
 Rarity Uncommon
-ID 36179
+ID 26179
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/x5/x5_ems

@@ -1,7 +1,7 @@
-GUID e67b20b93c6044c698a4d38f45065476
+GUID d0481a25beda47b7aa0016e4e4d3dd81
 Type Vehicle
 Rarity Epic
-ID 36520
+ID 26520
 
 Physics_Profile 77b7aea610a644278445bac353603278
 
@@ -29,3 +29,6 @@ Trunk_Storage_Y 2
 Explosion 20
 Tires_Invulnerable
 Cam_Follow_Distance 12
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/lightplane/lightplane_black

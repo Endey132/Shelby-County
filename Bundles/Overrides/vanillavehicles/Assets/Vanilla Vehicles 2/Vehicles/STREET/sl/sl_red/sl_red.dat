@@ -1,7 +1,7 @@
-GUID f8feacb9356c4693b9f90b693fc5ab9c
+GUID 842b36dfd3354bedb34c4ec171a5492d
 Type Vehicle
 Rarity Rare
-ID 36675
+ID 26675
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/sl/sl_red

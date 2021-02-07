@@ -1,7 +1,7 @@
-GUID 318aab3f8f7541af90392af908b1a6be
+GUID 6dfd6f2afc8c4820af4c7b6c2a273182
 Type Vehicle
 Rarity Common
-ID 36422
+ID 26422
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,7 @@ Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/P/sprinter_green

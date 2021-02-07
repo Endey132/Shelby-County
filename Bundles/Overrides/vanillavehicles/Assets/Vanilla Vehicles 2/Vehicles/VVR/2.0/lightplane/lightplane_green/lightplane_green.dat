@@ -1,7 +1,7 @@
-GUID 4cc1c19af44641099bd44507b8b89767
+GUID d83b0c7acd1646478c4da5d193f6c73d
 Type Vehicle
 Rarity Epic
-ID 36522
+ID 26522
 
 Physics_Profile 77b7aea610a644278445bac353603278
 
@@ -29,3 +29,6 @@ Trunk_Storage_Y 2
 Explosion 20
 Tires_Invulnerable
 Cam_Follow_Distance 12
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/lightplane/lightplane_green

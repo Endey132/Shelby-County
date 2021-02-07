@@ -1,4 +1,4 @@
-GUID 449edb6122dd46e3ac3bc73de75d225c
+GUID 96b44b0a2b9845208f12fa78c1693f9c
 Type Vehicle
 Rarity Legendary
 ID 38575
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 
 Explosion 20
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/SURVIVOR/F8S/F8S_red

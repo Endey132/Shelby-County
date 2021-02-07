@@ -1,7 +1,7 @@
-GUID 9bee36b49e9b447b8f726d233aec1e37
+GUID 5ff4aaf28c364fa496f38affd5c14fbe
 Type Vehicle
 Rarity Rare
-ID 36333
+ID 26333
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/defender/defender_orange

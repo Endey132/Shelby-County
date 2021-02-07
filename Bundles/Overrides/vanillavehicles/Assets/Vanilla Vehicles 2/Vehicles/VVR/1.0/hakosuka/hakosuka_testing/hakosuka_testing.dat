@@ -1,4 +1,4 @@
-GUID 5c4445212e1844d0a9dcbcf0b605f2c7
+GUID cc9f50ee7623416c902f45b52d858867
 Type Vehicle
 Rarity Epic
 ID 35999
@@ -32,3 +32,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/hakosuka/hakosuka_testing

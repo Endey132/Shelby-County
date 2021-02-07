@@ -1,7 +1,7 @@
-GUID ae6fe136b6404cf39cfdb5ea5e53edc4
+GUID 8ed127f3f2fc4d13befd38706fde3814
 Type Vehicle
 Rarity Rare
-ID 36330
+ID 26330
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/defender/defender_black

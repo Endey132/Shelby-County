@@ -1,7 +1,7 @@
-GUID 23e1547bd73d4e108c1a80cbb8eb4a99
+GUID 95e022b45edc484d9e049371f562a8fe
 Type Vehicle
 Rarity Legendary
-ID 36683
+ID 26683
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/CYBER/Delizia/delizia_orange

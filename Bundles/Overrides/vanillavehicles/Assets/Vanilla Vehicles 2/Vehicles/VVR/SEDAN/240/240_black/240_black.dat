@@ -1,6 +1,6 @@
-GUID 7660e349433b49a7a7cba917fb3a8cfa
+GUID deee1a0f234147ae99b3f374921621b1
 Type Vehicle
-ID 36370
+ID 26370
 Rarity Common
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -28,3 +28,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/240/240_black

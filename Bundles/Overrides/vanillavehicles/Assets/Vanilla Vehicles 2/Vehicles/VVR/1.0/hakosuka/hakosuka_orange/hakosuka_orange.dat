@@ -1,7 +1,7 @@
-GUID 28e9a7cfe2db4a88a1ca9a22f200b4c3
+GUID 3c87d7bbe26d455b95df7af132081a77
 Type Vehicle
 Rarity Epic
-ID 36023
+ID 26023
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/hakosuka/hakosuka_orange

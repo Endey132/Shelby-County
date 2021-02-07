@@ -1,7 +1,7 @@
-GUID 7bf6f77a78b64d8db91f40a745b054ba
+GUID cd4bf3ffe8d14b7b9ff06fa5e7fe344a
 Type Vehicle
 Rarity Mythical
-ID 36583
+ID 26583
 
 Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/victor/victor_orange

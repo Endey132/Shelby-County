@@ -1,6 +1,6 @@
-GUID b70b244bc1184d84ac60c59c17da04f4
+GUID 1858ffd60e5a46b0b74e6b924c2b78e3
 Type Vehicle
-ID 36488
+ID 26488
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -30,3 +30,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/tahoe/tahoe_police

@@ -1,7 +1,7 @@
-GUID 2fc8f36b2a8b42b78f4caf228d9d973b
+GUID 3e9df98995154ee290a752a3dbf50530
 Type Vehicle
 Rarity Legendary
-ID 36277
+ID 26277
 
 Physics_Profile b5d226fa493d4dc0b2d3763857a25579
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/m1/m1_yellow

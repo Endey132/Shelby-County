@@ -1,4 +1,4 @@
-GUID 7cf0238dd048478e92dba00e8d73cf4f
+GUID 89c9ad893533436e8cc98e706d6b3988
 Type Vehicle
 Rarity Legendary
 ID 38574
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 
 Explosion 20
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/SURVIVOR/F8S/F8S_purple

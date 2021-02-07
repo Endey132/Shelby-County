@@ -1,7 +1,7 @@
-GUID 0b99fea8a64c412688ef6e9e3baaaecf
+GUID f8605c2b803e4ff3bb7f88a0f686fa33
 Type Vehicle
 Rarity Rare
-ID 36227
+ID 26227
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -28,3 +28,7 @@ Trunk_Storage_X 3
 Trunk_Storage_Y 2
 
 Explosion 20
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/hellcat/hellcat_yellow

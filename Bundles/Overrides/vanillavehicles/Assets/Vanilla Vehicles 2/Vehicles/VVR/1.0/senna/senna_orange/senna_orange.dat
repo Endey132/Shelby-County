@@ -1,7 +1,7 @@
-GUID 90343b1aa1124990b7d3046c268e6cfe
+GUID 6ad408cb620a45f0804c197818600554
 Type Vehicle
 Rarity Mythical
-ID 36263
+ID 26263
 
 Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/senna/senna_orange

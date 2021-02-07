@@ -1,7 +1,7 @@
-GUID 1fcbc4dd84334a0cbc1108cf1dab82ef
+GUID a1cfa6c0d19b4adea29d68c95283b23e
 Type Vehicle
 Rarity Common
-ID 36428
+ID 26428
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,7 @@ Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/P/sprinter_Police

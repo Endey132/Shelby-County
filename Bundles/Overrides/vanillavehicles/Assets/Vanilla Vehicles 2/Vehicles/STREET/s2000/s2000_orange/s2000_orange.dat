@@ -1,7 +1,7 @@
-GUID 9e2a64101100444ba5c76a2a57ac0e6f
+GUID 6a1ce960d72e4e5e976f1714732af5e1
 Type Vehicle
 Rarity Uncommon
-ID 36663
+ID 26663
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/s2000/s2000_orange

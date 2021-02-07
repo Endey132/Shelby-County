@@ -1,7 +1,7 @@
-GUID d1bf5467fc35451e8e5c26c2cade7f4b
+GUID b8063c433db3475ca7ef512bc9941a3c
 Type Vehicle
 Rarity Legendary
-ID 36558
+ID 26558
 
 Physics_Profile e41da97656124c0ab36e29915b1cc267
 Fuel_Burn_Rate 1.4
@@ -34,3 +34,7 @@ Tires_Invulnerable
 
 Pitch_Idle 0.05
 Pitch_Drive 0.05
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/hoverbike/hoverbike_police

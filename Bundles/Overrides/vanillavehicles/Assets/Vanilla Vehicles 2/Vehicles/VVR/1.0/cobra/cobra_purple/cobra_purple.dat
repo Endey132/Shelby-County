@@ -1,6 +1,6 @@
-GUID baef058907d54ff0aec54a939f3187a6
+GUID bba5892f4f9f4f188d03a91c22f1dbb8
 Type Vehicle
-ID 36014
+ID 26014
 Rarity Epic
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -28,3 +28,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/cobra/cobra_purple

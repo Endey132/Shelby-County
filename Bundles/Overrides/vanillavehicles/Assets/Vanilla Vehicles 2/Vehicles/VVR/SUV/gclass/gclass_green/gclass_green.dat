@@ -1,7 +1,7 @@
-GUID c526cdd7e6ba4816819588320261a434
+GUID c295afa1636f49e395f23bbb3b171e10
 Type Vehicle
 Rarity Rare
-ID 36312
+ID 26312
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/gclass/gclass_green

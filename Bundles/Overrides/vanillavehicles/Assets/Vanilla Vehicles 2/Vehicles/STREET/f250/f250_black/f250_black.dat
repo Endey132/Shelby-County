@@ -1,7 +1,7 @@
-GUID 097842e0f32c44498c0b0c3788d8d489
+GUID ff0ed31106a64aeb98a3b6af5ca606ef
 Type Vehicle
 Rarity Common
-ID 36800
+ID 26800
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.7
@@ -33,3 +33,6 @@ Explosion 20
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/f250/f250_black
