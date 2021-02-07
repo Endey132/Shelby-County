@@ -1,8 +1,8 @@
-GUID 9d5c75ffa7ae4899a615046a656e9a3d
+GUID 9b68721b83cd4f2994f9886aab143c65
 Type Vest
 Rarity Mythical
 Useable Clothing
-ID 34129
+ID 37129
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-CV-TA-4

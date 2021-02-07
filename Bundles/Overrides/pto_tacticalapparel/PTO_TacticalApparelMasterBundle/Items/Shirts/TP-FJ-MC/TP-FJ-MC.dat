@@ -28,5 +28,5 @@ Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
 
-pto_tacticalapparel.masterbundle
+Master_Bundle_Override pto_tacticalapparel.masterbundle
 Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Shirts/TP-FJ-MC

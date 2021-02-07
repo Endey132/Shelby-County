@@ -1,8 +1,8 @@
-GUID 2e2d2adebd80488babb04c7da82c8e2b
+GUID 364659e195af4801b1e4b6dd6e931c8a
 Type Vest
 Rarity Legendary
 Useable Clothing
-ID 34152
+ID 37152
 
 Size_X 2
 Size_Y 2
@@ -27,3 +27,6 @@ Blueprint_1_Tool 34108
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
 Blueprint_1_Build 32
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/TP-JV-BK-3

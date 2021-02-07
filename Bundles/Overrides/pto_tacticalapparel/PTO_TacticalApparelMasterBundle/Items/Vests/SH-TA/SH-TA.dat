@@ -25,5 +25,5 @@ Blueprint_1_Supply_0_ID 66
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 32
 
-pto_tacticalapparel.masterbundle
+Master_Bundle_Override pto_tacticalapparel.masterbundle
 Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/Vests/SH-TA

@@ -1,8 +1,11 @@
-GUID b73efb0abd0d41459833f70857e1296f
+GUID 45fb23ff477145c1b03393116d58d47f
 Type Supply
 Rarity Epic
-ID 34109
+ID 37109
 
 Size_X 2
 Size_Y 2
 Size_Z 0.35
+
+Master_Bundle_Override pto_tacticalapparel.masterbundle
+Bundle_Override_Path /PTO_TacticalApparelMasterBundle/Items/TOOL/TOO-UPKIT
