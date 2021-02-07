@@ -1,7 +1,7 @@
-GUID c94397061a2042c993fa2fe1c190f735
+GUID 3fb4246b67964991bb1cc101cc84ea4a
 Type Vehicle
 Rarity Epic
-ID 36250
+ID 26250
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Invulnerable
 Cam_Follow_Distance 8
 Bumper_Invulnerable
 Traction
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/mbtruck/mbtruck_black

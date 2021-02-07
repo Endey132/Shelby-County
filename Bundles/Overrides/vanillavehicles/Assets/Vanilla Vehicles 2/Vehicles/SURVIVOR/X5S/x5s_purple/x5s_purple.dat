@@ -1,4 +1,4 @@
-GUID cfa96c511e6c4adbb7480c52b9d991c7
+GUID a27d469417a5405cb1b7600d63c54069
 Type Vehicle
 Rarity Uncommon
 ID 38174
@@ -30,3 +30,6 @@ Trunk_Storage_Y 7
 
 Explosion 20
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/SURVIVOR/X5S/x5s_purple

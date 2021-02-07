@@ -1,7 +1,7 @@
-GUID a26355d0bd8e4852b60cb955bdab7536
+GUID 17fed408f02049f49e184cd69fbaca7f
 Type Vehicle
 Rarity Common
-ID 36642
+ID 26642
 
 Physics_Profile 8223b7c9f2eb4d8aba427cfdd161836f
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/p208/p208_green

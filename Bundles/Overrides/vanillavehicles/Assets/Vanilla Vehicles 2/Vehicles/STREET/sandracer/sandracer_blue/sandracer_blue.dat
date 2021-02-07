@@ -1,7 +1,7 @@
-GUID 1f92a7a7afee41cea42617717667f0a4
+GUID 9fb7286c18be44b6a219b9252ad9019d
 Type Vehicle
 Rarity Uncommon
-ID 36811
+ID 26811
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Explosion 20
 
 Traction
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/sandracer/sandracer_blue

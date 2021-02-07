@@ -1,6 +1,6 @@
-GUID bce2602061764fc18956367a290b7a88
+GUID 5aebf0dcf3af43a9b85336030992542a
 Type Vehicle
-ID 36363
+ID 26363
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -31,3 +31,6 @@ Explosion 20
 
 Traction
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/rs7/rs7_orange

@@ -1,7 +1,7 @@
-GUID 3439309a5024467592dc6ac880f4cb64
+GUID 4568a358afb54a00b3ccfd00f316ff5d
 Type Vehicle
 Rarity Legendary
-ID 36462
+ID 26462
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Cam_Follow_Distance 10
 Invulnerable
 Bumper_Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/ifrit/ifrit_green

@@ -1,7 +1,7 @@
-GUID cb78f22eb67049e1b3efaa76f2f6f716
+GUID fc9c6a7af70e4736bc400a0b550509be
 Type Vehicle
 Rarity Common
-ID 36455
+ID 26455
 
 Physics_Profile 8223b7c9f2eb4d8aba427cfdd161836f
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/mini/mini_red

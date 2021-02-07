@@ -1,7 +1,7 @@
-GUID 7fbf8667c1c84985802d8a96d59b3eaf
+GUID 14164ca6438d429b9854c184c0edd651
 Type Vehicle
 Rarity Rare
-ID 36615
+ID 26615
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Reclined
 BatteryMode_Sirens Charge
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Pioneer/Pioneer_red

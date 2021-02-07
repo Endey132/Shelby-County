@@ -1,7 +1,7 @@
-GUID 31511ef1a1384371a4b4e0ee88ef7f32
+GUID d939e76a6fd742c9aa2fdff146b4e2bf
 Type Vehicle
 Rarity Uncommon
-ID 36100
+ID 26100
 
 Speed_Min -8
 Speed_Max 30
@@ -30,3 +30,6 @@ Invulnerable
 Tires_Invulnerable
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/light/light_black

@@ -1,7 +1,7 @@
-GUID e6792f69eff544abbf36821201953140
+GUID 6c91061ab19d488ca3fa8da635eaf96b
 Type Vehicle
 Rarity Mythical
-ID 36564
+ID 26564
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Explosion 20
 
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Chiron/Chiron_purple

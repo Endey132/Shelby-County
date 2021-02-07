@@ -1,7 +1,7 @@
-GUID d7d70c46455047a19eef5bbb8f5cd9f6
+GUID 22a3d5cb089c4e4d8ab87035dc68e60a
 Type Vehicle
 Rarity Epic
-ID 36820
+ID 26820
 
 Speed_Min -4
 Speed_Max 13
@@ -32,3 +32,6 @@ Explosion 20
 Bumper_Invulnerable
 BatteryMode_Headlights Charge
 BatteryMode_Sirens
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/BOATS/Spotter/Spotter

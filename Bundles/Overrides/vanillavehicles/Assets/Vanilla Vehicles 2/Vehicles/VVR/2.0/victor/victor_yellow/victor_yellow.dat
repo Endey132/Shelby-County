@@ -1,7 +1,7 @@
-GUID 94ba7cff7d86445b8ed77781a91fca17
+GUID 1263e323ce0d42a8a9c4e9da0d6e015c
 Type Vehicle
 Rarity Mythical
-ID 36587
+ID 26587
 
 Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/victor/victor_yellow

@@ -1,6 +1,6 @@
-GUID a26ab09abe9940b1ab1579e96354d2e1
+GUID 1c41597f2247422c9aefea4b389ea126
 Type Vehicle
-ID 36406
+ID 26406
 Rarity Common
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -29,3 +29,6 @@ Explosion 20
 
 Cam_Passenger_Offset -0.1
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/w124/w124_white

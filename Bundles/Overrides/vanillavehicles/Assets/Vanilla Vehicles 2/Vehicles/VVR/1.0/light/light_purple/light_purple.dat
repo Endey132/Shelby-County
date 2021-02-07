@@ -1,7 +1,7 @@
-GUID cf118416ba1042eaacaa7bc19e4163c0
+GUID 9b7c062111f54731b29600c15d1b3bf8
 Type Vehicle
 Rarity Uncommon
-ID 36104
+ID 26104
 
 Speed_Min -8
 Speed_Max 30
@@ -30,3 +30,6 @@ Invulnerable
 Tires_Invulnerable
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/light/light_purple

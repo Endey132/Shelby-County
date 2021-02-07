@@ -1,4 +1,4 @@
-GUID 572263a38dc64747bed64e86375495c3
+GUID 5f83d8bd41b14849a5ffdd71fbee043e
 Type Vehicle
 Rarity Uncommon
 ID 38170
@@ -30,3 +30,6 @@ Trunk_Storage_Y 7
 
 Explosion 20
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/SURVIVOR/X5S/x5s_black

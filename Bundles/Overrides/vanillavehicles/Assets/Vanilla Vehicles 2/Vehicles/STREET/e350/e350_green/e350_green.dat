@@ -1,7 +1,7 @@
-GUID d7cd893be1fc4a2e8d77bdc0803e1992
+GUID 8dd7785b9c1c4baf8a1aa7431c7d8800
 Type Vehicle
 Rarity Uncommon
-ID 36792
+ID 26792
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.7
@@ -33,3 +33,6 @@ Explosion 20
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/e350/e350_green

@@ -1,7 +1,7 @@
-GUID bf4c4414c03446348d189a62de7e03f5
+GUID c5d15eb07e244bc8937943ee5cbf22f9
 Type Vehicle
 Rarity Legendary
-ID 36436
+ID 26436
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,7 @@ Trunk_Storage_Y 11
 Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/O/sprinter_white

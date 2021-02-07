@@ -1,7 +1,7 @@
-GUID fa8f5cc0d7db45209b5e5ee8ce3111bf
+GUID 6e2b1b3dbb3d4913b2e4038e82e2c86c
 Type Vehicle
 Rarity Common
-ID 36420
+ID 26420
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,7 @@ Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/P/sprinter_black

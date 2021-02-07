@@ -1,7 +1,7 @@
-GUID dc28ee69e43b49cfaa6ecd2c71f70013
+GUID f35d81d5887b436291224991fa363fe8
 Type Vehicle
 Rarity Epic
-ID 36507
+ID 26507
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Cam_Follow_Distance 10
 Bumper_Invulnerable
 Tires_Invulnerable
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/cargo/cargo_yellow

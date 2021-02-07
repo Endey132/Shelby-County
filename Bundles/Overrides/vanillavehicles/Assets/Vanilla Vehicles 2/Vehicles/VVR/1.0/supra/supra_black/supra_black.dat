@@ -1,6 +1,6 @@
-GUID 76cff15c906c40e9a2d17ca261a6a2e5
+GUID d8e92fe3fd424e8aa640ef9f3b8de085
 Type Vehicle
-ID 36080
+ID 26080
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/supra/supra_black

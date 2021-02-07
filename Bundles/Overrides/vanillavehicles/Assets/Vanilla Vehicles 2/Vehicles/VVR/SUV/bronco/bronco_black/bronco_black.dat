@@ -1,7 +1,7 @@
-GUID 70f846c4e25c4fec807f6c32ef9323f4
+GUID e4e03f7f79bc446ba5c8ab350197ab45
 Type Vehicle
 Rarity Uncommon
-ID 36320
+ID 26320
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/bronco/bronco_black

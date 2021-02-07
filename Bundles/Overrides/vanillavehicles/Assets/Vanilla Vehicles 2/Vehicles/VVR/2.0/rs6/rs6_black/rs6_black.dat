@@ -1,6 +1,6 @@
-GUID c7f4ee09e9ab4763bb564d3c3773c6fc
+GUID a5becba182804f59868687dc5c26339c
 Type Vehicle
-ID 36590
+ID 26590
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -30,3 +30,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/rs6/rs6_black

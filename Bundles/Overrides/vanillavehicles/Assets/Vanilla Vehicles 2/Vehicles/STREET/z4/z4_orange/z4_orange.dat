@@ -1,7 +1,7 @@
-GUID 710abb2dff694b1fbbe38ce8d4879ee7
+GUID 6e760116447f483b90cbe8fc0fcfd8aa
 Type Vehicle
 Rarity Rare
-ID 36733
+ID 26733
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/z4/z4_orange

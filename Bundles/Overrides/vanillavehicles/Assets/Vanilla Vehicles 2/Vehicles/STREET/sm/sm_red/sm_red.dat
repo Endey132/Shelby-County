@@ -1,7 +1,7 @@
-GUID 3de67748c2ee423393ac97cdee139732
+GUID dca3d819e98944dda9be26563b8d9973
 Type Vehicle
 Rarity Rare
-ID 36755
+ID 26755
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Engine Car
 Num_Steering_Tires 2
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/sm/sm_red

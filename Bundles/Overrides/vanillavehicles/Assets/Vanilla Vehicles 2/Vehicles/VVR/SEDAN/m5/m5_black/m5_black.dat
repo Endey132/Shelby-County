@@ -1,6 +1,6 @@
-GUID 00afd39d6c5244de8d53741b97a3928f
+GUID 3a6c631d301e49ff94ed51ff764cef6a
 Type Vehicle
-ID 36380
+ID 26380
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -29,3 +29,6 @@ Explosion 20
 
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/m5/m5_black

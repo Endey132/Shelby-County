@@ -1,7 +1,7 @@
-GUID 7fe9e5c6c23847d8944facbf9c271309
+GUID 956db252940b4443982be6230f0fa58a
 Type Vehicle
 Rarity Epic
-ID 36026
+ID 26026
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/hakosuka/hakosuka_white

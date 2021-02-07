@@ -1,7 +1,7 @@
-GUID 54839fc7e0784e0295eaceb14f2bd2a1
+GUID 452442d56f234e3896f848c00c2c3e3a
 Type Vehicle
 Rarity Rare
-ID 36160 
+ID 26160 
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/sti/sti_black

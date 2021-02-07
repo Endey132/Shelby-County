@@ -1,7 +1,7 @@
-GUID 3375d441753444438a7ab7e35e4cf048
+GUID 58aaa093b2284984a6135291f3cb903b
 Type Vehicle
 Rarity Legendary
-ID 36775
+ID 26775
 
 Speed_Min -4
 Speed_Max 55
@@ -35,3 +35,6 @@ Trunk_Storage_Y 3
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/AIR/jet/jet_red

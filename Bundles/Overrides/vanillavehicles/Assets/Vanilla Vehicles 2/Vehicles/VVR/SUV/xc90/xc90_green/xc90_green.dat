@@ -1,7 +1,7 @@
-GUID 874dbb812252449f8d131787df3d4765
+GUID 0b255f34b7454e0a8586e08d0eae75a4
 Type Vehicle
 Rarity Common
-ID 36342
+ID 26342
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/xc90/xc90_green

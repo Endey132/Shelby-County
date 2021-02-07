@@ -1,7 +1,7 @@
-GUID 16588a7a046d4ccf88158e941956f156
+GUID cd2388fbe0504ee4831bcb6b9239b538
 Type Vehicle
 Rarity Epic
-ID 36521
+ID 26521
 
 Physics_Profile 77b7aea610a644278445bac353603278
 
@@ -29,3 +29,6 @@ Trunk_Storage_Y 2
 Explosion 20
 Tires_Invulnerable
 Cam_Follow_Distance 12
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/lightplane/lightplane_blue

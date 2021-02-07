@@ -1,7 +1,7 @@
-GUID 4d10c6345df749a48ada34a8e9f29d28
+GUID c510c2aed7db4a4ab6e62963b96e4b3e
 Type Vehicle
 Rarity Rare
-ID 36311
+ID 26311
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -29,3 +29,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SUV/gclass/gclass_blue

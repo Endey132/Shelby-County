@@ -1,7 +1,7 @@
-GUID 72753d74a79f4bb48beeb238e038e29b
+GUID 61eeb4a9a4314c1cbc00326f85a1c541
 Type Vehicle
 Rarity Epic
-ID 36630
+ID 26630
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/mt/mt_black

@@ -1,7 +1,7 @@
-GUID 3d8899f8840842208283140d73255e82
+GUID 5c55b5c239494be4b6bc9f80895c4840
 Type Vehicle
 Rarity Epic
-ID 36760
+ID 26760
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_black

@@ -1,7 +1,7 @@
-GUID f27a555e7c624ca2adc51e0ecf0fb232
+GUID 76ebe68a928040299502c8ad4ef883aa
 Type Vehicle
 Rarity Common
-ID 36801
+ID 26801
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.7
@@ -33,3 +33,6 @@ Explosion 20
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/f250/f250_blue

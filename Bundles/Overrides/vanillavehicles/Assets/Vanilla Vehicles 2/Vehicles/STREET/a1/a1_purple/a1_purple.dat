@@ -1,7 +1,7 @@
-GUID 224e4187da47415994031dc68da34b47
+GUID fd3328810a4d47e98d7d09f347083762
 Type Vehicle
 Rarity Common
-ID 36654
+ID 26654
 
 Physics_Profile 8223b7c9f2eb4d8aba427cfdd161836f
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/a1/a1_purple

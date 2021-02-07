@@ -1,7 +1,7 @@
-GUID 141da8f5a0d8481e8ee972572b4a9c71
+GUID 2e858b439529429eacd9fc1d61b695a4
 Type Vehicle
 Rarity Rare
-ID 36614
+ID 26614
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -32,3 +32,6 @@ Reclined
 BatteryMode_Sirens Charge
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Pioneer/Pioneer_purple

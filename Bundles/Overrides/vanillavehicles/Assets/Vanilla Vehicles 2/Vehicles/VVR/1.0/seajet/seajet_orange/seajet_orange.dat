@@ -1,7 +1,7 @@
-GUID 05b46f252ab5497ca3f768c1d09b882d
+GUID 91d78e5f094346fca56a3d4dcb082d8d
 Type Vehicle
 Rarity Rare
-ID 36113
+ID 26113
 
 Speed_Min -4
 Speed_Max 29
@@ -30,3 +30,6 @@ Trunk_Storage_Y 1
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/seajet/seajet_orange

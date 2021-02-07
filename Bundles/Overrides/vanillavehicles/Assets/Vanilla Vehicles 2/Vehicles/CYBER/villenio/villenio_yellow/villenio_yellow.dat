@@ -1,7 +1,7 @@
-GUID b8c69f07f6934caf81b8ab6dd6429711
+GUID d74cc1386e044082a3382412b0fd70f8
 Type Vehicle
 Rarity Legendary
-ID 36717
+ID 26717
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -40,3 +40,6 @@ Steering_Tires 2
 Steering_Tires 3
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/CYBER/villenio/villenio_yellow

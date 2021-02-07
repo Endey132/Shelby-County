@@ -1,7 +1,7 @@
-GUID 0f753f9b946b46599d72eddffcbe9938
+GUID 3d5e8c709e02456b8c85c1036128ecd4
 Type Vehicle
 Rarity Uncommon
-ID 36247
+ID 26247
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Explosion 20
 Bumper_Invulnerable
 Cam_Follow_Distance 5
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/silverado/silverado_yellow

@@ -1,7 +1,7 @@
-GUID c2691b13f130470ab22339bc5ca4b7a9
+GUID 503711e5ace24dbe91b46fe36e08f29a
 Type Vehicle
 Rarity Legendary
-ID 36622
+ID 26622
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/m4/m4_green

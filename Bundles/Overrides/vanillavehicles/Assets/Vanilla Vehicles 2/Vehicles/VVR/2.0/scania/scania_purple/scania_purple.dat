@@ -1,7 +1,7 @@
-GUID e37a7aa0a8aa452ea33692d95dcb8eff
+GUID 571a37e5af66444786c74c319089f6ec
 Type Vehicle
 Rarity Rare
-ID 36514
+ID 26514
 
 Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
 Fuel_Burn_Rate 1.4
@@ -28,3 +28,6 @@ Trunk_Storage_Y 9
 Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/scania/scania_purple

@@ -1,7 +1,7 @@
-GUID 5fa07afe342542bba57944661e98c745
+GUID c42adf1975084b5c981c16803ed7bd36
 Type Vehicle
 Rarity Common
-ID 36413
+ID 26413
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -33,3 +33,6 @@ Cam_Follow_Distance 10
 BatteryMode_Sirens None
 Bypass_Buildable_Mobility
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/C/sprinter_orange

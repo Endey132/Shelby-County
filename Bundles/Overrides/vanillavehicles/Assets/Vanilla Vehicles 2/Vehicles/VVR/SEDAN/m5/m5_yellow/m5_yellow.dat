@@ -1,6 +1,6 @@
-GUID f047de237b024e7e8902f8479da673d7
+GUID ed43330cd3fe4001b6fca4c79437ce0f
 Type Vehicle
-ID 36387
+ID 26387
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -29,3 +29,6 @@ Explosion 20
 
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/m5/m5_yellow

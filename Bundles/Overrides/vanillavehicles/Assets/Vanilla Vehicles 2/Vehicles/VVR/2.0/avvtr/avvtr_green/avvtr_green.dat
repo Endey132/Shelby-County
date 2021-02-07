@@ -1,7 +1,7 @@
-GUID c75d92da94254f55aea5fdbb8603cc36
+GUID 11d873cc98f9476a8408ae85ced08892
 Type Vehicle
 Rarity Legendary
-ID 36532
+ID 26532
 
 Speed_Min -2
 Speed_Max 25
@@ -28,3 +28,7 @@ Trunk_Storage_Y 5
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/avvtr/avvtr_green

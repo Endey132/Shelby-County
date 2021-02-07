@@ -1,6 +1,6 @@
-GUID 2fdfd341979c4c1b95af62ba1fb343d4
+GUID bfe93eeb53934ffe85d21472d081a3ad
 Type Vehicle
-ID 36727
+ID 26727
 Rarity Legendary
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -28,3 +28,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/Wraith/Wraith_yellow

@@ -1,7 +1,7 @@
-GUID 65b71e858bbb4479bc4de9b884fe10d9
+GUID b0fd022aa0d64ee2856aac54c7f236e2
 Type Vehicle
 Rarity Legendary
-ID 36556
+ID 26556
 
 Physics_Profile e41da97656124c0ab36e29915b1cc267
 Fuel_Burn_Rate 1.4
@@ -34,3 +34,7 @@ Tires_Invulnerable
 
 Pitch_Idle 0.05
 Pitch_Drive 0.05
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/hoverbike/hoverbike_white

@@ -1,7 +1,7 @@
-GUID 8ba54a53a8ec407c842c30b7d7678548
+GUID 8320da10ddb844249be042858a924937
 Type Vehicle
 Rarity Epic
-ID 36761
+ID 26761
 
 Fuel_Burn_Rate 1.4
 
@@ -34,3 +34,6 @@ Exit 3
 Traction
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/viking/viking_blue

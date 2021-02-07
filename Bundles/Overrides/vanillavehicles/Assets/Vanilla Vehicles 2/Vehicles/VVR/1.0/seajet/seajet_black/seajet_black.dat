@@ -1,7 +1,7 @@
-GUID 80954b27beae4ba494bf5ab2f2260128
+GUID e650231cfe104893a45e1174b3d8d1a2
 Type Vehicle
 Rarity Rare
-ID 36110
+ID 26110
 
 Speed_Min -4
 Speed_Max 29
@@ -30,3 +30,6 @@ Trunk_Storage_Y 1
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/seajet/seajet_black

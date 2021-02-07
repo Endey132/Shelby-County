@@ -1,7 +1,7 @@
-GUID adac9c7ebdd2410db4c6fc4485e92650
+GUID 598b6c52be7149d0a6947053d9f570fd
 Type Vehicle
 Rarity Epic
-ID 36523
+ID 26523
 
 Physics_Profile 77b7aea610a644278445bac353603278
 
@@ -29,3 +29,6 @@ Trunk_Storage_Y 2
 Explosion 20
 Tires_Invulnerable
 Cam_Follow_Distance 12
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/lightplane/lightplane_orange

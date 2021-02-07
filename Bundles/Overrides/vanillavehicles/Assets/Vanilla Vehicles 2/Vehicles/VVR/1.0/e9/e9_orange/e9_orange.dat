@@ -1,6 +1,6 @@
-GUID 7853a20743d64f388ce63586080e1a2a
+GUID 7f05ac49316740ee9dedca6247adeb54
 Type Vehicle
-ID 36093
+ID 26093
 Rarity Epic
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/e9/e9_orange

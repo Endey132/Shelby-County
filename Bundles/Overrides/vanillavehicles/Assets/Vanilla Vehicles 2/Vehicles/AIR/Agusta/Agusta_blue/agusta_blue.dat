@@ -1,7 +1,7 @@
-GUID a9fd2b3f684146e8a93c620b14e8c935
+GUID 588dba029d5f4637a82a383308974d82
 Type Vehicle
 Rarity Rare
-ID 36831
+ID 26831
 
 Speed_Min -2
 Speed_Max 30
@@ -32,3 +32,7 @@ Trunk_Storage_Y 6
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/AIR/Agusta/Agusta_blue

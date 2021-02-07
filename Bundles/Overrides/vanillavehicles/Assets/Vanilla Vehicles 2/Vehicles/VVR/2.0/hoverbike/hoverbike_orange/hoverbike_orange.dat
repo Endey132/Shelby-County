@@ -1,7 +1,7 @@
-GUID 7c56daf2385d414f8e77e4868b3b85de
+GUID d46f386e75f44f96b8b911662247eae6
 Type Vehicle
 Rarity Legendary
-ID 36553
+ID 26553
 
 Physics_Profile e41da97656124c0ab36e29915b1cc267
 Fuel_Burn_Rate 1.4
@@ -34,3 +34,7 @@ Tires_Invulnerable
 
 Pitch_Idle 0.05
 Pitch_Drive 0.05
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/hoverbike/hoverbike_orange

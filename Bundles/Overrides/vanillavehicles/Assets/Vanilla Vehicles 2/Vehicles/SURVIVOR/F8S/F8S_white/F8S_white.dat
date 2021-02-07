@@ -1,4 +1,4 @@
-GUID 5e63f589e7274c5b863bdcda900b4b18
+GUID c4c463f50f5a48bbab0bfc86f9ab6fa5
 Type Vehicle
 Rarity Legendary
 ID 38576
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 
 Explosion 20
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/SURVIVOR/F8S/F8S_white

@@ -1,7 +1,7 @@
-GUID 9ff922e4b44d48bf8c85c463ad4d39df
+GUID b2795a0481884e4783add1aed9035076
 Type Vehicle
 Rarity Rare
-ID 36745
+ID 26745
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/STREET/3s/3s_red

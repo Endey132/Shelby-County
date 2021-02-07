@@ -1,6 +1,6 @@
-GUID dccea4d1a8f4456cb7191cc8db54984c
+GUID 9d435d1cf8fa44abab44435b2e56c119
 Type Vehicle
-ID 36404
+ID 26404
 Rarity Common
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -29,3 +29,6 @@ Explosion 20
 
 Cam_Passenger_Offset -0.1
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/SEDAN/w124/w124_purple

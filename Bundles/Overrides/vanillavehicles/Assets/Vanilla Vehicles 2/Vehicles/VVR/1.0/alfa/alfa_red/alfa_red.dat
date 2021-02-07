@@ -1,7 +1,7 @@
-GUID 6c8613ab386847faa76a4c01c865949c
+GUID 0e1d2af970ca4f899ea554965760aa88
 Type Vehicle
 Rarity Common
-ID 36125
+ID 26125
 
 Physics_Profile 8223b7c9f2eb4d8aba427cfdd161836f
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 4
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/alfa/alfa_red

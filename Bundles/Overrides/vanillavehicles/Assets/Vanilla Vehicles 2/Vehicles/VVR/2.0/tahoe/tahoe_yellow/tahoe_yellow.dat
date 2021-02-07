@@ -1,6 +1,6 @@
-GUID af35a1ae2dff4b66a39d2108e6112e2c
+GUID ece85079980943029396d53e55597172
 Type Vehicle
-ID 36487
+ID 26487
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -31,3 +31,6 @@ Bumper_Invulnerable
 Explosion 20
 
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/tahoe/tahoe_yellow

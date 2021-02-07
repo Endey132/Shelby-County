@@ -1,6 +1,6 @@
-GUID 70468e6d2708464ba9440fc8dff4c1cd
+GUID cf146d3088554f54b0f6776f8025b57a
 Type Vehicle
-ID 36483
+ID 26483
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -31,3 +31,6 @@ Explosion 20
 
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/tahoe/tahoe_orange

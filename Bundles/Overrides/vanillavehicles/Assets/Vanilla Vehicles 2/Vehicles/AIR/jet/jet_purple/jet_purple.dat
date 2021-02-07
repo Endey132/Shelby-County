@@ -1,7 +1,7 @@
-GUID 36667bd5f1d4430b9cce53ae61a4bac7
+GUID 61cfdfd3422349fca640285999b8fba2
 Type Vehicle
 Rarity Legendary
-ID 36774
+ID 26774
 
 Speed_Min -4
 Speed_Max 55
@@ -35,3 +35,6 @@ Trunk_Storage_Y 3
 Explosion 20
 Invulnerable
 Tires_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/AIR/jet/jet_purple

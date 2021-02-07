@@ -1,7 +1,7 @@
-GUID 47966f2ffe9343e589baeceb367a11a9
+GUID 4b753064dd534d9f946c11a4ae9b4eee
 Type Vehicle
 Rarity Epic
-ID 36821
+ID 26821
 
 Speed_Min -4
 Speed_Max 14
@@ -32,3 +32,6 @@ Explosion 20
 Bumper_Invulnerable
 BatteryMode_Headlights Charge
 BatteryMode_Sirens
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/BOATS/Scout/Scout

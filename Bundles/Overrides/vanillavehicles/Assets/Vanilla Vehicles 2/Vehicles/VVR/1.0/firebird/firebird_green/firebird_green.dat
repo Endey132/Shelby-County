@@ -1,7 +1,7 @@
-GUID f1ff3bfcb3b64885a7fe83ce2cb5feb9
+GUID 6c7fd3223cdb4eefa690cd0d1669b0b5
 Type Vehicle
 Rarity Rare
-ID 36212
+ID 26212
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/firebird/firebird_green

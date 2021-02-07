@@ -1,7 +1,7 @@
-GUID f1b9db8708094f8cab201debe63b96fd
+GUID eecfec6252bf4b238878cd7f3e2cd66f
 Type Vehicle
 Rarity Rare
-ID 36190
+ID 26190
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 2
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/camaro/camaro_black

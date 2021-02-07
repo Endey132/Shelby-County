@@ -1,6 +1,6 @@
-GUID d782dbbbd8c2410da2e1746029b05247
+GUID ba6d7487f6844a27b37444437bc0b662
 Type Vehicle
-ID 36592
+ID 26592
 Rarity Uncommon
 
 Physics_Profile 5107dd4a6dc44224829f87568f66a7f3
@@ -30,3 +30,6 @@ Trunk_Storage_Y 5
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/rs6/rs6_green

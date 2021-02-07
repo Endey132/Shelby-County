@@ -1,7 +1,7 @@
-GUID 0763c2e8692f46d3a786faf5ae29797f
+GUID d2098301db2b4a18b0398b8fdce8584c
 Type Vehicle
 Rarity Uncommon
-ID 36206
+ID 26206
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
 Fuel_Burn_Rate 1.4
@@ -30,3 +30,6 @@ Trunk_Storage_Y 6
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/f100/f100_white

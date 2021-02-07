@@ -1,6 +1,6 @@
-GUID 471a80b982af4fa0988f8c090b904ffb
+GUID 9edc4990286d460b978e057817b2c07a
 Type Vehicle
-ID 36088
+ID 26088
 Rarity Rare
 
 Physics_Profile dd5b9ad652da4e61b76a946d6365878a
@@ -30,3 +30,6 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Bumper_Invulnerable
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/1.0/supra/supra_police

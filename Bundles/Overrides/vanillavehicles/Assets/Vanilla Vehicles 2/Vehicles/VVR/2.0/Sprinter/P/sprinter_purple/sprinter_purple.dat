@@ -1,7 +1,7 @@
-GUID 53d3783f798d4edf9217d5d71e4c0c44
+GUID 3552b57e23b14e7aa81a8e8eecac56bf
 Type Vehicle
 Rarity Common
-ID 36424
+ID 26424
 
 Physics_Profile 17b600c56a564c6285de9d488950def1
 Fuel_Burn_Rate 1.4
@@ -31,3 +31,7 @@ Explosion 20
 Cam_Follow_Distance 10
 Bumper_Invulnerable
 BatteryMode_Sirens None
+
+
+Master_Bundle_Override vanillavehicles.masterbundle
+Bundle_Override_Path /Assets/Vanilla Vehicles 2/Vehicles/VVR/2.0/Sprinter/P/sprinter_purple
