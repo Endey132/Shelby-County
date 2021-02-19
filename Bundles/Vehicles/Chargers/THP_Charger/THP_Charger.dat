@@ -1,0 +1,39 @@
+GUID 2d68fb8c2a2f47f8b0fd6a85ac7ec8ca
+Type Vehicle
+Rarity Epic
+ID 25386
+
+Speed_Min -14
+Speed_Max 30.375
+
+Steer_Min 10
+Steer_Max 45
+
+Brake 40
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2400
+
+Health_Min 1000
+Health_Max 1100
+Health 1200
+
+Traction
+
+Pitch_Idle 0.625
+Pitch_Drive 0.025
+
+Exit 3
+Trunk_Storage_X 8
+Trunk_Storage_Y 18
+
+Explosion 20
+
+Tires_Invulnerable
+
+Environment_Invulnerable	
+Bumper_Invulnerable	
+Battery_Burn_Rate 0
+
+Override_Center_Of_Mass
