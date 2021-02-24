@@ -11,41 +11,41 @@ Crude Pickaxe mines Hematite
 
 - Mineral Processing -
 
-1 Hematite Clump > 2 Powdered Crude Iron																																													-Crude Pickaxe
-1 Hematite Clump > 3 Powdered Crude Iron 																														-Mineral Crusher
-1 Bauxite Clump > 3 Powdered Aluminium																															-Mineral Crusher
-1 Malachite Clump > 3 Powdered Copper																															-Mineral Crusher
-1 Magnetite Clump > 3 Powdered Iron																																-Mineral Crusher
-1 Cassiterite Clump > 3 Powdered Tin																																-Mineral Crusher
-1 Scheelite Clump > 1 Powdered Scheelite																															-Specialised Mineral Crusher
-1 Sphalerite Clump > 3 Powdered Sphalerite 2 Zinc, 1 Iron																									-Mineral Crusher
-1 Olivine Clump	> 3 Powdered Olivine 2 Magnesium, 1 Silicon																								-Mineral Crusher
-3 Powdered Crude Iron, 1 Coal Coke > 1 Refined Crude Iron																								-Coal Forge
-6 Powdered Crude Iron, 1 Coal Coke > 2 Refined Crude Iron																								-Blast Furnace
-6 Powdered Aluminium, 1 Coal Coke > 2 Refined Aluminium																								-Blast Furnace
-3 Powdered Copper, 1 Coal Coke > 1 Refined Copper																										-Coal Forge
-6 Powdered Copper, 1 Coal Coke > 2 Refined Copper																										-Blast Furnace
-3 Powdered Iron, 1 Coal Coke > 1 Refined Iron																													-Coal Forge
-6 Powdered Iron, 1 Coal Coke > 2 Refined Iron																													-Blast Furnace
-3 Powdered Tin, 1 Coal Coke > 1 Refined Tin																														-Coal Forge
-6 Powdered Tin, 1 Coal Coke > 2 Refined Tin																														-Blast Furnace
-4 Powdered Scheelite, 3 Coal Coke > 1 Refined Tungsten																									-Specialised Blast Furnace
-3 Powdered Zinc > 1 Refined Zinc																																		-Blast Furnace
-3 Powdered Silicon > 1 Refined Silicon																																-Blast Furnace
-3 Powdered Sphalerite > 2 Powdered Zinc, 1 Powdered Iron																								-Industrial Centrifuge
-3 Powdered Olivine + 2 Empty Canisters > 2 Magnesium-filled Canisters, 1 Powdered Silicon												-Industrial Centrifuge
-4 Bituminous Coal > 3 Coal																																				-Industrial Centrifuge
-4 Bituminous Coal > 3 Coal, 1 Bitumen																																-Bitumen Centrifuge								-
-1 Coal > 1 Coal Coke																																						-Coke Oven
-20 Bitumen + 1 Empty Barrel > 1 Synthetic Crude Barrel																									-Fractional Distillation Plant
-1 Synthetic Crude Barrel > 1 Oil Barrel																																-Oil Refinery
-5 Limestone Rock > 4 Pure Limestone																																-Industial Centrifuge
-1 Oil Barrel + 10 Empty Canisters > 1 Gasoline Barrel + 10 Propylene Canisters																	-Synthetic Refinery
-1 Oil Barrel > 1 Gasoline Barrel																																			-Synthetic Refinery
-3 Powdered Aluminium 6061, 1 Coal Coke > 1 Aluminium 6061																							-Blast Furnace
-3 Powdered Aluminium 7075, 1 Coal Coke > 1 Aluminium 7075																							-Blast Furnace
-3 Powdered Aluminium Brass, 1 Coal Coke > 1 Aluminium Brass																							-Blast Furnace
-3 Powdered Red Brass, 1 Coal Coke > 1 Red Brass																											-Blast Furnace
+1 Hematite Clump > 2 Powdered Crude Iron																																	-Crude Pickaxe
+1 Hematite Clump > 3 Powdered Crude Iron 																				-Mineral Crusher
+1 Bauxite Clump > 3 Powdered Aluminium																					-Mineral Crusher
+1 Malachite Clump > 3 Powdered Copper																					-Mineral Crusher
+1 Magnetite Clump > 3 Powdered Iron																						-Mineral Crusher
+1 Cassiterite Clump > 3 Powdered Tin																					-Mineral Crusher
+1 Scheelite Clump > 1 Powdered Scheelite																				-Specialised Mineral Crusher
+1 Sphalerite Clump > 3 Powdered Sphalerite 2 Zinc, 1 Iron																-Mineral Crusher
+1 Olivine Clump	> 3 Powdered Olivine 2 Magnesium, 1 Silicon																-Mineral Crusher
+3 Powdered Crude Iron, 1 Coal Coke > 1 Refined Crude Iron																-Coal Forge
+6 Powdered Crude Iron, 1 Coal Coke > 2 Refined Crude Iron																-Blast Furnace
+6 Powdered Aluminium, 1 Coal Coke > 2 Refined Aluminium																	-Blast Furnace
+3 Powdered Copper, 1 Coal Coke > 1 Refined Copper																		-Coal Forge
+6 Powdered Copper, 1 Coal Coke > 2 Refined Copper																		-Blast Furnace
+3 Powdered Iron, 1 Coal Coke > 1 Refined Iron																			-Coal Forge
+6 Powdered Iron, 1 Coal Coke > 2 Refined Iron																			-Blast Furnace
+3 Powdered Tin, 1 Coal Coke > 1 Refined Tin																				-Coal Forge
+6 Powdered Tin, 1 Coal Coke > 2 Refined Tin																				-Blast Furnace
+4 Powdered Scheelite, 3 Coal Coke > 1 Refined Tungsten																	-Specialised Blast Furnace
+3 Powdered Zinc > 1 Refined Zinc																						-Blast Furnace
+3 Powdered Silicon > 1 Refined Silicon																					-Blast Furnace
+3 Powdered Sphalerite > 2 Powdered Zinc, 1 Powdered Iron																-Industrial Centrifuge
+3 Powdered Olivine + 2 Empty Canisters > 2 Magnesium-filled Canisters, 1 Powdered Silicon								-Industrial Centrifuge
+4 Bituminous Coal > 3 Coal																								-Industrial Centrifuge
+4 Bituminous Coal > 3 Coal, 1 Bitumen																					-Bitumen Centrifuge									-
+1 Coal > 1 Coal Coke																									-Coke Oven
+20 Bitumen + 1 Empty Barrel > 1 Synthetic Crude Barrel																	-Fractional Distillation Plant
+1 Synthetic Crude Barrel > 1 Oil Barrel																					-Oil Refinery
+5 Limestone Rock > 4 Pure Limestone																						-Industial Centrifuge
+1 Oil Barrel + 10 Empty Canisters > 1 Fuel Barrel + 10 Propylene Canisters												-Synthetic Refinery
+1 Oil Barrel > 1 Fuel Barrel																							-Synthetic Refinery
+3 Powdered Aluminium 6061, 1 Coal Coke > 1 Aluminium 6061																-Blast Furnace
+3 Powdered Aluminium 7075, 1 Coal Coke > 1 Aluminium 7075																-Blast Furnace
+3 Powdered Aluminium Brass, 1 Coal Coke > 1 Aluminium Brass																-Blast Furnace
+3 Powdered Red Brass, 1 Coal Coke > 1 Red Brass																			-Blast Furnace
 
 
 
@@ -77,14 +77,14 @@ Aluminium Brass > Empty Canister Mold
 
 - Alloys/Composites -
 
-6 Powdered Aluminium, 2 Powdered Copper, 2 Powdered Zinc > 10 Powdered Aluminium 6061											-Alloy Formation Chamber
-8 Powdered Aluminium, 1 Powdered Copper, 1 Powdered Zinc > 10 Powdered Aluminium 7075											-Alloy Formation Chamber
-7 Powdered Aluminium, 3 Powdered Copper > 10 Powdered Aluminium Brass																		-Alloy Formation Chamber
-8 Powdered Copper, 2 Powdered Zinc > 10 Powdered Brass																								-Alloy Formation Chamber
-8 Powdered Copper, 1 Powdered Tin, 1 Powdered Zinc > 10 Powdered Red Brass																-Alloy Formation Chamber
-> Carbon Fiber																																									-
-10 Powdered Iron + 5 Pure Limestone + 10 Coal Coke > 10 Powdered Steel																		-Blast Furnace
-1 Propylene Canister > 2 Polymer																																		-Polymerization Chamber
+6 Powdered Aluminium, 2 Powdered Copper, 2 Powdered Zinc > 10 Powdered Aluminium 6061									-Alloy Formation Chamber
+8 Powdered Aluminium, 1 Powdered Copper, 1 Powdered Zinc > 10 Powdered Aluminium 7075									-Alloy Formation Chamber
+7 Powdered Aluminium, 3 Powdered Copper > 10 Powdered Aluminium Brass													-Alloy Formation Chamber
+8 Powdered Copper, 2 Powdered Zinc > 10 Powdered Brass																	-Alloy Formation Chamber
+8 Powdered Copper, 1 Powdered Tin, 1 Powdered Zinc > 10 Powdered Red Brass												-Alloy Formation Chamber
+> Carbon Fiber Sheet																									-
+10 Powdered Iron + 5 Pure Limestone + 10 Coal Coke > 10 Powdered Steel													-Blast Furnace
+1 Propylene Canister > 2 Polymer																						-Polymerization Chamber
 5 Magnesium-filled Canisters, 3 Powdered Zinc, 2 Powdered Aluminium > 1 Powdered AMS4424L, 5 Empty Canisters			-Specialised Alloy Formation Chamber
 > Kevlar																																											-
 
