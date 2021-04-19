@@ -14,8 +14,8 @@ Items in "" Quotations represent spawn tables and will give items according to t
 1 Barrel = 1000 Units
 1 Canister = 100 Units
 1 Refined Metal = 100 Units
-1 Industrial gas/diesel can = 1250 Units
-1 Portable gas/diesel can = 250 Units
+1 Industrial gas/diesel can = 1000 Units
+1 Portable gas/diesel can = 200 Units
 
 
 
@@ -128,6 +128,8 @@ Flax Seed > Flax, Linen
 
 [1 Crude Knife] + 4 Stick + 1 Medium Rock + 3 String Fiber > Crude Axe
 
+[1 Crude Knife] + 3 Stick + 1 Medium Rock + 2 String Fiber > Crude Hammer
+
 [1 Crude Axe] + 1 Log > 1 Plank
 
 1 Plank + 2 Stick + 1 String Fiber > 1 Mortar & Pestle
@@ -167,7 +169,43 @@ Flax Seed > Flax, Linen
 
 [1 Mortar & Pestle] + 1 White pigment + 1 Black pigment > 2 Black pigment
 
+[Crude Hammer] + 24 Iron Plates > Anvil
+[Crude Hammer] + [Welding Torch] + 12 Iron Plates > Anvil
+[Smithing Hammer] + 24 Iron Plates > Anvil
+[Smithing Hammer] + [Welding Torch] + 12 Iron Plates > Anvil
 
+
+[Crude Hammer] + 5 Refined Copper > 1 Copper Plate
+[Crude Hammer] + 5 Refined Tin > 1 Tin Plate
+[Crude Hammer] + 5 Refined Gold > 1 Gold Plate
+[Crude Hammer] + 5 Refined Tungsten > 1 Tungsten Plate
+[Crude Hammer] + 5 Refined Magnesium 4424 > 1 Magnesium 4424 Plate
+[Crude Hammer] + 5 Refined Iron > 1 Iron Plate
+[Crude Hammer] + 5 Refined Steel > 1 Steel Plate
+[Crude Hammer] + 5 Refined Aluminium > 1 Aluminium Plate
+[Crude Hammer] + 5 Refined Aluminium 7075 > 1 Aluminium 7075 Plate
+[Crude Hammer] + 5 Refined Aluminium 6061 > 1 Aluminium 6061 Plate
+[Crude Hammer] + 5 Refined Aluminium Brass > 1 Aluminium Brass Plate
+[Crude Hammer] + 5 Refined Brass > 1 Brass Plate
+[Crude Hammer] + 5 Refined Red Brass > 1 Red Brass Plate
+[Crude Hammer] + 5 Refined Zinc > 1 Zinc Plate
+[Crude Hammer] + 5 Refined Lead > 1 Lead Plate
+
+[Smithing Hammer] + 3 Refined Copper > 1 Copper Plate
+[Smithing Hammer] + 3 Refined Tin > 1 Tin Plate
+[Smithing Hammer] + 3 Refined Gold > 1 Gold Plate
+[Smithing Hammer] + 3 Refined Tungsten > 1 Tungsten Plate
+[Smithing Hammer] + 3 Refined Magnesium 4424 > 1 Magnesium 4424 Plate
+[Smithing Hammer] + 3 Refined Iron > 1 Iron Plate
+[Smithing Hammer] + 3 Refined Steel > 1 Steel Plate
+[Smithing Hammer] + 3 Refined Aluminium > 1 Aluminium Plate
+[Smithing Hammer] + 3 Refined Aluminium 7075 > 1 Aluminium 7075 Plate
+[Smithing Hammer] + 3 Refined Aluminium 6061 > 1 Aluminium 6061 Plate
+[Smithing Hammer] + 3 Refined Aluminium Brass > 1 Aluminium Brass Plate
+[Smithing Hammer] + 3 Refined Brass > 1 Brass Plate
+[Smithing Hammer] + 3 Refined Red Brass > 1 Red Brass Plate
+[Smithing Hammer] + 3 Refined Zinc > 1 Zinc Plate
+[Smithing Hammer] + 3 Refined Lead > 1 Lead Plate
 
 
 
@@ -175,21 +213,31 @@ Flax Seed > Flax, Linen
 
 --- Crafting Stations ---
 
+- Anvil -
+
+ > Smithing Hammer
+ > Pickaxe
+ > Welding Torch
+
+
+
+
+ 
 - Blast Furnace -
 
 3 Powdered Aluminium 6061, 1 Coal Coke > 1 Aluminium 6061
 3 Powdered Aluminium 7075, 1 Coal Coke > 1 Aluminium 7075
 3 Powdered Aluminium Brass, 1 Coal Coke > 1 Aluminium Brass
 3 Powdered Red Brass, 1 Coal Coke > 1 Red Brass
-5 Powdered Aluminium, 1 Coal Coke > 2 Refined Aluminium
+5 Powdered Bauxite, 1 Coal Coke > 2 Refined Aluminium
 5 Powdered Malachite, 1 Coal Coke > 2 Refined Copper
 5 Powdered Galena, 1 Coal Coke > 2 Refined Lead
 5 Powdered Magnetite, 1 Coal Coke > 2 Refined Iron
 5 Powdered Cassiterite, 1 Coal Coke > 2 Refined Tin
-5 Powdered Gold, 1 Coal Coke > 2 Refined Gold
-5 Powdered Zinc, 1 Coal Coke > 2 Refined Zinc
+5 Powdered Electrum, 1 Coal Coke > 2 Refined Gold
 5 Powdered Silicon, 1 Coal Coke > 2 Refined Silicon
-10 Powdered Iron + 4 Pure Limestone + 8 Coal Coke > 10 Powdered Steel
+5 Powdered Sphalerite, 1 Coal Coke > 2 Refined Zinc
+5 Powdered Iron + 2 Pure Limestone + 4 Coal Coke > 5 Powdered Steel
 4 Powdered Scheelite, 3 Coal Coke > 1 Refined Tungsten
 
 
@@ -380,8 +428,8 @@ Flax Seed > Flax, Linen
 
 1 Refined Aluminium > 3 Empty Canisters
 
-18 Steel Plate + 6 Steel Rods + 4 Steel Bolts + 9 Copper Wire + 3 Refined Silicon > Gasoline Generator
-24 Steel Plate + 8 Steel Rods + 6 Steel Bolts + 9 Gold Wire + 4 Refined Silicon > Diesel Generator
+18 Steel Plate + 6 Steel Rods + 4 Steel Bolts + 9 Copper Wire + 3 Silicon > Gasoline Generator
+24 Steel Plate + 8 Steel Rods + 6 Steel Bolts + 9 Gold Wire + 4 Silicon > Diesel Generator
 15 Steel Plate + 6 Polymer > Industrial Gasoline Can
 15 Steel Plate + 6 Polymer > Industrial Diesel Can
 3 Steel Plate + 1 Polymer > Portable Gasoline Can
