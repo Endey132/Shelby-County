@@ -8,7 +8,7 @@ INSTALL WORKSHOP MODS BEFORE EDITING MAP: https://steamcommunity.com/sharedfiles
 
 Multiple map edits can not merge with one another, and can only overwright. Keep this in mind while editing 
 
-Ensure that new crafting recipes/changes to existing recipes are documented in this file in the same push as the .dat changes
+Ensure that new crafting recipes/changes to existing recipes are documented in this file in the same push as the .dat changes Cum
 
 
 
