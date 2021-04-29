@@ -1,3 +1,35 @@
+----- MISC INFORMATION -----
+
+Current Unity verison: 2019.4.25f1
+
+If you plan on editing the Unity project, you must create a blank project with the name PECO-UNITY inside of the directory you plan on cloning the repository to before you download it.
+
+INSTALL WORKSHOP MODS BEFORE EDITING MAP: https://steamcommunity.com/sharedfiles/filedetails/?id=2328257711
+
+Multiple map edits can not merge with one another, and can only overwright. Keep this in mind while editing 
+
+Ensure that new crafting recipes/changes to existing recipes are documented in this file in the same push as the .dat changes
+
+
+
+
+
+
+
+
+
+
+----- CRAFTING DOCUMENTATION -----
+
+
+
+
+
+
+
+
+
+
 --- Guide ---
 
 Everything before ">" is an input item; everything afterwards is the output.
