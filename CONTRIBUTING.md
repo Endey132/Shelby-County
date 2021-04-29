@@ -24,6 +24,8 @@
 
 2. Avoid making changes to the map that would change the balance of the server without a maintainer's approval (changing the amount of ore nodes in the mines, messing with important spawn tables, etc)
 
+3. Make sure you've subscribed to all of the server's workshop mods before editing the map (https://steamcommunity.com/sharedfiles/filedetails/?id=2328257711)
+
 
 
 
