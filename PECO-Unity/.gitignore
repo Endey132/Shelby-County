@@ -63,5 +63,8 @@ crashlytics-build.properties
 
 # Ignore Unturned example assets
 /[Aa]ssets/CoreMasterBundle/
+/[Aa]ssets/CoreMasterBundle.meta
 /[Aa]ssets/CGIncludes/
+/[Aa]ssets/CGIncludes.meta
 /[Aa]ssets/Game/Bundles/
+/[Aa]ssets/Game/Bundles.meta
