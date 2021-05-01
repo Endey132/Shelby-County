@@ -60,6 +60,7 @@ crashlytics-build.properties
 
 # Ignore auto-generated blender backup files
 *.blend1
+*.blend1.meta
 
 # Ignore Unturned example assets
 /[Aa]ssets/CoreMasterBundle/
