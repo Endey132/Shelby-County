@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore auto-generated blender backup files
+*.blend1
+
+# Ignore Unturned example assets
+/[Aa]ssets/CoreMasterBundle/
+/[Aa]ssets/CGIncludes/
+/[Aa]ssets/Game/Bundles/
