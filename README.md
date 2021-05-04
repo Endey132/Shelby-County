@@ -134,6 +134,7 @@ Flax Seed > Flax, Linen
 
 2 Stick + 1 String Fiber + 1 Small Rock > Crude Knife
 [1 Crude Knife] + 1 Leaf > 1 String Fiber
+[1 Small Rock] + 1 Leaf > 1 String Fiber
 
 [1 Crude Knife] + 5 Stick + 1 Large Rock + 3 String Fiber > Crude Pickaxe
 
