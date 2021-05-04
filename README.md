@@ -9,15 +9,19 @@
 
 
 
---- Guide ---
+--- Crafting Recipe Legend ---
 
 Everything before ">" is an input item; everything afterwards is the output.
 Input items in [] brackets are not consumed during crafting.
+Input items in {} brackets are crafting stations required to craft a certain item.
 Numbers before item names represent the quantity of items required for a recipe.
 Items in "" Quotations represent spawn tables and will give items according to the table's odds (Not applicable to crafting recipes.)
 
-
-
+If a line starts with "!", it represents a processing chain, not a crafting recipe, and is only there for documentation purposes. All lines below refer to processing chains, and do not apply to crafting recipes.
+Processing chain items that are in {} brackets represent the tools or crafting stations needed for the listed output
+() brackets represent notes in processing chains
+[] brackets represent secondary outputs in processing chains, which are not required for the following step.
+Items between @@ symbols are external to the processing chain, but are required for the next step
 
 
 --- Storage Legend ---
@@ -35,21 +39,91 @@ Items in "" Quotations represent spawn tables and will give items according to t
 --- Material List ---
 
 Copper - Material used in alloying and ammunition crafting
-Zinc - 
-Aluminium - 
-Magnesium - Material used in alloying, firearm crafting, and explosives
+
+!Malachite Deposit > {Pickaxe} Malachite Clump > {Mineral Concentration Chamber} Concentrated Malachite > {Mineral Oxidisation Chamber} Powdered Copper > {Blast Furnace} Refined Copper
+
+
 Iron - Material used in mining equipment
-Tungsten - Hard-to-obtain material used in crafting high-tier weaponry, and mid-high tier armored/armed vehicles
-Magnesium 4424 - Alloy used in Kevlar, firearms, and high-tier vehicles
-Tin - Common lightweight and non-durable material used in alloying and crafting items such as cans
-Gold - Rare material used in electrical equipment, commonly alongside Silicon.
-Steel - Alloy typically used in non-worn armor, firearms, attachments, & low-tiered armored vehicles
-Red Brass - Alloy used in firearm crafting
-Brass - Alloy used in ammunition crafting
-Silicon - Material used in electrical equipment.
-Aluminium 6061 - Alloy used in vehicle, attachment, and firearm crafting
-Aluminium 7075 - Alloy used in aviative, attachment, and firearm crafting
+
+!Magnetite Deposit > {Pickaxe} Magnetite Clump > {Mineral Concentration Chamber} Concentrated Magnetite > {Mineral Oxidisation Chamber} Powdered Iron > {Blast Furnace} Refined Iron
+
+
 Lead - Material used in radiation-resistant clothing and ammunition
+
+!Galena Deposit > {Pickaxe} Galena Clump > {Mineral Concentration Chamber} Concentrated Galena > {Mineral Oxidisation Chamber} Powdered Lead > {Blast Furnace} Refined Lead
+
+
+
+
+
+Zinc - 
+
+!Sphalerite Deposit > {Pickaxe} Sphalerite Clump > {Mineral Concentration Chamber} Concentrated Sphalerite > {Blast Furnace} Refined Zinc
+!Concentrated Sphalerite > {Electrolysis Chamber} Powdered Zinc, [Sulfur] > {Blast Furnace} SHG Zinc
+
+
+Aluminium - Material used in alloying and some misc crafting
+
+!Bauxite Deposit > {Pickaxe} Bauxite Clump > {Mineral Concentration Chamber} Concentrated Bauxite > {Electrolysis Chamber} Aluminium Powder (Can use Cryolite for increased yield) > {Blast Furnace} Refined Aluminium
+
+
+Magnesium - Material used in alloying and incendiary explosives
+
+!Magnesite Deposit > {Pickaxe} Magnesite Clump > {Mineral Concentration Chamber } Concentrated Magnesite > {Electrolysis Chamber} Magnesium Powder [Carbon Powder] > {Blast Furnace} Refined Magnesium
+!Olivine Deposit > {Pickaxe} Olivine Clump > {Mineral Concentration Chamber} Concentrated Olivine > {Electrolysis Chamber} Powdered Magnesium, [Powdered Silicon] >{Blast Furnace} Refined Magnesium
+
+
+
+Tungsten - Hard-to-obtain material used in crafting high-tier weaponry, and mid-high tier armored/armed vehicles
+
+!Scheelite Deposit > {Pickaxe} Scheelite Clump > {Mineral Concentration Chamber} Concentrated Scheelite > {Mineral Purification Chamber} Purified Scheelite (Requires Sodium Sulfide) > {Electrolysis Chamber} Powdered Tungsten > {Induction Smelter} > Refined Tungsten
+
+
+Magnesium 4424 - Alloy used in Kevlar, firearms, and high-tier vehicles
+
+
+
+Tin - Common lightweight and non-durable material used in alloying and crafting items such as cans
+
+
+
+Gold - Rare material used in electrical equipment, commonly alongside Silicon.
+
+
+
+Steel - Alloy typically used in non-worn armor, firearms, attachments, & low-tiered armored vehicles
+
+
+
+Red Brass - Alloy used in firearm crafting
+
+
+
+Brass - Alloy used in ammunition crafting
+
+
+
+Silicon - Material used in electrical equipment.
+
+
+
+Aluminium 6061 - Alloy used in vehicle, attachment, and firearm crafting
+
+
+
+Aluminium 7075 - Alloy used in aviative, attachment, and firearm crafting
+
+
+
+Lead - Material used in radiation-resistant clothing and ammunition
+
+
+
+
+
+
+
+
 
 Carbon Fiber - Material used in 
 Kevlar- Material used in worn armor
@@ -61,8 +135,8 @@ Cotton - Material used to make standard clothing
 Wool - Material used to make warm clothing
 Leather - Used to make certain clothing items
 
-
-
+Cryolite - Used to increase efficiency of aluminium processing
+Graphite - Used in machine crafting, as well as certain other things.
 
 
 --- Spawn Tables ---
