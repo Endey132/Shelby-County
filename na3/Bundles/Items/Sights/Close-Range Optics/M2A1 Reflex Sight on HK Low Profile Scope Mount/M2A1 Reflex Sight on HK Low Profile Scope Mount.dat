@@ -1,0 +1,38 @@
+GUID 6e99fe43c1ba4fb193b5eae7f8f517a8
+Type Sight
+Rarity Rare
+ID 48622
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56092
+
+Holographic
+
+Blueprints 2
+// Disassemble
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48622
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 48218
+Blueprint_0_Output_1_ID 48612
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 45129
+// Assemble
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 48218
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 48612
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 48622
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Close-Range Optics/M2A1 Reflex Sight/M2A1 Reflex Sight on HK Low Profile Scope Mount

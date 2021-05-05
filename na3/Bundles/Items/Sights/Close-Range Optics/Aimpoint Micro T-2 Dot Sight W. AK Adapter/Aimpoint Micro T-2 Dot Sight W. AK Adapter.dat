@@ -1,0 +1,38 @@
+GUID 6c86d7578e9b4eafa2d39ba4999a9bbc
+Type Sight
+Rarity Rare
+ID 48415
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 56200
+
+Holographic
+
+Blueprints 2
+// Disassemble
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48415
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 48374
+Blueprint_0_Output_1_ID 48025
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 45129
+// Assemble
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 48374
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 48025
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 48415
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 45129
+
+Master_Bundle_Override na3.masterbundle
+Bundle_Override_Path /Assets/Data/Nordic thingy 2/Nordic Armory 3/Bundles/Items/Sights/Close-Range Optics/Aimpoint Micro T-2 Dot Sight/Aimpoint Micro T-2 Dot Sight W. AK Adapter
