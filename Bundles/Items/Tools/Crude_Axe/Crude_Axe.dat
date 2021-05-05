@@ -4,10 +4,10 @@ Useable Melee
 Slot Secondary
 ID 17000
 
-Size_X 1
-Size_Y 2
-Size_Z 0.2
-Size2_Z 0.2
+Size_X 2
+Size_Y 3
+Size_Z 0.6
+Size2_Z 0.6
 
 Range 2
 Strength 1.5
