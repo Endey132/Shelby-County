@@ -1,0 +1,18 @@
+GUID 2d4c6f6c8c3a4fb4940a4aa135fe9047
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 17011
+
+Size_X 3
+Size_Y 5
+Size_Z 0.6
+
+Health 900
+Range 8
+Radius 0.25
+Offset 1.5
+
+Explosion 36
+
+PlacementAudioClip /Sounds/MetalPlacement.mp3

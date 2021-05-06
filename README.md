@@ -2,8 +2,10 @@
 
 
 
+--- Random Ideas ---
 
-
+-(Long-Term) Resources needed to build map buildings (eg press F on in-construction house with 200 logs in inventory to finish construction, which replaces the model with a finished house)
+-Mineral Electrolysis Chamber has different cathodes which can be switched out before operation, which will each do different things to different mineral concentrates.
 
 
 
@@ -22,6 +24,9 @@ Processing chain items that are in {} brackets represent the tools or crafting s
 () brackets represent notes in processing chains
 [] brackets represent secondary outputs in processing chains, which are not required for the following step.
 Items between @@ symbols are external to the processing chain, but are required for the next step
+
+
+
 
 
 --- Storage Legend ---
