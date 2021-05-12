@@ -45,17 +45,17 @@ Items between @@ symbols are external to the processing chain, but are required 
 
 Copper - Material used in alloying and ammunition crafting
 
-!Malachite Deposit > {Pickaxe} Malachite Clump > {Mineral Concentration Chamber} Concentrated Malachite > {Mineral Oxidisation Chamber} Powdered Copper > {Blast Furnace} Refined Copper
+!Malachite Deposit > {Pickaxe} Malachite Clump > {Mineral Concentration Chamber} Concentrated Malachite > {Mineral Electrolysis Chamber} Powdered Copper > {Blast Furnace} Refined Copper
 
 
 Iron - Material used in mining equipment
 
-!Magnetite Deposit > {Pickaxe} Magnetite Clump > {Mineral Concentration Chamber} Concentrated Magnetite > {Mineral Oxidisation Chamber} Powdered Iron > {Blast Furnace} Refined Iron
+!Magnetite Deposit > {Pickaxe} Magnetite Clump > {Mineral Concentration Chamber} Concentrated Magnetite > {Mineral Electrolysis Chamber} Powdered Iron > {Blast Furnace} Refined Iron
 
 
 Lead - Material used in radiation-resistant clothing and ammunition
 
-!Galena Deposit > {Pickaxe} Galena Clump > {Mineral Concentration Chamber} Concentrated Galena > {Mineral Oxidisation Chamber} Powdered Lead > {Blast Furnace} Refined Lead
+!Galena Deposit > {Pickaxe} Galena Clump > {Mineral Concentration Chamber} Concentrated Galena > {Mineral Electrolysis Chamber} Powdered Lead > {Blast Furnace} Refined Lead
 
 
 
@@ -64,18 +64,18 @@ Lead - Material used in radiation-resistant clothing and ammunition
 Zinc - 
 
 !Sphalerite Deposit > {Pickaxe} Sphalerite Clump > {Mineral Concentration Chamber} Concentrated Sphalerite > {Blast Furnace} Refined Zinc
-!Concentrated Sphalerite > {Electrolysis Chamber} Powdered Zinc, [Sulfur] > {Blast Furnace} SHG Zinc
+!Concentrated Sphalerite > {Mineral Electrolysis Chamber} Powdered Zinc, [Sulfur] > {Blast Furnace} SHG Zinc
 
 
 Aluminium - Material used in alloying and some misc crafting
 
-!Bauxite Deposit > {Pickaxe} Bauxite Clump > {Mineral Concentration Chamber} Concentrated Bauxite > {Electrolysis Chamber} Aluminium Powder (Can use Cryolite for increased yield) > {Blast Furnace} Refined Aluminium
+!Bauxite Deposit > {Pickaxe} Bauxite Clump > {Mineral Concentration Chamber} Concentrated Bauxite > {Mineral Electrolysis Chamber} Aluminium Powder (Can use Cryolite for increased yield) > {Blast Furnace} Refined Aluminium
 
 
 Magnesium - Material used in alloying and incendiary explosives
 
-!Magnesite Deposit > {Pickaxe} Magnesite Clump > {Mineral Concentration Chamber } Concentrated Magnesite > {Electrolysis Chamber} Magnesium Powder [Carbon Powder] > {Blast Furnace} Refined Magnesium
-!Olivine Deposit > {Pickaxe} Olivine Clump > {Mineral Concentration Chamber} Concentrated Olivine > {Electrolysis Chamber} Powdered Magnesium, [Powdered Silicon] >{Blast Furnace} Refined Magnesium
+!Magnesite Deposit > {Pickaxe} Magnesite Clump > {Mineral Concentration Chamber } Concentrated Magnesite > {Mineral Electrolysis Chamber} Magnesium Powder [Carbon Powder] > {Blast Furnace} Refined Magnesium
+!Olivine Deposit > {Pickaxe} Olivine Clump > {Mineral Concentration Chamber} Concentrated Olivine > {Mineral Electrolysis Chamber} Powdered Magnesium, [Powdered Silicon] >{Blast Furnace} Refined Magnesium
 
 
 
