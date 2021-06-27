@@ -1,0 +1,27 @@
+GUID 5eb70e39dcf44bcfb1a8f9fab407e451
+Type Resource
+ID 22307
+
+Health 800
+Radius 4
+Scale 0.2
+
+Explosion 21
+Reward_ID 515
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Auto_Skybox
+
+SpeedTree
+
+
+Asset_Bundle_Version 2
+
+Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Trees/Hawaii/HawaiiBirch_1

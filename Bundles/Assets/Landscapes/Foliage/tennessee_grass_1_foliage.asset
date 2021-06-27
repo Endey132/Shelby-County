@@ -17,7 +17,7 @@
 	"Material"
 	{
 		"Name" "tennessee.content"
-		"Path" "assets/nova/tennesseecontent/bundles/assets/landscapes/foliage/tennessee_grass_1_foliage.mat"
+		"Path" "assets/tennesseecontent/bundles/assets/landscapes/foliage/tennessee_grass_1_foliage.mat"
 	}
 	"Normal_Position_Offset" "0"
 	"Normal_Rotation_Offset"

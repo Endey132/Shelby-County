@@ -1,0 +1,20 @@
+GUID a202e007cda34b189d6dfba5793b36ed
+Type Resource
+ID 22107
+
+Health 1500
+Radius 2
+Scale 0.1
+
+Explosion 26
+Reward_ID 22001
+Reward_XP 6
+Reward_Min 7
+Reward_Max 9
+
+Reset 900
+
+Auto_Skybox
+
+Master_Bundle_Override california.masterbundle
+Bundle_Override_Path /Resources/CA_Pine_2

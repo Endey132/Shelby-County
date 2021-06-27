@@ -9,7 +9,7 @@
 	"Texture"
 	{
 		"Name" "tennessee.content"
-		"Path" "assets/projecteconomy/tennesseecontent/bundles/assets/landscapes/materials/Tennessee_Grass_02_Material.png"
+		"Path" "assets/tennesseecontent/bundles/assets/landscapes/materials/Tennessee_Grass_02_Material.png"
 	}
 	"Mask"
 	{

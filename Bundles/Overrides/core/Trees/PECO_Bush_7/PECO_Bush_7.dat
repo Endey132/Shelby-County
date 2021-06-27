@@ -1,0 +1,10 @@
+GUID ca6ad7821928490487748b60daafce8b
+Type Resource
+ID 22015
+
+Health 1000
+Radius 3
+Scale 0.1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Bush_7

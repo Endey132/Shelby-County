@@ -1,3 +1,14 @@
+----- TODO -----
+
+-Make terrain more interesting
+-Finish painting materials
+-Finish foliage generation system
+-Add dependency trees & bushes to map (Also add designated olive tree location)
+
+
+
+
+
 ----- CRAFTING & ITEM OBTAINING DOCUMENTATION -----
 
 

@@ -1,0 +1,22 @@
+GUID 920031a9fb7e4825a2fbc49a6f644701
+Type Resource
+ID 22004
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 24
+Reward_ID 22001
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Birch_1

@@ -1,0 +1,27 @@
+GUID 1d3161fdea2f45eca4e5afa2c4515375
+Type Resource
+ID 22311
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 22
+Reward_ID 516
+Reward_XP 5
+Reward_Min 6
+Reward_Max 9
+
+Reset 600
+
+Auto_Skybox
+
+SpeedTree
+
+
+Asset_Bundle_Version 2
+
+Bypass_ID_Limit
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Trees/Hawaii/HawaiiMaple_1

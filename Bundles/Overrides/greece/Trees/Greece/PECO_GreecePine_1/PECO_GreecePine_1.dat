@@ -1,0 +1,24 @@
+GUID b18003b85ba84dc897e7498c8d72fd78
+Type Resource
+ID 22404
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 23
+Reward_ID 22001
+Reward_XP 6
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override greece.masterbundle
+Bundle_Override_Path /Trees/Greece/GreecePine_1

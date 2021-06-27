@@ -1,0 +1,15 @@
+GUID 019624aa3e7f41eebf471b08779cf76b
+Type Food
+Useable Consumeable
+ID 22400
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Food 5
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override greece.masterbundle
+Bundle_Override_Path /Items/Greece/Olives_0

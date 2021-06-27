@@ -1,0 +1,27 @@
+GUID 36d2b0bea94e4e6d9b5102948bf6b7f5
+Type Resource
+ID 22313
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 21
+Reward_ID 678
+Reward_XP 4
+Reward_Min 3
+Reward_Max 5
+
+Reset 450
+
+Auto_Skybox
+
+SpeedTree
+
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Trees/Hawaii/Palm_0

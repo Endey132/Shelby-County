@@ -1,0 +1,24 @@
+GUID 9078006d0109407d83ce3b49a70d0aac
+Type Resource
+ID 22405
+
+Health 800
+Radius 4
+Scale 0.3
+
+Explosion 21
+Reward_ID 22001
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override greece.masterbundle
+Bundle_Override_Path /Trees/Greece/GreeceBirch_0

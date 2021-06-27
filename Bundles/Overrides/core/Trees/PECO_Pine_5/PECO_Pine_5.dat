@@ -1,0 +1,22 @@
+GUID 5358508404bd4811bd36bc4d78dc2664
+Type Resource
+ID 22031
+
+Health 1200
+Radius 5
+Scale 0.3
+
+Explosion 99
+Reward_ID 22001
+Reward_XP 6
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Pine_5

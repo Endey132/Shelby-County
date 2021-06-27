@@ -1,0 +1,12 @@
+GUID e413df55df194f68a93b13662ec111b8
+Type Resource
+ID 22407
+
+Health 1000
+Radius 3
+Scale 0.1
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override greece.masterbundle
+Bundle_Override_Path /Trees/Greece/GreeceBush_0

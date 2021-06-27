@@ -1,0 +1,22 @@
+GUID 9cd5adb69ad7400289acefa0690eef12
+Type Resource
+ID 22025
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 25
+Reward_ID 22001
+Reward_XP 5
+Reward_Min 6
+Reward_Max 9
+
+Reset 600
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Maple_1

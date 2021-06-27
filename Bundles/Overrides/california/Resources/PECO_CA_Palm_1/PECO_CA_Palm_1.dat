@@ -1,0 +1,20 @@
+GUID 4e808e36fbc8434a82e9df80b5d2354a
+Type Resource
+ID 22108
+
+Health 600
+Radius 4
+Scale 0.3
+
+Explosion 25
+Reward_ID 22001
+Reward_XP 5
+Reward_Min 6
+Reward_Max 9
+
+Reset 600
+
+Auto_Skybox
+
+Master_Bundle_Override california.masterbundle
+Bundle_Override_Path /Resources/CAP_Palm_1

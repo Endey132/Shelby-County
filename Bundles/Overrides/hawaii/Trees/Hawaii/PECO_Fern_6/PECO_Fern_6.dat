@@ -1,0 +1,15 @@
+GUID 6f2490cbf6534da5abaf7907a22eba5d
+Type Resource
+ID 22304
+
+Health 1000
+Radius 3
+Scale .2
+Offset .3
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Trees/Hawaii/Fern_6

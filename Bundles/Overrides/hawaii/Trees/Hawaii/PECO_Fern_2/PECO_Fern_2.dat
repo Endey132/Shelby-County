@@ -1,0 +1,15 @@
+GUID 5d6186fb2f1e43fa8194bc10dcbe03ac
+Type Resource
+ID 22318
+
+Health 1000
+Radius 3
+Scale .2
+Offset .1
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
+
+Master_Bundle_Override hawaii.masterbundle
+Bundle_Override_Path /Trees/Hawaii/Fern_2
