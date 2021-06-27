@@ -1,6 +1,0 @@
-GUID 4382c3a9309648ef82c36c74a5cff9ce
-Type Effect
-ID 37105
-
-Master_Bundle_Override morefarming.masterbundle
-Bundle_Override_Path /More_Farming/Effect_Chicken

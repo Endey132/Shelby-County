@@ -1,6 +1,0 @@
-GUID b50e489858ab4c169fdf95316c666e4e
-Type Effect
-ID 37103
-
-Master_Bundle_Override morefarming.masterbundle
-Bundle_Override_Path /More_Farming/Effect_CookingBake

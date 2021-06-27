@@ -1,7 +1,0 @@
-GUID 17b6f46a61884fa793c8a211ff98df17
-Type Effect
-ID 37106
-
-
-Master_Bundle_Override morefarming.masterbundle
-Bundle_Override_Path /More_Farming/Effect_Cow

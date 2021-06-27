@@ -1,7 +1,0 @@
-GUID c100bf1ea64b4561b7f0e358741e1eeb
-Type Effect
-ID 37102
-
-
-Master_Bundle_Override morefarming.masterbundle
-Bundle_Override_Path /More_Farming/Effect_CookingWater

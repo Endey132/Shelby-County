@@ -1,6 +1,0 @@
-GUID 5bed89d4cf59486eaa0e73f0bcdec47f
-Type Effect
-ID 37101
-
-Master_Bundle_Override morefarming.masterbundle
-Bundle_Override_Path /More_Farming/Effect_Carpentry
