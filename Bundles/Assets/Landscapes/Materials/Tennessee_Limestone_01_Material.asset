@@ -1,0 +1,33 @@
+"Metadata"
+{
+	"GUID" "b2ce3efef93b4dc5b04582cf6546971f"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "tennessee.content"
+		"Path" "assets/tennesseecontent/bundles/assets/landscapes/materials/Tennessee_Limestone_01_Material.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "GRAVEL_STATIC"
+	"Foliage"
+	{
+		"GUID" "170aabaf87ed4c748cc67c615389fb4d"
+	}
+	"Use_Auto_Slope" "false"
+	"Auto_Min_Angle_Begin" "0"
+	"Auto_Min_Angle_End" "0"
+	"Auto_Max_Angle_Begin" "0"
+	"Auto_Max_Angle_End" "0"
+	"Use_Auto_Foundation" "false"
+	"Auto_Ray_Radius" "0"
+	"Auto_Ray_Length" "0"
+	"Auto_Ray_Mask" "0"
+}
