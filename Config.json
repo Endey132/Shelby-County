@@ -12,7 +12,6 @@
 	"Use_Legacy_Ground": false,
 	"Use_Legacy_Fog_Height": false,
 	"Use_Legacy_Oxygen_Height": false,
-	"Should_Verify_Objects_Hash": true,
 	"Use_Rain_Volumes": true,
 	"Use_Snow_Volumes": true,
 	"PlayerUI_HealthVisible": true,
