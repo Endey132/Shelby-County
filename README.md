@@ -2,9 +2,11 @@
 
 -Smooth terrain around river
 -Add dependency trees & bushes to map
+-Add mineral deposits to quarries
 -Import bunker from unfinished NY map
 -Detail sidewalks; procedurally firehydrants, power lines, mailboxes & dumpsters infront of houses, 
 -Update crafting documentation to reflect current plans
+
 
 
 ----- CRAFTING & ITEM OBTAINING DOCUMENTATION -----
