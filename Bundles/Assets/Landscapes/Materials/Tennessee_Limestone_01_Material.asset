@@ -8,8 +8,8 @@
 	"ID" "0"
 	"Texture"
 	{
-		"Name" "tennessee.content"
-		"Path" "assets/tennesseecontent/bundles/assets/landscapes/materials/Tennessee_Limestone_01_Material.png"
+		"Name" "projecteconomy.masterbundle"
+		"Path" "Assets/Landscapes/Materials/Tennessee_Limestone_01_Material.png"
 	}
 	"Mask"
 	{
@@ -19,7 +19,7 @@
 	"Physics_Material" "GRAVEL_STATIC"
 	"Foliage"
 	{
-		"GUID" "170aabaf87ed4c748cc67c615389fb4d"
+		"GUID" "f8ca1e8fdd644083a07e4d6fa1dd8481"
 	}
 	"Use_Auto_Slope" "false"
 	"Auto_Min_Angle_Begin" "0"

@@ -1,12 +1,10 @@
 ----- TODO -----
 
--Make terrain more interesting
--Finish painting materials
--Finish foliage generation system
--Add dependency trees & bushes to map (Also add designated olive tree location)
-
-
-
+-Smooth terrain around river
+-Add dependency trees & bushes to map
+-Import bunker from unfinished NY map
+-Detail sidewalks; procedurally firehydrants, power lines, mailboxes & dumpsters infront of houses, 
+-Update crafting documentation to reflect current plans
 
 
 ----- CRAFTING & ITEM OBTAINING DOCUMENTATION -----
