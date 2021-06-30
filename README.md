@@ -9,7 +9,22 @@
 
 
 
------ CRAFTING & ITEM OBTAINING DOCUMENTATION -----
+
+-- Minerals --
+
+2 Limestone > 1 Mg
+1 Hematite > 1 Fe
+3 Olivine > 1 Mg, 1 Si, 1 Fe
+1 Galena > 1 Pb
+1 Malachite > 1 Cu
+1 Bauxite > 1 Al
+1 Scheelite > 1 W
+1 Electrum > 1 Au
+1 Cassiterite > 1 Sn
+
+
+
+----- CRAFTING & ITEM OBTAINING DOCUMENTATION (MOSTLY OUTDATED) -----
 
 
 
