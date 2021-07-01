@@ -1,11 +1,20 @@
 ----- TODO -----
 
 -Smooth terrain around river
+
+-Detail map; firehydrants on sidewalks, power lines, mailboxes & dumpsters infront of houses, appropriate traffic signs in rural intersections, traffic lights
+
+-Add more minerals
+
+-Models for raw minerals, mineral concentrate, refined metal
+
 -Add dependency trees & bushes to map
+
 -Add mineral deposits to quarries
--Import bunker from unfinished NY map
--Detail sidewalks; procedurally firehydrants, power lines, mailboxes & dumpsters infront of houses, 
+
 -Update crafting documentation to reflect current plans
+
+-Find way to prevent player names from showing on death screen, while looking at a player, and prevent voice icons from showing in player list
 
 
 
