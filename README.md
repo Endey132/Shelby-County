@@ -6,7 +6,11 @@
 
 -Add more minerals
 
--Models for raw minerals, mineral concentrate, refined metal
+-Spawns for rocks on river
+
+-Bush foraging for string fiber, and berries
+
+-Models for raw minerals, mineral concentrate, raw metal (Vanilla scrap), refined metal
 
 -Add dependency trees & bushes to map
 
@@ -55,6 +59,8 @@ Hand tools
 1 Metal > 2 Bolt
 2 Metal > 1 Plate
 
+
+- Ghetto Crafting
 
 
 
