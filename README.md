@@ -36,14 +36,15 @@ Ore node is mined for mineral item, mineral item is processed in mineral concent
 
 2 Limestone > 1 Mg
 1 Hematite > 1 Fe
-3 Olivine > 1 Mg, 1 Si, 1 Fe
+2 Olivine > 1 Mg, 1 Si
 1 Galena > 1 Pb
 1 Malachite > 1 Cu
 1 Bauxite > 1 Al
 1 Scheelite > 1 W
-1 Electrum > 1 Au
+2 Electrum > 1 Au
 1 Cassiterite > 1 Sn
-
+1 Sphalerite > 
+2 Bituminous Coal > 2 Coal, 1 Bitumen
 
 
 - Refined metal to part conversion
