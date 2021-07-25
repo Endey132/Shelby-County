@@ -12,11 +12,7 @@
 
 -Models for raw minerals, mineral concentrate, raw metal (Vanilla scrap), refined metal
 
--Add dependency trees & bushes to map
-
 -Add mineral deposits to quarries
-
--Update crafting documentation to reflect current plans
 
 -Find way to prevent player names from showing on death screen, while looking at a player, and prevent voice icons from showing in player list
 
@@ -30,39 +26,48 @@ Ore node is mined for mineral item, mineral item is processed in mineral concent
 
 
 
-- Mineral items to raw metal conversion
+- Mineral Conversion rates
+
+Mineral Clump > Mineral Concentration Factory = Mineral Concentrate
+Mineral Concentrate > Mineral Electrolysis Chamber = Resources
+
+
+1u Bauxite > 1u Aluminium
+1u Bismuthinite > 0.5u Bismuth, 0.5u Sulfur
+1u Cassiterite > 1u Tin
+1u Electrum > 0.5u Gold
+1u Galena > 1u Lead
+1u Garnierite > 1u Nickel
+1u Hematite > 1u Iron
+1u Lignite > 1u Coal, 0.5u Bitumen
+1u Limestone > 0.5u Magnesium
+1u Limonite > 1u Iron
+1u Magnetite > 1u Iron
+1u Malachite > 1u Copper
+1u Olivine > 1u Magnesium, 1u Silicon
+1u Pyrite > 0.75u Iron, 0.25u Sulfur
+1u Scheelite > 1u Tungsten
+1u Sphalerite > 0.5u Zinc, 0.5u Iron
+1u Tetrahedrite > 0.5u Iron, 0.5u Copper
+1u Uranite > 0.25u Uranium
 
 
 
-2 Limestone > 1 Mg
-1 Hematite > 1 Fe
-2 Olivine > 1 Mg, 1 Si
-1 Galena > 1 Pb
-1 Malachite > 1 Cu
-1 Bauxite > 1 Al
-1 Scheelite > 1 W
-2 Electrum > 1 Au
-1 Cassiterite > 1 Sn
-1 Sphalerite > 
-2 Bituminous Coal > 2 Coal, 1 Bitumen
 
 
-- Refined metal to part conversion
+- Part conversion rates & whitelisted metals
 
 
 Lathe & Reclamation
 
-1 Metal > 4 Bolt
-1 Metal > 1 Plate
+1u > 4 Bolt
+1u > 1 Plate
+
 
 Hand tools
 
-1 Metal > 2 Bolt
-2 Metal > 1 Plate
-
-
-- Ghetto Crafting
-
+1u > 2 Bolt
+1u > 0.5 Plate
 
 
 

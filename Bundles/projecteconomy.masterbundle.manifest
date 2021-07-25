@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1488858880
+CRC: 722179625
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3c1b98ddf4e4d8b280c012cf81e945e3
+    Hash: 059ccfa4480791f89ec9eaaf9100e773
   TypeTreeHash:
     serializedVersion: 2
     Hash: afcfb7995c5590fd0f7eac34e0f22880
@@ -81,11 +81,12 @@ Assets:
 - Assets/ProjectEconomy/Sources/Assets/Vehicles/Emmissions/Siren_AllBlue.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/Foundation_Entrance/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MallFix/Slots.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Scheelite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Crane_Revamp/Skybox.prefab
 - Assets/ProjectEconomy/Sources/Assets/Items/Supplies/Materials/Copper_Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/MDSP_Charger/Texture2.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Turn/Skybox.prefab
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Copper/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Copper/Item.prefab
 - Assets/ProjectEconomy/Sources/Assets/Resources/Mineral/Cassiterite_Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/Police_Large/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Black_Charger/Vehicle.prefab
@@ -162,6 +163,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Double_Cap/Material2.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Tee/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRTee/Skybox.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Bauxite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/ConstructionSidewalk/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Intersection_Downtown/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Office_1/Slots.prefab
@@ -180,7 +182,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Motel_1/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Test_Charger/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/BMX/Texture.png
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Iron/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Iron/Item.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Purple_Tahoe/Engine_Explorer.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Tee/Texture.png
 - Assets/ProjectEconomy/Sources/Assets/Vehicles/Texture1_Colours/Red.png
@@ -224,6 +226,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Items/Tools/Crude_Axe/Item.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/White_Charger/Horn.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Turn/Object.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Electrum/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadR/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Turn_Highway_Right/Texture.png
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Plate/Plate_Lead/Item.prefab
@@ -265,6 +268,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/DarkGreen_Tahoe/Horn.wav
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Lathes/Lathe_Industrial/Barricade.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Space_Needle/Material.mat
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Hematite/Item.prefab
 - Assets/ProjectEconomy/Sources/Assets/Resources/Mineral/Electrum_Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Quad_Cap/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_CapR/Texture2.png
@@ -287,7 +291,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Plate/Plate_Iron/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Medium/Parks/NRP_Flag_TN/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Quad/Object.prefab
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Zinc/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Zinc/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Sidewalk_Cap/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Club_Fix/Object.prefab
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Mineral_Processing/Mineral_Blast_Furnace/Clip.prefab
@@ -434,6 +438,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Bauxite/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line_10m/Material.mat
 - Assets/ProjectEconomy/Bundles/Items/Tools/Crude_Knife/Model_0.blend
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Cassiterite/Item.prefab
 - Assets/ProjectEconomy/Sources/Assets/Items/Supplies/Materials/Copper.png
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/AMR_Tahoe/Siren.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/BPD/Skybox.prefab
@@ -613,6 +618,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Test_Charger/Texture2.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Line/Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/White_Tahoe/Clip.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Malachite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Items/Tools/Crude_Axe/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/Bank_Large/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_1/Nav.prefab
@@ -671,7 +677,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Green_Charger/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Police_Large/Texture.png
 - Assets/ProjectEconomy/Bundles/Items/Tools/Crude_Knife/Albedo.png
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Lead/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Lead/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_6/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MallFix/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Turn/Nav.prefab
@@ -727,6 +733,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Unmarked_Tahoe/Ignition.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Tee_Cap/Texture.png
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Lathes/Lathe_Industrial/Use.mp3
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Coal/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MPD/Material1.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Line/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Foundation_Facility/Material.mat
@@ -830,6 +837,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/BMX/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/DarkGreen_Charger/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/RPD/Slots.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Galena/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Cap_10m/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Line_Cap/Material2.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/BPD_2/Material.mat
@@ -901,6 +909,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_CapR/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Intersection_Downtown/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Purple_Tahoe/Vehicle.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Galena/Item.prefab
 - Assets/ProjectEconomy/Sources/Assets/Vehicles/Taurus.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRTee/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/BPD/Texture.png
@@ -922,7 +931,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRQuad/Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/White_Tahoe/Ignition.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/BPD/Model_0.fbx
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Tin/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Tin/Item.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/THP_Charger/Vehicle.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/MDSP_Tahoe/Texture2.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Quad/Texture.png
@@ -996,6 +1005,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/Bank_Edit/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Orange_Tahoe/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Apartment_3/Nav.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Cassiterite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CRP_Apartments/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line_Cap_10m/Texture2.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line_10m/Model_0.fbx
@@ -1004,6 +1014,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_HalfRoad_Line_Cap/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/Subway_Station/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Club_Fix/Material.mat
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Hematite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Cap_10m/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Granite_Tahoe/Vehicle.prefab
@@ -1055,6 +1066,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Decoration_Building_0/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Space_Needle/Untitled.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MPD/Texture2.png
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Electrum/Item.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Olivine/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Tower_1/Slots.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Plate/Plate_Copper/Item.prefab
@@ -1077,6 +1089,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Line_Highway/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_1/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Small/Business/Wheel_1/Model_1.fbx
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Sphalerite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Turn/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Seattle_Roads/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Red_Tahoe/Vehicle.prefab
@@ -1086,6 +1099,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Tee/Clip.prefab
 - Assets/ProjectEconomy/Sources/Assets/Items/Supplies/Metal_Rod/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/Foundation_Facility/Object.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Sphalerite/Item.prefab
 - Assets/ProjectEconomy/Sources/Assets/Items/Supplies/Canisters/Canister_Empty.png
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Scheelite/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_2/Object.prefab
@@ -1130,6 +1144,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_HalfRoad_Line_Cap/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Green_Charger/Vehicle.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Olivine/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Foundation_Entrance/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/CraneDock/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Sidewalk_Cap/Clip.prefab
@@ -1143,6 +1158,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Test_Charger/Engine_Caprice.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Line_Cap/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYCDOC/Material.mat
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Limestone/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Crane_Revamp/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/Road1/Material.mat
@@ -1160,7 +1176,7 @@ Assets:
 - Assets/ProjectEconomy/Sources/Assets/Vehicles/Texture1_Colours/BlueIndigo.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Apartment_1/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Subway_Station/Material.mat
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Minerals/Mineral_Bauxite/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Bauxite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Mineral_Processing/Mineral_Electrolysis_Chamber/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/Road2/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Apartment_0/Clip.prefab
@@ -1191,7 +1207,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Tee_Cap/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Line/Model_0.fbx
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Aluminium/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Aluminium/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Cap/Object.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Bauxite/Resource.prefab
 - Assets/ProjectEconomy/Bundles/Assets/Landscapes/Foliage/tennessee_grass_4.png
@@ -1229,6 +1245,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Blue_Charger/Vehicle.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/ConstructionSidewalk/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Office_1/Model_0.fbx
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Olivine/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYCDOC/Slots.prefab
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Mineral_Processing/Mineral_Induction_Smelter/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line/Texture.png
@@ -1267,7 +1284,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Red_Charger/Engine_Caprice.wav
 - Assets/ProjectEconomy/Sources/Assets/Items/Supplies/Materials/Magnesium_Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Line_Cap/Clip.prefab
-- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rod/Rod_Gold/Item.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Rods/Rod_Gold/Item.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Scheelite/Stump.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/DarkRed_Charger/Horn.wav
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Hematite/Resource_Clip.prefab
@@ -1280,6 +1297,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_2/Slots.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Turn/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Line/Nav.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Clump/Clump_Malachite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Malachite/Stump.prefab
 - Assets/ProjectEconomy/Bundles/Items/Tools/Crude_Axe/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRQuad/Clip.prefab
@@ -1310,6 +1328,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Apartment_2/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/BPD_2/Skybox.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/SPD/Slots.prefab
+- Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Concentrate/Concentrate_Scheelite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Orange_Tahoe/Vehicle.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_0/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Quad_Cap/Texture.png

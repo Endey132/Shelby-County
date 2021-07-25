@@ -1,0 +1,18 @@
+GUID 2890152ba15a4b4186c4de31fc8d4766
+Type Resource
+ID 21005
+
+Health 1200
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 22105
+Reward_XP 6
+Reward_Min 3
+Reward_Max 7
+
+BladeID 2
+
+No_Debris
+Reset 1000

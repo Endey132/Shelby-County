@@ -1,0 +1,13 @@
+GUID de383dbc56e44678b50d0658a32678e1
+Type Supply
+ID 17166
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17116
+Blueprint_0_Build 27

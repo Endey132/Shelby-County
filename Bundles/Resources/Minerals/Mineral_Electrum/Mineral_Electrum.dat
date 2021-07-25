@@ -1,13 +1,13 @@
 GUID c74ab11e334149f88ddf2a26ae8db5da
 Type Resource
-ID 21004
+ID 21003
 
 Health 1200
 Radius 4
 Scale 0.3
 
 Explosion 52
-Reward_ID 22005
+Reward_ID 22103
 Reward_XP 6
 Reward_Min 3
 Reward_Max 7

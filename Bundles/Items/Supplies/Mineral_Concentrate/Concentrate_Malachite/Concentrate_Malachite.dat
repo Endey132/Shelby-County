@@ -1,7 +1,13 @@
-GUID 5dda34504e7048529f6ce18152328360
+GUID 2dcf48885b124e1883779b2489bccfbf
 Type Supply
-ID 17100
+ID 17161
 
 Size_X 2
 Size_Y 2
 Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17111
+Blueprint_0_Build 27
