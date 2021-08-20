@@ -26,6 +26,31 @@ Ore node is mined for mineral item, mineral item is processed in mineral concent
 
 
 
+- Mineral ID Library
+
+Bauxite - 0
+Bismuthinite - 1
+Cassiterite - 2
+Electrum - 3
+Galena - 4
+Garnierite - 5
+Hematite - 6
+Ligntie - 7
+Limestone - 8
+Limonite - 9
+Magnetite - 10
+Malachtie - 11
+Olivine - 12
+Pyrite - 13
+Scheelite - 14
+Sphalerite - 15
+Tetrahedrite - 16
+Uranite - 17
+
+
+
+
+
 - Mineral Conversion rates
 
 Mineral Clump > Mineral Concentration Factory = Mineral Concentrate
@@ -35,7 +60,7 @@ Mineral Concentrate > Mineral Electrolysis Chamber = Resources
 1u Bauxite > 1u Aluminium
 1u Bismuthinite > 0.5u Bismuth, 0.5u Sulfur
 1u Cassiterite > 1u Tin
-1u Electrum > 0.5u Gold
+1u Electrum > 0.25u Gold, 0.5u Silver
 1u Galena > 1u Lead
 1u Garnierite > 1u Nickel
 1u Hematite > 1u Iron
@@ -52,6 +77,20 @@ Mineral Concentrate > Mineral Electrolysis Chamber = Resources
 1u Uranite > 0.25u Uranium
 
 
+- Processed Mineral ID Library
+
+Aluminium - 13
+Bismuth - 83
+Sulfur - 16
+Tin - 50
+Gold - 79
+Silver - 47
+Lead - 82
+Nickel - 28
+Iron - 26
+Carbon (Coal) - 6
+Bitumen - ??
+Limestone - ??
 
 
 
@@ -60,7 +99,7 @@ Mineral Concentrate > Mineral Electrolysis Chamber = Resources
 
 Lathe & Reclamation
 
-1u > 4 Bolt
+1u > 4 Bolt (
 1u > 1 Plate
 
 
