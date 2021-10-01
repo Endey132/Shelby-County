@@ -1,0 +1,33 @@
+// Cool
+
+event onLoad(){
+	server.log("Vehicle Assembly successfully loaded!")
+	database.execute("CREATE TABLE IF NOT EXISTS CraftingRestrictions (ItemID INT UNSIGNED NOT NULL PRIMARY KEY, StationID INT UNSIGNED NOT NULL;");
+}
+
+event onPlayerCrafted(player, itemId, *cancel){
+	craftPlayer = player;
+	reqStation = database.firstRow("SELECT StationID FROM CraftingRestrictions WHERE ItemID = @p0;", itemId);
+	if(reqStation != null){
+		playerStation = craftPlayer.look.getBarricade;
+		playerStationPos = playerStation.position;
+		barricadeStationCheck = database.execute("SELECT count(*) FROM CraftingRestrictions WHERE StationID = @p0;", playerStation.id);
+		playerPos = craftPlayer.position;
+		if(playerStation.id == reqStation and playerPos.distance(playerPos) < 6){
+			player.message(<color=green>"Station crafting successful!");
+		}
+		else if(playerPos.distance(playerPos) < 6 and barricadeStationCheck != 0 and playerStation.id != reqStation){
+			cancel = true;
+			player.message(<color=yellow>"Incorrect crafting station!");
+		}
+		else if(playerPos.distance(playerPos) > 5 or barricadeStationCheck == 0){
+			cancel = true;
+			player.message(<color=yellow>"No crafting station found!");
+		}
+		else{
+			cancel = true;
+			player.message(<color=yellow>"Unknown crafting error.");
+		}
+	}
+}
+

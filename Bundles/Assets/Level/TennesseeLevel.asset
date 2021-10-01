@@ -5,8 +5,7 @@
 }
 "Asset"
 {	
-	"ID" 69"
-    "NoteToSelf" "Nice"
+	"ID" "0"
 	"Crafting_Blacklists"
 	[
 		{"GUID" "aeb20f4ca8ab41c8bb0058e324030c65"}

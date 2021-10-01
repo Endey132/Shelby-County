@@ -16,33 +16,13 @@
 
 -Find way to prevent player names from showing on death screen, while looking at a player, and prevent voice icons from showing in player list
 
-
+-"Vehicle Deployment Kit" backpack, is the only way to have vehicle assemblies in your inventory for deployment (Assemblies would need a big, flat terrain in order to be deployed, and would have a 30-45 second deployment period)
 
 
 
 ----- Mineral Processing -----
 
 Ore node is mined for mineral item, mineral item is processed in mineral concentration factory for mineral concentrate, mineral concentrate is put into mineral electrolysis chamber to give raw metal(s), raw metals are refined in a blast furnace to give refined metals, refined metals are put in lathes to produce parts (Or could make them with hand tools at reduced efficiency,) parts are used to make items.
-
-
-
-- Mineral ID Library
-
-Bauxite - 0
-Cassiterite - 1
-Electrum - 2
-Galena - 3
-Garnierite - 4
-Hematite - 5
-Ligntie - 6
-Limestone - 7
-Malachtie - 8
-Olivine - 9
-Pyrite - 10
-Scheelite - 11
-Sphalerite - 12
-Tetrahedrite - 13
-
 
 
 
@@ -67,6 +47,119 @@ Mineral Concentrate > Mineral Electrolysis Chamber = Resources
 1u Scheelite > 1u Tungsten
 1u Sphalerite > 0.5u Zinc, 0.5u Iron
 1u Tetrahedrite > 0.5u Iron, 0.5u Copper
+
+
+
+
+
+- Base Minerals
+
+
+
+Aluminium - Alloying, misc civilian items
+
+Tin - Alloying, canisters, Misc civilian items
+
+Gold - High-end electronics
+
+Lead - Ammunition
+
+Nickel - 
+
+Coal - 
+
+Bitumen - Fuel, Polymer
+
+Magnesium - Alloying, incendiary explosives
+
+Copper - Alloying, Ammunition, Electronics
+
+Silicon - Computers, Electronics
+
+Iron - Industrial machinery, handheld mining-related tools
+
+Sulfur - Heavy explosives
+
+Tungsten - High-end armor & weaponry
+
+Zinc - Alloying
+
+
+
+- Advanced Materials -
+
+
+
+Magnesium 4424 - Kevlar, firearms, high-tier vehicles
+
+Steel - Non-worn armor, firearms, attachments, low-tier armored vehicles
+
+Red Brass - Firearms
+
+Brass - Ammunition
+
+Aluminium 6061 - Vehicles, attachments, and firearms
+
+Aluminium 7075 - Aviation, attachments, firearms
+
+Polymer - Firearms, Kevlar
+
+Carbon Fiber - Kevlar
+
+Coated Steel - Heavily armored structures
+
+
+
+- Misc Materials -
+
+
+
+Coal Coke - 
+
+
+
+----- Crafting -----
+
+
+
+
+
+- Alloy Formation Chamber -
+
+6 Aluminium, 2 Copper, 2 Zinc			> 10 Aluminium 6061
+8 Aluminium, 1 Copper, 1 Zinc			> 10 Aluminium 7075
+8 Copper, 2 Zinc						> 10 Brass
+8 Copper, 1 Tin, 1 Zinc					> 10 Red Brass
+5 Magnesium, 3 Zinc, 2 Aluminium		> 10 Magnesium 4424
+
+
+
+
+
+- Chemical Reaction Chamber -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
