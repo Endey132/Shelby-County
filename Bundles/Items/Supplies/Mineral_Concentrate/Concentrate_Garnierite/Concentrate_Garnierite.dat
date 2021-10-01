@@ -1,6 +1,6 @@
 GUID 2b0d81093be248118b258ffebd1181ee
 Type Supply
-ID 17155
+ID 17154
 
 Size_X 2
 Size_Y 2
@@ -9,5 +9,5 @@ Size_Z 0.25
 Blueprints 1
 Blueprint_0_Type Gear
 Blueprint_0_Supplies 1
-Blueprint_0_Supply_0_ID 17105
+Blueprint_0_Supply_0_ID 17104
 Blueprint_0_Build 27

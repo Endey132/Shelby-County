@@ -40,7 +40,7 @@
 
 - Unity/Modeling Guidelines
 
-1. If you intend on working on the unity project, first create a new project named "PECO-Unity" inside of the directory you're going to clone the repository to, using Unity version 2019.4.25f1 (Will update stated version whenever the repository's version is changed.)
+1. If you intend on working on the unity project, first create a new project named "PECO-Unity" inside of the directory you're going to clone the repository to, using Unity version 2019.4.30f1
 
 2. Try to categorize new assets in the same was as existing assets.
 
