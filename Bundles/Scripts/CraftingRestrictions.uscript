@@ -1,33 +1,33 @@
-// Cool
-
 event onLoad(){
-	server.log("Crafting Restrictions successfully loaded!")
-	database.execute("CREATE TABLE IF NOT EXISTS CraftingRestrictions (ItemID INT UNSIGNED NOT NULL PRIMARY KEY, StationID INT UNSIGNED NOT NULL;");
+	server.log("Crafting Restrictions successfully loaded!");
+	database.execute("CREATE TABLE IF NOT EXISTS CraftingRestrictions (ItemID INT UNSIGNED NOT NULL PRIMARY KEY, StationID INT UNSIGNED NOT NULL);");
 }
 
-event onPlayerCrafted(player, itemId, *cancel){
-	craftPlayer = player;
+event onPlayerCrafted(player, itemId, cancel){
 	reqStation = database.firstRow("SELECT StationID FROM CraftingRestrictions WHERE ItemID = @p0;", itemId);
-	if(reqStation != null){
-		playerStation = craftPlayer.look.getBarricade;
-		playerStationPos = playerStation.position;
-		barricadeStationCheck = database.execute("SELECT count(*) FROM CraftingRestrictions WHERE StationID = @p0;", playerStation.id);
-		playerPos = craftPlayer.position;
-		if(playerStation.id == reqStation and playerPos.distance(playerPos) < 6){
-			player.message(<color=green>"Station crafting successful!");
-		}
-		else if(playerPos.distance(playerPos) < 6 and barricadeStationCheck != 0 and playerStation.id != reqStation){
-			cancel = true;
-			player.message(<color=yellow>"Incorrect crafting station!");
-		}
-		else if(playerPos.distance(playerPos) > 5 or barricadeStationCheck == 0){
-			cancel = true;
-			player.message(<color=yellow>"No crafting station found!");
+	if(reqStation.count > 0){
+		playerStation = player.look.getBarricade();
+		if(playerStation != null){
+			reqStationID = reqStation[0].toNumber();
+			if(playerStation.id == reqStationID and player.position.distance(playerStation.position) <= 9){
+				player.message("Station crafting successful!", "green");
+			}
+			else if(playerStation.id != reqStationID and player.position.distance(playerStation.position) <= 9){
+				player.message("Incorrect crafting station!", "yellow");
+				cancel = true;
+			}
+			else if(player.position.distance(playerStation.position) > 9){
+				player.message("Too far from crafting station!", "yellow");
+				cancel = true;
+			}
+			else{
+				player.message("Unknown crafting station error!", "yellow");
+				cancel = true;
+			}
 		}
 		else{
+			player.message("No crafting station found!", "yellow");
 			cancel = true;
-			player.message(<color=yellow>"Unknown crafting error.");
 		}
 	}
 }
-
