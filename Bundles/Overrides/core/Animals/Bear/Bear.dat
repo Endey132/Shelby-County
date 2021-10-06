@@ -17,3 +17,6 @@ Reward_Min 3
 Reward_Max 4
 
 Roars 3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Animals/Bear

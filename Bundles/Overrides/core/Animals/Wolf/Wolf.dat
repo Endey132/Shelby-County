@@ -17,3 +17,6 @@ Reward_Min 1
 Reward_Max 2
 
 Roars 3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Animals/Wolf

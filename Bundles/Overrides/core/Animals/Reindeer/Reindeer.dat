@@ -13,3 +13,6 @@ Reward_ID 523
 Reward_XP 10
 Reward_Min 2
 Reward_Max 3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Animals/Reindeer

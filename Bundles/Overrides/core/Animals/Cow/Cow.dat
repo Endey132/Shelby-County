@@ -15,3 +15,6 @@ Reward_Min 2
 Reward_Max 3
 
 Panics 3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Animals/Cow

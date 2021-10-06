@@ -1,6 +1,6 @@
 GUID 4f191d9e600f4ba0af95f1135757edf3
 Type Animal
-ID 17002
+ID 17001
 
 Speed_Run 12
 Speed_Walk 4
@@ -13,3 +13,6 @@ Reward_ID 523
 Reward_XP 10
 Reward_Min 2
 Reward_Max 3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Animals/Moose

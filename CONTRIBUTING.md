@@ -2,17 +2,7 @@
 
 1. If you find an exploit that has the potential to do a lot of bad to the server, do not open an issue, but PM me (Endey#9550) on discord instead.
 
-2. Tag your issues appropriately (if you are suggesting a new feature, tag it with as an enhancement, if you are reporting a bug, tag it as a bug, etc)
-
-
-
-
-
-- Contributing General Guidelines
-
-1. Label your commits in present tense, briefly describing changes that have been made in your commit.
-
-2. Test your commits and make sure they're working before submiting a pull request.
+2. Tag your issues appropriately (if you are suggesting a new feature, tag it as an enhancement, if you are reporting a bug, tag it as a bug, etc)
 
 
 
