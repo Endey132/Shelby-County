@@ -1,0 +1,11 @@
+GUID e422329dff234d439ee3100efe8b17f2
+Type Supply
+Rarity Uncommon
+ID 22001
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Stick_Maple

@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f8336e6ab3288934f9279831c06d7597, type: 2}
+  - {fileID: 2100000, guid: c561786dfe69c1e41ad1fc919db79e57, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -105,8 +105,8 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100000}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: -0.049109586, y: 0.12563902, z: -0.0000000055879354}
-  m_Size: 0.9755864
+  m_LocalReferencePoint: {x: -0.04223425, y: 0.10804957, z: -0.0000000037252903}
+  m_Size: 0.8390043
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
@@ -140,7 +140,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: 0.00000007006645, y: -1, z: 0.00000016352347, w: 0.00000042843675}
-  m_LocalPosition: {x: 0, y: 0.12916547, z: 0.55812275}
+  m_LocalPosition: {x: -0, y: 0.1, z: 0.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 400000}
@@ -170,7 +170,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 154154}
   m_LocalRotation: {x: -0.00000021606681, y: -0.7071068, z: -0.7071068, w: -0.00000045787493}
-  m_LocalPosition: {x: -0.01, y: 0.325, z: 0}
+  m_LocalPosition: {x: 0, y: 0.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 400000}
@@ -199,10 +199,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1369692743347230}
-  m_LocalRotation: {x: -0.3826837, y: -0.9238795, z: 0.00000008940696, w: 0.0000005513429}
-  m_LocalPosition: {x: 0.012, y: 0.104, z: 0.558}
+  m_LocalRotation: {x: 0.7071068, y: 0.7071068, z: 0.00000019861236, w: 0.00000019861236}
+  m_LocalPosition: {x: 0, y: 0.1, z: 0.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 179.99998, z: 90}

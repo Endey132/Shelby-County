@@ -1,0 +1,16 @@
+GUID e4e19409fee449e1aaa42ec606efdcb8
+Type Resource
+ID 22008
+
+Health 1000
+Radius 3
+Scale 0.1
+
+Christmas_Redirect 0
+
+Explosion 43
+
+Reward_ID 22001
+Forage
+
+Reset 1000
