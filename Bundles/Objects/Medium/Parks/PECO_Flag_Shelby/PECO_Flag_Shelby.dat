@@ -1,0 +1,10 @@
+GUID 9bb883496e124d14a992ad6fdf8bac89
+Type Medium
+ID 32600
+
+Snowshoe
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 100
+Interactability_Effect 72
