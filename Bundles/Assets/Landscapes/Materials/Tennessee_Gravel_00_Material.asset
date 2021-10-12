@@ -21,13 +21,4 @@
 	{
 		"GUID" "301acfafcc464f0d94d4b617552176f1"
 	}
-	"Use_Auto_Slope" "false"
-	"Auto_Min_Angle_Begin" "0"
-	"Auto_Min_Angle_End" "0"
-	"Auto_Max_Angle_Begin" "0"
-	"Auto_Max_Angle_End" "0"
-	"Use_Auto_Foundation" "false"
-	"Auto_Ray_Radius" "0"
-	"Auto_Ray_Length" "0"
-	"Auto_Ray_Mask" "0"
 }

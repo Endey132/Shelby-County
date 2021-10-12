@@ -4,7 +4,11 @@
 	[
 		{
 			"VehicleID": 45500,
-			"RoadIndex": 163
+			"RoadIndex": 149
+		},
+		{
+			"VehicleID": 45501,
+			"RoadIndex": 457
 		}
 	],
 	"Use_Legacy_Clip_Borders": false,
