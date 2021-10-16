@@ -1,0 +1,22 @@
+GUID eb8cd8c652b6422ea8d476d9ed73664d
+Type Resource
+ID 22023
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 105
+Reward_ID 22000
+Reward_XP 0
+Reward_Min 6
+Reward_Max 9
+
+Reset 600
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Dead_5

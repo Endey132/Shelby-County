@@ -1,0 +1,22 @@
+GUID 915529cfed6c4375ad33d43fd4bc4fab
+Type Resource
+ID 22002
+
+Health 1200
+Radius 5
+Scale 0.3
+
+Explosion 145
+Reward_ID 22000
+Reward_XP 0
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Pine_9

@@ -9,6 +9,9 @@ Scale 0.1
 Explosion 43
 
 Reward_ID 22001
+Forage_Reward_Experience 0
 Forage
 
 Reset 1000
+
+Christmas_Redirect 83dfef4ddd794fb6a483126a9b3bd252

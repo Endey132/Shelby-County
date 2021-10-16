@@ -8,9 +8,9 @@ Scale 0.3
 
 Explosion 52
 Reward_ID 22112
-Reward_XP 6
-Reward_Min 3
-Reward_Max 7
+Reward_XP 0
+Reward_Min 2
+Reward_Max 4
 
 BladeID 2
 

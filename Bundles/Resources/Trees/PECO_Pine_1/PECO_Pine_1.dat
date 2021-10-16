@@ -1,0 +1,24 @@
+GUID 37bf874a9f764953a49ccbf7adb6ea76
+Type Resource
+ID 22027
+
+Health 1200
+Radius 5
+Scale 0.3
+
+Explosion 26
+Reward_ID 22000
+Reward_XP 0
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+Auto_Skybox
+SpeedTree
+SpeedTree_Default_LOD_Weights
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Trees/Pine_1
+
+Christmas_Redirect 36344d5b9a204e05ac63b24f647b7435

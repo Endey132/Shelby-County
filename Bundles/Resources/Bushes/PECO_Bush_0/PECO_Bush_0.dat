@@ -6,11 +6,12 @@ Health 1000
 Radius 3
 Scale 0.1
 
-Christmas_Redirect 0
-
 Explosion 43
 
 Reward_ID 22001
+Forage_Reward_Experience 0
 Forage
 
 Reset 1000
+
+Christmas_Redirect 029ed3112935457e8daaf7258989d459
