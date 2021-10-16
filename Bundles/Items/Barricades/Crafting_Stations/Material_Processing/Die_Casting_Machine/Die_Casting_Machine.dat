@@ -1,0 +1,19 @@
+GUID 684735d4750f482a983364b4c8aceb5d
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 17015
+
+Size_X 5
+Size_Y 3
+Size_Z 0.35
+
+Health 850
+Range 8
+Radius 0.25
+Offset 1.4
+
+Explosion 36
+
+PlacementAudioClip /Sounds/MetalPlacement.mp3
