@@ -1,6 +1,6 @@
 GUID 62f040c6d6dc42d4a281e2d954577168
 Type Supply
-Rarity Uncommon
+Rarity Rare
 ID 22000
 
 Size_X 2
@@ -8,4 +8,4 @@ Size_Y 1
 Size_Z 0.35
 
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Supplies/Log_Maple
+Bundle_Override_Path /Items/Supplies/Log_Pine

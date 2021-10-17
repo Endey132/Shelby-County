@@ -1,6 +1,6 @@
 GUID 5f092a82505d423b95c274e616478f29
 Type Supply
-Rarity Uncommon
+Rarity Rare
 ID 22002
 
 Size_X 1
@@ -8,7 +8,7 @@ Size_Y 2
 Size_Z 0.6
 
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Supplies/Plank_Maple
+Bundle_Override_Path /Items/Supplies/Plank_Pine
 
 
 
