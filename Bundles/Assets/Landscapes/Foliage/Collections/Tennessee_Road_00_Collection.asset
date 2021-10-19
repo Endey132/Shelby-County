@@ -41,49 +41,49 @@
 			{
 				"GUID" "fe4f212589e546ba9d239b44e977b3fc"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "5fd4162f5ae04f27857f2909e9db071b"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "2398b0e25bb04f03aebed7aafd3adb89"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "4817bb9721264b00bde423ceb65c484d"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "2f9b261318c2426d8b7d61f82af30349"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "a45e1dd027224ff391768259124f0a1a"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 		{
 			"Asset"
 			{
 				"GUID" "bfb6047afe9d4e04b5fc5d47567dd473"
 			}
-			"Weight" "0.075"
+			"Weight" "0.05"
 		}
 	]
 }

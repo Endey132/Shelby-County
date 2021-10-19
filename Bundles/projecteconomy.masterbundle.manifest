@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3012371774
+CRC: 3006900697
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d1874806e303e04212e5c1bf5389f389
+    Hash: c3f38c85117f73778a7ac49fddf82d64
   TypeTreeHash:
     serializedVersion: 2
     Hash: 88da6797a8d2dfc42728588466e3b655
@@ -253,7 +253,6 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/BPD_Tahoe/Ignition.wav
 - Assets/ProjectEconomy/Sources/Items/Supplies/Metal_Bolt/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Turn/Clip.prefab
-- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Tee_Cap/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/DarkRed_Tahoe/Vehicle.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Line_Cap/Nav.prefab
@@ -273,7 +272,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Tee/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Sphalerite/Resource.prefab
 - Assets/ProjectEconomy/Sources/Vehicles/Texture1_Colours/Black.png
-- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Model_0.fbx
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Quad/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/BMX/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Undercover_Tahoe/Siren.wav
@@ -422,6 +421,7 @@ Assets:
 - Assets/ProjectEconomy/Sources/Resources/Bushes/1_Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Tee_Cap/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Intersection_Downtown/Texture.png
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Tetrahedrite/Stump.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/SPD/Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Purple_Tahoe/Horn.wav
@@ -726,7 +726,6 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_9/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYCDOC/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Line/Clip.prefab
-- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Unmarked_Tahoe/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRQuad/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Turn/Model_0.fbx
@@ -1096,7 +1095,7 @@ Assets:
 - Assets/ProjectEconomy/Sources/Resources/Minerals/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_3/Slots.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_CapL/Model_0.fbx
-- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light/Model_0.fbx
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Material_Processing/Bitumen_Extraction_Chamber/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Malachite/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_0/Object.prefab
@@ -1183,6 +1182,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MPD/Texture2.png
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Olivine/Resource_Clip.prefab
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Mineral_Outputs/Nickel_Texture.png
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_2/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Tower_1/Slots.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Metal_Plate/Plate_Copper/Item.prefab
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Mineral_Outputs/Tungsten_Material.mat

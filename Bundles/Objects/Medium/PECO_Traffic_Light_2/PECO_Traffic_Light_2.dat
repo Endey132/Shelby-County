@@ -2,5 +2,9 @@ GUID 73290daccd40472aa78c79dc535c589c
 ID 27234
 Type Medium
 
+Chart Ignore
 
-
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72
