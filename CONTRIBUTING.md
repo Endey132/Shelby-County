@@ -17,25 +17,3 @@
 3. Make sure you've subscribed to all of the server's workshop mods before editing the map (https://steamcommunity.com/sharedfiles/filedetails/?id=2328257711)
 
 
-
-
-
-- Crafting Recipe Guidelines
-
-1. If you ever make a change to any crafting recipe or implement a new crafting recipe, update the readme.md crafting documentation section as well.
-
-
-
-
-
-- Unity/Modeling Guidelines
-
-1. If you intend on working on the unity project, first create a new project named "PECO-Unity" inside of the directory you're going to clone the repository to, using Unity version 2019.4.30f1
-
-2. Try to categorize new assets in the same was as existing assets.
-
-3. When making new assets, save them as a .blend file rather than exporting as .fbx or .obj.
-
-
-
-
