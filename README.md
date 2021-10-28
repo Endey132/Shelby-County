@@ -1,23 +1,22 @@
 ----- TODO -----
 
--Smooth terrain around river
-
 -Detail map; firehydrants on sidewalks, power lines, mailboxes & dumpsters infront of houses, appropriate traffic signs in rural intersections, traffic lights
 
--Add more minerals
+-Bush foraging for berries
 
--Spawns for rocks on river
-
--Bush foraging for string fiber, and berries
-
--Models for raw minerals, mineral concentrate, raw metal (Vanilla scrap), refined metal
+-Add input items used in manufacturing
 
 -Add mineral deposits to quarries
+
+-Finish Die Casting Machine texture
 
 -Find way to prevent player names from showing on death screen, while looking at a player, and prevent voice icons from showing in player list
 
 -"Vehicle Deployment Kit" backpack, is the only way to have vehicle assemblies in your inventory for deployment (Assemblies would need a big, flat terrain in order to be deployed, and would have a 30-45 second deployment period)
 
+-Add opium poppies :]
+
+-Crafting progress UIs
 
 
 ----- Mineral Processing -----
