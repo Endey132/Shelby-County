@@ -28,9 +28,6 @@ Ore node is mined for mineral item, mineral item is processed in mineral concent
 
 - Mineral Conversion rates
 
-Mineral Clump > Mineral Concentration Factory = Mineral Concentrate
-Mineral Concentrate > Mineral Electrolysis Chamber = Resources
-
 
 1u Bauxite > 1u Aluminium
 1u Cassiterite > 1u Tin

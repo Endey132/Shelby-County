@@ -1,0 +1,15 @@
+GUID 50fec7d01b1144eebfebe66182b2ae53
+Type Resource
+ID 22037
+
+Health 1
+Radius 0.5
+Scale 0.2
+
+Explosion 43
+
+Reward_ID 22003
+Forage_Reward_Experience 0
+Forage
+
+Reset 1000

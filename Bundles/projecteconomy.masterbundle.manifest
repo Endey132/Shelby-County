@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1096583080
+CRC: 2440468486
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b60133cb51f8a0483783a2de1bdf6f6
+    Hash: 04f13e0e3e3e542868481881a3c6676c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 88da6797a8d2dfc42728588466e3b655
@@ -84,6 +84,7 @@ Assets:
 - Assets/ProjectEconomy/Sources/Vehicles/Emmissions/Siren_AllBlue.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/Foundation_Entrance/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MallFix/Slots.prefab
+- Assets/ProjectEconomy/Bundles/Resources/Flowers/Flower_Opium/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Crane_Revamp/Skybox.prefab
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Mineral_Outputs/Copper_Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/MDSP_Charger/Texture2.png
@@ -96,6 +97,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Black_Charger/Vehicle.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/LightBlue_Charger/Clip.prefab
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Rocks/Rock_Texture.png
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Material_1.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line/Material2.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/BPD_Charger_Old/Siren.wav
 - Assets/ProjectEconomy/Bundles/Vehicles/BPD_Charger_Old/Material2.mat
@@ -145,6 +147,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Assets/Landscapes/Foliage/tennessee_grass_3.png
 - Assets/ProjectEconomy/Sources/Resources/Bushes/3_Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_6/Slots.prefab
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYPD_2/Skybox.prefab
 - Assets/ProjectEconomy/Sources/Vehicles/Texture1_Colours/Orange.png
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Orange_Tahoe/Ignition.wav
@@ -214,6 +217,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Ramp/Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/BPD_Charger/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYPD/Texture.png
+- Assets/ProjectEconomy/Bundles/Resources/Flowers/Flower_Opium/Stump.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadR/Skybox.prefab
 - Assets/ProjectEconomy/Sources/Vehicles/Texture1_Colours/GreenF8.png
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Mineral_Outputs/Gold_Material.mat
@@ -348,6 +352,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Bus/Export.fbx
 - Assets/ProjectEconomy/Sources/Template/TaurusSide.png
 - Assets/ProjectEconomy/Sources/Vehicles/Emmissions/Siren_Bus.mat
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Texture_2.png
 - Assets/ProjectEconomy/Sources/Objects/Medium/Texture_Traffic.png
 - Assets/ProjectEconomy/Bundles/Objects/Medium/Parks/PECO_Flag_Shelby/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Unmarked_Charger/Clip.prefab
@@ -377,6 +382,7 @@ Assets:
 - Assets/ProjectEconomy/Sources/Vehicles/Texture3_Tint/Civilian.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYPD/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Refined/Refined_Nickel/Item.prefab
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Material_2.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MallFix/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CRP_Apartments/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Cap/Texture.png
@@ -487,6 +493,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/Road1/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_6/Model_0.fbx
 - Assets/ProjectEconomy/Sources/Items/Supplies/Mineral_Ore/Model_0.blend
+- Assets/ProjectEconomy/Bundles/Resources/Flowers/Flower_Opium/Stump_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_PD/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Foundation_Facility/Slots.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Bushes/PECO_Bush_8/Resource.prefab
@@ -657,6 +664,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Malachite/Resource.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Raw/Raw_Limestone/Item.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Raw/Raw_Pyrite/Item.prefab
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Texture_0.png
 - Assets/ProjectEconomy/Bundles/Vehicles/Test_Charger/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Granite_Tahoe/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Bank_Edit/Slots.prefab
@@ -688,6 +696,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Courthouse/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Cap_10m/Texture2.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Quad_Cap/Clip.prefab
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Material_0.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Line/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/Subway_Station/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_3/Skybox.prefab
@@ -707,6 +716,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Line/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Raw/Raw_Bauxite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Bushes/PECO_Bush_9/Resource.prefab
+- Assets/ProjectEconomy/Sources/Resources/Flowers/Flower_Opium/Texture_1.png
 - Assets/ProjectEconomy/Bundles/Resources/Bushes/PECO_Bush_7_Snow/Stump_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_CapR/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Green_Tahoe/Horn.wav
@@ -1468,6 +1478,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadR/Object.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Bushes/PECO_Bush_3/Stump_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_School/Texture.png
+- Assets/ProjectEconomy/Bundles/Resources/Flowers/Flower_Opium/Resource.prefab
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Rocks/Limestone_Texture.png
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/MPD_Charger/Engine_Caprice.wav
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/LightBlue_Tahoe/Engine_Explorer.wav
