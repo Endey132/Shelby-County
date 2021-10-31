@@ -14,9 +14,14 @@
 
 -"Vehicle Deployment Kit" backpack, is the only way to have vehicle assemblies in your inventory for deployment (Assemblies would need a big, flat terrain in order to be deployed, and would have a 30-45 second deployment period)
 
--Add opium poppies :]
+-Add opium processing
 
 -Crafting progress UIs
+
+-Custom smoke grenades
+
+-Custom lighting
+
 
 
 ----- Mineral Processing -----
