@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1786045911
+CRC: 2947541175
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3c85f881928f647fcef97ebb1a4c8898
+    Hash: 864fafc1868e84299e88707641be4eee
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 88da6797a8d2dfc42728588466e3b655
+    Hash: 43ff457ae4974b16d47aa85b890a4561
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,6 +41,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
 - Class: 134
   Script: {instanceID: 0}
 - Class: 135
@@ -58,6 +66,14 @@ ClassTypes:
 - Class: 199
   Script: {instanceID: 0}
 - Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
   Script: {instanceID: 0}
 - Class: 228
   Script: {instanceID: 0}
@@ -734,6 +750,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/NYCDOC/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Line/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Unmarked_Tahoe/Clip.prefab
+- Assets/ProjectEconomy/Bundles/Effects/UI/CardID/cardID.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRQuad/Object.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Turn/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Line_Highway/Nav.prefab
@@ -857,6 +874,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/ConstructionSidewalk/Model_0.fbx
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/BPD_Tahoe/Siren.wav
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Material_Processing/Mineral_Blast_Furnace/Model_0.blend
+- Assets/ProjectEconomy/Bundles/Effects/UI/CardID/Effect.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Bushes/PECO_Bush_7/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Lathes/Lathe_Industrial/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/Subway_Station/Skybox.prefab
