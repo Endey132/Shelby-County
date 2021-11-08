@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2947541175
+CRC: 4029401049
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 864fafc1868e84299e88707641be4eee
+    Hash: ae4e3991dd0dbe46326cfefe09d74311
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43ff457ae4974b16d47aa85b890a4561
@@ -92,7 +92,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Turn/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_PD/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Ramp/Skybox.prefab
-- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_CE_Fence_0/Material.mat
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_CE_Fence_0/Material_0.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_1/Skybox.prefab
 - Assets/ProjectEconomy/Sources/Items/Supplies/Metal_Cable/Model_0.blend
 - Assets/ProjectEconomy/Sources/Multi-Purpose/Minerals/Galena_Material.mat
@@ -625,6 +625,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Garnierite/Stump_Clip.prefab
 - Assets/ProjectEconomy/Sources/Vehicles/Texture1_Colours/BlueIndigo.png
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Pyrite/Resource_Clip.prefab
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_CE_Fence_0/Material_1.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Turn/Texture.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Median_Turn/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/MPD_Charger/Clip.prefab
