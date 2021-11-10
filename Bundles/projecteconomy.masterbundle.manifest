@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4029401049
+CRC: 336522601
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae4e3991dd0dbe46326cfefe09d74311
+    Hash: 044f34bdd2642772e0dffd719ec6a726
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43ff457ae4974b16d47aa85b890a4561
@@ -159,6 +159,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/AMR_Tahoe/Engine_Explorer.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Bridge_Tee/Material.mat
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Apartment_3/Nav.prefab
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_3/Clip.prefab
 - Assets/ProjectEconomy/Bundles/Resources/Minerals/Mineral_Sphalerite/Resource_Clip.prefab
 - Assets/ProjectEconomy/Bundles/Assets/Landscapes/Foliage/tennessee_grass_3.png
 - Assets/ProjectEconomy/Sources/Resources/Bushes/3_Texture.png
@@ -539,6 +540,7 @@ Assets:
 - Assets/ProjectEconomy/Sources/Vehicles/Emmissions/Headlights.png
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/THP_Charger/Horn.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_HalfRoad_Line_Cap/Nav.prefab
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_3/Nav.prefab
 - Assets/ProjectEconomy/Sources/Items/Supplies/Canisters/Canister2Magnesium.png
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Road_Ramp/Nav.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_CE_Tunnel_Cap/Texture2.png
@@ -1048,6 +1050,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_MallFix/Material.mat
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Blue_Charger/Horn.wav
 - Assets/ProjectEconomy/Bundles/Objects/Large/FBI_Office/Skybox.prefab
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_3/Object.prefab
 - Assets/ProjectEconomy/Bundles/Items/Barricades/Crafting_Stations/Material_Processing/Mineral_Electrolysis_Chamber/Item.prefab
 - Assets/ProjectEconomy/Bundles/Items/Supplies/Mineral_Raw/Raw_Cassiterite/Item.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/RoadRQuad/Material.mat
@@ -1584,6 +1587,7 @@ Assets:
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Undercover_Tahoe/Vehicle.prefab
 - Assets/ProjectEconomy/Bundles/Objects/Large/PECO_Small_Road_Quad/Object.prefab
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Blue_Tahoe/Ignition.wav
+- Assets/ProjectEconomy/Bundles/Objects/Medium/PECO_Traffic_Light_3/Model_0.blend
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Black_Tahoe/Horn.wav
 - Assets/ProjectEconomy/Bundles/Vehicles/Tahoes/Indigo_Tahoe/Horn.wav
 - Assets/ProjectEconomy/Bundles/Vehicles/Chargers/Orange_Charger/Horn.wav
