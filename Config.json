@@ -31,5 +31,6 @@
 	"Allow_Holiday_Redirects": false,
 	"Allow_Skills": true,
 	"Tips": 5,
-	"Can_Use_Bundles": true
+	"Can_Use_Bundles": true,
+	"Has_Discord_Rich_Presence": true
 }
