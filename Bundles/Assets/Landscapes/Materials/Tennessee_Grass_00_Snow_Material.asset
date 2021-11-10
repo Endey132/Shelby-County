@@ -1,6 +1,6 @@
 "Metadata"
 {
-	"GUID" "20fb7e5e158e49f7b43a6113b9fdb7fa"
+	"GUID" "e86193cbddab42fa8a2abf11de2a82ba"
 	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 }
 "Asset"
@@ -9,7 +9,7 @@
 	"Texture"
 	{
 		"Name" "projecteconomy.masterbundle"
-		"Path" "Assets/Landscapes/Materials/Tennessee_Grass_02_Snow_Material.png"
+		"Path" "Assets/Landscapes/Materials/Tennessee_Grass_00_Snow_Material.png"
 	}
 	"Mask"
 	{
@@ -19,6 +19,6 @@
 	"Physics_Material" "Snow"
 	"Foliage"
 	{
-		"GUID" "96e9f81e2bff497f982999cbf71dbaea"
+		"GUID" "74ddd1f80d43474b9208c6b4dbde4c26"
 	}
 }

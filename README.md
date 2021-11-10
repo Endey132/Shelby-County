@@ -20,9 +20,6 @@
 
 -Custom smoke grenades
 
--Custom lighting
-
-
 
 ----- Mineral Processing -----
 
