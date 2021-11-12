@@ -177,3 +177,33 @@ Hand tools
 
 
 
+
+
+
+- Gun Crafting Tiers -
+
+
+
+
+-Wood
+
+
+
+
+-Polymer
+
+
+
+
+-Magnesium 4424
+
+
+
+
+-Tungsten
+
+
+
+
+
+
