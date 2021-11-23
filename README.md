@@ -20,6 +20,8 @@
 
 -Custom smoke grenades
 
+-Add a "stamina damage" system (similar to in ss13,) where certain weapons (eg police batons & sandbags) deal stamina damage instead of regular damage, which drains the stamina bar (and when under 20% stamina, the person is downed temporarily to where they can be handcuffed or looted) (Sprinting/jumping would no longer consume stamina)
+
 
 ----- Mineral Processing -----
 
