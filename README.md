@@ -20,9 +20,12 @@
 
 -Custom smoke grenades
 
+<<<<<<< HEAD
 -Custom lighting
 
 
+=======
+>>>>>>> parent of ab304af1 (MPD model improvements, misc terrain/resource fixes)
 
 ----- Mineral Processing -----
 
