@@ -34,13 +34,7 @@ namespace SDG.Unturned
 #if GAME
 			if(Provider.isServer)
 			{
-				ChatManager.serverSendMessage(text,
-					DefaultColor,
-					toPlayer: null,
-					fromPlayer: null,
-					mode: EChatMode.SAY,
-					iconURL: IconURL,
-					useRichTextFormatting: UseRichTextFormatting);
+				ChatManager.serverSendMessage_UnityEvent(text, DefaultColor, IconURL, UseRichTextFormatting, this);
 			}
 #endif // GAME
 		}
@@ -53,7 +47,7 @@ namespace SDG.Unturned
 		public void ExecuteTextChatCommand(string command)
 		{
 #if GAME
-			Commander.execute(Steamworks.CSteamID.Nil, command);
+			Commander.execute_UnityEvent(command, this);
 #endif // GAME
 		}
 

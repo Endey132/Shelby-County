@@ -1,4 +1,6 @@
+using System;
 using System.IO;
+using System.Security.Cryptography;
 using UnityEngine;
 using UnityEditor;
 
@@ -9,81 +11,100 @@ namespace SDG.Unturned.Tools
 		/// <summary>
 		/// Build an asset bundle by name.
 		/// </summary>
-		/// <param name="AssetBundleName">Name of an asset bundle registered in the editor.</param>
-		/// <param name="OutputPath">Absolute path to directory to contain built asset bundle.</param>
-		/// <param name="Multiplatform">Should mac and linux variants of asset bundle be built as well?</param>
-		public static void Build(string AssetBundleName, string OutputPath, bool Multiplatform)
+		/// <param name="assetBundleName">Name of an asset bundle registered in the editor.</param>
+		/// <param name="outputPath">Absolute path to directory to contain built asset bundle.</param>
+		/// <param name="multiplatform">Should mac and linux variants of asset bundle be built as well?</param>
+		public static void Build(string assetBundleName, string outputPath, bool multiplatform)
 		{
-			string[] AssetPaths = AssetDatabase.GetAssetPathsFromAssetBundle(AssetBundleName);
-			if(AssetPaths.Length < 1)
+			string[] assetPaths = AssetDatabase.GetAssetPathsFromAssetBundle(assetBundleName);
+			if(assetPaths.Length < 1)
 			{
-				Debug.LogWarning("No assets in: " + AssetBundleName);
+				Debug.LogWarning("No assets in: " + assetBundleName);
 				return;
 			}
-
-			AssetBundleBuild[] Builds = new AssetBundleBuild[1];
-			Builds[0].assetBundleName = AssetBundleName;
-			Builds[0].assetNames = AssetPaths;
-
+			
 			// Saves some perf by disabling these unused loading options.
-			BuildAssetBundleOptions Options = BuildAssetBundleOptions.DisableLoadAssetByFileName | BuildAssetBundleOptions.DisableLoadAssetByFileNameWithExtension;
+			// If changing remember to update the CI build process.
+			BuildAssetBundleOptions assetBundleOptions = BuildAssetBundleOptions.DisableLoadAssetByFileName | BuildAssetBundleOptions.DisableLoadAssetByFileNameWithExtension;
 
-			if(Multiplatform)
+			if(multiplatform)
 			{
-				string OutputFile = OutputPath + '/' + AssetBundleName;
-				string OutputManifest = OutputFile + ".manifest";
+				AssetBundleBuild[] linuxBuilds = new AssetBundleBuild[1];
+				linuxBuilds[0].assetBundleName = MasterBundleHelper.getLinuxAssetBundleName(assetBundleName);
+				linuxBuilds[0].assetNames = assetPaths;
+				BuildPipeline.BuildAssetBundles(outputPath, linuxBuilds, assetBundleOptions, BuildTarget.StandaloneLinux64);
 
-				string LinuxBundleName = MasterBundleHelper.getLinuxAssetBundleName(AssetBundleName);
-				string LinuxOutputFile = OutputPath + '/' + LinuxBundleName;
-				string LinuxManifest = LinuxOutputFile + ".manifest";
-
-				string MacBundleName = MasterBundleHelper.getMacAssetBundleName(AssetBundleName);
-				string MacOutputFile = OutputPath + '/' + MacBundleName;
-				string MacManifest = MacOutputFile + ".manifest";
-
-				// Delete existing files
-				if(File.Exists(LinuxOutputFile))
-					File.Delete(LinuxOutputFile);
-				if(File.Exists(LinuxManifest))
-					File.Delete(LinuxManifest);
-				if(File.Exists(MacOutputFile))
-					File.Delete(MacOutputFile);
-				if(File.Exists(MacManifest))
-					File.Delete(MacManifest);
-
-				// Linux, then rename
-				BuildPipeline.BuildAssetBundles(OutputPath, Builds, Options, BuildTarget.StandaloneLinuxUniversal);
-				File.Move(OutputFile, LinuxOutputFile);
-				File.Move(OutputManifest, LinuxManifest);
-				
-				// Mac, then rename
-				BuildPipeline.BuildAssetBundles(OutputPath, Builds, Options, BuildTarget.StandaloneOSX);
-				File.Move(OutputFile, MacOutputFile);
-				File.Move(OutputManifest, MacManifest);
+				AssetBundleBuild[] macBuilds = new AssetBundleBuild[1];
+				macBuilds[0].assetBundleName = MasterBundleHelper.getMacAssetBundleName(assetBundleName);
+				macBuilds[0].assetNames = assetPaths;
+				BuildPipeline.BuildAssetBundles(outputPath, macBuilds, assetBundleOptions, BuildTarget.StandaloneOSX);
 			}
 
 			// Windows... finally done!
-			BuildPipeline.BuildAssetBundles(OutputPath, Builds, Options, BuildTarget.StandaloneWindows64);
+			AssetBundleBuild[] windowsBuilds = new AssetBundleBuild[1];
+			windowsBuilds[0].assetBundleName = assetBundleName;
+			windowsBuilds[0].assetNames = assetPaths;
+			BuildPipeline.BuildAssetBundles(outputPath, windowsBuilds, assetBundleOptions, BuildTarget.StandaloneWindows64);
 
-			// Unity (sometimes?) creates an empty bundle with the same name as the folder, so we delete it...
-			string OutputDirName = Path.GetFileName(OutputPath);
-			string EmptyBundlePath = OutputPath + "/" + OutputDirName;
-			if(File.Exists(EmptyBundlePath))
-			{
-				File.Delete(EmptyBundlePath);
-			}
-			string EmptyManifestPath = EmptyBundlePath + ".manifest";
-			if(File.Exists(EmptyManifestPath))
-			{
-				File.Delete(EmptyManifestPath);
-			}
-			
+			CleanupAfterBuildingAssetBundle(outputPath);
+			HashAssetBundle(outputPath + '/' + assetBundleName);
+
 #if GAME
-			if(string.Equals(AssetBundleName, "core.masterbundle"))
+			if(string.Equals(assetBundleName, "core.masterbundle"))
 			{
-				PostBuildCoreMasterBundle();
+				PostBuildCoreMasterBundle(outputPath);
 			}
 #endif
+		}
+
+		/// <summary>
+		/// Unity (sometimes?) creates an empty bundle with the same name as the folder, so we delete it.
+		/// </summary>
+		public static void CleanupAfterBuildingAssetBundle(string outputPath)
+		{
+			string directoryName = Path.GetFileName(outputPath);
+			string emptyBundlePath = Path.Combine(outputPath, directoryName);
+			if (File.Exists(emptyBundlePath))
+			{
+				File.Delete(emptyBundlePath);
+			}
+			string emptyManifestPath = emptyBundlePath + ".manifest";
+			if (File.Exists(emptyManifestPath))
+			{
+				File.Delete(emptyManifestPath);
+			}
+		}
+
+		/// <summary>
+		/// Combine per-platform hashes into a file for the server to load.
+		/// </summary>
+		public static void HashAssetBundle(string windowsFilePath)
+		{
+			string linuxFilePath = MasterBundleHelper.getLinuxAssetBundleName(windowsFilePath);
+			string macFilePath = MasterBundleHelper.getMacAssetBundleName(windowsFilePath);
+
+			if(!File.Exists(linuxFilePath) || !File.Exists(macFilePath))
+			{
+				Debug.Log("Skipping hash");
+				return;
+			}
+			
+			SHA1CryptoServiceProvider hashAlgo = new SHA1CryptoServiceProvider();
+			byte[] windowsHash = hashAlgo.ComputeHash(File.ReadAllBytes(windowsFilePath));
+			byte[] linuxHash = hashAlgo.ComputeHash(File.ReadAllBytes(linuxFilePath));
+			byte[] macHash = hashAlgo.ComputeHash(File.ReadAllBytes(macFilePath));
+
+			byte[] hashes = new byte[60];
+			Array.Copy(windowsHash, 0, hashes, 0, 20);
+			Array.Copy(linuxHash, 0, hashes, 20, 20);
+			Array.Copy(macHash, 0, hashes, 40, 20);
+			
+			//Debug.LogFormat("Windows hash: {0}", Hash.toString(windowsHash));
+			//Debug.LogFormat("Linux hash: {0}", Hash.toString(linuxHash));
+			//Debug.LogFormat("Mac hash: {0}", Hash.toString(macHash));
+
+			string hashFilePath = MasterBundleHelper.getHashFileName(windowsFilePath);
+			File.WriteAllBytes(hashFilePath, hashes);
 		}
 	}
 }

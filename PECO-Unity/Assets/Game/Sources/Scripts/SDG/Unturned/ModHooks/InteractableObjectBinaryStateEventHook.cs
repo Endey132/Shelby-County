@@ -23,6 +23,13 @@ namespace SDG.Unturned
 		public UnityEvent OnStateDisabled;
 
 		/// <summary>
+		/// Should the OnStateEnabled and OnStateDisabled events be invoked when the object is loaded, becomes relevant
+		/// in multiplayer, and is reset? True is useful when visuals need to be kept in sync with the state, whereas
+		/// false is useful for transient interactions.
+		/// </summary>
+		public bool InvokeWhenInitialized = true;
+		
+		/// <summary>
 		/// Set state to Enabled if currently Disabled.
 		/// 
 		/// On dedicated server this directly changes the state,
@@ -71,34 +78,39 @@ namespace SDG.Unturned
 		}
 
 #if GAME
-		protected void OnEnable()
+		protected void Start()
 		{
 			interactable = gameObject.GetComponentInParent<InteractableObjectBinaryState>();
 			if(interactable == null)
 			{
-				UnturnedLog.warn("{0} unable to find interactable", name);
+				UnturnedLog.warn("IOBS {0} unable to find interactable", this.GetSceneHierarchyPath());
 			}
 			else
 			{
-				interactable.onUsedChanged += onUsedChanged;
 				++interactable.modHookCounter;
-				onUsedChanged(interactable.isUsed);
+				interactable.onStateChanged += onStateChanged;
+				if(InvokeWhenInitialized)
+				{
+					interactable.onStateInitialized += onStateChanged;
+					onStateChanged(interactable);
+				}
 			}
 		}
 
-		protected void OnDisable()
+		protected void OnDestroy()
 		{
 			if(interactable != null)
 			{
-				interactable.onUsedChanged -= onUsedChanged;
+				interactable.onStateInitialized -= onStateChanged;
+				interactable.onStateChanged -= onStateChanged;
 				--interactable.modHookCounter;
 				interactable = null;
 			}
 		}
-
-		protected void onUsedChanged(bool isUsed)
+		
+		protected void onStateChanged(InteractableObjectBinaryState sender)
 		{
-			if(isUsed)
+			if(sender.isUsed)
 			{
 				OnStateEnabled.Invoke();
 			}

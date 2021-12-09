@@ -47,7 +47,7 @@ namespace SDG.Unturned
 		public void SendTextChatMessage(string text)
 		{
 #if GAME
-			if(!Dedicator.isDedicated)
+			if(!Dedicator.IsDedicatedServer)
 			{
 				ChatManager.clientSendMessage_UnityEvent(getChatMode(), text, this);
 			}

@@ -1,5 +1,4 @@
 using System.IO;
-using UnityEngine;
 
 namespace SDG.Unturned
 {
@@ -39,6 +38,11 @@ namespace SDG.Unturned
 		public static string getMacAssetBundleName(string name)
 		{
 			return insertAssetBundleNameSuffix(name, "_mac");
+		}
+
+		public static string getHashFileName(string name)
+		{
+			return name + ".hash";
 		}
 	}
 }
