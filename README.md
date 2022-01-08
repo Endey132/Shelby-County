@@ -1,26 +1,27 @@
------ TODO -----
-
--Detail map; firehydrants on sidewalks, power lines, mailboxes & dumpsters infront of houses, appropriate traffic signs in rural intersections, traffic lights
-
--Bush foraging for berries
+----- TODO (Highest to lowest priority) -----
 
 -Add input items used in manufacturing
 
 -Add mineral deposits to quarries
 
+-Detail map; firehydrants on sidewalks, power lines, mailboxes & dumpsters infront of houses, appropriate traffic signs in rural intersections, traffic lights
+
+-Bush foraging for berries
+
 -Finish Die Casting Machine texture
-
--Find way to prevent player names from showing on death screen, while looking at a player, and prevent voice icons from showing in player list
-
--"Vehicle Deployment Kit" backpack, is the only way to have vehicle assemblies in your inventory for deployment (Assemblies would need a big, flat terrain in order to be deployed, and would have a 30-45 second deployment period)
 
 -Add opium processing
 
--Crafting progress UIs
+-"Vehicle Deployment Kit" backpack, is the only way to have vehicle assemblies in your inventory for deployment (Assemblies would need a big, flat terrain in order to be deployed, and would have a 30-45 second deployment period)
 
 -Custom smoke grenades
 
--Add a "stamina damage" system (similar to in ss13,) where certain weapons (eg police batons & sandbags) deal stamina damage instead of regular damage, which drains the stamina bar (and when under 20% stamina, the person is downed temporarily to where they can be handcuffed or looted) (Sprinting/jumping would no longer consume stamina)
+-Prevent player names from showing on death screen, while looking at a player, and prevent voice icons from showing in player list
+
+-Add stamina damage system, replacing vanilla stamina function
+
+-Crafting progress UIs
+
 
 
 ----- Mineral Processing -----
