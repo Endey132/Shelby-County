@@ -1,0 +1,23 @@
+GUID 91c366844d144947932c8dd7be833190
+Type Supply
+ID 17043
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+
+
+Blueprints 1
+
+Blueprint_0_Type Tool
+Blueprint_0_Tool 17003
+// Clay Sheet
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17046
+Blueprint_0_Supply_0_Amount 2
+// Clay Top Plate Mold
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 17043
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

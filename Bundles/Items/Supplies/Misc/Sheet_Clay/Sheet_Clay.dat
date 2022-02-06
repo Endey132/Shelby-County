@@ -1,0 +1,23 @@
+GUID 6db0d58d0acd4364bc997265a78af8d4
+Type Supply
+ID 17046
+
+Size_X 2
+Size_Y 2
+Size_Z 0.375
+
+
+
+Blueprints 1
+
+Blueprint_0_Type Tool
+Blueprint_0_Tool 17003
+// Clay Clump
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17045
+Blueprint_0_Supply_0_Amount 3
+// Clay Sheet
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 17046
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

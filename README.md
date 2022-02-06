@@ -47,7 +47,6 @@ Ore node is mined for mineral item, mineral item is processed in mineral concent
 1u Pyrite > 0.75u Iron, 0.25u Sulfur
 1u Scheelite > 1u Tungsten
 1u Sphalerite > 0.5u Zinc, 0.5u Iron
-1u Tetrahedrite > 0.5u Iron, 0.5u Copper
 
 
 

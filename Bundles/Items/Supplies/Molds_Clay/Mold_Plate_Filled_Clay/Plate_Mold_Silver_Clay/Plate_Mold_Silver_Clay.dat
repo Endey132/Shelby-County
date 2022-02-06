@@ -1,0 +1,24 @@
+GUID 1bdc59edc5954954bd877d35bd67811b
+Type Supply
+ID 17328
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+
+Blueprints 1
+
+
+Blueprint_0_Type Tool
+// Plate Mold Silver
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17328
+Blueprint_0_Supply_0_Amount 1
+
+// Silver Plate
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 17168
+Blueprint_0_Output_0_Amount 1
+// Plate Mold Top
+Blueprint_0_Build 27

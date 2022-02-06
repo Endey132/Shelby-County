@@ -17,3 +17,406 @@ Offset 1.225
 Explosion 36
 
 PlacementAudioClip /Sounds/MetalPlacement.mp3
+
+
+Blueprints 24
+
+
+
+
+
+// Zinc Molds
+
+
+
+
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+// Refined Aluminum
+Blueprint_0_Supply_0_ID 17140
+Blueprint_0_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_0_Supply_1_ID 17041
+Blueprint_0_Supply_1_Amount 1
+// Aluminum-filled Plate Mold
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 17300
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+// Refined Copper
+Blueprint_1_Supply_0_ID 17141
+Blueprint_1_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_1_Supply_1_ID 17041
+Blueprint_1_Supply_1_Amount 1
+// Copper-Filled Plate Mold
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 17301
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+
+
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 2
+// Refined Gold
+Blueprint_2_Supply_0_ID 17142
+Blueprint_2_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_2_Supply_1_ID 17041
+Blueprint_2_Supply_1_Amount 1
+// Gold-Filled Plate Mold
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 17302
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 27
+
+
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 2
+// Refined Iron
+Blueprint_3_Supply_0_ID 17143
+Blueprint_3_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_3_Supply_1_ID 17141
+Blueprint_3_Supply_1_Amount 1
+// Iron-Filled Plate Mold
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 17303
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 27
+
+
+
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 2
+// Refined Lead
+Blueprint_4_Supply_0_ID 17144
+Blueprint_4_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_4_Supply_1_ID 17141
+Blueprint_4_Supply_1_Amount 1
+// Lead-Filled Plate Mold
+Blueprint_4_Outputs 1
+Blueprint_4_Output_0_ID 17304
+Blueprint_4_Output_0_Amount 1
+Blueprint_4_Build 27
+
+
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 2
+// Refined Magnesium
+Blueprint_5_Supply_0_ID 17145
+Blueprint_5_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_5_Supply_1_ID 17141
+Blueprint_5_Supply_1_Amount 1
+// Magnesium-Filled Plate Mold
+Blueprint_5_Outputs 1
+Blueprint_5_Output_0_ID 17305
+Blueprint_5_Output_0_Amount 1
+Blueprint_5_Build 27
+
+
+
+Blueprint_6_Type Tool
+Blueprint_6_Supplies 2
+// Refined Nickel
+Blueprint_6_Supply_0_ID 17146
+Blueprint_6_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_6_Supply_1_ID 17141
+Blueprint_6_Supply_1_Amount 1
+// Nickel-Filled Plate Mold
+Blueprint_6_Outputs 1
+Blueprint_6_Output_0_ID 17306
+Blueprint_6_Output_0_Amount 1
+Blueprint_6_Build 27
+
+
+
+Blueprint_7_Type Tool
+Blueprint_7_Supplies 2
+// Refined Silicon
+Blueprint_7_Supply_0_ID 17147
+Blueprint_7_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_7_Supply_1_ID 17141
+Blueprint_7_Supply_1_Amount 1
+// Silicon-Filled Plate Mold
+Blueprint_7_Outputs 1
+Blueprint_7_Output_0_ID 17307
+Blueprint_7_Output_0_Amount 1
+Blueprint_7_Build 27
+
+
+
+Blueprint_8_Type Tool
+Blueprint_8_Supplies 2
+// Refined Silver
+Blueprint_8_Supply_0_ID 17148
+Blueprint_8_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_8_Supply_1_ID 17141
+Blueprint_8_Supply_1_Amount 1
+// Silver-Filled Plate Mold
+Blueprint_8_Outputs 1
+Blueprint_8_Output_0_ID 17308
+Blueprint_8_Output_0_Amount 1
+Blueprint_8_Build 27
+
+
+
+Blueprint_9_Type Tool
+Blueprint_9_Supplies 2
+// Refined Tin
+Blueprint_9_Supply_0_ID 17149
+Blueprint_9_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_9_Supply_1_ID 17141
+Blueprint_9_Supply_1_Amount 1
+// Silver-Filled Plate Mold
+Blueprint_9_Outputs 1
+Blueprint_9_Output_0_ID 17309
+Blueprint_9_Output_0_Amount 1
+Blueprint_9_Build 27
+
+
+
+Blueprint_10_Type Tool
+Blueprint_10_Supplies 2
+// Refined Tungsten
+Blueprint_10_Supply_0_ID 17150
+Blueprint_10_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_10_Supply_1_ID 17141
+Blueprint_10_Supply_1_Amount 1
+// Silver-Filled Plate Mold
+Blueprint_10_Outputs 1
+Blueprint_10_Output_0_ID 17310
+Blueprint_10_Output_0_Amount 1
+Blueprint_10_Build 27
+
+
+
+Blueprint_11_Type Tool
+Blueprint_11_Supplies 2
+// Refined Zinc
+Blueprint_11_Supply_0_ID 17151
+Blueprint_11_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_11_Supply_1_ID 17141
+Blueprint_11_Supply_1_Amount 1
+// Zinc-Filled Plate Mold
+Blueprint_11_Outputs 1
+Blueprint_11_Output_0_ID 17311
+Blueprint_11_Output_0_Amount 1
+Blueprint_11_Build 27
+
+
+
+
+
+// Clay Molds
+
+
+
+
+
+Blueprint_12_Type Tool
+Blueprint_12_Supplies 2
+// Refined Aluminum
+Blueprint_12_Supply_0_ID 17140
+Blueprint_12_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_12_Supply_1_ID 17044
+Blueprint_12_Supply_1_Amount 1
+// Aluminum-filled Plate Mold
+Blueprint_12_Outputs 1
+Blueprint_12_Output_0_ID 17320
+Blueprint_12_Output_0_Amount 1
+Blueprint_12_Build 27
+
+
+
+Blueprint_13_Type Tool
+Blueprint_13_Supplies 2
+// Refined Copper
+Blueprint_13_Supply_0_ID 17141
+Blueprint_13_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_13_Supply_1_ID 17044
+Blueprint_13_Supply_1_Amount 1
+// Copper-Filled Plate Mold
+Blueprint_13_Outputs 1
+Blueprint_13_Output_0_ID 17321
+Blueprint_13_Output_0_Amount 1
+Blueprint_13_Build 27
+
+
+
+Blueprint_14_Type Tool
+Blueprint_14_Supplies 2
+// Refined Gold
+Blueprint_14_Supply_0_ID 17142
+Blueprint_14_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_14_Supply_1_ID 17044
+Blueprint_14_Supply_1_Amount 1
+// Gold-Filled Plate Mold
+Blueprint_14_Outputs 1
+Blueprint_14_Output_0_ID 17322
+Blueprint_14_Output_0_Amount 1
+Blueprint_14_Build 27
+
+
+
+Blueprint_15_Type Tool
+Blueprint_15_Supplies 2
+// Refined Iron
+Blueprint_15_Supply_0_ID 17143
+Blueprint_15_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_15_Supply_1_ID 17044
+Blueprint_15_Supply_1_Amount 1
+// Iron-Filled Plate Mold
+Blueprint_15_Outputs 1
+Blueprint_15_Output_0_ID 17323
+Blueprint_15_Output_0_Amount 1
+Blueprint_15_Build 27
+
+
+
+Blueprint_16_Type Tool
+Blueprint_16_Supplies 2
+// Refined Lead
+Blueprint_16_Supply_0_ID 17144
+Blueprint_16_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_16_Supply_1_ID 17044
+Blueprint_16_Supply_1_Amount 1
+// Lead-Filled Plate Mold
+Blueprint_16_Outputs 1
+Blueprint_16_Output_0_ID 17324
+Blueprint_16_Output_0_Amount 1
+Blueprint_16_Build 27
+
+
+
+Blueprint_17_Type Tool
+Blueprint_17_Supplies 2
+// Refined Magnesium
+Blueprint_17_Supply_0_ID 17145
+Blueprint_17_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_17_Supply_1_ID 17044
+Blueprint_17_Supply_1_Amount 1
+// Magnesium-Filled Plate Mold
+Blueprint_17_Outputs 1
+Blueprint_17_Output_0_ID 17325
+Blueprint_17_Output_0_Amount 1
+Blueprint_17_Build 27
+
+
+
+Blueprint_18_Type Tool
+Blueprint_18_Supplies 2
+// Refined Nickel
+Blueprint_18_Supply_0_ID 17146
+Blueprint_18_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_18_Supply_1_ID 17044
+Blueprint_18_Supply_1_Amount 1
+// Nickel-Filled Plate Mold
+Blueprint_18_Outputs 1
+Blueprint_18_Output_0_ID 17326
+Blueprint_18_Output_0_Amount 1
+Blueprint_18_Build 27
+
+
+
+Blueprint_19_Type Tool
+Blueprint_19_Supplies 2
+// Refined Silicon
+Blueprint_19_Supply_0_ID 17147
+Blueprint_19_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_19_Supply_1_ID 17044
+Blueprint_19_Supply_1_Amount 1
+// Silicon-Filled Plate Mold
+Blueprint_19_Outputs 1
+Blueprint_19_Output_0_ID 17327
+Blueprint_19_Output_0_Amount 1
+Blueprint_19_Build 27
+
+
+
+Blueprint_20_Type Tool
+Blueprint_20_Supplies 2
+// Refined Silver
+Blueprint_20_Supply_0_ID 17148
+Blueprint_20_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_20_Supply_1_ID 17044
+Blueprint_20_Supply_1_Amount 1
+// Silver-Filled Plate Mold
+Blueprint_20_Outputs 1
+Blueprint_20_Output_0_ID 17328
+Blueprint_20_Output_0_Amount 1
+Blueprint_20_Build 27
+
+
+
+Blueprint_21_Type Tool
+Blueprint_21_Supplies 2
+// Refined Tin
+Blueprint_21_Supply_0_ID 17149
+Blueprint_21_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_21_Supply_1_ID 17044
+Blueprint_21_Supply_1_Amount 1
+// Silver-Filled Plate Mold
+Blueprint_21_Outputs 1
+Blueprint_21_Output_0_ID 17329
+Blueprint_21_Output_0_Amount 1
+Blueprint_21_Build 27
+
+
+
+Blueprint_22_Type Tool
+Blueprint_22_Supplies 2
+// Refined Tungsten
+Blueprint_22_Supply_0_ID 17150
+Blueprint_22_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_22_Supply_1_ID 17044
+Blueprint_22_Supply_1_Amount 1
+// Silver-Filled Plate Mold
+Blueprint_22_Outputs 1
+Blueprint_22_Output_0_ID 17330
+Blueprint_22_Output_0_Amount 1
+Blueprint_22_Build 27
+
+
+
+Blueprint_23_Type Tool
+Blueprint_23_Supplies 2
+// Refined Zinc
+Blueprint_23_Supply_0_ID 17151
+Blueprint_23_Supply_0_Amount 3
+// Complete Plate Mold
+Blueprint_23_Supply_1_ID 17044
+Blueprint_23_Supply_1_Amount 1
+// Zinc-Filled Plate Mold
+Blueprint_23_Outputs 1
+Blueprint_23_Output_0_ID 17331
+Blueprint_23_Output_0_Amount 1
+Blueprint_23_Build 27

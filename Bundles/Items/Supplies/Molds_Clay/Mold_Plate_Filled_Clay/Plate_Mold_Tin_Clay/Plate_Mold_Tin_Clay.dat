@@ -1,0 +1,23 @@
+GUID 522df5a3c1fd45c5b3be50d99331f180
+Type Supply
+ID 17329
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+
+Blueprints 1
+
+
+Blueprint_0_Type Tool
+// Plate Mold Tin
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17329
+Blueprint_0_Supply_0_Amount 1
+
+// Tin Plate
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 17169
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

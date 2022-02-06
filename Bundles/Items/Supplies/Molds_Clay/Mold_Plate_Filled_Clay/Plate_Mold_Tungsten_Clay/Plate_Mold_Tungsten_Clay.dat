@@ -1,0 +1,23 @@
+GUID b26e6f31459c4f0b84618c0424826748
+Type Supply
+ID 17330
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+
+Blueprints 1
+
+
+Blueprint_0_Type Tool
+// Plate Mold Tungsten
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17330
+Blueprint_0_Supply_0_Amount 1
+
+// Tungsten Plate
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 17170
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
