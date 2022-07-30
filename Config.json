@@ -21,7 +21,7 @@
 	"PlayerUI_HealthVisible": true,
 	"PlayerUI_FoodVisible": true,
 	"PlayerUI_WaterVisible": true,
-	"PlayerUI_VirusVisible": false,
+	"PlayerUI_VirusVisible": true,
 	"PlayerUI_StaminaVisible": true,
 	"PlayerUI_OxygenVisible": true,
 	"PlayerUI_GunVisible": true,

@@ -1,8 +1,0 @@
-GUID d5a624c9144b4ab29a8fb2667b39b125
-Type Large
-ID 32603
-
-Asset_Bundle_Version 2
-
-Master_Bundle_Override hawaii.masterbundle
-Bundle_Override_Path /Objects/Hawaii/ShelterDoor_0
